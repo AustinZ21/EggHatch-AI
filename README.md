@@ -49,18 +49,18 @@ graph TD
     F --> K{"Response Synthesis & Presentation (LLM-Powered)"};
     K --> A;
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#ccf,stroke:#333,stroke-width:2px,font-weight:bold
-    style C fill:#cfc,stroke:#333,stroke-width:2px
-    style D fill:#cfc,stroke:#333,stroke-width:2px,font-weight:bold
-    style E fill:#cfc,stroke:#333,stroke-width:2px
-    style F fill:#cfc,stroke:#333,stroke-width:2px
-    style G fill:#lightgrey,stroke:#333,stroke-width:2px
-    style H fill:#lightgrey,stroke:#333,stroke-width:2px
-    style I fill:#lightgrey,stroke:#333,stroke-width:2px
-    style J fill:#lightgrey,stroke:#333,stroke-width:2px
-    style JB fill:#lightgrey,stroke:#333,stroke-width:2px
-    style K fill:#ccf,stroke:#333,stroke-width:2px,font-weight:bold
+    style A fill:#ffe0b2,stroke:#333,stroke-width:2px
+    style B fill:#cce5ff,stroke:#333,stroke-width:2px,font-weight:bold
+    style C fill:#d4edda,stroke:#333,stroke-width:2px
+    style D fill:#d4edda,stroke:#333,stroke-width:2px,font-weight:bold
+    style E fill:#d4edda,stroke:#333,stroke-width:2px
+    style F fill:#d4edda,stroke:#333,stroke-width:2px
+    style G fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style H fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style I fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style J fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style JB fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style K fill:#cce5ff,stroke:#333,stroke-width:2px,font-weight:bold
 ```
 
 ## Detailed Components & Workflow
