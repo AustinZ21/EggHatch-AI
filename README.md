@@ -22,18 +22,18 @@ A user interacts with the "EggHatch AI Agent" using natural language (e.g., "I w
 
 ```mermaid
 graph TD
-    A[User (Natural Language Query via Interface - e.g., Chatbot/Streamlit)] --> B{1. Eggie AI Master Agent / Orchestrator (LLM-Powered Query Understanding & Task Decomposition)};
-    B --> C[2a. Trend & Sentiment Analysis Agent/Tool];
-    B --> D[2b. Product Knowledge, Compatibility & Benchmark Agent/Tool];
-    B --> E[2c. Pricing & Availability Agent/Tool (Simulated/Real-time)];
-    B --> F[2d. Build Configuration / Recommendation Agent/Tool];
+    A["User Query (Interface)"] --> B{"Master Agent/Orchestrator (LLM-Powered)"};
+    B --> C["Trend & Sentiment Analysis Tool"];
+    B --> D["Product Knowledge & Benchmark Tool"];
+    B --> E["Pricing & Availability Tool"];
+    B --> F["Build Configuration/Recommendation Tool"];
 
     subgraph "Data Sources & Knowledge Bases"
-        G[Pre-scraped Trend Data (CSV/DB)]
-        H[Product Specs & Compatibility DB (Curated/Scraped)]
-        I[NewEgg Product Catalog & Pricing (API/Scraped)]
-        J[Influencer/Gamer Sentiment Data (Scraped/Analyzed)]
-        JB[Benchmark Scores DB (e.g., Time Spy, Cinebench - Scraped/Curated)]
+        G["Pre-scraped Trend Data"]
+        H["Product Specs & Compatibility DB"]
+        I["NewEgg Product Catalog & Pricing"]
+        J["Influencer/Gamer Sentiment Data"]
+        JB["Benchmark Scores DB"]
     end
 
     C --> G;
@@ -46,7 +46,7 @@ graph TD
     F --> E;
     F --> C;
 
-    F --> K{3. Response Synthesis & Presentation (LLM-Powered)};
+    F --> K{"Response Synthesis & Presentation (LLM-Powered)"};
     K --> A;
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
