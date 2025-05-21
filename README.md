@@ -273,6 +273,53 @@ EggHatch-AI/
    ```
 4. Access the Streamlit dashboard run `streamlit run dashboard_app.py`
 
+## Limitations
+
+The current Proof of Concept (POC) has several limitations that would need to be addressed in a production environment:
+
+### Data Limitations
+
+- **Dataset Size**: The POC uses a small dataset for demonstration purposes. A production system would require significantly larger datasets, necessitating more sophisticated data engineering solutions.
+- **Data Freshness**: The current implementation uses static data. A production system would need regular data updates and pipelines to maintain relevance.
+- **Feature Engineering Complexity**: Scaling to larger datasets would require more complex feature engineering and potentially distributed computing resources.
+- **Training and Tuning**: The POC uses pre-trained models with minimal fine-tuning. Production deployment would benefit from domain-specific model training and continuous tuning based on user interactions.
+
+### Business Integration Limitations
+
+- **Business Objectives**: The current recommendation system doesn't consider critical business factors such as:
+  - Profit margins on different products
+  - Inventory levels and supply chain constraints
+  - User demographics and segmentation
+  - Seasonal trends and promotional campaigns
+- **Revenue Optimization**: A production system should balance user satisfaction with business objectives to maximize revenue and engagement.
+- **A/B Testing Framework**: The POC lacks infrastructure for systematically testing different recommendation strategies.
+
+### Technical Limitations
+
+- **PC Component Compatibility**: The current system has limited capability to handle the complex compatibility rules between different PC components (e.g., motherboard and CPU socket compatibility, power requirements).
+- **Latency and Scalability**: The POC is not optimized for high-throughput scenarios with many concurrent users.
+- **Error Handling and Fallbacks**: The system needs more robust error handling and fallback mechanisms for production use.
+- **Security and Privacy**: Additional measures would be needed to secure user data and ensure privacy compliance.
+
+### User Experience Limitations
+
+- **Personalization**: Limited user profiling and preference tracking compared to what would be needed in production.
+- **Multi-modal Interaction**: The POC is text-only, while a production system might benefit from image recognition (e.g., image of a product).
+- **Explanation and Transparency**: More work is needed on explaining recommendations and building user trust.
+
+### MLOps Limitations
+
+- **Model Versioning and Governance**: The POC lacks proper model versioning, tracking, and governance systems essential for production ML applications.
+- **Continuous Training Pipeline**: No automated pipeline for retraining models as new data becomes available.
+- **Model Monitoring**: Missing infrastructure to detect model drift, data drift, and performance degradation over time.
+- **A/B Testing Infrastructure**: Limited capability to systematically test different model versions or algorithmic approaches.
+- **Deployment Automation**: Manual deployment process instead of CI/CD pipelines for model deployment.
+- **Resource Optimization**: No optimization for computational resources, which would be critical for cost management in production.
+- **Feedback Loops**: Incomplete implementation of feedback loops to capture user interactions for model improvement.
+- **Model Explainability Tools**: Limited tools for understanding and explaining model decisions to both users and business stakeholders.
+
+Addressing these limitations would require significant additional engineering effort but would result in a more robust, scalable, and effective system.
+
 ## Improvements Comparison
 
 Below is a comparison between EggHatch AI and the current NewEgg AI assistant, highlighting the key improvements in multi-turn conversation handling, context preservation, and response quality:
