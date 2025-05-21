@@ -6,17 +6,28 @@
 
 Current AI tools on NewEgg, while helpful, present opportunities for enhancement:
 
-- **AI Assistant**: Lack of maintaining conversational context causes responses to become irrelevant or contradictory. The basis for its recommendations is not clear, potentially limiting the personalization and depth of advice (e.g., recommendation engine vs. simple keyword matching).
+- **AI Assistant**: 
+    - Lack of efficient conversational context management causes responses to become irrelevant, inaccurate or hallucinatory. (e.g., the products information from follow up queries is not aligned with the inital recommendations, and the assistant may not be able to reiterate the product information corrctly like reviews etc)
+    - The basis for its recommendations is not clear, potentially limiting the personalization and depth of advice (e.g., recommendation engine vs. simple keyword matching).
+    - The response is not in streaming format(resposne appearing all at once vs streaming with word by word), which can be disorienting for users.
 
-- **"PC Building with AI" Tool**: Primarily relies on structured inputs or keyword recognition, lacking nuanced natural language understanding for complex user requests regarding PC builds.
+- **"PC Building with AI" Tool**: 
+    - Primarily relies on structured inputs or keyword recognition, lacking nuanced natural language understanding for complex user requests regarding PC builds.
 
-- **Segmented User Experience**: NewEgg has implemented an AI chatbot and a "PC building with AI" tool, but these often operate as separate entities accessed from different entry points. This can lead to a disjointed experience, lacking a unique and consistent AI identity that could foster a stronger connection and more seamless journey for customers.
+- **Segmented User Experience**: 
+    - NewEgg has implemented an AI chatbot and a "PC building with AI" tool, but these often operate as separate entities accessed from different entry points. This can lead to a disjointed experience, lacking a unique and consistent AI identity that could foster a stronger connection and more seamless journey for customers.
 
 This EggHatch AI Agent aims to address these gaps by providing a more conversational, context-aware, and deeply analytical AI agent.
 
 ## Core Idea
 
 A user interacts with the "EggHatch AI Agent" using natural language (e.g., "I want to build a gaming PC with a $2000 budget," or "What's the best gaming laptop under $1500?"). The agent then orchestrates several specialized sub-agents or tools to fulfill the request, providing comprehensive recommendations including performance benchmarks.
+
+## Improvements
+
+### State Management for Conversational Context and natural language understanding for complex user requests
+### Unified AI Avatar Identity for better user connection and streaming response for better user experience 
+### Applied State-of-the-Art AI Models for diverse analysis and Recommendations with agentic framework to handel different tasks improving the quality of recommendations and user experience
 
 ## High-Level Agent Architecture & Workflow
 
@@ -261,3 +272,14 @@ EggHatch-AI/
    docker run --env-file .env egghatch-ai
    ```
 4. Access the Streamlit dashboard run `streamlit run dashboard_app.py`
+
+## Improvements Comparison
+
+Below is a comparison between EggHatch AI and the current NewEgg AI assistant, highlighting the key improvements in multi-turn conversation handling, context preservation, and response quality:
+
+| EggHatch AI (Our Solution) | Current NewEgg AI Assistant |
+|:-------------------------:|:-------------------------:|
+| ![EggHatch AI](images/egghatch_conversation.png) | ![NewEgg AI](images/newegg_conversation.png) |
+| **Key Improvements:** <br>1. Thread management for context preservation<br>2. Follow-up question handling<br>3. Specific product recommendations with actual prices<br>4. Coherent responses to vague queries<br>5. Streaming response format | **Current Limitations:** <br>1. No access to current reviews<br>2. Inability to maintain conversation context<br>3. Generic responses to follow-up questions<br>4. Limited product-specific information<br>5. Non-streaming response format |
+
+The EggHatch AI system leverages LangGraph's thread management capabilities and enhanced state persistence to maintain context across multiple conversation turns, enabling more natural and informative interactions about specific products.

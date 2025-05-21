@@ -8,6 +8,7 @@ for feature identification.
 
 import json
 import numpy as np
+import re
 from typing import Dict, List, Any, Optional, Tuple
 import logging
 
@@ -88,8 +89,7 @@ class TrendAnalysisAgent:
             try:
                 self.zero_shot_classifier = pipeline(
                     "zero-shot-classification",
-                    model="valhalla/distilbart-mnli-12-1"  # Using DistilBART: 40% smaller, 95% of performance
-                )
+                    model="valhalla/distilbart-mnli-12-1")
                 logger.info("Initialized zero-shot classifier")
             except Exception as e:
                 logger.error(f"Error initializing zero-shot classifier: {str(e)}")
@@ -220,12 +220,16 @@ class TrendAnalysisAgent:
             else:
                 reviews = self.data_pipeline.get_processed_reviews()
             
+            # Get laptop data for specific recommendations
+            laptop_data = self.data_pipeline.get_laptop_data()
+            
             # Prepare results dictionary
             results = {
                 'topics': [],
                 'popular_features': [],
                 'sentiment_overview': {},
-                'recommendations': []
+                'recommendations': [],
+                'top_laptops': []
             }
             
             # Add topic information
@@ -244,10 +248,66 @@ class TrendAnalysisAgent:
             results['popular_features'] = self._identify_popular_features()
             
             # Add sentiment overview using the sentiment analyzer module
-            results['sentiment_overview'] = self.sentiment_analyzer.get_sentiment_overview(reviews)
+            try:
+                if self.sentiment_analyzer and hasattr(self.sentiment_analyzer, 'get_sentiment_overview'):
+                    results['sentiment_overview'] = self.sentiment_analyzer.get_sentiment_overview(reviews)
+                else:
+                    logger.warning("Sentiment analyzer not available or missing get_sentiment_overview method")
+                    results['sentiment_overview'] = {
+                        'overall_sentiment': 'Unknown',
+                        'sentiment_distribution': {'positive': 0, 'neutral': 0, 'negative': 0},
+                        'average_rating': None,
+                        'positive_percentage': 0,
+                        'negative_percentage': 0
+                    }
+            except Exception as e:
+                logger.error(f"Error getting sentiment overview: {str(e)}")
+                results['sentiment_overview'] = {
+                    'error': str(e),
+                    'overall_sentiment': 'Unknown'
+                }
             
             # Add recommendations
             results['recommendations'] = self._generate_recommendations(query)
+            
+            # Add specific laptop recommendations with prices
+            # Filter laptops based on query if provided
+            filtered_laptops = laptop_data
+            if query and 'budget' in query.lower() or 'under' in query.lower():
+                # Try to extract a price limit from the query
+                price_limit = None
+                price_matches = re.findall(r'\$?(\d{3,4})', query)
+                if price_matches:
+                    price_limit = float(price_matches[0])
+                    filtered_laptops = laptop_data[laptop_data['price'] <= price_limit]
+            
+            # Sort by rating and get top 5
+            if 'rating' in filtered_laptops.columns:
+                top_laptops = filtered_laptops.sort_values(by=['rating'], ascending=False).head(5)
+            else:
+                top_laptops = filtered_laptops.head(5)
+            
+            # Convert to list of dictionaries with relevant info
+            for _, laptop in top_laptops.iterrows():
+                laptop_info = {
+                    'name': laptop.get('laptop_name', 'Unknown'),
+                    'price': float(laptop.get('price', 0)),
+                    'brand': laptop.get('brand_name', 'Unknown'),
+                    'processor': laptop.get('processor', 'Unknown'),
+                    'gpu': laptop.get('gpu', 'Unknown'),
+                    'rating': laptop.get('rating', 'Unknown'),
+                    'key_features': []
+                }
+                
+                # Add key features based on popular features
+                for feature in results['popular_features'][:3]:
+                    if feature.get('category'):
+                        laptop_info['key_features'].append({
+                            'name': feature.get('category'),
+                            'sentiment': feature.get('sentiment', 'neutral')
+                        })
+                
+                results['top_laptops'].append(laptop_info)
             
             return results
             
@@ -469,7 +529,16 @@ class TrendAnalysisAgent:
             recommendations.append(f"Focus on {top_feature} in marketing materials as it's highly regarded")
         
         # Get sentiment overview
-        sentiment = self._get_sentiment_overview()
+        try:
+            if hasattr(self.sentiment_analyzer, 'get_sentiment_overview'):
+                sentiment_overview = self.sentiment_analyzer.get_sentiment_overview()
+                sentiment = {'average_rating': sentiment_overview.get('average_rating', 0)}
+            else:
+                # Fallback to a default value
+                sentiment = {'average_rating': 3.5}
+        except Exception as e:
+            logger.error(f"Error getting sentiment overview in recommendations: {str(e)}")
+            sentiment = {'average_rating': 3.5}
         if sentiment['average_rating'] > 4.0:
             recommendations.append("Overall sentiment is very positive - highlight customer satisfaction")
         elif sentiment['average_rating'] < 3.0:

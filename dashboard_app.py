@@ -5,6 +5,7 @@ This module implements a user-friendly interface for interacting with the EggHat
 """
 
 import streamlit as st
+import time
 from app.master_agent import process_query
 
 # Set page configuration
@@ -41,12 +42,15 @@ st.markdown("""
         padding: 1rem;
         border-radius: 10px;
         margin-bottom: 1rem;
+        color: #FFFFFF;
     }
     .user-message {
-        background-color: #F8F9FA;
+        background-color: #2C3E50;
+        border-left: 4px solid #FF6B6B;
     }
     .assistant-message {
-        background-color: #E9ECEF;
+        background-color: #1E2A38;
+        border-left: 4px solid #4ECDC4;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -66,9 +70,11 @@ with st.sidebar:
     
     st.markdown("## Sample Queries")
     st.markdown(
-        "- I want to build a gaming PC for $2000\n"
-        "- What's the best gaming laptop under $1500?\n"
-        "- Recommend components for a streaming PC\n"
+        "- **Try:** I want to buy a gaming laptop for $2000\n"
+        "- **Follow-up question:** what are the reviews for these laptops\n"
+
+        "- **Or ask:**\n"
+        "- What's the best gaming laptop under $1200?\n"
         "- Is the RTX 4070 good for 1440p gaming?"
     )
     
@@ -76,9 +82,16 @@ with st.sidebar:
     temperature = st.slider("Temperature", min_value=0.1, max_value=1.0, value=0.7, step=0.1)
     max_tokens = st.slider("Max Tokens", min_value=1024, max_value=8192, value=4096, step=1024)
 
-# Initialize session state for chat history
+# Initialize session state for chat history and conversation thread ID
 if "messages" not in st.session_state:
     st.session_state.messages = []
+    
+# Initialize conversation thread ID for maintaining context across turns
+if "thread_id" not in st.session_state:
+    st.session_state.thread_id = None
+    
+# Note: We're no longer storing recommendations separately in session state
+# as they're now maintained in the LangGraph thread state
 
 # Display chat history
 for message in st.session_state.messages:
@@ -99,15 +112,49 @@ with st.form(key="chat_form", clear_on_submit=True):
         # Add user message to chat history
         st.session_state.messages.append({"role": "user", "content": user_input})
         
+        # Create a placeholder for the streaming response
+        message_placeholder = st.empty()
+        full_response = ""
+        
+        # Add an initial empty message from the assistant
+        st.session_state.messages.append({"role": "assistant", "content": ""})
+        
         # Get response from agent
         with st.spinner("EggHatch AI is thinking..."):
-            response = process_query(user_input)
+            # Get the response and any additional data, using thread_id for context
+            response_data = process_query(user_input, thread_id=st.session_state.thread_id)
+            
+            # Extract the response text
+            if isinstance(response_data, dict) and 'response' in response_data:
+                response = response_data['response']
+                
+                # Store the thread_id for future turns
+                if 'thread_id' in response_data:
+                    st.session_state.thread_id = response_data['thread_id']
+                    print(f"Using conversation thread: {st.session_state.thread_id}")
+                
+                # Log laptop recommendations if available (but don't store redundantly)
+                if 'trend_insights' in response_data and 'top_laptops' in response_data['trend_insights']:
+                    print(f"Found {len(response_data['trend_insights']['top_laptops'])} laptop recommendations in thread state")
+            else:
+                response = str(response_data)
+            
+            # Simulate streaming by displaying the response character by character
+            for i in range(len(response)):
+                full_response += response[i]
+                # Update the message placeholder with the current response
+                message_placeholder.markdown(f"<div class='chat-message assistant-message'><b>EggHatch AI:</b> {full_response}▌</div>", unsafe_allow_html=True)
+                # Add a small delay to create a typing effect
+                time.sleep(0.01)
+            
+            # Display the final response without the cursor
+            message_placeholder.markdown(f"<div class='chat-message assistant-message'><b>EggHatch AI:</b> {full_response}</div>", unsafe_allow_html=True)
         
-        # Add assistant response to chat history
-        st.session_state.messages.append({"role": "assistant", "content": response})
+        # Update the last message in the chat history with the full response
+        st.session_state.messages[-1]["content"] = full_response
         
         # Rerun to update the UI
-        st.experimental_rerun()
+        st.rerun()
 
 # Footer
 st.markdown("---")

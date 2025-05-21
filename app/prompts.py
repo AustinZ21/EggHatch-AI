@@ -57,17 +57,17 @@ Data: {trend_data}
 
 # Response Synthesis prompt
 RESPONSE_SYNTHESIS_PROMPT = """
-Create a helpful response for this query: {user_query}
+Create a concise, helpful response for this query: {user_query}
 
-Use this information:
+Use ONLY the following real data from our analysis of 250+ gaming laptops and reviews:
 - Trends and Sentiment Analysis: {trend_insights}
 
-Focus on providing insights from the trend and sentiment analysis, including:
-- Popular topics and features identified
-- Sentiment analysis results (positive/negative/neutral classifications)
-- Key praises and complaints extracted from reviews
-- Feature popularity and associated sentiment scores
-- Recommendations based on the analysis
+Your response MUST:
+1. Be brief and to the point (max 150 words)
+2. Provide 2-3 SPECIFIC laptop recommendations from our dataset with ACTUAL prices
+3. Reference REAL features and sentiment scores from the data provided
+4. NOT include ANY meta-commentary about the analysis process
+5. NOT mention hypothetical data or placeholder information
 
-Provide a clear, actionable response that addresses the user's needs based on the available insights.
+The user wants factual recommendations based on our actual laptop database, not generic advice.
 """

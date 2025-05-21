@@ -1,0 +1,244 @@
+{
+  "topics": [
+    {
+      "id": 0,
+      "name": "Gaming Performance Discussion",
+      "keywords": [
+        "ram",
+        "1tb",
+        "core",
+        "16gb",
+        "8gb",
+        "hd",
+        "intel",
+        "15",
+        "fhd",
+        "gtx"
+      ],
+      "sentiment": "mixed"
+    },
+    {
+      "id": 1,
+      "name": "Gaming Performance Discussion",
+      "keywords": [
+        "nvidia",
+        "gb",
+        "gtx",
+        "fast",
+        "like",
+        "absolutely",
+        "boots",
+        "incredible",
+        "especially",
+        "handles"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "id": 2,
+      "name": "Battery Life Discussion",
+      "keywords": [
+        "gb",
+        "nvidia",
+        "gtx",
+        "ssd",
+        "life",
+        "battery",
+        "10",
+        "windows",
+        "i7",
+        "decent"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "id": 3,
+      "name": "Display Quality Discussion",
+      "keywords": [
+        "gb",
+        "10",
+        "build",
+        "windows",
+        "price",
+        "ssd",
+        "bit",
+        "gtx",
+        "quality",
+        "getting"
+      ],
+      "sentiment": "positive"
+    },
+    {
+      "id": 4,
+      "name": "Gaming Performance Discussion",
+      "keywords": [
+        "performance",
+        "gb",
+        "gtx",
+        "core",
+        "windows",
+        "15",
+        "throttles",
+        "intel",
+        "10",
+        "nvidia"
+      ],
+      "sentiment": "negative"
+    }
+  ],
+  "popular_features": [
+    {
+      "category": "performance",
+      "mentions": 99,
+      "sentiment": "positive"
+    },
+    {
+      "category": "build quality",
+      "mentions": 96,
+      "sentiment": "positive"
+    },
+    {
+      "category": "value",
+      "mentions": 93,
+      "sentiment": "positive"
+    },
+    {
+      "category": "cooling",
+      "mentions": 92,
+      "sentiment": "positive"
+    },
+    {
+      "category": "display",
+      "mentions": 85,
+      "sentiment": "positive"
+    }
+  ],
+  "sentiment_overview": {
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "sentiment_percentages": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "overall_sentiment": "Mixed or Neutral",
+    "average_rating": null,
+    "total_reviews": 0
+  },
+  "recommendations": [],
+  "top_laptops": [
+    {
+      "name": "Refurbished: Acer AN515-53-55G9 15.6\" IPS Intel Core i5 8th Gen 8300H (2.30 GHz) NVIDIA GeForce GTX 1050 Ti 8 GB Memory 256 GB SSD Windows 10 Home 64-Bit Gaming Laptop (Manufacturer Recertified)",
+      "price": 699.0,
+      "brand": "Acer America",
+      "processor": "i5",
+      "gpu": "GTX 1050",
+      "rating": "Rating + 5",
+      "key_features": [
+        {
+          "name": "performance",
+          "sentiment": "positive"
+        },
+        {
+          "name": "build quality",
+          "sentiment": "positive"
+        },
+        {
+          "name": "value",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "name": "Lenovo Legion Y520 Gaming Laptop: Core i7-7700HQ, NVidia GTX 1060, 16GB RAM, 512GB SSD, 15.6\" Full HD Display",
+      "price": 1149.0,
+      "brand": "Lenovo",
+      "processor": "i7",
+      "gpu": "GTX 1060",
+      "rating": "Rating + 5",
+      "key_features": [
+        {
+          "name": "performance",
+          "sentiment": "positive"
+        },
+        {
+          "name": "build quality",
+          "sentiment": "positive"
+        },
+        {
+          "name": "value",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "name": "Newest Dell G5 15.6\" Full HD Gaming Laptop(16G DDR4 Memory/512G SSD) |Intel Core i7-8750H 6-Core |NVIDIA GeForce GTX 1050Ti 4GB|802.11ac + Bluetooth |Backlit Keyboard|Windows 10 Home| Red",
+      "price": 1079.0,
+      "brand": "DELL",
+      "processor": "R4",
+      "gpu": "GTX 1050",
+      "rating": "Rating + 5",
+      "key_features": [
+        {
+          "name": "performance",
+          "sentiment": "positive"
+        },
+        {
+          "name": "build quality",
+          "sentiment": "positive"
+        },
+        {
+          "name": "value",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "name": "HP Omen 15-dc0030nr 15.6\" FHD IPS GTX 1060 6 GB VRAM i7-8750H 16 GB Memory 1 TB HDD + 128 GB SSD Windows 10 Home Gaming Laptop",
+      "price": 1294.0,
+      "brand": "HP",
+      "processor": "i7",
+      "gpu": "GTX 1060",
+      "rating": "Rating + 5",
+      "key_features": [
+        {
+          "name": "performance",
+          "sentiment": "positive"
+        },
+        {
+          "name": "build quality",
+          "sentiment": "positive"
+        },
+        {
+          "name": "value",
+          "sentiment": "positive"
+        }
+      ]
+    },
+    {
+      "name": "AERO 15 OLED SA-7US5020SH UHD AMOLED i7-9750H NVIDIA GeForce GTX 1660 Ti 6 GB GDDR6 8 GB RAM 256 GB M.2 PCIe SSD Win 10 Gaming Laptop",
+      "price": 1399.0,
+      "brand": "GIGABYTE",
+      "processor": "i7",
+      "gpu": "GTX 1660",
+      "rating": "Rating + 5",
+      "key_features": [
+        {
+          "name": "performance",
+          "sentiment": "positive"
+        },
+        {
+          "name": "build quality",
+          "sentiment": "positive"
+        },
+        {
+          "name": "value",
+          "sentiment": "positive"
+        }
+      ]
+    }
+  ]
+}
