@@ -31,11 +31,6 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files
-#*.csv
-#*.json
-#!data/sample/*.csv
-!data/sample/*.json
 
 # IDE specific files
 .idea/
