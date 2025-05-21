@@ -264,14 +264,49 @@ EggHatch-AI/
 
 ## Setup Instructions
 
-1. Clone the repository
-2. Copy `.env.example` to `.env` and configure your environment variables
-3. Build and run the Docker container:
+### Prerequisites
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AustinZ21/EggHatch-AI.git
+   cd EggHatch-AI
+   ```
+2. Copy `.env.example` to `.env` and configure your environment variables:
+   ```bash
+   cp .env.example .env
+   # Edit .env with your preferred text editor
+   ```
+
+### Option 1: Docker Installation (Recommended for Consistency)
+1. Build the Docker image:
    ```bash
    docker build -t egghatch-ai .
-   docker run --env-file .env egghatch-ai
    ```
-4. Access the Streamlit dashboard run `streamlit run dashboard_app.py`
+2. Run the container:
+   ```bash
+   docker run -p 8501:8501 --env-file .env egghatch-ai
+   ```
+3. Access the Streamlit dashboard by opening `http://localhost:8501` in your browser
+
+### Option 2: Direct Installation
+1. Create and activate a virtual environment (recommended):
+   ```bash
+   python -m venv venv
+   
+   # On Windows:
+   venv\Scripts\activate
+   
+   # On macOS/Linux:
+   source venv/bin/activate
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit dashboard:
+   ```bash
+   streamlit run dashboard_app.py
+   ```
+4. The dashboard will automatically open in your default browser, or you can access it at `http://localhost:8501`
 
 ## Limitations
 
@@ -316,9 +351,8 @@ The current Proof of Concept (POC) has several limitations that would need to be
 - **Deployment Automation**: Manual deployment process instead of CI/CD pipelines for model deployment.
 - **Resource Optimization**: No optimization for computational resources, which would be critical for cost management in production.
 - **Feedback Loops**: Incomplete implementation of feedback loops to capture user interactions for model improvement.
-- **Model Explainability Tools**: Limited tools for understanding and explaining model decisions to both users and business stakeholders.
 
-Addressing these limitations would require significant additional engineering effort but would result in a more robust, scalable, and effective system.
+**Addressing these limitations would require significant additional engineering effort but would result in a more robust, scalable, and effective system to drive business growth and customer satisfaction.**
 
 ## Improvements Comparison
 
