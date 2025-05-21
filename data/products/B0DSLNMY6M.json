@@ -1,0 +1,1254 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5629,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DSLNMY6M",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:45:40.947Z",
+    "processed_at": "2025-05-20T01:45:49.997Z",
+    "total_time_taken": 9.05,
+    "amazon_url": "https://www.amazon.com/dp/B0DSLNMY6M?th=1&psc=1"
+  },
+  "product": {
+    "title": "SAMSUNG 15.6” Galaxy Book5 360 Copilot+ PD, AI Laptop Computer, FHD AMOLED Touchscreen, 16GB / 512GB, Dolby Atmos Quad Speakers, All-Day Battery Life, NP750QHA-KA1US, Gray",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "SAMSUNG,15.6”,Galaxy,Book5,360,Copilot+,PD,AI,Laptop,Computer,FHD,AMOLED,Touchscreen,16GB,/,512GB,Dolby,Atmos,Quad,Speakers,All-Day,Battery,Life,NP750QHA-KA1US,Gray",
+    "keywords_list": [
+      "SAMSUNG",
+      "15.6”",
+      "Galaxy",
+      "Book5",
+      "Copilot+",
+      "Laptop",
+      "Computer",
+      "AMOLED",
+      "Touchscreen",
+      "16GB",
+      "512GB",
+      "Dolby",
+      "Atmos",
+      "Quad",
+      "Speakers",
+      "All-Day",
+      "Battery",
+      "Life",
+      "NP750QHA-KA1US",
+      "Gray"
+    ],
+    "is_collection": false,
+    "asin": "B0DSLNMY6M",
+    "parent_asin": "B0DZ9HR9L9",
+    "link": "https://www.amazon.com/SAMSUNG-Computer-Touchscreen-Speakers-NP750QHA-KA1US/dp/B0DSLNMY6M",
+    "brand": "‎SAMSUNG",
+    "protection_plans": [
+      {
+        "asin": "B07P97TNYX",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 189.99,
+          "currency": "USD",
+          "raw": "$189.99"
+        }
+      },
+      {
+        "asin": "B07P61JDGZ",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 120.99,
+          "currency": "USD",
+          "raw": "$120.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "Intel Core 5 Ultra",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Intel Core 5 Ultra"
+          }
+        ],
+        "asin": "B0DVCBFJM7",
+        "link": "https://amazon.com/dp/B0DVCBFJM7?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Intel Core 7 Ultra",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Intel Core 7 Ultra"
+          }
+        ],
+        "asin": "B0DVCBRWB4",
+        "link": "https://amazon.com/dp/B0DVCBRWB4?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Intel Core 7 Ultra | 16 GB",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Intel Core 7 Ultra | 16 GB"
+          }
+        ],
+        "asin": "B0DVCDC2NN",
+        "link": "https://amazon.com/dp/B0DVCDC2NN?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Intel Core 7 Ultra | 32 GB",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Intel Core 7 Ultra | 32 GB"
+          }
+        ],
+        "asin": "B0DVCBC68J",
+        "link": "https://amazon.com/dp/B0DVCBC68J?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "FHD AMOLED",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "FHD AMOLED"
+          }
+        ],
+        "asin": "B0DSLNMY6M",
+        "link": "https://amazon.com/dp/B0DSLNMY6M?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "15.6 Inch",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "15.6 Inch"
+          }
+        ],
+        "asin": "B0DVCBFJM7",
+        "link": "https://amazon.com/dp/B0DVCBFJM7?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "15.6 inch",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "15.6 inch"
+          }
+        ],
+        "asin": "B0DSLNMY6M",
+        "link": "https://amazon.com/dp/B0DSLNMY6M?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16 Inch",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "16 Inch"
+          }
+        ],
+        "asin": "B0DGLSB5NC",
+        "link": "https://amazon.com/dp/B0DGLSB5NC?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Business PC",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "Business PC"
+          }
+        ],
+        "asin": "B0DVCBFJM7",
+        "link": "https://amazon.com/dp/B0DVCBFJM7?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "PC",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "PC"
+          }
+        ],
+        "asin": "B0DSLNMY6M",
+        "link": "https://amazon.com/dp/B0DSLNMY6M?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0DVCBFJM7,B0DVCBRWB4,B0DVCDC2NN,B0DVCBC68J,B0DSLNMY6M,B0DVCBFJM7,B0DSLNMY6M,B0DGLSB5NC,B0DVCBFJM7,B0DSLNMY6M",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "The latest Galaxy Books supercharged with AI are here! Powered by the latest Intel Core Ultra processor, featuring upgraded graphics and an advanced NPU capable of up to 47 TOPS, these Galaxy Books will help you blaze through your workloads and unlock increased productivity. Enjoy vivid visuals and dazzling views at your fingertips with the captivating HD AMOLED display with touchscreen that makes every experience super smooth. And with Phone Link, your smartphone and PC are seamlessly connected - you can view notifications, make phone calls, view images, use mobile apps, and more - right from your PC.\n\n\n\n¹Requires internet connection and Samsung Account login. Results may vary by uniqueness, clarity and framing of circled image and related factors. ²Requires internet connection. Optimized for English text prompts. ³Requires internet connection. Currently supports translation for video and audio subtitles into English from 40+ languages. ⁴Requires Galaxy S22 Series, Flip4 or Fold4 and later with One UI 6.1 and above. Must be logged in to the same Windows and Samsung account on both devices and have a Bluetooth and Wi-Fi connection. Requires initial setup on both smartphone (in Link to Windows app) and Galaxy Book (in Phone Link app). Some mobile apps may have security features that prevent the mobile app from being viewed on PC. ⁵Compatible only with Tab S Series. Both devices must Wi-Fi network activated. ⁶Quick Share between Galaxy devices available with the following OS: smartphones and tablets with Android OS version 10.0 (Q) and One UI 2.1 or above. PC’s running Windows 10 or later. Requires Wi-Fi and Bluetooth connection.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3aaf51da-b1e3-4acc-8a7d-5575c7ffeed7.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB",
+          "id": "F50AFABA-4CDE-4A95-84D0-CA4C61819FEB"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3aaf51da-b1e3-4acc-8a7d-5575c7ffeed7.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d9fccec4-11c4-4598-8c39-9baab766ae90.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21c31af7-b0ee-45b4-8e4d-29d76e61d412.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/712169fd-6ff2-4be8-8995-a048d31639f7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f6b0214-a476-4fa7-ab8f-3c301f200410.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db5da5d4-0347-417e-9b2b-364fd1630daa.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the SAMSUNG Store",
+      "link": "https://www.amazon.com/stores/Samsung%C2%AE/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB?lp_asin=B0DSLNMY6M&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 71,
+        "count": 14
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 3
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 1
+      },
+      "two_star": {
+        "percentage": 6,
+        "count": 1
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 20,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71o1R+d4zOL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71o1R+d4zOL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/617n+x+IITL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71An8QnWMiL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61Hj+bgjBCL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/6106crItz7L._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/718Oz+60rPL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61blgf+GukL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61GD5dXv8HL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71hRaFNZCIL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61AFCTn0ktL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      }
+    ],
+    "images_count": 10,
+    "images_flat": "https://m.media-amazon.com/images/I/71o1R+d4zOL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/617n+x+IITL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71An8QnWMiL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61Hj+bgjBCL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/6106crItz7L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/718Oz+60rPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61blgf+GukL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61GD5dXv8HL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71hRaFNZCIL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61AFCTn0ktL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 151,
+        "width": 933,
+        "height": 569,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1rF3ElmDvL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bc540a4-2d33-4174-8345-339e602bbf72/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "This Samsung Galaxy Book5 360 Pro is One Beautiful Laptop!"
+      },
+      {
+        "duration_seconds": 125,
+        "width": 1042,
+        "height": 572,
+        "thumbnail": "https://m.media-amazon.com/images/I/91rIgzRDZdL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab233319-3075-4c04-86cf-15bcc9c0bff2/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "The display of my Galaxy Book5 Pro 360 is out of this world!"
+      },
+      {
+        "duration_seconds": 732,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61YQ1j6XBRL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b52f05c6-19d0-48fe-8a88-4279741e8d4a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "10 Galaxy Book 5 Pro Tips & Tricks"
+      },
+      {
+        "duration_seconds": 33,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61a-H2OVSJL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26a5187b-b14a-4e5c-81e8-c7665f4b3b12/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Samsung Book 5 - 360 - So Good"
+      },
+      {
+        "duration_seconds": 141,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/A12rYi5BeGL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/315ff4f3-349b-43a6-8c95-5b9ac9c38104/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "When I unboxed my Samsung Galaxy Book5 Pro 360! !"
+      },
+      {
+        "duration_seconds": 33,
+        "width": 640,
+        "height": 432,
+        "thumbnail": "https://m.media-amazon.com/images/I/41yJA+G0YBL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8eb7c4-d231-4032-aefd-bef968065350/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Galaxy Book5 360 360 Spin"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bc540a4-2d33-4174-8345-339e602bbf72/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab233319-3075-4c04-86cf-15bcc9c0bff2/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b52f05c6-19d0-48fe-8a88-4279741e8d4a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26a5187b-b14a-4e5c-81e8-c7665f4b3b12/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/315ff4f3-349b-43a6-8c95-5b9ac9c38104/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8eb7c4-d231-4032-aefd-bef968065350/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0493dcbabced4ad2b8d5424d2de14a60",
+        "product_asin": "B0DSLNMY6M",
+        "parent_asin": "B0DZ9HR9L9",
+        "related_products": "B0DSLNMY6M,B0DGLSB5NC",
+        "title": "This Samsung Galaxy Book5 360 Pro is One Beautiful Laptop!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71k1JZD1GaL._CR147,69,826,827_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/uniqueproductz",
+        "public_name": "Unique Productz",
+        "creator_type": "Influencer",
+        "vendor_code": "uniqueproductz:shop",
+        "vendor_name": "Unique Productz",
+        "vendor_tracking_id": "onamzcheonlst-20",
+        "video_image_id": "A1rF3ElmDvL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1rF3ElmDvL._CR0,0,933,527_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1rF3ElmDvL.png",
+        "video_image_width": "933",
+        "video_image_height": "569",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4d083e3-210d-4f51-b24b-cc484b3fdf10/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bc540a4-2d33-4174-8345-339e602bbf72/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bc540a4-2d33-4174-8345-339e602bbf72/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6f18fd15-c8a2-4ff6-b3b8-abf73240d426.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09ac7f68128641e7ae0735beb70d705f",
+        "product_asin": "B0DSLNMY6M",
+        "parent_asin": "B0DZ9HR9L9",
+        "related_products": "B0DSLNMY6M,B0DGLSB5NC",
+        "title": "The display of my Galaxy Book5 Pro 360 is out of this world!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71k1JZD1GaL._CR147,69,826,827_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/uniqueproductz",
+        "public_name": "Unique Productz",
+        "creator_type": "Influencer",
+        "vendor_code": "uniqueproductz:shop",
+        "vendor_name": "Unique Productz",
+        "vendor_tracking_id": "onamzcheonlst-20",
+        "video_image_id": "91rIgzRDZdL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91rIgzRDZdL._CR14,0,1014,572_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91rIgzRDZdL.png",
+        "video_image_width": "1042",
+        "video_image_height": "572",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/225e94e8-9544-49f1-b1f5-fa3f5a265319/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab233319-3075-4c04-86cf-15bcc9c0bff2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab233319-3075-4c04-86cf-15bcc9c0bff2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab233319-3075-4c04-86cf-15bcc9c0bff2/5e118fc1-ece4-4d50-a072-bbeef78614d7/09ac7f68128641e7ae0735beb70d705f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/85bd5aad-882c-495d-b674-f5a2a4a3bacd.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.06cfc1396613417482a21126eb48c137",
+        "product_asin": "B0DSLNMY6M",
+        "parent_asin": "B0DZ9HR9L9",
+        "related_products": "B0DJ5796F6,B0DP3GBGCF,B0DGLSB5NC,B0DY2K4C5F,B0DTKTPXVF",
+        "title": "10 Galaxy Book 5 Pro Tips & Tricks",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/whatgear_1528637777360._SL34_.jpg",
+        "profile_link": "/shop/whatgear",
+        "public_name": "WhatGear",
+        "creator_type": "Influencer",
+        "vendor_code": "whatgear:shop",
+        "vendor_name": "WhatGear",
+        "vendor_tracking_id": "onamzwhatgear-20",
+        "video_image_id": "61YQ1j6XBRL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61YQ1j6XBRL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61YQ1j6XBRL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b0363422-8d13-4ba8-9cc2-3de9270a6453/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b52f05c6-19d0-48fe-8a88-4279741e8d4a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b52f05c6-19d0-48fe-8a88-4279741e8d4a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "12:12",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cb7e297d-e6f9-48ce-b452-80c4059bf053.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0d88c245542f4d08ba2ba37ce64bf522",
+        "product_asin": "B0DSLNMY6M",
+        "parent_asin": "B0DZ9HR9L9",
+        "related_products": "B0DSLNMY6M,B0DGLSB5NC",
+        "title": "Samsung Book 5 - 360 - So Good",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91mKD9D+zZL._CR0,0,2110,2110_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/techjockeyhd",
+        "public_name": "TechJockeyHD",
+        "creator_type": "Influencer",
+        "vendor_code": "techjockeyhd:shop",
+        "vendor_name": "TechJockeyHD",
+        "vendor_tracking_id": "onamz01067c-20",
+        "video_image_id": "61a-H2OVSJL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61a-H2OVSJL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61a-H2OVSJL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/195e6ce2-3074-4045-a7dc-4aaed0ecdcb0/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26a5187b-b14a-4e5c-81e8-c7665f4b3b12/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26a5187b-b14a-4e5c-81e8-c7665f4b3b12/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/26a5187b-b14a-4e5c-81e8-c7665f4b3b12/fc9eff6c-91fe-4e17-90e4-da70655d8c69/0d88c245542f4d08ba2ba37ce64bf522_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/18b74635-46ed-4e69-9afe-47a0e1a2a63c.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.02ebed24a65e4b588dddfbb24ba09beb",
+        "product_asin": "B0DSLNMY6M",
+        "parent_asin": "B0DZ9HR9L9",
+        "related_products": "B0DSLNMY6M,B0DGLSB5NC",
+        "title": "When I unboxed my Samsung Galaxy Book5 Pro 360! !",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71k1JZD1GaL._CR147,69,826,827_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/uniqueproductz",
+        "public_name": "Unique Productz",
+        "creator_type": "Influencer",
+        "vendor_code": "uniqueproductz:shop",
+        "vendor_name": "Unique Productz",
+        "vendor_tracking_id": "onamzcheonlst-20",
+        "video_image_id": "A12rYi5BeGL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A12rYi5BeGL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A12rYi5BeGL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/386ad544-f80b-4375-9495-2ceac7603169/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/315ff4f3-349b-43a6-8c95-5b9ac9c38104/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/315ff4f3-349b-43a6-8c95-5b9ac9c38104/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/315ff4f3-349b-43a6-8c95-5b9ac9c38104/27a1cbe9-288f-4f57-923c-50991ae3b3e1/02ebed24a65e4b588dddfbb24ba09beb_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3ec9f06a-bc39-4994-b081-37f153102c4c.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.049ad09c430442a8ad7a4188743c36be",
+        "product_asin": "B0DSLNMY6M",
+        "parent_asin": "B0DZ9HR9L9",
+        "related_products": "B0DSLNMY6M",
+        "title": "Galaxy Book5 360 360 Spin",
+        "public_name": "SAMIT",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "SAMIT",
+        "video_image_id": "41yJA+G0YBL",
+        "video_image_url": "https://m.media-amazon.com/images/I/41yJA+G0YBL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41yJA+G0YBL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "432",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ab59562c-05e3-417c-9339-fa082bd7cb1d/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8eb7c4-d231-4032-aefd-bef968065350/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8eb7c4-d231-4032-aefd-bef968065350/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a8eb7c4-d231-4032-aefd-bef968065350/eb9ebde4-c9d4-4d55-a9fb-e201f6284c31/049ad09c430442a8ad7a4188743c36be_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a0c878d4-a7be-45bb-a528-449f44544271.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "THE LATEST INTEL PROCESSOR DRIVING THIS NEXT-GEN AI PC: Experience a new level of transformative performance on Galaxy Book5 360 with the super fast Intel Core Ultra processor (Series 2), upgraded graphics and an advanced NPU capable of up to 47 TOPS.",
+      "GET SEARCH RESULTS IN A SNAP: AI Select lets you search right on your PC screen. No need to type — simply trace an image, a text message or even a QR code on the screen using cursor or finger and get search results on the fly.¹",
+      "REMASTER YOUR PHOTOS WITH AI: Retouch images and clean up blurry photos in Samsung Gallery with Photo Remaster. This helpful tool uses a smart algorithm that gives all-new life to your pics and makes every detail shine — just like magic.",
+      "FROM FIRST DRAFT TO FINE ART: Need a custom image for a presentation? Use Cocreator in Paint to sketch your idea and watch as AI transforms into artwork. ² Edit, regenerate and apply finishing touches using simple prompts.",
+      "GO GLOBAL WITH REAL-TIME TRANSLATIONS: Catch every word in conference calls with Live Captions. ³ AI automatically detects speech in meetings and video streams and converts it into English captions in real time so you can easily follow along.",
+      "AI ASSISTANCE IS ONE PRESS AWAY: A single press is all it takes to launch Copilot - the dedicated key on the keyboard of Galaxy Book5 360 puts personalized AI assistance at your fingertips for instant access when you need it.",
+      "VIVID VISUALS AND DAZZLING VIEWS AT YOUR FINGERTIPS: Dive into the cinematic visuals of the 15.6\" Full HD AMOLED display. Rich, vivid colors and the fast response time turn working, games and streams into an edge-of-your-seat spectacle.",
+      "ACCESS YOUR MOBILE WORLD ON PC: Sync your smartphone via Phone Link to access calls, texts, images, mobile apps right from your PC. Plus, use AI features from your Galaxy phone to unlock more productivity on a big screen of Galaxy Book5 360.⁴",
+      "ADD YOUR TAB AS A SECOND SCREEN: Double your workspace by connecting Galaxy Tab as an additional display to your PC. ⁵ Link the devices with just a click, then take advantage of the extra space on Galaxy Tab with Extension, Duplicate and Rotation modes.",
+      "SWIFT, SAFE TRANSFERS WITH QUICK SHARE: Sharing image, videos, documents and large files between your Galaxy Book and other Galaxy devices is a breeze with Quick Share. ⁶ Plus, the private sharing feature encrypts your data with blockchain technology for your safekeeping."
+    ],
+    "feature_bullets_count": 10,
+    "feature_bullets_flat": "SWIFT, SAFE TRANSFERS WITH QUICK SHARE: Sharing image, videos, documents and large files between your Galaxy Book and other Galaxy devices is a breeze with Quick Share. ⁶ Plus, the private sharing feature encrypts your data with blockchain technology for your safekeeping. ADD YOUR TAB AS A SECOND SCREEN: Double your workspace by connecting Galaxy Tab as an additional display to your PC. ⁵ Link the devices with just a click, then take advantage of the extra space on Galaxy Tab with Extension, Duplicate and Rotation modes. ACCESS YOUR MOBILE WORLD ON PC: Sync your smartphone via Phone Link to access calls, texts, images, mobile apps right from your PC. Plus, use AI features from your Galaxy phone to unlock more productivity on a big screen of Galaxy Book5 360.⁴. VIVID VISUALS AND DAZZLING VIEWS AT YOUR FINGERTIPS: Dive into the cinematic visuals of the 15.6\" Full HD AMOLED display. Rich, vivid colors and the fast response time turn working, games and streams into an edge-of-your-seat spectacle. AI ASSISTANCE IS ONE PRESS AWAY: A single press is all it takes to launch Copilot - the dedicated key on the keyboard of Galaxy Book5 360 puts personalized AI assistance at your fingertips for instant access when you need it. GO GLOBAL WITH REAL-TIME TRANSLATIONS: Catch every word in conference calls with Live Captions. ³ AI automatically detects speech in meetings and video streams and converts it into English captions in real time so you can easily follow along. FROM FIRST DRAFT TO FINE ART: Need a custom image for a presentation? Use Cocreator in Paint to sketch your idea and watch as AI transforms into artwork. ² Edit, regenerate and apply finishing touches using simple prompts. REMASTER YOUR PHOTOS WITH AI: Retouch images and clean up blurry photos in Samsung Gallery with Photo Remaster. This helpful tool uses a smart algorithm that gives all-new life to your pics and makes every detail shine — just like magic. GET SEARCH RESULTS IN A SNAP: AI Select lets you search right on your PC screen. No need to type — simply trace an image, a text message or even a QR code on the screen using cursor or finger and get search results on the fly.¹. THE LATEST INTEL PROCESSOR DRIVING THIS NEXT-GEN AI PC: Experience a new level of transformative performance on Galaxy Book5 360 with the super fast Intel Core Ultra processor (Series 2), upgraded graphics and an advanced NPU capable of up to 47 TOPS.",
+    "top_reviews": [
+      {
+        "id": "R13OGUIRBS1GWF",
+        "title": "Samsung hit this one out of the park!",
+        "body": "This is by far the best laptop I have used. The display is better than the OLEDs I have used from HP for example. I am coming from an HP Spectre 360 which is no slouch, but I am blown away. Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is by far the best laptop I have used. The display is better than the OLEDs I have used from HP for example. I am coming from an HP Spectre 360 which is no slouch, but I am blown away.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R13OGUIRBS1GWF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 3, 2025",
+          "utc": "2025-05-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Godwin K",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHXP2TLAA3GXQ5WFS5H7KWOGYEUQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHXP2TLAA3GXQ5WFS5H7KWOGYEUQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Intel Core 7 Ultra"
+          },
+          {
+            "Capacity": "16 Inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "R2CI25WKV2HXL2",
+        "title": "Works correctly",
+        "body": "The product arrived safely, it works correctly, the specifications are correct, everything has worked well. Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The product arrived safely, it works correctly, the specifications are correct, everything has worked well.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2CI25WKV2HXL2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 12, 2025",
+          "utc": "2025-05-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "José Manuel",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFMCYXP35UHBK74VHTFPWSQH6FOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFMCYXP35UHBK74VHTFPWSQH6FOA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/b062b26c-a230-4fab-8f1f-49d3b2593d93._CR0%2C0%2C960%2C960_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Intel Core 7 Ultra"
+          },
+          {
+            "Capacity": "16 Inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "R3UX66RR520QWW",
+        "title": "Runs too hot, overheats, drains battery",
+        "body": "I love using this laptop, I LOVE being able to draw on it. It is responsive and pretty easy to use. That said, she overheats SO quickly, so hot, to the point she starts working sluggishly and programs go into [NOT RESPONDING] mode once she gets too hot. The lightweight size of this laptop makes her so easy to carry around school and work, but sometimes she gets unusably hot and then the battery drain becomes egregious. Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I love using this laptop, I LOVE being able to draw on it. It is responsive and pretty easy to use. That said, she overheats SO quickly, so hot, to the point she starts working sluggishly and programs go into [NOT RESPONDING] mode once she gets too hot. The lightweight size of this laptop makes her so easy to carry around school and work, but sometimes she gets unusably hot and then the battery drain becomes egregious.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3UX66RR520QWW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on April 16, 2025",
+          "utc": "2025-04-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "MarzolasCrafts",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHDNFS55ZAXA3URINNMOCPR35GFA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHDNFS55ZAXA3URINNMOCPR35GFA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/f098de49-f390-4591-894c-ccd9daebe39b._CR0%2C0%2C1944%2C1944_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Intel Core 7 Ultra"
+          },
+          {
+            "Capacity": "16 Inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "RMLOGH2C8WA9K",
+        "title": "Great Samsung Galaxy laptop",
+        "body": "Great laptop, excellent price from Amazon Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great laptop, excellent price from Amazon<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RMLOGH2C8WA9K/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 12, 2025",
+          "utc": "2025-05-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Thorleifur J.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHWML2ZHWWU2ZCP3KLPR4YHPHJDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHWML2ZHWWU2ZCP3KLPR4YHPHJDQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Intel Core 7 Ultra"
+          },
+          {
+            "Capacity": "16 Inch"
+          },
+          {
+            "Style": "Business PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "R5JRJH0LX4SWT",
+        "title": "Legit Legit Legit💯🔥🙏",
+        "body": "Best laptop ever owned. 360 functionality is superb!!! Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Best laptop ever owned. 360 functionality is superb!!!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R5JRJH0LX4SWT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 13, 2025",
+          "utc": "2025-04-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Chris Kumar",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGN3QIWHIKEXVMNRUEZJRSV7L3KQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGN3QIWHIKEXVMNRUEZJRSV7L3KQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Intel Core 7 Ultra"
+          },
+          {
+            "Capacity": "16 Inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "R3OLOKHP5VECZJ",
+        "title": "book 5",
+        "body": "Excelente laptop Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Excelente laptop<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3OLOKHP5VECZJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 5, 2025",
+          "utc": "2025-04-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Naty",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHQLZZKEYOYP7Y3VS2YXUJR4SQA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHQLZZKEYOYP7Y3VS2YXUJR4SQA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "FHD AMOLED"
+          },
+          {
+            "Capacity": "15.6 inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "R38D18150FV58I",
+        "title": "No Copilot+???!!!",
+        "body": "I put in the order because of the advertised Copilot++. Got excited when the box said it had Copilot++, but found no copilt+, onlu copilot. What is the story? Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I put in the order because of the advertised Copilot++. Got excited when the box said it had Copilot++, but found no copilt+, onlu copilot. What is the story?<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R38D18150FV58I/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in the United States on January 12, 2025",
+          "utc": "2025-01-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ray Acevedo",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGO5OOV4YHLYU6RUWUUTNA5KWMEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGO5OOV4YHLYU6RUWUUTNA5KWMEQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 19,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Intel Core 7 Ultra"
+          },
+          {
+            "Capacity": "16 Inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      },
+      {
+        "id": "RDLEPKMKSI5IF",
+        "title": "Gran equipo",
+        "body": "Excelente equipo Read more",
+        "asin": "B0DSLNMY6M",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Excelente equipo<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RDLEPKMKSI5IF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DSLNMY6M",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 25, 2025",
+          "utc": "2025-03-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jhorguin Yesid",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AECU4GE4IR4ZMGEXTG4F27LA7IMQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AECU4GE4IR4ZMGEXTG4F27LA7IMQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "FHD AMOLED"
+          },
+          {
+            "Capacity": "15.6 inch"
+          },
+          {
+            "Style": "PC"
+          },
+          {
+            "Color": "Gray"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "189.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "120.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 14 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1149.99,
+        "currency": "USD",
+        "raw": "$1,149.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 1349.99,
+        "currency": "USD",
+        "raw": "$1,349.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.2 GHz intel_core_ultra_7"
+      },
+      {
+        "name": "RAM",
+        "value": "‎LPDDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎Intel ARC 140V GPU"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth"
+      },
+      {
+        "name": "Average Battery Life (in hours)",
+        "value": "‎31 Hours"
+      },
+      {
+        "name": "Brand",
+        "value": "‎SAMSUNG"
+      },
+      {
+        "name": "Series",
+        "value": "‎Galaxy Book5 360"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎NP750QHA-KA1US"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎3.22 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎13.99 x 8.98 x 0.54 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎13.99 x 8.98 x 0.54 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎1"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎512 GB"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎4 P76 batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DSLNMY6M"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         20 ratings          4.5 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#6,989 in Computers & Accessories (See Top 100 in Computers & Accessories) #842 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "February 7, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "SAMSUNG"
+      },
+      {
+        "name": "Model Name",
+        "value": "Galaxy Book5 360"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core Ultra 7"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Lightweight"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Integrated. Special Feature: Lightweight. Operating System: Windows 11 Home. Ram Memory Installed Size: 16 GB. CPU Model: Intel Core Ultra 7. Hard Disk Size: 512 GB. Color: Gray. Screen Size: 15.6 Inches. Model Name: Galaxy Book5 360. Brand: SAMSUNG. Date First Available: February 7, 2025. Best Sellers Rank: #6,989 in Computers & Accessories (See Top 100 in Computers & Accessories) #842 in Traditional Laptop Computers. Customer Reviews: 4.5    4.5 out of 5 stars         20 ratings          4.5 out of 5 stars. ASIN: B0DSLNMY6M. Batteries: ‎4 P76 batteries required. (included). Flash Memory Size: ‎512 GB. Number of Processors: ‎1. Processor Brand: ‎Intel. Color: ‎Gray. Item Dimensions  LxWxH: ‎13.99 x 8.98 x 0.54 inches. Product Dimensions: ‎13.99 x 8.98 x 0.54 inches. Item Weight: ‎3.22 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎NP750QHA-KA1US. Series: ‎Galaxy Book5 360. Brand: ‎SAMSUNG. Average Battery Life (in hours): ‎31 Hours. Wireless Type: ‎Bluetooth. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Integrated. Chipset Brand: ‎Intel. Graphics Coprocessor: ‎Intel ARC 140V GPU. Hard Drive: ‎512 GB SSD. RAM: ‎LPDDR5. Processor: ‎2.2 GHz intel_core_ultra_7. Max Screen Resolution: ‎1920x1080 Pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "deal_badge": "Limited time deal",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 6989,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 842,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Gray",
+    "weight": "‎3.22 pounds",
+    "first_available": {
+      "raw": "February 7, 2025",
+      "utc": "2025-02-07T00:00:00.000Z"
+    },
+    "dimensions": "‎13.99 x 8.98 x 0.54 inches",
+    "model_number": "‎NP750QHA-KA1US",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 6989, Category: Traditional Laptop Computers | Rank: 842",
+    "whats_in_the_box": [
+      "PC, Adapter, Type-C cable, QSG Manual, Warranty Card"
+    ]
+  },
+  "brand_store": {
+    "id": "F50AFABA-4CDE-4A95-84D0-CA4C61819FEB",
+    "link": "https://www.amazon.com/stores/Samsung%C2%AE/page/F50AFABA-4CDE-4A95-84D0-CA4C61819FEB"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 1200.49,
+      "currency": "USD",
+      "raw": "$1,200.49"
+    },
+    "products": [
+      {
+        "asin": "B0DSLNMY6M",
+        "title": "SAMSUNG 15.6” Galaxy Book5 360 Copilot+ PD, AI Laptop Computer, FHD AMOLED Touchscreen, 16GB / 512GB, Dolby Atmos Quad Speakers, All-Day Battery Life, NP750QHA-KA1US, Gray",
+        "link": "https://www.amazon.com/dp/B0DSLNMY6M",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71o1R+d4zOL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1149.99,
+          "currency": "USD",
+          "raw": "$1,149.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DLHBYRPS",
+    "link": "https://www.amazon.com/dp/B0DLHBYRPS/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=DLylj&pd_rd_i=B0DLHBYRPS&pd_rd_w=zr5we&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=7c2dc44f-9178-4ec9-b7db-b08fcba28c14&psc=1",
+    "title": "Apple 2024 MacBook Pro Laptop with M4 chip with 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Space Black",
+    "rating": 5,
+    "ratings_total": 768,
+    "image": "https://m.media-amazon.com/images/I/61-oTP1X4rL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Amazon Basics 17.3-inch Laptop Sleeve, Protective Case with Zipper - Black",
+      "asin": "B00LU7BE20",
+      "link": "https://www.amazon.com/AmazonBasics-NC1407073-17-3-Inch-Laptop-Sleeve/dp/B00LU7BE20/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_1/141-4524618-4450758?pd_rd_w=A8lob&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=5ASqt&pd_rd_r=e302ad0b-0ae6-4a57-9827-cd973d557bcc&pd_rd_i=B00LU7BE20&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QpTppvb0L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.6,
+      "ratings_total": 111179,
+      "price": {
+        "symbol": "$",
+        "value": 13.49,
+        "currency": "USD",
+        "raw": "$13.49"
+      }
+    },
+    {
+      "title": "SAMSUNG 15” Galaxy AI Book4 Edge PC Laptop Computer, Snapdragon X Plus Processor, Live Captions, FHD LED Anti-Glare Display, ",
+      "asin": "B0D9P7Z33B",
+      "link": "https://www.amazon.com/SAMSUNG-Snapdragon-Anti-Glare-Long-Lasting-NP750XQA-KB2US/dp/B0D9P7Z33B/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_2/141-4524618-4450758?pd_rd_w=A8lob&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=5ASqt&pd_rd_r=e302ad0b-0ae6-4a57-9827-cd973d557bcc&pd_rd_i=B0D9P7Z33B&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61E7wn7WEGL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 35,
+      "price": {
+        "symbol": "$",
+        "value": 752.51,
+        "currency": "USD",
+        "raw": "$752.51"
+      }
+    },
+    {
+      "title": "Amazon Basics 2.4 Ghz Wireless Optical Computer Mouse with USB Nano Receiver, Black",
+      "asin": "B005EJH6Z4",
+      "link": "https://www.amazon.com/AmazonBasics-Wireless-Computer-Mouse-Receiver/dp/B005EJH6Z4/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_3/141-4524618-4450758?pd_rd_w=A8lob&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=5ASqt&pd_rd_r=e302ad0b-0ae6-4a57-9827-cd973d557bcc&pd_rd_i=B005EJH6Z4&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61YQeAUIboL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 60272,
+      "price": {
+        "symbol": "$",
+        "value": 12.58,
+        "currency": "USD",
+        "raw": "$12.58"
+      }
+    },
+    {
+      "title": "SAMSUNG 16\" Galaxy Book4 Pro Business Laptop, Wi-Fi PC Computer, Windows 11 PRO, Intel Core 7 Ultra 155H / 32GB / 1TB, 3K AMO",
+      "asin": "B0CVBH51YF",
+      "link": "https://www.amazon.com/Business-Computer-Touchscreen-NP964XGK-KG1US-Moonstone/dp/B0CVBH51YF/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_4/141-4524618-4450758?pd_rd_w=A8lob&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=5ASqt&pd_rd_r=e302ad0b-0ae6-4a57-9827-cd973d557bcc&pd_rd_i=B0CVBH51YF&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ysHVMH4FL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "ratings_total": 189,
+      "price": {
+        "symbol": "$",
+        "value": 1399.99,
+        "currency": "USD",
+        "raw": "$1,399.99"
+      }
+    },
+    {
+      "title": "SAMSUNG Galaxy Book4 Pro Lightweight Business AI PC Laptop 16\" 3K 2880x1800 Touch (Dynamic AMOLED 2X) Intel 12-Core Ultra 7 1",
+      "asin": "B0F1YB9CYW",
+      "link": "https://www.amazon.com/SAMSUNG-Lightweight-2880x1800-Fingerprint-Thunderbolt/dp/B0F1YB9CYW/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_5/141-4524618-4450758?pd_rd_w=A8lob&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=5ASqt&pd_rd_r=e302ad0b-0ae6-4a57-9827-cd973d557bcc&pd_rd_i=B0F1YB9CYW&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81Ppa0GBx3L._AC_UL165_SR165,165_.jpg",
+      "rating": 5,
+      "ratings_total": 2,
+      "price": {
+        "symbol": "$",
+        "value": 1849,
+        "currency": "USD",
+        "raw": "$1,849.00"
+      }
+    },
+    {
+      "title": "Samsung Galaxy Book3 Pro 360 2-in-1 Laptop (16\" 3K AMOLED 120Hz Touchscreen, Intel 12-Core i7-1360P, 16GB RAM, 1TB SSD), 19-h",
+      "asin": "B0CX8Y4MXF",
+      "link": "https://www.amazon.com/SAMSUNG-Galaxy-Book3-Pro-360/dp/B0CX8Y4MXF/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_6/141-4524618-4450758?pd_rd_w=A8lob&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=8T1YHNAQJB50HTNAET8K&pd_rd_wg=5ASqt&pd_rd_r=e302ad0b-0ae6-4a57-9827-cd973d557bcc&pd_rd_i=B0CX8Y4MXF&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51sWPsn2eIL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 15,
+      "price": {
+        "symbol": "$",
+        "value": 1349.99,
+        "currency": "USD",
+        "raw": "$1,349.99"
+      }
+    }
+  ]
+}

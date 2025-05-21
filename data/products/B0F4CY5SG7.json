@@ -1,0 +1,739 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5613,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F4CY5SG7",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:48:31.699Z",
+    "processed_at": "2025-05-20T01:48:37.400Z",
+    "total_time_taken": 5.7,
+    "amazon_url": "https://www.amazon.com/dp/B0F4CY5SG7?th=1&psc=1"
+  },
+  "product": {
+    "title": "acer Nitro V 15 Gaming Laptop, with 2024 Office Lifetime License, Intel 14-Core i9-13900H, RTX 4060, 15.6\" FHD IPS Display, 64GB DDR5, 2TB SSD, Wi-Fi 6, Backlit Keyboard, Windows 11 Pro, Wi-Fi 6",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "acer,Nitro,V,15,Gaming,Laptop,with,2024,Office,Lifetime,License,Intel,14-Core,i9-13900H,RTX,4060,15.6\",FHD,IPS,Display,64GB,DDR5,2TB,SSD,Wi-Fi,6,Backlit,Keyboard,Windows,11,Pro,Wi-Fi,6",
+    "keywords_list": [
+      "acer",
+      "Nitro",
+      "Gaming",
+      "Laptop",
+      "with",
+      "2024",
+      "Office",
+      "Lifetime",
+      "License",
+      "Intel",
+      "14-Core",
+      "i9-13900H",
+      "4060",
+      "15.6\"",
+      "Display",
+      "64GB",
+      "DDR5",
+      "Wi-Fi",
+      "Backlit",
+      "Keyboard",
+      "Windows",
+      "Wi-Fi"
+    ],
+    "is_collection": false,
+    "asin": "B0F4CY5SG7",
+    "parent_asin": "B0F4D5C59Y",
+    "link": "https://www.amazon.com/acer-Nitro-Gaming-Laptop-i9-13900H/dp/B0F4CY5SG7",
+    "brand": "‎acer",
+    "protection_plans": [
+      {
+        "asin": "B07PC4X6C8",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 145.99,
+          "currency": "USD",
+          "raw": "$145.99"
+        }
+      },
+      {
+        "asin": "B07P97VH1R",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 229.99,
+          "currency": "USD",
+          "raw": "$229.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "32GB DDR5 RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB DDR5 RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0F4CRNZJY",
+        "link": "https://amazon.com/dp/B0F4CRNZJY?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB DDR5 RAM | 1TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB DDR5 RAM | 1TB SSD"
+          }
+        ],
+        "asin": "B0F4CYLWDH",
+        "link": "https://amazon.com/dp/B0F4CYLWDH?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB DDR5 RAM | 1TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB DDR5 RAM | 1TB SSD"
+          }
+        ],
+        "asin": "B0F4CY92GN",
+        "link": "https://amazon.com/dp/B0F4CY92GN?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Laptop",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "Laptop"
+          }
+        ],
+        "asin": "B09RK43DGQ",
+        "link": "https://amazon.com/dp/B09RK43DGQ?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "64GB DDR5 RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB DDR5 RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0F4CY5SG7",
+        "link": "https://amazon.com/dp/B0F4CY5SG7?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB DDR5 RAM | 4TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB DDR5 RAM | 4TB SSD"
+          }
+        ],
+        "asin": "B0F4CYXYX6",
+        "link": "https://amazon.com/dp/B0F4CYXYX6?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0F4CRNZJY,B0F4CYLWDH,B0F4CY92GN,B09RK43DGQ,B0F4CY5SG7,B0F4CYXYX6",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Statement:\n\n\nOriginal Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.\n\nBrand: Acer\n\nSeries: Acer Nitro V Gaming Laptop\n\nProcessor: Intel 14-core i9-13900H\n\nProcessor Type: Cpre i9\n\nProcessor Core: 14 cores\n\nProcessor Model Number: 13900H\n\nProcessor Thread: 20 threads\n\nProcessor Speed (up to): 5.40GHz\n\nProcessor Brand: Intel\n\nOperating System: Windows 11 Pro\n\nGraphics: NVIDIA GeForce RTX 4060\n\nGraphics Type: Dedicated\n\nGraphics Brand: NVIDIA\n\nScreen Size: 15.6 inches\n\nScreen Resolution: 1920x1080 (Full HD)\n\nScreen Type: IPS\n\nRefresh Rate: 144Hz\n\nMemory: Up to 64GB DDR5 RAM\n\nType of Memory (RAM): DDR5\n\nStorage Type: SSD\n\nHard Drive: Up to 2TB Solid State Drive\n\nWireless Connectivity: Intel Wi-Fi 6 AX201(2*2 ax)\n\nColor: Black\n\nBacklit Keyboard: True\n\nPorts & Slots:\n\n1 x HDMI 2.1\n\n1 x Audio Combo jack\n\n3 x USB Type-A 3.2\n\n1 x USB Type-C 3.2\n\n1 x RJ-45\n\nProduct Dimensions: 14.26\" x 9.44\" x 0.93\"\n\nProduct Weight: 4.66 pounds",
+    "sub_title": {
+      "text": "Visit the acer Store",
+      "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2?lp_asin=B0F4CY5SG7&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "has_coupon": true,
+    "coupon_text": "Apply 5% coupon",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 72,
+        "count": 77
+      },
+      "four_star": {
+        "percentage": 15,
+        "count": 16
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 4
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 2
+      },
+      "one_star": {
+        "percentage": 7,
+        "count": 7
+      }
+    },
+    "ratings_total": 107,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71KfKKhkKML.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71KfKKhkKML._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61GJVHPboiL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/617nzuXBwZL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61rvp17W1JL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61DZC5sONYL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/412JIcwYH2L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41iBC7dqJvL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/71KfKKhkKML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61GJVHPboiL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/617nzuXBwZL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61rvp17W1JL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61DZC5sONYL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/412JIcwYH2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/41iBC7dqJvL._AC_SL1500_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Powerful Performance: At the core of the Acer Nitro V is the Intel Core i9-13900H processor, featuring a 14-core, 20-thread architecture with speeds up to 5.40 GHz. This high-performance processor is built to handle demanding tasks like gaming, streaming, and productivity applications with ease, ensuring smooth multitasking and rapid performance",
+      "High-Performance 15.6\" Display: The Acer Nitro V Gaming Laptop comes with a 15.6-inch Full HD display, offering a 144Hz refresh rate for smooth, immersive visuals. This high refresh rate reduces motion blur and provides fluid gameplay, perfect for fast-paced gaming and other high-demand visual tasks",
+      "Advanced NVIDIA RTX 4060 Graphics: Equipped with an NVIDIA GeForce RTX 4060 GPU, this gaming laptop delivers exceptional graphics performance, supporting real-time ray tracing and AI-enhanced visuals. Whether gaming or working on creative projects, the RTX 4060 ensures stunning detail and high frame rates",
+      "Comprehensive Connectivity Options: Stay connected on the go with Wi-Fi 6 and Bluetooth 5.1, along with versatile ports like 3 x USB 3.2 Gen 1 Type-A, 1 x USB Type-C (USB 3.2 Gen 2), 1 x HDMI 2.1 with HDCP support, 1 x RJ-45 (1Gbps), and 1 x headphone/microphone combo jack",
+      "Additional Features: The Acer Nitro V comes with a lifetime license for Microsoft Office, providing essential productivity tools, and runs Windows 11 Pro, which offers enhanced security, a modern interface, and optimized gaming performance"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Additional Features: The Acer Nitro V comes with a lifetime license for Microsoft Office, providing essential productivity tools, and runs Windows 11 Pro, which offers enhanced security, a modern interface, and optimized gaming performance. Comprehensive Connectivity Options: Stay connected on the go with Wi-Fi 6 and Bluetooth 5.1, along with versatile ports like 3 x USB 3.2 Gen 1 Type-A, 1 x USB Type-C (USB 3.2 Gen 2), 1 x HDMI 2.1 with HDCP support, 1 x RJ-45 (1Gbps), and 1 x headphone/microphone combo jack. Advanced NVIDIA RTX 4060 Graphics: Equipped with an NVIDIA GeForce RTX 4060 GPU, this gaming laptop delivers exceptional graphics performance, supporting real-time ray tracing and AI-enhanced visuals. Whether gaming or working on creative projects, the RTX 4060 ensures stunning detail and high frame rates. High-Performance 15.6\" Display: The Acer Nitro V Gaming Laptop comes with a 15.6-inch Full HD display, offering a 144Hz refresh rate for smooth, immersive visuals. This high refresh rate reduces motion blur and provides fluid gameplay, perfect for fast-paced gaming and other high-demand visual tasks. Powerful Performance: At the core of the Acer Nitro V is the Intel Core i9-13900H processor, featuring a 14-core, 20-thread architecture with speeds up to 5.40 GHz. This high-performance processor is built to handle demanding tasks like gaming, streaming, and productivity applications with ease, ensuring smooth multitasking and rapid performance.",
+    "top_reviews": [
+      {
+        "id": "R19YJM6WPHM0AK",
+        "title": "Guter Laptop",
+        "body": "Der Laptop läuft bei mir nun schon über ein Jahr. Die Performance ist für den Hausgebrauch mehr als ausreichend. Die beleuchtete Tastatur ist empfehlenswert, wenn man so wie ich Abends auf dem Sofa im Netz unterwegs ist. Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Der Laptop l&#xE4;uft bei mir nun schon &#xFC;ber ein Jahr. Die Performance ist f&#xFC;r den Hausgebrauch mehr als ausreichend.<br/>Die beleuchtete Tastatur ist empfehlenswert, wenn man so wie ich Abends auf dem Sofa im Netz unterwegs ist.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on October 29, 2024",
+          "utc": "2024-10-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "uweda"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "Laptop"
+          }
+        ]
+      },
+      {
+        "id": "R334RLYW8K0V39",
+        "title": "Ist seinen Preis wert",
+        "body": "Wen richtig gefordert, wird die Lüftung etwas laut. OK, besser als eine zu schwache und das Gerät schaltet sich ab. Bin vollauf zufrieden. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Wen richtig gefordert, wird die L&#xFC;ftung etwas laut.<br/>OK, besser als eine zu schwache und das Ger&#xE4;t schaltet sich ab.<br/>Bin vollauf zufrieden.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on September 17, 2024",
+          "utc": "2024-09-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Thomas Adamski"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "Laptop"
+          }
+        ]
+      },
+      {
+        "id": "R1BHW3SHGXMDA6",
+        "title": "Super performance.",
+        "body": "Sehr gute pc für Design. Zb Photoshop oder adobe premiere und auch für basis spielen, teilweisse ein bisschen laut darum 4 sterne. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Sehr gute pc f&#xFC;r Design. Zb Photoshop oder adobe premiere und auch f&#xFC;r basis spielen, teilweisse ein bisschen laut darum 4 sterne.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Germany on September 2, 2024",
+          "utc": "2024-09-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Fer min"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "Laptop"
+          }
+        ]
+      },
+      {
+        "id": "R33R0BFRCV4FTO",
+        "title": "Schöner Laptop",
+        "body": "Der Laptop ist echt toll!Er hat viel Speicherplatz,was mir sehr wichtig ist,und er ist auch sehr schnell,was auch top ist! Was ich nicht so gut finde ist,daß er nicht so stabil und hochwertig aussieht und ist,wie mein alter Laptop,den ich jetzt schon sehr lange habe!Schwarz wäre mir auch sehr viel lieber gewesen als Silber,und daß er kein Laufwerk hat, finde ich auch ein Manko,vor allem auch für den Preis! Mein alter Laptop war günstiger, hat ein Laufwerk und ist stabiler,was ich besser fand! Aber sonst bin ich zufrieden und man kann gut und schnell mit ihm arbeiten! Kann sonst noch nicht viel sagen, da ich ihn jetzt erst ganz frisch erhalten habe und ich auch kein Freak bin, der jetzt mit Technikwissen aller Art um sich werfen und damit Eindruck schinden könnte! Mit Acer bin ICH jedenfalls super zufrieden und glücklich und kann einen solchen nur empfehlen, alles bestens bisher! Danke, gerne wieder!!! Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Der Laptop ist echt toll!Er hat viel Speicherplatz,was mir sehr wichtig ist,und er ist auch sehr schnell,was auch top ist!<br/>Was ich nicht so gut finde ist,da&#xDF; er nicht so stabil und hochwertig aussieht und ist,wie mein alter Laptop,den ich jetzt schon sehr lange habe!Schwarz w&#xE4;re mir auch sehr viel lieber gewesen als Silber,und da&#xDF; er kein Laufwerk hat, finde ich auch ein Manko,vor allem auch f&#xFC;r den Preis! Mein alter Laptop war g&#xFC;nstiger, hat ein Laufwerk und ist stabiler,was ich besser fand! Aber sonst bin ich zufrieden und man kann gut und schnell mit ihm arbeiten!<br/>Kann sonst noch nicht viel sagen, da ich ihn jetzt erst ganz frisch erhalten habe und ich auch kein Freak bin, der jetzt mit Technikwissen aller Art um sich werfen und damit Eindruck schinden k&#xF6;nnte!<br/>Mit Acer bin ICH jedenfalls super zufrieden und gl&#xFC;cklich und kann einen solchen nur empfehlen, alles bestens bisher! Danke, gerne wieder!!!<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on July 30, 2022",
+          "utc": "2022-07-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rosenrot",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/9c240f39-15e9-43b8-b9f0-3b2a0575a7fe._CR0%2C0%2C375%2C375_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "Laptop"
+          }
+        ]
+      },
+      {
+        "id": "R2VHYQNOVY2ZSK",
+        "title": "Zuverlässiges Gerät",
+        "body": "Der alte Laptop hatte das Zeitliche gesegnet, das Teil ersetzte einen Celeron (10 Jahre alt) mit HDD.  SSD in Zeiten von Windows 10/11 unabdingbar. Läuft schnell und stabil mit Linux Mint. Webcam funktioniert. Gutes Bild. Mama gefällts.  Hatte ihn eingerichtet. (kam mit Windows 11)  Tipp: Wer das Gerät das erste Mal benutzt, muss sich bei Microft registrieren. Ein Onlinekonto erstellen. Hier für wird ein Setupprozess durchlaufen. Nicht abrrechen.  Auf dieses Onlinekonto wird Windows 11 (Key) registriert. Wichtig.  Ich finde: Ein gutes Gerät Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Der alte Laptop hatte das Zeitliche gesegnet, das Teil ersetzte einen Celeron (10 Jahre alt) mit HDD.<br/><br/>SSD in Zeiten von Windows 10/11 unabdingbar. L&#xE4;uft schnell und stabil mit Linux Mint. Webcam funktioniert. Gutes Bild. Mama gef&#xE4;llts.<br/><br/>Hatte ihn eingerichtet. (kam mit Windows 11)<br/><br/>Tipp: Wer das Ger&#xE4;t das erste Mal benutzt, muss sich bei Microft registrieren. Ein Onlinekonto erstellen. Hier f&#xFC;r wird ein Setupprozess durchlaufen. Nicht abrrechen.<br/><br/>Auf dieses Onlinekonto wird Windows 11 (Key) registriert. Wichtig.<br/><br/>Ich finde: Ein gutes Ger&#xE4;t<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on January 24, 2023",
+          "utc": "2023-01-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Douz",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/913715bb-d5d2-4ac1-a5a9-d2afc9e1652d._CR0%2C0%2C432%2C432_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "Laptop"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "145.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "229.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "General Hardware Story",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A36H6INVDO6GDV&asin=B0F4CY5SG7&ref_=dp_merchant_link",
+          "id": "A36H6INVDO6GDV"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1699.99,
+        "currency": "USD",
+        "raw": "$1,699.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.6 GHz core_i9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎2 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4060"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎4"
+      },
+      {
+        "name": "Brand",
+        "value": "‎acer"
+      },
+      {
+        "name": "Series",
+        "value": "‎Acer Nitro V Gaming Laptop"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎Acer Nitro V Gaming Laptop"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.66 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.26 x 0.93 x 9.44 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.26 x 0.93 x 9.44 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Black"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎14"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F4CY5SG7"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         107 ratings          4.4 out of 5 stars"
+      },
+      {
+        "name": "Date First Available",
+        "value": "September 23, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "acer"
+      },
+      {
+        "name": "Model Name",
+        "value": "Acer Nitro V Gaming Laptop"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "2 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "64 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Backlit Keyboard. Operating System: Windows 11 Pro. Ram Memory Installed Size: 64 GB. CPU Model: Core i9. Hard Disk Size: 2 TB. Color: Black. Screen Size: 15.6 Inches. Model Name: Acer Nitro V Gaming Laptop. Brand: acer. Date First Available: September 23, 2024. Customer Reviews: 4.4    4.4 out of 5 stars         107 ratings          4.4 out of 5 stars. ASIN: B0F4CY5SG7. Hard Drive Interface: ‎Solid State. Number of Processors: ‎14. Processor Brand: ‎Intel. Color: ‎Black. Item Dimensions  LxWxH: ‎14.26 x 0.93 x 9.44 inches. Product Dimensions: ‎14.26 x 0.93 x 9.44 inches. Item Weight: ‎4.66 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎Acer Nitro V Gaming Laptop. Series: ‎Acer Nitro V Gaming Laptop. Brand: ‎acer. Number of USB 3.0 Ports: ‎4. Wireless Type: ‎Bluetooth, 802.11ax. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4060. Hard Drive: ‎2 TB SSD. RAM: ‎DDR5. Processor: ‎2.6 GHz core_i9. Max Screen Resolution: ‎1920x1080 Pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "color": "‎Black",
+    "weight": "‎4.66 pounds",
+    "first_available": {
+      "raw": "September 23, 2024",
+      "utc": "2024-09-23T00:00:00.000Z"
+    },
+    "dimensions": "‎14.26 x 0.93 x 9.44 inches",
+    "model_number": "‎Acer Nitro V Gaming Laptop",
+    "whats_in_the_box": [
+      "Laptop, Accessories"
+    ]
+  },
+  "brand_store": {
+    "id": "0074ABD9-06D1-469D-B509-C3134D6FFFF2",
+    "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 5299.97,
+      "currency": "USD",
+      "raw": "$5,299.97"
+    },
+    "products": [
+      {
+        "asin": "B0F4CY5SG7",
+        "title": "acer Nitro V 15 Gaming Laptop, with 2024 Office Lifetime License, Intel 14-Core i9-13900H, RTX 4060, 15.6\" FHD IPS Display, 64GB DDR5, 2TB SSD, Wi-Fi 6, Backlit Keyboard, Windows 11 Pro, Wi-Fi 6",
+        "link": "https://www.amazon.com/dp/B0F4CY5SG7",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71KfKKhkKML._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1699.99,
+          "currency": "USD",
+          "raw": "$1,699.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0D4LJBXQ5",
+    "link": "https://www.amazon.com/dp/B0D4LJBXQ5/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=llpE7&pd_rd_i=B0D4LJBXQ5&pd_rd_w=j2rIw&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=9d1b4917-d9a5-4da2-8ac5-b5db4235221c&psc=1",
+    "title": "Dell Inspiron 16 Plus 7640 Laptop- 16.0-inch 16:10 2.5K Display, Intel Core Ultra 7-155H, 32GB DDR5 RAM, 2TB SSD, NVIDIA GeForce RTX 4060 8GB GDDR6, Windows 11 Home, Onsite & Migrate Service- Ice Blue",
+    "rating": 4.5,
+    "ratings_total": 244,
+    "image": "https://m.media-amazon.com/images/I/71ltDhhO1YL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "ASUS ROG Strix G16 Gaming Laptop, 165Hz Display, NVIDIA® GeForce RTX™ 4060, Intel Core i7-13650HX, 16GB DDR5, 1TB PCIe Gen4 S",
+      "asin": "B0CRDCXRK2",
+      "link": "https://www.amazon.com/ASUS-Display-NVIDIA%C2%AE-i7-13650HX-G614JV-AS74/dp/B0CRDCXRK2/ref=pd_sbs_d_sccl_2_1/138-4089872-9774010?pd_rd_w=VoY8m&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=QY4eO&pd_rd_r=b4740b1c-ecfc-485c-a441-38ecbf17701f&pd_rd_i=B0CRDCXRK2&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81GrCeuCzxL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 1901,
+      "price": {
+        "symbol": "$",
+        "value": 1244.78,
+        "currency": "USD",
+        "raw": "$1,244.78"
+      }
+    },
+    {
+      "title": "acer Nitro V Gaming Laptop | Intel Core i7-13620H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6\" FHD IPS 144Hz Displa",
+      "asin": "B0CMRGBXM9",
+      "link": "https://www.amazon.com/i7-13620H-Processor-GeForce-Display-ANV15-51-73B9/dp/B0CMRGBXM9/ref=pd_sbs_d_sccl_2_2/138-4089872-9774010?pd_rd_w=VoY8m&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=QY4eO&pd_rd_r=b4740b1c-ecfc-485c-a441-38ecbf17701f&pd_rd_i=B0CMRGBXM9&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F-Wcriq4L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 1126,
+      "price": {
+        "symbol": "$",
+        "value": 895.27,
+        "currency": "USD",
+        "raw": "$895.27"
+      }
+    },
+    {
+      "title": "acer Nitro V 15 Gaming Laptop, with 2024 Office Lifetime License, Intel 14-Core i9-13900H, RTX 4060, 15.6\" FHD Display, 64 GB",
+      "asin": "B0F4CW2J2N",
+      "link": "https://www.amazon.com/acer-Nitro-Gaming-Laptop-i9-13900H/dp/B0F4CW2J2N/ref=pd_sbs_d_sccl_2_3/138-4089872-9774010?pd_rd_w=VoY8m&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=QY4eO&pd_rd_r=b4740b1c-ecfc-485c-a441-38ecbf17701f&pd_rd_i=B0F4CW2J2N&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+rNxW2ZnL._AC_UL165_SR165,165_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 1849.99,
+        "currency": "USD",
+        "raw": "$1,849.99"
+      }
+    },
+    {
+      "title": "acer Nitro V 15 Gaming Laptop, Intel i9-13900H Up to 5.4GHz, GeForce RTX 4060, 15.6\" 144 Hz IPS Display, 32 GB DDR5, 2 TB SSD",
+      "asin": "B0DQTRPN4H",
+      "link": "https://www.amazon.com/acer-Nitro-Gaming-Laptop-i9-13900H/dp/B0DQTRPN4H/ref=pd_sbs_d_sccl_2_4/138-4089872-9774010?pd_rd_w=VoY8m&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=QY4eO&pd_rd_r=b4740b1c-ecfc-485c-a441-38ecbf17701f&pd_rd_i=B0DQTRPN4H&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71HXWrvCUVL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 2754,
+      "price": {
+        "symbol": "$",
+        "value": 1659.99,
+        "currency": "USD",
+        "raw": "$1,659.99"
+      }
+    },
+    {
+      "title": "ASUS TUF Gaming A16 Gaming Laptop, 16” FHD+ 16:10 165Hz Display, AMD Ryzen™ 9 7940HX, NVIDIA® GeForce RTX™ 4060, 16GB DDR5, 5",
+      "asin": "B0CRLDDCFV",
+      "link": "https://www.amazon.com/ASUS-TUF-Gaming-A16-Laptop/dp/B0CRLDDCFV/ref=pd_sbs_d_sccl_2_5/138-4089872-9774010?pd_rd_w=VoY8m&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=QY4eO&pd_rd_r=b4740b1c-ecfc-485c-a441-38ecbf17701f&pd_rd_i=B0CRLDDCFV&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41FC8QoPGbL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 83,
+      "price": {
+        "symbol": "$",
+        "value": 1399.24,
+        "currency": "USD",
+        "raw": "$1,399.24"
+      }
+    },
+    {
+      "title": "Acer Nitro V Gaming Laptop | Intel Core i9-13900H Processor | NVIDIA GeForce RTX 4060 Laptop GPU | 15.6\" FHD IPS 144Hz Displa",
+      "asin": "B0D8JXHZTH",
+      "link": "https://www.amazon.com/i9-13900H-Processor-GeForce-Display-ANV15-51-99DR/dp/B0D8JXHZTH/ref=pd_sbs_d_sccl_2_6/138-4089872-9774010?pd_rd_w=VoY8m&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=5Y0MC8FSDM5NF28BRF4S&pd_rd_wg=QY4eO&pd_rd_r=b4740b1c-ecfc-485c-a441-38ecbf17701f&pd_rd_i=B0D8JXHZTH&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F-Wcriq4L._AC_UL165_SR165,165_.jpg",
+      "rating": 4,
+      "ratings_total": 141,
+      "price": {
+        "symbol": "$",
+        "value": 1139.99,
+        "currency": "USD",
+        "raw": "$1,139.99"
+      }
+    }
+  ]
+}

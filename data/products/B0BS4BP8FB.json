@@ -1,0 +1,1437 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5583,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0BS4BP8FB",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:53:29.874Z",
+    "processed_at": "2025-05-20T01:53:36.688Z",
+    "total_time_taken": 6.81,
+    "amazon_url": "https://www.amazon.com/dp/B0BS4BP8FB?th=1&psc=1"
+  },
+  "product": {
+    "title": "Acer Aspire 3 A315-24P-R7VH Slim Laptop | 15.6\" Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Acer,Aspire,3,A315-24P-R7VH,Slim,Laptop,|,15.6\",Full,HD,IPS,Display,|,AMD,Ryzen,3,7320U,Quad-Core,Processor,|,AMD,Radeon,Graphics,|,8GB,LPDDR5,|,128GB,NVMe,SSD,|,Wi-Fi,6,|,Windows,11,Home,in,S,Mode",
+    "keywords_list": [
+      "Acer",
+      "Aspire",
+      "A315-24P-R7VH",
+      "Slim",
+      "Laptop",
+      "15.6\"",
+      "Full",
+      "Display",
+      "Ryzen",
+      "7320U",
+      "Quad-Core",
+      "Processor",
+      "Radeon",
+      "Graphics",
+      "LPDDR5",
+      "128GB",
+      "NVMe",
+      "Wi-Fi",
+      "Windows",
+      "Home",
+      "Mode"
+    ],
+    "is_collection": false,
+    "asin": "B0BS4BP8FB",
+    "parent_asin": "B0F1TDX9D3",
+    "link": "https://www.amazon.com/A315-24P-R7VH-Display-Quad-Core-Processor-Graphics/dp/B0BS4BP8FB",
+    "brand": "‎acer",
+    "protection_plans": [
+      {
+        "asin": "B07PC1HYF2",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "asin": "B07PBD7V32",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 47.99,
+          "currency": "USD",
+          "raw": "$47.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "A314-23P-R3QA 14 inch",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "A314-23P-R3QA"
+          },
+          {
+            "name": "style",
+            "value": "14 inch"
+          }
+        ],
+        "asin": "B0BSLVF5F5",
+        "link": "https://amazon.com/dp/B0BSLVF5F5?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "R5 7520u 15.6 inch touch",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "R5 7520u"
+          },
+          {
+            "name": "style",
+            "value": "15.6 inch touch"
+          }
+        ],
+        "asin": "B0CJV41KZN",
+        "link": "https://amazon.com/dp/B0CJV41KZN?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "R7 8840HS 15.6 inch",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "R7 8840HS"
+          },
+          {
+            "name": "style",
+            "value": "15.6 inch"
+          }
+        ],
+        "asin": "B0DPRBSFXV",
+        "link": "https://amazon.com/dp/B0DPRBSFXV?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "R7 5825U 15.6 inch",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "R7 5825U"
+          },
+          {
+            "name": "style",
+            "value": "15.6 inch"
+          }
+        ],
+        "asin": "B0DTB4R3VP",
+        "link": "https://amazon.com/dp/B0DTB4R3VP?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "R3 7320U 15.6 inch",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "R3 7320U"
+          },
+          {
+            "name": "style",
+            "value": "15.6 inch"
+          }
+        ],
+        "asin": "B0BS4BP8FB",
+        "link": "https://amazon.com/dp/B0BS4BP8FB?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0BSLVF5F5,B0CJV41KZN,B0DPRBSFXV,B0DTB4R3VP,B0BS4BP8FB",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "documents": [
+      {
+        "name": "User Manual (PDF)",
+        "link": "https://m.media-amazon.com/images/I/B1N3xP1WkXL.pdf"
+      }
+    ],
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Choose the ready-to-go Aspire 3 with the latest Ryzen™ 7000 Series Processors made for practical multitasking and productivity. With ease-of-use at its core, this family-friendly laptop is ready when you are. This Aspire 3 can tackle any job no matter how complex. Creativity soars to new heights with sharp, crisp visuals showcased on the 15.6\" Full HD IPS screen, while the thin bezel provides you with more space to work with wherever inspiration strikes. It’s the perfect companion to take with you wherever you go With Windows 11 Home in S mode, you’ll experience fast start-ups, a familiar yet expanded Start menu, and great new ways to get stuff done. And with automatic updates enabled, you get all the latest features and security hassle-free. Work, play and share all in one device (NX.KJBAA.001).",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the acer Store",
+      "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2?is_byline_deeplink=true&deeplink=9A062111-1E74-4954-A514-8E80F1707891&redirect_store_id=0074ABD9-06D1-469D-B509-C3134D6FFFF2&lp_asin=B0BS4BP8FB&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 66,
+        "count": 2321
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 562
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 175
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 105
+      },
+      "one_star": {
+        "percentage": 10,
+        "count": 351
+      }
+    },
+    "ratings_total": 3517,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61gKkYQn6lL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61gKkYQn6lL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81w4nBxLSyL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51dVqOOYe4L._AC_SL1000_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71fe79-n1RL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51JDZf0znWL._AC_SL1000_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51YhIiUU7gL._AC_SL1000_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61tgNNHMP5L._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/619LrGqcdGL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41E5cymSgtL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61gKkYQn6lL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81w4nBxLSyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51dVqOOYe4L._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71fe79-n1RL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51JDZf0znWL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/51YhIiUU7gL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61tgNNHMP5L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/619LrGqcdGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/41E5cymSgtL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 58,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/71+gsnEHxqL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e910fb-d4ea-4476-b6d3-9214683b4f96/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Aspire 3 vs Acer Aspire 5 - What's the DIFFERENCE?"
+      },
+      {
+        "duration_seconds": 92,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/916upYecXVL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/406e2b8a-347d-4bf8-b693-922c46e5babe/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "My Honest Acer Laptop Review"
+      },
+      {
+        "duration_seconds": 99,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51jStOyLdyL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d4c95ba-55b3-4959-8173-9cb532e72ab6/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Aspire 3 Laptop Review "
+      },
+      {
+        "duration_seconds": 16,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61Lnq-sf6qL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/849ef35f-6f39-4968-b2a3-68937cbfcfa7/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "acer laptop - is it worth it? "
+      },
+      {
+        "duration_seconds": 112,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/61t3nHC7qiL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe7fc06-e35d-47eb-ba71-0a6057377a3a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "3 Things You Should Know About The Acer Aspire 3"
+      },
+      {
+        "duration_seconds": 728,
+        "width": 2200,
+        "height": 1238,
+        "thumbnail": "https://m.media-amazon.com/images/I/91H-cTSWJBL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bbe343e2-eeda-4ad2-9ddc-bf02fe2c3177/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "This Acer Aspire 3 Implements The AMD Ryzen PERFECTLY!"
+      },
+      {
+        "duration_seconds": 104,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/91lmE4lwUAL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93f2b2f1-1c47-47fc-9623-34ae7b4baed2/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "ACER ASPIRE 3 Daily Use Review"
+      },
+      {
+        "duration_seconds": 105,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51CorT5De6L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/576d62a0-9e97-4ce3-b05e-39438e1bc313/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Aspire 3 Slim Laptop Review"
+      },
+      {
+        "duration_seconds": 171,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/916rilNGQnL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e0c36a8-787c-4702-9d55-a9ae336aebe2/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "What I don't like about the Acer Aspire 3 Laptop"
+      },
+      {
+        "duration_seconds": 15,
+        "width": 854,
+        "height": 480,
+        "thumbnail": "https://m.media-amazon.com/images/I/7138nt3SXiL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4eabf420-16b5-4425-961f-0a6550e14d67/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Windows 11 Centralized Universal Search"
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e910fb-d4ea-4476-b6d3-9214683b4f96/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/406e2b8a-347d-4bf8-b693-922c46e5babe/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d4c95ba-55b3-4959-8173-9cb532e72ab6/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/849ef35f-6f39-4968-b2a3-68937cbfcfa7/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe7fc06-e35d-47eb-ba71-0a6057377a3a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bbe343e2-eeda-4ad2-9ddc-bf02fe2c3177/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93f2b2f1-1c47-47fc-9623-34ae7b4baed2/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/576d62a0-9e97-4ce3-b05e-39438e1bc313/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e0c36a8-787c-4702-9d55-a9ae336aebe2/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4eabf420-16b5-4425-961f-0a6550e14d67/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0cb16b567af641b3a7171630e4b62f80",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB,B0D85P8HQ4",
+        "title": "Acer Aspire 3 vs Acer Aspire 5 - What's the DIFFERENCE?",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/influencer-2ab29790_1673673906802_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/influencer-2ab29790",
+        "public_name": "The French Glow",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-2ab29790:shop",
+        "vendor_name": "The French Glow",
+        "vendor_tracking_id": "thefrenchglow-20",
+        "video_image_id": "71+gsnEHxqL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71+gsnEHxqL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71+gsnEHxqL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bdfc0d80-7d69-4286-9574-54899484d1bf/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e910fb-d4ea-4476-b6d3-9214683b4f96/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e910fb-d4ea-4476-b6d3-9214683b4f96/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:58",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/03af838e-3ea2-4ac4-bd61-cd5aa1638600.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0dad57666ae444b2a28a9c1552ba580b",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB,B0C1545141",
+        "title": "My Honest Acer Laptop Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1u-5UO+l4L._CR736,135,1205,1204_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/barrymonteiro1",
+        "public_name": "Monty's Crew Product Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "barrymonteiro1:shop",
+        "vendor_name": "Monty's Crew Product Reviews",
+        "vendor_tracking_id": "onamzbarrye.m-20",
+        "video_image_id": "916upYecXVL",
+        "video_image_url": "https://m.media-amazon.com/images/I/916upYecXVL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/916upYecXVL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c107d23f-1f17-459e-8ab9-c1efddf9a3ea/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/406e2b8a-347d-4bf8-b693-922c46e5babe/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/406e2b8a-347d-4bf8-b693-922c46e5babe/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/406e2b8a-347d-4bf8-b693-922c46e5babe/742d26ec-714e-4708-80fb-088b89ad5e9e/0dad57666ae444b2a28a9c1552ba580b_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:32",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0e7227ed-e869-4c98-a77d-acc508f552da.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.039748d67f3e45feb4c09efe0b4b3a26",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB,B0CXHXVTJ9",
+        "title": "Acer Aspire 3 Laptop Review ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1ZNCvrT2CL._CR0,0,2232,2232_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/bullets4bucks",
+        "public_name": "Pure Wyoming Productions LLC",
+        "creator_type": "Influencer",
+        "vendor_code": "bullets4bucks:shop",
+        "vendor_name": "Pure Wyoming Productions LLC",
+        "vendor_tracking_id": "bullets4buc0b-20",
+        "video_image_id": "51jStOyLdyL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51jStOyLdyL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51jStOyLdyL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7e94b75-f550-491d-acf7-d4c879380d74/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d4c95ba-55b3-4959-8173-9cb532e72ab6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d4c95ba-55b3-4959-8173-9cb532e72ab6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d4c95ba-55b3-4959-8173-9cb532e72ab6/1243f4e4-ce2d-47a9-a73e-8bd540213f9b/039748d67f3e45feb4c09efe0b4b3a26_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:39",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e0a37d5d-47a8-4f4f-9533-83a5a55b872e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.067a2e6dfad04bef993ed3d067104a12",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB",
+        "title": "acer laptop - is it worth it? ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41n5hkNRUDL._CR0,0,342,342_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-385396b6",
+        "public_name": "Isaac Bengston",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-385396b6:shop",
+        "vendor_name": "Isaac Bengston",
+        "vendor_tracking_id": "onamzisaacb0b-20",
+        "video_image_id": "61Lnq-sf6qL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61Lnq-sf6qL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61Lnq-sf6qL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/82a62d05-dd11-460b-9377-a565f0ef30c8/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/849ef35f-6f39-4968-b2a3-68937cbfcfa7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/849ef35f-6f39-4968-b2a3-68937cbfcfa7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cfadb260-173a-458a-a16b-a41366d83c62.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09e4fcca0b204b9d90d1281b6201c191",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB,B0BS4HRL8L,B0DXPDHRRS,B0CY6Q5KDJ",
+        "title": "3 Things You Should Know About The Acer Aspire 3",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1Yj35MGW5L._CR0,459,904,903_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/pacodesigntipshacks",
+        "public_name": "Paco Puylaert",
+        "creator_type": "Influencer",
+        "vendor_code": "pacodesigntipshacks:shop",
+        "vendor_name": "Paco Puylaert",
+        "vendor_tracking_id": "onamzpacopuyl-20",
+        "video_image_id": "61t3nHC7qiL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61t3nHC7qiL._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61t3nHC7qiL.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/00f9042a-7175-40e8-a4ac-fd035af9328f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe7fc06-e35d-47eb-ba71-0a6057377a3a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe7fc06-e35d-47eb-ba71-0a6057377a3a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fe7fc06-e35d-47eb-ba71-0a6057377a3a/e2717322-c73e-429b-bb68-08805d984e90/09e4fcca0b204b9d90d1281b6201c191_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b573552b-ed42-4d1f-b1e3-efbe5572c6dd.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.02569dbe47d547e8a8014cf98593b21a",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0CZHHL8PV,B0BS4BP8FB,B0DM8QWG91",
+        "title": "This Acer Aspire 3 Implements The AMD Ryzen PERFECTLY!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61UCG0MXm7L._CR31,6,250,250_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/toolsdoctor",
+        "public_name": "🌟 Toolsdoctor",
+        "creator_type": "Influencer",
+        "vendor_code": "toolsdoctor:shop",
+        "vendor_name": "🌟 Toolsdoctor",
+        "vendor_tracking_id": "onamzdecisitr-20",
+        "video_image_id": "91H-cTSWJBL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91H-cTSWJBL._CR3,0,2194,1238_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91H-cTSWJBL.jpg",
+        "video_image_width": "2200",
+        "video_image_height": "1238",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de7c23d9-3017-4227-85bb-272dd962521c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bbe343e2-eeda-4ad2-9ddc-bf02fe2c3177/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bbe343e2-eeda-4ad2-9ddc-bf02fe2c3177/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "12:08",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/22a45de2-929b-402a-9b35-30e40db2dfa2.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.03b9f40ced074fa38cc3ccea6d2412ae",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB,B0BKH31C8F,B0C2ZMJW53,B0BL9BTW1S",
+        "title": "ACER ASPIRE 3 Daily Use Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C14WbI+mxQL._CR399,758,2256,2257_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-dc066257",
+        "public_name": "Luis Guerra",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-dc066257:shop",
+        "vendor_name": "Luis Guerra",
+        "vendor_tracking_id": "onamzluisgu02-20",
+        "video_image_id": "91lmE4lwUAL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91lmE4lwUAL._CR3,0,1914,1080_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91lmE4lwUAL.png",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c1a682fa-349c-4163-b1c0-1c808ed4e120/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93f2b2f1-1c47-47fc-9623-34ae7b4baed2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93f2b2f1-1c47-47fc-9623-34ae7b4baed2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/93f2b2f1-1c47-47fc-9623-34ae7b4baed2/5e3f6bc2-c28d-45c0-81bc-5366ed16cb1d/03b9f40ced074fa38cc3ccea6d2412ae_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1afa010d-3966-464f-b4c0-efb617eb8cb5.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.00582822132c4362afa35ea52c890737",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB,B0C2ZMJW53",
+        "title": "Acer Aspire 3 Slim Laptop Review",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/professortirado_1665258010152_original._CR932,0,2160,2160_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/professortirado",
+        "public_name": "Smart Tech with JT",
+        "creator_type": "Influencer",
+        "vendor_code": "professortirado:shop",
+        "vendor_name": "Smart Tech with JT",
+        "vendor_tracking_id": "welbeckadvi01-20",
+        "video_image_id": "51CorT5De6L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51CorT5De6L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51CorT5De6L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fb2ee91c-7905-4012-876b-0d03f55713e0/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/576d62a0-9e97-4ce3-b05e-39438e1bc313/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/576d62a0-9e97-4ce3-b05e-39438e1bc313/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/576d62a0-9e97-4ce3-b05e-39438e1bc313/cedb77a1-0716-4105-a224-254eb28c493b/00582822132c4362afa35ea52c890737_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:45",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1fc51c00-7110-4fcd-9024-2b6a39e4c744.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.035041adf9504dab9fbc72f9cff42175",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BS4BP8FB",
+        "title": "What I don't like about the Acer Aspire 3 Laptop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51P7hiaPJOL._CR42,55,414,414_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/frankwhosstuff",
+        "public_name": "Frank Who Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "frankwhosstuff:shop",
+        "vendor_name": "Frank Who Reviews",
+        "vendor_tracking_id": "onamzfrank02c-20",
+        "video_image_id": "916rilNGQnL",
+        "video_image_url": "https://m.media-amazon.com/images/I/916rilNGQnL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/916rilNGQnL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/017f1ce9-9549-434d-af5a-112a002315a9/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e0c36a8-787c-4702-9d55-a9ae336aebe2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e0c36a8-787c-4702-9d55-a9ae336aebe2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:51",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b3d3d8a1-9082-4a7e-8693-d494140cae04.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e89097303ed46f189db17deaee42fb0",
+        "product_asin": "B0BS4BP8FB",
+        "parent_asin": "B0F1TDX9D3",
+        "related_products": "B0BL35XNF5,B0BSLVF5F5,B0BS4BP8FB,B0BV39D1Y5,B0BTQWR77M",
+        "title": "Windows 11 Centralized Universal Search",
+        "public_name": "Acer America Corporation",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Acer America Corporation",
+        "video_image_id": "7138nt3SXiL",
+        "video_image_url": "https://m.media-amazon.com/images/I/7138nt3SXiL._CR2,0,851,480_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/7138nt3SXiL.png",
+        "video_image_width": "854",
+        "video_image_height": "480",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32b388c6-2a6f-46b6-b59a-ac9ec038ab1a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4eabf420-16b5-4425-961f-0a6550e14d67/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4eabf420-16b5-4425-961f-0a6550e14d67/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4eabf420-16b5-4425-961f-0a6550e14d67/5a2a6e6b-584a-48b8-9d50-f14d25ec7cc2/0e89097303ed46f189db17deaee42fb0_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6bfe7dcb-da04-43de-9ac8-6df8bc605914.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.",
+      "Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core.",
+      "Visibly Stunning: Experience sharp details and crisp colors on the 15.6\" Full HD IPS display with 16:9 aspect ratio and narrow bezels.",
+      "Internal Specifications: 8GB LPDDR5 Onboard Memory; 128GB NVMe solid-state drive storage to store your files and media",
+      "The HD front-facing camera uses Acer’s TNR (Temporal Noise Reduction) technology for high-quality imagery in low-light conditions. Acer PurifiedVoice technology with AI Noise Reduction filters out any extra sound for clear communication over online meetings.",
+      "Wireless Wi-Fi 6 Convenience: Maintain a strong, consistent wireless signal with Wi-Fi 6 (aka 802.11ax) and 2x2 MU-MIMO technology.",
+      "Improved Thermals: With a 78% increase in fan surface area, enjoy an improved thermal system and an additional 17% thermal capacity. Allowing for longer, more efficient work sessions while not plugged in.",
+      "Ports For All Your Accessories: 1 - USB Type-C Port USB 3.2 Gen 2 (up to 10 Gbps) DisplayPort over USB Type-C & USB Charging, 2 - USB 3.2 Gen 1 Ports, 1 - HDMI 2.1 Port with HDCP support, 1 - Headphone/Speaker/Line-Out Jack, DC-in for AC adapter",
+      "What's In the Box: Acer Aspire Laptop, AC Adapter, Power Cord",
+      "Keyboard backlight not present on this model"
+    ],
+    "feature_bullets_count": 10,
+    "feature_bullets_flat": "Keyboard backlight not present on this model. What's In the Box: Acer Aspire Laptop, AC Adapter, Power Cord. Ports For All Your Accessories: 1 - USB Type-C Port USB 3.2 Gen 2 (up to 10 Gbps) DisplayPort over USB Type-C & USB Charging, 2 - USB 3.2 Gen 1 Ports, 1 - HDMI 2.1 Port with HDCP support, 1 - Headphone/Speaker/Line-Out Jack, DC-in for AC adapter. Improved Thermals: With a 78% increase in fan surface area, enjoy an improved thermal system and an additional 17% thermal capacity. Allowing for longer, more efficient work sessions while not plugged in. Wireless Wi-Fi 6 Convenience: Maintain a strong, consistent wireless signal with Wi-Fi 6 (aka 802.11ax) and 2x2 MU-MIMO technology. The HD front-facing camera uses Acer’s TNR (Temporal Noise Reduction) technology for high-quality imagery in low-light conditions. Acer PurifiedVoice technology with AI Noise Reduction filters out any extra sound for clear communication over online meetings. Internal Specifications: 8GB LPDDR5 Onboard Memory; 128GB NVMe solid-state drive storage to store your files and media. Visibly Stunning: Experience sharp details and crisp colors on the 15.6\" Full HD IPS display with 16:9 aspect ratio and narrow bezels. Ready-to-Go Performance: The Aspire 3 is ready-to-go with the latest AMD Ryzen 3 7320U Processor with Radeon Graphics—ideal for the entire family, with performance and productivity at the core. Purposeful Design: Travel with ease and look great doing it with the Aspire's 3 thin, light design.",
+    "top_reviews": [
+      {
+        "id": "RSYHOGJBU67RC",
+        "title": "A Dependable Daily Driver – My Honest Laptop Review",
+        "body": "After using my laptop daily for the past few months, I can confidently say it's been a reliable tool for both work and leisure. I mainly use it for web browsing, document editing, video calls, and some light multimedia use, and it hasn't let me down.  What I Like:  Smooth Performance: The processor and RAM handle multitasking well—whether I’m switching between tabs or using office apps, everything runs smoothly.  Fast Boot and Load Times: Thanks to the SSD, startup and app launches are quick, which saves me time every day.  Decent Display: The screen is bright and clear enough for work and watching videos, with good color accuracy.  Portable and Lightweight: Easy to carry around, especially important when I work outside or travel.  Room for Improvement:  Battery Life: It’s fine for a few hours of use, but not ideal for a full day without a charger.  Audio Quality: The speakers are just average—not great for music or movies without headphones.  Trackpad Feel: A bit less responsive than I’d like, but manageable.  Overall Verdict: This laptop strikes a great balance between price and performance. It’s not a high-end powerhouse, but for students, professionals, or anyone who needs a dependable everyday machine, it does the job well. I’d definitely recommend it for basic to moderate use. Read more",
+        "asin": "B0BS4BP8FB",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>After using my laptop daily for the past few months, I can confidently say it&apos;s been a reliable tool for both work and leisure. I mainly use it for web browsing, document editing, video calls, and some light multimedia use, and it hasn&apos;t let me down.<br/><br/>What I Like:<br/><br/>Smooth Performance: The processor and RAM handle multitasking well&#x2014;whether I&#x2019;m switching between tabs or using office apps, everything runs smoothly.<br/><br/>Fast Boot and Load Times: Thanks to the SSD, startup and app launches are quick, which saves me time every day.<br/><br/>Decent Display: The screen is bright and clear enough for work and watching videos, with good color accuracy.<br/><br/>Portable and Lightweight: Easy to carry around, especially important when I work outside or travel.<br/><br/>Room for Improvement:<br/><br/>Battery Life: It&#x2019;s fine for a few hours of use, but not ideal for a full day without a charger.<br/><br/>Audio Quality: The speakers are just average&#x2014;not great for music or movies without headphones.<br/><br/>Trackpad Feel: A bit less responsive than I&#x2019;d like, but manageable.<br/><br/>Overall Verdict:<br/>This laptop strikes a great balance between price and performance. It&#x2019;s not a high-end powerhouse, but for students, professionals, or anyone who needs a dependable everyday machine, it does the job well. I&#x2019;d definitely recommend it for basic to moderate use.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RSYHOGJBU67RC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BS4BP8FB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 13, 2025",
+          "utc": "2025-05-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nikki Larsen",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEVEZFZVHYT26MIGUJDMIMQVWDFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEVEZFZVHYT26MIGUJDMIMQVWDFQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/1b91176e-d9d0-4645-aa72-bb3146f448ed._CR0%2C100%2C1080%2C1080_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "RL9OU32L79NS0",
+        "title": "Everything I was looking for",
+        "body": "Pretty good laptop. Will make a really good school or low level gaming laptop compared to latest games. It came with a 128gb 800mbps m.2 drive that was slow for windows 11 so upgraded it to 1tb 3500mbps m.2 drive. There are mixed reviews and info even from the manufacturer on if it has a extra ram slot or not but this one does not have one. All the ram is soldered to the motherboard and needs to be taken to an Acer shop in order to upgrade. Out of the box it used 6/8gb of ram at first then after the updates it dropped down to 4/8gb used. The system is pretty fast for only having 4gb free. The processor is the main feature I ordered it for since it is a 4core-8thread processor with speed ranging from 2.5ghz to 4.3ghz. After trying some more power demanding games the temp could still not pass 50c and stays quiet and cool to touch. It normally stays idle around 41c when not under a heavy load with no sound from the fans. The screen is decent quality but not meant for games since it's LCD and not being led the games get a bit of blur here and there with higher fps. Word of advice is when installing a different operating system the WiFi drivers do not reinstall with the system so any online activation is almost useless unless you have a usb-ethernet adapter. The battery lasts me around 6 hours in performance mode but in power saving mode could possibly last 9+ hours and way longer with some power setting tweaks. The graphics says 600mb dedicated and 3400mb shared but unlike a lot of systems all the shared moves straight to dedicated making it 4gb for the graphics. The value is pretty good and the appearance is slick. My older brother was checking it out and thinking of buying one now because of how well it does. Some upgrades to look into if you know what your doing is a new m.2 drive with a faster transfer rate and also possibly an upgraded 15.6inch screen that's 1080p-4k. Read more",
+        "asin": "B0BS4BP8FB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Pretty good laptop. Will make a really good school or low level gaming laptop compared to latest games.<br/>It came with a 128gb 800mbps m.2 drive that was slow for windows 11 so upgraded it to 1tb 3500mbps m.2 drive. There are mixed reviews and info even from the manufacturer on if it has a extra ram slot or not but this one does not have one. All the ram is soldered to the motherboard and needs to be taken to an Acer shop in order to upgrade. Out of the box it used 6/8gb of ram at first then after the updates it dropped down to 4/8gb used. The system is pretty fast for only having 4gb free. The processor is the main feature I ordered it for since it is a 4core-8thread processor with speed ranging from 2.5ghz to 4.3ghz. After trying some more power demanding games the temp could still not pass 50c and stays quiet and cool to touch. It normally stays idle around 41c when not under a heavy load with no sound from the fans. The screen is decent quality but not meant for games since it&apos;s LCD and not being led the games get a bit of blur here and there with higher fps. Word of advice is when installing a different operating system the WiFi drivers do not reinstall with the system so any online activation is almost useless unless you have a usb-ethernet adapter. The battery lasts me around 6 hours in performance mode but in power saving mode could possibly last 9+ hours and way longer with some power setting tweaks. The graphics says 600mb dedicated and 3400mb shared but unlike a lot of systems all the shared moves straight to dedicated making it 4gb for the graphics. The value is pretty good and the appearance is slick. My older brother was checking it out and thinking of buying one now because of how well it does. Some upgrades to look into if you know what your doing is a new m.2 drive with a faster transfer rate and also possibly an upgraded 15.6inch screen that&apos;s 1080p-4k.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RL9OU32L79NS0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BS4BP8FB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 10, 2024",
+          "utc": "2024-08-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "thomas",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHCM3KXYVC3ZLDHMV566FDVEK6IA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHCM3KXYVC3ZLDHMV566FDVEK6IA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 169,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "R31Z5ECKKX5VFC",
+        "title": "Good mid level laptop",
+        "body": "Neede a laptop with a 10 key. Works well. Have had for a year and hasn't slowed down yet. Great size. A lil heavy but thats okay. Can't beat the price great value and we'll designed. Read more",
+        "asin": "B0BS4BP8FB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Neede a laptop with a 10 key. Works well. Have had for a year and hasn&apos;t slowed down yet. Great size. A lil heavy but thats okay. Can&apos;t beat the price great value and we&apos;ll designed.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R31Z5ECKKX5VFC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BS4BP8FB",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on April 6, 2025",
+          "utc": "2025-04-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rahsaan Kelley",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGN3MPBRXC4HWTRW5SW7M65FDALQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGN3MPBRXC4HWTRW5SW7M65FDALQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 12,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "R16WFOTBD1LSZT",
+        "title": "Good laptop",
+        "body": "Cute laptop, brightness is a little low but that could just be my eyes used to my ultra bright and saturated monitor? Battery is a little low, but hey all i need it for is my college, its not to slow and it runs the basics. Read more",
+        "asin": "B0BS4BP8FB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Cute laptop, brightness is a little low but that could just be my eyes used to my ultra bright and saturated monitor? Battery is a little low, but hey all i need it for is my college, its not to slow and it runs the basics.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R16WFOTBD1LSZT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BS4BP8FB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 21, 2025",
+          "utc": "2025-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jr",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AED4HTIAMZFE7PXDUUWHUJMV7RRA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AED4HTIAMZFE7PXDUUWHUJMV7RRA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "R15S4MC467BSL3",
+        "title": "Fast Boot Up - No Functionality Issues So Far - Pretty Decent Value",
+        "body": "This is my first time using an Acer laptop, but I've had an Acer desktop computer for years, which I've really enjoyed. I've been very happy with the quality, performance, and ease-of-use so far with this laptop. The main reasons I considered purchasing this particular model included the solid state drive, the decent amount of RAM at 16GB, the WiFi-6 capabilities, and the reasonably good amount of storage space. Also, it provides quite a number of ports, so I can attach all the accessories and portables that I want. What I appreciate the most so far is definitely the solid state drive. I've been using those for years, and I just love how fast they are. Booting up the computer takes seconds, and I'm ready to go. Overall, I do like the design of this laptop. The keyboard has a nice feel to it, and my only tiny complaint there is the layout format of the 10-Key pad. I work in Accounting and Bookkeeping, and I'm used to a certain layout, which this pad doesn't really offer. Some of the operation keys aren't where I'm used to having them, but I can still accomplish what I need to do. I don't use this for its gaming, so I can't speak to how well it performs there. However, as just a nice home office laptop that is fairly light weight and performs well, I'm happy with it so far. Read more",
+        "asin": "B0BS4BP8FB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is my first time using an Acer laptop, but I&apos;ve had an Acer desktop computer for years, which I&apos;ve really enjoyed. I&apos;ve been very happy with the quality, performance, and ease-of-use so far with this laptop. The main reasons I considered purchasing this particular model included the solid state drive, the decent amount of RAM at 16GB, the WiFi-6 capabilities, and the reasonably good amount of storage space. Also, it provides quite a number of ports, so I can attach all the accessories and portables that I want. What I appreciate the most so far is definitely the solid state drive. I&apos;ve been using those for years, and I just love how fast they are. Booting up the computer takes seconds, and I&apos;m ready to go. Overall, I do like the design of this laptop. The keyboard has a nice feel to it, and my only tiny complaint there is the layout format of the 10-Key pad. I work in Accounting and Bookkeeping, and I&apos;m used to a certain layout, which this pad doesn&apos;t really offer. Some of the operation keys aren&apos;t where I&apos;m used to having them, but I can still accomplish what I need to do. I don&apos;t use this for its gaming, so I can&apos;t speak to how well it performs there. However, as just a nice home office laptop that is fairly light weight and performs well, I&apos;m happy with it so far.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R15S4MC467BSL3/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0BS4BP8FB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 12, 2025",
+          "utc": "2025-05-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "PDP",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH26Z2SLHPEZUWS5D7Z2A7HW2FTQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH26Z2SLHPEZUWS5D7Z2A7HW2FTQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "R7 5825U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "R1VKS2AAFPHUDH",
+        "title": "Lo mejor de lo mejor",
+        "body": "Tiene un rendimiento muy muy bueno, no se ha trabado para absolutamente nada, ahora quien se ha quedado lento es mi internet jaja, su calidad en todo sentido es excelente, lo que no me agrada del todo es su cargador, pero, sin duda es lo mejor para el precio, sobretodo aquí en México que para ese precio te ofrecen laptops con calidad horrible, de verdad que la volvería a encargar de nuevo, no se calienta, estéticamente es preciosa, su procesador es de lo mejores, la memoria sí que no es grande pero a la vez siento que está bien para que el procesador pueda rendir de la mejor manera, igual ya existen los discos duros, así que no hay pierde, si quieren algo de excelente calidad, estéticamente precioso y con un precio bajo, es la mejor opción ya que cuenta con prácticamente todo lo necesario casi para hacer cualquier cosa, no tuve tampoco ningún problema con el envío ni nada, la trajeron de Estados Unidos a México y todo muy bien (dato: la cámara también está preciosa cuando hay buena iluminación y el audio es muy bueno, no muy alto pero sí mucho mejor que el de mi laptop pasada sin duda). Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Tiene un rendimiento muy muy bueno, no se ha trabado para absolutamente nada, ahora quien se ha quedado lento es mi internet jaja, su calidad en todo sentido es excelente, lo que no me agrada del todo es su cargador, pero, sin duda es lo mejor para el precio, sobretodo aqu&#xED; en M&#xE9;xico que para ese precio te ofrecen laptops con calidad horrible, de verdad que la volver&#xED;a a encargar de nuevo, no se calienta, est&#xE9;ticamente es preciosa, su procesador es de lo mejores, la memoria s&#xED; que no es grande pero a la vez siento que est&#xE1; bien para que el procesador pueda rendir de la mejor manera, igual ya existen los discos duros, as&#xED; que no hay pierde, si quieren algo de excelente calidad, est&#xE9;ticamente precioso y con un precio bajo, es la mejor opci&#xF3;n ya que cuenta con pr&#xE1;cticamente todo lo necesario casi para hacer cualquier cosa, no tuve tampoco ning&#xFA;n problema con el env&#xED;o ni nada, la trajeron de Estados Unidos a M&#xE9;xico y todo muy bien (dato: la c&#xE1;mara tambi&#xE9;n est&#xE1; preciosa cuando hay buena iluminaci&#xF3;n y el audio es muy bueno, no muy alto pero s&#xED; mucho mejor que el de mi laptop pasada sin duda).<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on September 21, 2023",
+          "utc": "2023-09-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jos SR"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "R2G07ROM4OH1SZ",
+        "title": "awesome computer",
+        "body": "it is nice to have a laptop that is fast again Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>it is nice to have a laptop that is fast again<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on May 14, 2025",
+          "utc": "2025-05-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "soupy"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "RAZE4EKQBRMJY",
+        "title": "spot on",
+        "body": "working well Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>working well<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on November 12, 2024",
+          "utc": "2024-11-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "stuart shaw"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "gb",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "RKKOGANTZZ3OO",
+        "title": ".",
+        "body": "👍🏻The device is great Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>&#x1F44D;&#x1F3FB;The device is great<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on May 24, 2024",
+          "utc": "2024-05-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "maha"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      },
+      {
+        "id": "RF0AUIBID8BQD",
+        "title": "good",
+        "body": "i love acer Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>i love acer<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on May 11, 2024",
+          "utc": "2024-05-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "sarki thami"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "R3 7320U"
+          },
+          {
+            "Style": "15.6 inch"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "tjXsoQ3eRhdXU8gXNw4IOgoffsxUOt9SiJ5vD7QXaP30xZs%2Fap5fYauiigDCf1DmLkhb%2BfdEBQVr8lme0drlTQIK50yNUyjQZzEd9mbCyT%2BdesXBT6qX59Bs6C49kEy7PuZtEqkVZPGm%2BDJ%2BwsRpgNaF0oUQF6Qo7qn%2F%2B5lSBmRUN%2BAwuaWrKx1UHgknoHGD",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 4 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 274.99,
+          "currency": "USD",
+          "raw": "$274.99"
+        },
+        "maximum_order_quantity": {
+          "value": 4
+        },
+        "ship_details": "Ships from and sold by MacLuvin.",
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "May 27 - June 3",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "MacLuvin"
+          },
+          "is_sold_by_amazon": false,
+          "is_sold_by_third_party": true,
+          "fulfilled_by": "MacLuvin",
+          "is_fulfilled_by_amazon": false,
+          "is_fulfilled_by_third_party": true,
+          "fulfillment_type": "p3"
+        }
+      },
+      "offer_id": "tjXsoQ3eRhdXU8gXNw4IOgoffsxUOt9SiJ5vD7QXaP30xZs/ap5fYauiigDCf1DmLkhb+fdEBQVr8lme0drlTQIK50yNUyjQZzEd9mbCyT+desXBT6qX59Bs6C49kEy7PuZtEqkVZPGm+DJ+wsRpgNaF0oUQF6Qo7qn/+5lSBmRUN+AwuaWrKx1UHgknoHGD",
+      "mixed_offers_count": 19,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping"
+      },
+      "protection_plans": [
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "79.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "47.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "Or Prime members get FREE delivery Wednesday, May 21. Order within 3 hrs 6 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 299.99,
+        "currency": "USD",
+        "raw": "$299.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 349.99,
+        "currency": "USD",
+        "raw": "$349.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.1 GHz ryzen_3"
+      },
+      {
+        "name": "RAM",
+        "value": "‎8 GB LPDDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎3200 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎128 GB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎AMD Radeon Graphics"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Average Battery Life (in hours)",
+        "value": "‎11 Hours"
+      },
+      {
+        "name": "Brand",
+        "value": "‎acer"
+      },
+      {
+        "name": "Series",
+        "value": "‎Laptop"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎NX.KJBAA.001"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 S"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎3.92 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.29 x 0.74 x 9.35 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.29 x 0.74 x 9.35 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Silver"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎4"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎128 GB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎240 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0BS4BP8FB"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.2    4.2 out of 5 stars         3,517 ratings          4.2 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#24 in Computers & Accessories (See Top 100 in Computers & Accessories) #2 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "January 31, 2023"
+      },
+      {
+        "name": "Brand",
+        "value": "acer"
+      },
+      {
+        "name": "Model Name",
+        "value": "Laptop"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "128 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Ryzen 3"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "8 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 S"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Integrated. Special Feature: Backlit Keyboard. Operating System: Windows 11 S. Ram Memory Installed Size: 8 GB. CPU Model: Ryzen 3. Hard Disk Size: 128 GB. Color: Silver. Screen Size: 15.6 Inches. Model Name: Laptop. Brand: acer. Date First Available: January 31, 2023. Best Sellers Rank: #24 in Computers & Accessories (See Top 100 in Computers & Accessories) #2 in Traditional Laptop Computers. Customer Reviews: 4.2    4.2 out of 5 stars         3,517 ratings          4.2 out of 5 stars. ASIN: B0BS4BP8FB. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎240 Volts. Optical Drive Type: ‎No Optical Drive. Hard Drive Interface: ‎Solid State. Flash Memory Size: ‎128 GB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎4. Processor Brand: ‎AMD. Color: ‎Silver. Item Dimensions  LxWxH: ‎14.29 x 0.74 x 9.35 inches. Product Dimensions: ‎14.29 x 0.74 x 9.35 inches. Item Weight: ‎3.92 pounds. Operating System: ‎Windows 11 S. Hardware Platform: ‎PC. Item model number: ‎NX.KJBAA.001. Series: ‎Laptop. Brand: ‎acer. Average Battery Life (in hours): ‎11 Hours. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎Bluetooth, 802.11ax. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Integrated. Chipset Brand: ‎AMD. Graphics Coprocessor: ‎AMD Radeon Graphics. Hard Drive: ‎128 GB SSD. Memory Speed: ‎3200 MHz. RAM: ‎8 GB LPDDR5. Processor: ‎4.1 GHz ryzen_3. Max Screen Resolution: ‎1920x1080. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 24,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 2,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎Silver",
+    "weight": "‎3.92 pounds",
+    "first_available": {
+      "raw": "January 31, 2023",
+      "utc": "2023-01-31T00:00:00.000Z"
+    },
+    "dimensions": "‎14.29 x 0.74 x 9.35 inches",
+    "model_number": "‎NX.KJBAA.001",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 24, Category: Traditional Laptop Computers | Rank: 2",
+    "whats_in_the_box": [
+      "Laptop",
+      "AC Adapter",
+      "Power Cord"
+    ]
+  },
+  "brand_store": {
+    "id": "0074ABD9-06D1-469D-B509-C3134D6FFFF2",
+    "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2"
+  },
+  "user_guide": "https://m.media-amazon.com/images/I/B1N3xP1WkXL.pdf",
+  "newer_model": {
+    "title": "acer Aspire 3 Slim Laptop - 15.6\" FHD Display, AMD Ryzen 3 7320U Processor, 8GB LPDDR5 RAM, 256GB SSD, AMD Radeon Graphics, USB Type A&C, WiFi 6, Windows 11 Pro, with Laptop Stand",
+    "asin": "B0CZ777C58",
+    "link": "https://www.amazon.com/acer-Aspire-Slim-Laptop-Processor-dp-B0CZ777C58/dp/B0CZ777C58/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/71fJozcsN4L._SR75,75_.jpg",
+    "rating": 1,
+    "ratings_total": 1,
+    "price": {
+      "raw": "$479.00Only 6 left in stock - order soon."
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 325.97,
+      "currency": "USD",
+      "raw": "$325.97"
+    },
+    "products": [
+      {
+        "asin": "B0BS4BP8FB",
+        "title": "Acer Aspire 3 A315-24P-R7VH Slim Laptop | 15.6\" Full HD IPS Display | AMD Ryzen 3 7320U Quad-Core Processor | AMD Radeon Graphics | 8GB LPDDR5 | 128GB NVMe SSD | Wi-Fi 6 | Windows 11 Home in S Mode",
+        "link": "https://www.amazon.com/dp/B0BS4BP8FB",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61gKkYQn6lL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 237.59,
+          "currency": "USD",
+          "raw": "$237.59"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0CV5ZSR17",
+    "link": "https://www.amazon.com/dp/B0CV5ZSR17/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=aD502&pd_rd_i=B0CV5ZSR17&pd_rd_w=eocNg&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=92b869b7-bb29-4b99-beb7-b72fa68d1378&psc=1",
+    "title": "Acer Aspire Go 15 Slim Laptop | 15.6\" Full HD IPS 1080P Display | Intel Core i3-N305| Intel UHD Graphics | 8GB LPDDR5 | 128GB HD | Wi-Fi 6 | AI PC | Windows 11 Home in S Mode | AG15-31P-3947",
+    "rating": 4,
+    "ratings_total": 528,
+    "image": "https://m.media-amazon.com/images/I/71wKJVtV-+L._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Acer Aspire 5 A515-44-R41B, 15.6\" Full HD, AMD Ryzen 5 4500U Hexa-Core Mobile Processor with Radeon Graphics, 8GB DDR4, 256GB",
+      "asin": "B087N4ZRXV",
+      "link": "https://www.amazon.com/Acer-A515-44-R41B-Hexa-Core-Processor-Graphics/dp/B087N4ZRXV/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_1/142-6115166-0196949?pd_rd_w=WUGAi&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=91Key&pd_rd_r=85f68780-13b8-44c3-8b2f-512545818ee4&pd_rd_i=B087N4ZRXV&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61c1UTa9fwL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 735,
+      "price": {
+        "symbol": "$",
+        "value": 579,
+        "currency": "USD",
+        "raw": "$579.00"
+      }
+    },
+    {
+      "title": "Acer Aspire 5 A515-55-35SE, 15.6\" Full HD Display, 10th Gen Intel Core i3-1005G1 Processor, 4GB DDR4, 128GB NVMe SSD, Intel W",
+      "asin": "B08HN1WDWZ",
+      "link": "https://www.amazon.com/Acer-A515-55-35SE-i3-1005G1-Processor-Fingerprint/dp/B08HN1WDWZ/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_2/142-6115166-0196949?pd_rd_w=WUGAi&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=91Key&pd_rd_r=85f68780-13b8-44c3-8b2f-512545818ee4&pd_rd_i=B08HN1WDWZ&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/716vkEz8ecL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 1021,
+      "price": {
+        "symbol": "$",
+        "value": 298,
+        "currency": "USD",
+        "raw": "$298.00"
+      }
+    },
+    {
+      "title": "acer Aspire 3 Laptop | 15.6\" Full HD Display | AMD Ryzen 7 5700U Processor | AMD Radeon Graphics | 16GB RAM | 512GB SSD | Wi-",
+      "asin": "B0CZHHL8PV",
+      "link": "https://www.amazon.com/acer-Aspire-Processor-DealExpress-Accessories/dp/B0CZHHL8PV/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_3/142-6115166-0196949?pd_rd_w=WUGAi&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=91Key&pd_rd_r=85f68780-13b8-44c3-8b2f-512545818ee4&pd_rd_i=B0CZHHL8PV&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61gtA51qlDL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 115,
+      "price": {
+        "symbol": "$",
+        "value": 454.99,
+        "currency": "USD",
+        "raw": "$454.99"
+      }
+    },
+    {
+      "title": "Acer Aspire 5 A515-57-53T2 Slim Laptop | 15.6\" Full HD IPS Display | 12th Gen Intel Core i5-1235U | 8GB DDR4 | 512GB NVMe SSD",
+      "asin": "B09YFVNK2Q",
+      "link": "https://www.amazon.com/Acer-A515-57-53T2-i5-1235U-802-11ax-Thunderbolt/dp/B09YFVNK2Q/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_4/142-6115166-0196949?pd_rd_w=WUGAi&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=91Key&pd_rd_r=85f68780-13b8-44c3-8b2f-512545818ee4&pd_rd_i=B09YFVNK2Q&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71y5vC9-clL._AC_UL165_SR165,165_.jpg",
+      "rating": 4,
+      "ratings_total": 119,
+      "price": {
+        "symbol": "$",
+        "value": 429,
+        "currency": "USD",
+        "raw": "$429.00"
+      }
+    },
+    {
+      "title": "Acer Aspire 3 Intel Core i5-1035G1 8GB 256 GB SSD 15.6-Inch Full HD (1920 x 1080) Win 10 Laptop",
+      "asin": "B08FNZHZJM",
+      "link": "https://www.amazon.com/Acer-Aspire-i5-1035G1-Windows-A315-56-594W/dp/B08FNZHZJM/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_5/142-6115166-0196949?pd_rd_w=WUGAi&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=91Key&pd_rd_r=85f68780-13b8-44c3-8b2f-512545818ee4&pd_rd_i=B08FNZHZJM&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71q621vaqkL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 213,
+      "price": {
+        "symbol": "$",
+        "value": 369,
+        "currency": "USD",
+        "raw": "$369.00"
+      }
+    },
+    {
+      "title": "acer Aspire 3 Touchscreen Laptop, 15.6\" FHD IPS Display, AMD Ryzen 5 7520U (Beat i7-1255U), 16GB DDR5 RAM, 512GB SSD, Wi-Fi 6",
+      "asin": "B0CVVMT5G7",
+      "link": "https://www.amazon.com/acer-Touchscreen-Laptop-i7-1255U-Business/dp/B0CVVMT5G7/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_6/142-6115166-0196949?pd_rd_w=WUGAi&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=A4TYFG5HTJ019HSHDV00&pd_rd_wg=91Key&pd_rd_r=85f68780-13b8-44c3-8b2f-512545818ee4&pd_rd_i=B0CVVMT5G7&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/717R4Se+09L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 141,
+      "price": {
+        "symbol": "$",
+        "value": 499,
+        "currency": "USD",
+        "raw": "$499.00"
+      }
+    }
+  ]
+}

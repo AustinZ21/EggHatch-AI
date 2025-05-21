@@ -1,0 +1,1248 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5562,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CRDCXRK2",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T02:41:36.272Z",
+    "processed_at": "2025-05-20T02:41:43.041Z",
+    "total_time_taken": 6.77,
+    "amazon_url": "https://www.amazon.com/dp/B0CRDCXRK2?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS ROG Strix G16 Gaming Laptop, 165Hz Display, NVIDIA® GeForce RTX™ 4060, Intel Core i7-13650HX, 16GB DDR5, 1TB PCIe Gen4 SSD, Wi-Fi 6E, Windows 11, G614JV-AS74",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,ROG,Strix,G16,Gaming,Laptop,165Hz,Display,NVIDIA®,GeForce,RTX™,4060,Intel,Core,i7-13650HX,16GB,DDR5,1TB,PCIe,Gen4,SSD,Wi-Fi,6E,Windows,11,G614JV-AS74",
+    "keywords_list": [
+      "ASUS",
+      "Strix",
+      "Gaming",
+      "Laptop",
+      "165Hz",
+      "Display",
+      "NVIDIA®",
+      "GeForce",
+      "RTX™",
+      "4060",
+      "Intel",
+      "Core",
+      "i7-13650HX",
+      "16GB",
+      "DDR5",
+      "PCIe",
+      "Gen4",
+      "Wi-Fi",
+      "Windows",
+      "G614JV-AS74"
+    ],
+    "is_collection": false,
+    "asin": "B0CRDCXRK2",
+    "parent_asin": "B0CY2VY8CX",
+    "link": "https://www.amazon.com/ASUS-Display-NVIDIA%C2%AE-i7-13650HX-G614JV-AS74/dp/B0CRDCXRK2",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07P61QVFM",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 130.99,
+          "currency": "USD",
+          "raw": "$130.99"
+        }
+      },
+      {
+        "asin": "B07P6YXWCG",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 199.99,
+          "currency": "USD",
+          "raw": "$199.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": true,
+        "title": "RTX4060 | 1TB",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "RTX4060 | 1TB"
+          }
+        ],
+        "asin": "B0CRDCXRK2",
+        "link": "https://amazon.com/dp/B0CRDCXRK2?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX4060 | 512GB",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "RTX4060 | 512GB"
+          }
+        ],
+        "asin": "B0BV8H8HVD",
+        "link": "https://amazon.com/dp/B0BV8H8HVD?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0CRDCXRK2,B0BV8H8HVD",
+    "proposition_65_warning": true,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Raise your game and carry your squad with the new ROG Strix G16, a powerful gaming laptop that features Windows 11, a 13th Gen Intel Core processor, and an NVIDIA® GeForce RTX™ 40 Series Laptop GPU. With DDR5-4800MHz memory and PCIe Gen4 SSD, this laptop is designed to provide lightning-fast performance and minimize loading times. The ROG Intelligent Cooling system with upgraded liquid metal on the CPU and Tri-Fan Technology, ensures that the laptop can handle the power it can deliver. The FHD Display guarantees a premium visual experience, and the MUX Switch with Advanced Optimus optimizes both gaming performance and battery life. The laptop's design is inspired by cyberpunk aesthetics and graffiti accents, and features unique elements such as a dot matrix design on the lid and cross-hatched vents.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a168805b-328e-4ab3-8d9c-8e5ed5951203.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/02389710-881F-4F25-89E8-F92DEEA14D5A",
+          "id": "02389710-881F-4F25-89E8-F92DEEA14D5A"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a168805b-328e-4ab3-8d9c-8e5ed5951203.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34ac4691-e8a7-4df2-9508-49274c83f690.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/193a0e54-39d1-42c9-b18c-27875b6fc059.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eddb7af0-4ce8-438e-b5ca-5a462a5d3cd0.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d6ac0d0-bfd1-4d0b-af10-29a963642704.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/16bade15-da41-4eb3-9ecc-3ad1176b8c81.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?is_byline_deeplink=true&deeplink=E96D3710-3BE3-48F9-8F2B-6853E607CB74&redirect_store_id=02389710-881F-4F25-89E8-F92DEEA14D5A&lp_asin=B0CRDCXRK2&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 74,
+        "count": 1406
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 190
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 95
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 57
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 152
+      }
+    },
+    "ratings_total": 1901,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81GrCeuCzxL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81GrCeuCzxL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81+u9RUkhmL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/818s2kMJ6tL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81uNIFnGHvL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71B8P-zlcGL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81Xf18SxlPL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71qQHyJcYNL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81M51k7TxDL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81GYcCUJDPL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/81GrCeuCzxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81+u9RUkhmL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/818s2kMJ6tL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81uNIFnGHvL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71B8P-zlcGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81Xf18SxlPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71qQHyJcYNL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81M51k7TxDL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81GYcCUJDPL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 31,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/51gfCLDNseL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73f8ca57-bf48-43f2-9884-688460f0a793/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "I don’t know what to make of this"
+      },
+      {
+        "duration_seconds": 65,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/41TuHQwp6tL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e555fd2e-b952-4d44-b81c-f5cf1c10212d/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "ROG Quality Test Video"
+      },
+      {
+        "duration_seconds": 112,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51F-kn9MdvL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64da376a-b26c-4e3c-8c2a-f5101e1739b1/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "ASUS ROG Strix G16 - Quick Demo and Review"
+      },
+      {
+        "duration_seconds": 11,
+        "width": 2160,
+        "height": 3840,
+        "thumbnail": "https://m.media-amazon.com/images/I/71rIXn7WkmL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4744a590-1602-49db-bd90-c0f6794c4869/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Asus 2024 Model 🔥💯"
+      },
+      {
+        "duration_seconds": 22,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/51Ugiu-ewUL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7db01013-d21f-4a2d-9479-e69d55573f59/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "WATCH BEFORE YOU BUY | Asus ROG Strix G16"
+      },
+      {
+        "duration_seconds": 103,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/91x52or94mL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b0ec6f5-5eb9-4287-a1f0-f4a78f356b81/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "WARNING Asus ROG STRIX g16 GAMING BENCHMARKS SHOCKED"
+      },
+      {
+        "duration_seconds": 63,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51l06g7UAEL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf21d482-542e-413b-b67e-b23a096f2bde/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Best Laptop EVER - WATCH Before Buying"
+      },
+      {
+        "duration_seconds": 10,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/61xQpuIsmzL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdb82502-1eaa-4c4d-b95a-9690adde89be/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Size matters"
+      },
+      {
+        "duration_seconds": 240,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1kh2laMNNL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75614785-f8f9-432e-a5a4-5b211c615d49/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "The Perfect Gaming Laptop Is Finally Here - Asus ROG Strix"
+      },
+      {
+        "duration_seconds": 33,
+        "width": 1179,
+        "height": 657,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1FiQNuBZPL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6146551-a24d-4cc3-9267-e7f00aec4d6d/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Best gaming computer out there for the price"
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73f8ca57-bf48-43f2-9884-688460f0a793/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e555fd2e-b952-4d44-b81c-f5cf1c10212d/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64da376a-b26c-4e3c-8c2a-f5101e1739b1/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4744a590-1602-49db-bd90-c0f6794c4869/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7db01013-d21f-4a2d-9479-e69d55573f59/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b0ec6f5-5eb9-4287-a1f0-f4a78f356b81/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf21d482-542e-413b-b67e-b23a096f2bde/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdb82502-1eaa-4c4d-b95a-9690adde89be/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75614785-f8f9-432e-a5a4-5b211c615d49/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6146551-a24d-4cc3-9267-e7f00aec4d6d/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0c00fbff810540388730d9b8038a28ce",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2",
+        "title": "I don’t know what to make of this",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFK5WDBC6P6TMRJ45Y4IRUU4TK4Q",
+        "public_name": "Elise",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Elise",
+        "video_image_id": "51gfCLDNseL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51gfCLDNseL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51gfCLDNseL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ad7741a-6797-4527-a0b4-abd83b96cc78/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73f8ca57-bf48-43f2-9884-688460f0a793/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73f8ca57-bf48-43f2-9884-688460f0a793/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/150f2aa1-6166-4415-974a-ca3f0827d1d3.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.039efd35b7a74baebed1aa0ca6cd08fe",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRCVJFQM,B0CRCYJ8YV,B0CRDCXRK2,B0BS9X9TVG,B0CRD85536",
+        "title": "ROG Quality Test Video",
+        "public_name": "ASUS Computers",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "ASUS Computers",
+        "video_image_id": "41TuHQwp6tL",
+        "video_image_url": "https://m.media-amazon.com/images/I/41TuHQwp6tL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41TuHQwp6tL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5079eb33-6e73-4733-8c39-b92986a4da2f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e555fd2e-b952-4d44-b81c-f5cf1c10212d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e555fd2e-b952-4d44-b81c-f5cf1c10212d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e555fd2e-b952-4d44-b81c-f5cf1c10212d/441c343b-58b3-4c96-9ce7-390b66cacd58/039efd35b7a74baebed1aa0ca6cd08fe_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5941835a-cda7-41ac-a4ab-6458eaef0e18.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0c0931aaf3ea4990b497fc44442d5a84",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2",
+        "title": "ASUS ROG Strix G16 - Quick Demo and Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/718t+q8o7uL._CR0,0,1073,1073_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/agnieszk4n",
+        "public_name": "Agnes",
+        "creator_type": "Influencer",
+        "vendor_code": "agnieszk4n:shop",
+        "vendor_name": "Agnes",
+        "vendor_tracking_id": "onamzagnes09-20",
+        "video_image_id": "51F-kn9MdvL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51F-kn9MdvL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51F-kn9MdvL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6c28775a-0536-4628-8041-fdaf5c42fb3b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64da376a-b26c-4e3c-8c2a-f5101e1739b1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64da376a-b26c-4e3c-8c2a-f5101e1739b1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64da376a-b26c-4e3c-8c2a-f5101e1739b1/60ba09ca-5005-4a54-a41f-9353e5b37eb6/0c0931aaf3ea4990b497fc44442d5a84_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c46c1602-a43b-444b-b6f0-2093e6a872ac.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.060f542f10b145fe831fc261c1faf4fd",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2",
+        "title": "Asus 2024 Model 🔥💯",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFTWO7TRI52XKLMBC2JZK6XZHNFQ",
+        "public_name": "Andrew Salmon",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Andrew Salmon",
+        "video_image_id": "71rIXn7WkmL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71rIXn7WkmL._CR0,0,2160,1219_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71rIXn7WkmL.jpg",
+        "video_image_width": "2160",
+        "video_image_height": "3840",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a3d54dde-6e06-46e3-86d7-8c5b412dd783/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4744a590-1602-49db-bd90-c0f6794c4869/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4744a590-1602-49db-bd90-c0f6794c4869/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:11",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7a60c8ae-777e-467a-a93e-3aaa26485d82.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b255f960bcd457581d290cac387c4d4",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2,B0CRCVJFQM,B0CRLFRQ5V,B0CY2T3KL1,B0CY2TGZX1",
+        "title": "WATCH BEFORE YOU BUY | Asus ROG Strix G16",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41SOZWix2kL._CR0,0,1075,1075_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fyzotech",
+        "public_name": "Zelo",
+        "creator_type": "Influencer",
+        "vendor_code": "fyzotech:shop",
+        "vendor_name": "Zelo",
+        "vendor_tracking_id": "onamzethant01-20",
+        "video_image_id": "51Ugiu-ewUL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Ugiu-ewUL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Ugiu-ewUL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/65747860-2ced-485d-a072-dd7baee78dac/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7db01013-d21f-4a2d-9479-e69d55573f59/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7db01013-d21f-4a2d-9479-e69d55573f59/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7db01013-d21f-4a2d-9479-e69d55573f59/3eb5c156-905a-42c6-941f-bbc44702b09e/0b255f960bcd457581d290cac387c4d4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cadd9fb2-7d35-4910-bc1a-7ef4b243883b.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.08c4a75c32d341eaa01359139c696138",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2,B0CRCVJFQM,B0CY2T3KL1",
+        "title": "WARNING Asus ROG STRIX g16 GAMING BENCHMARKS SHOCKED",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91b0Dzsun0L._CR387,0,757,758_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/sunnygames",
+        "public_name": "Joshua Estrada",
+        "creator_type": "Influencer",
+        "vendor_code": "sunnygames:shop",
+        "vendor_name": "Joshua Estrada",
+        "vendor_tracking_id": "onamzjosh0655-20",
+        "video_image_id": "91x52or94mL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91x52or94mL._CR3,0,1914,1080_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91x52or94mL.png",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0f2ba951-dc86-4e77-8b5c-a0e55cd019a4/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b0ec6f5-5eb9-4287-a1f0-f4a78f356b81/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b0ec6f5-5eb9-4287-a1f0-f4a78f356b81/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b0ec6f5-5eb9-4287-a1f0-f4a78f356b81/e8c9d8b2-e93f-4269-bfd4-08b1809827d4/08c4a75c32d341eaa01359139c696138_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:43",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5d04b7cd-10eb-4336-b685-8b9f59b52b74.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.062e40f07e8348f6998d3759708d8795",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2",
+        "title": "Best Laptop EVER - WATCH Before Buying",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41zKmnhcH2L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/memeshubet",
+        "public_name": "Product Overview",
+        "creator_type": "Influencer",
+        "vendor_code": "memeshubet:shop",
+        "vendor_name": "Product Overview",
+        "vendor_tracking_id": "onamzconno0d3-20",
+        "video_image_id": "51l06g7UAEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51l06g7UAEL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51l06g7UAEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/33b5b0dc-17e4-48dc-91b1-07217f8dfd1e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf21d482-542e-413b-b67e-b23a096f2bde/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf21d482-542e-413b-b67e-b23a096f2bde/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf21d482-542e-413b-b67e-b23a096f2bde/3068fa4d-3e2a-4959-8a68-3a15d80b68be/062e40f07e8348f6998d3759708d8795_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2b3736c5-68ff-418f-9aa0-f55a239f0492.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e9df518ea79403ea3dedec91355f825",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2",
+        "title": "Size matters",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHMG6UMOAOCXE5COX3RTDFBSROGQ",
+        "public_name": "Isaura C.",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Isaura C.",
+        "video_image_id": "61xQpuIsmzL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61xQpuIsmzL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61xQpuIsmzL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f369ef9f-c81e-4ece-8e7a-6f6d051b7f71/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdb82502-1eaa-4c4d-b95a-9690adde89be/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdb82502-1eaa-4c4d-b95a-9690adde89be/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:10",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b30e0052-a4e3-4ff0-8182-711d82b6d3be.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b23b4aba3e540d7a3d16374b804c94c",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0C25TM3JW,B0CRDCXRK2,B0D9KBNR3Y",
+        "title": "The Perfect Gaming Laptop Is Finally Here - Asus ROG Strix",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61UCG0MXm7L._CR31,6,250,250_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/toolsdoctor",
+        "public_name": "🌟 Toolsdoctor",
+        "creator_type": "Influencer",
+        "vendor_code": "toolsdoctor:shop",
+        "vendor_name": "🌟 Toolsdoctor",
+        "vendor_tracking_id": "onamzdecisitr-20",
+        "video_image_id": "A1kh2laMNNL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1kh2laMNNL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1kh2laMNNL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/437077c8-00aa-4099-8a23-985da050d798/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75614785-f8f9-432e-a5a4-5b211c615d49/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75614785-f8f9-432e-a5a4-5b211c615d49/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/75614785-f8f9-432e-a5a4-5b211c615d49/2d0935c2-446e-47ee-9291-581dcb549ae4/0b23b4aba3e540d7a3d16374b804c94c_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "4:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6742692e-c57a-408b-a37c-163c8f8da9d2.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0cb1ea42ee2d4f22af32381d11ceb41e",
+        "product_asin": "B0CRDCXRK2",
+        "parent_asin": "B0CY2VY8CX",
+        "related_products": "B0CRDCXRK2",
+        "title": "Best gaming computer out there for the price",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71XMrPFT0pL._CR0,0,1080,1080_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rosay_alldayy",
+        "public_name": "✅ Rose",
+        "creator_type": "Influencer",
+        "vendor_code": "rosay_alldayy:shop",
+        "vendor_name": "✅ Rose",
+        "vendor_tracking_id": "onamzroseni00-20",
+        "video_image_id": "A1FiQNuBZPL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1FiQNuBZPL._CR7,0,1164,657_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1FiQNuBZPL.png",
+        "video_image_width": "1179",
+        "video_image_height": "657",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d5bde1b-cc77-45c6-a5b5-1f465ab526fe/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6146551-a24d-4cc3-9267-e7f00aec4d6d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6146551-a24d-4cc3-9267-e7f00aec4d6d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e6146551-a24d-4cc3-9267-e7f00aec4d6d/5ad812bf-1ca1-4890-980d-e2b13fec201a/0cb1ea42ee2d4f22af32381d11ceb41e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/36737fc7-bf71-4838-838a-8c70b0e720ae.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "POWER UP YOUR PLAY - Win more games with Windows 11, a 13th Gen Intel Core i7-13650HX processor, and an NVIDIA GeForce RTX 4060 Laptop GPU at 140W Max TGP.",
+      "BLAZING FAST MEMORY AND STORAGE – Multitask swiftly with 16GB of DDR5-4800MHz memory and 1TB of PCIe Gen4 SSD.",
+      "ROG INTELLIGENT COOLING – The Strix G16 features Thermal Grizzly’s Conductonaut Extreme liquid metal on the CPU, and a third intake fan among other premium features, to allow for better sustained performance over long gaming sessions.",
+      "SWIFT DISPLAY – The Strix G16 features a FHD 165Hz panel, 100% sRGB, Pantone Validation, among other premium features on the Strix G16.",
+      "XBOX GAME PASS – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "XBOX GAME PASS – Get a free 90-day pass and gain access to over 100 high-quality games. With games added all the time, there’s always something new to play. SWIFT DISPLAY – The Strix G16 features a FHD 165Hz panel, 100% sRGB, Pantone Validation, among other premium features on the Strix G16. ROG INTELLIGENT COOLING – The Strix G16 features Thermal Grizzly’s Conductonaut Extreme liquid metal on the CPU, and a third intake fan among other premium features, to allow for better sustained performance over long gaming sessions. BLAZING FAST MEMORY AND STORAGE – Multitask swiftly with 16GB of DDR5-4800MHz memory and 1TB of PCIe Gen4 SSD. POWER UP YOUR PLAY - Win more games with Windows 11, a 13th Gen Intel Core i7-13650HX processor, and an NVIDIA GeForce RTX 4060 Laptop GPU at 140W Max TGP.",
+    "top_reviews": [
+      {
+        "id": "RYH004X1MBJMR",
+        "title": "Perfect Balance of Power and Performance",
+        "body": "Performance: The Intel Core i7-13650HX and NVIDIA GeForce RTX 4060 combo is a beast! Every game I've tested so far runs smoothly at high settings. The 16GB DDR5 RAM ensures multitasking is a breeze, whether I’m gaming, streaming, or working on video edits.  Display: The 16-inch, 16:10 FHD display with a 165Hz refresh rate is a game-changer. The visuals are buttery smooth, vibrant, and crisp. It’s perfect for fast-paced games where every millisecond counts.  Build and Design: The laptop feels premium and sturdy. The cooling system is excellent, keeping the machine cool even during intense gaming sessions. The RGB lighting on the keyboard adds a stylish touch.  Value for Money: For its price, this laptop packs incredible features that cater to gamers and content creators alike. It’s future-proof and ready to handle even the most demanding tasks.  Overall Experience: This is hands down one of the best gaming laptops I’ve ever owned. ASUS nailed it with this model, providing top-notch performance, cutting-edge features, and excellent build quality. Highly recommended for anyone looking for a powerful, versatile machine. 👏  If you're considering this laptop, don’t hesitate—it’s worth every penny! Read more",
+        "asin": "B0CRDCXRK2",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Performance:<br/>The Intel Core i7-13650HX and NVIDIA GeForce RTX 4060 combo is a beast! Every game I&apos;ve tested so far runs smoothly at high settings. The 16GB DDR5 RAM ensures multitasking is a breeze, whether I&#x2019;m gaming, streaming, or working on video edits.<br/><br/>Display:<br/>The 16-inch, 16:10 FHD display with a 165Hz refresh rate is a game-changer. The visuals are buttery smooth, vibrant, and crisp. It&#x2019;s perfect for fast-paced games where every millisecond counts.<br/><br/>Build and Design:<br/>The laptop feels premium and sturdy. The cooling system is excellent, keeping the machine cool even during intense gaming sessions. The RGB lighting on the keyboard adds a stylish touch.<br/><br/>Value for Money:<br/>For its price, this laptop packs incredible features that cater to gamers and content creators alike. It&#x2019;s future-proof and ready to handle even the most demanding tasks.<br/><br/>Overall Experience:<br/>This is hands down one of the best gaming laptops I&#x2019;ve ever owned. ASUS nailed it with this model, providing top-notch performance, cutting-edge features, and excellent build quality. Highly recommended for anyone looking for a powerful, versatile machine. &#x1F44F;<br/><br/>If you&apos;re considering this laptop, don&#x2019;t hesitate&#x2014;it&#x2019;s worth every penny!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RYH004X1MBJMR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDCXRK2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 3, 2025",
+          "utc": "2025-01-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Grace",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXC6OKVLLMFWQLIEUCSRYUMRH7Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEXC6OKVLLMFWQLIEUCSRYUMRH7Q",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/16e166a6-bd6d-44b7-911b-d35f3e484d62._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 53,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R3H5XSQVNBQ8QZ",
+        "title": "Oh my god YES PLEASE AMAZING",
+        "body": "Oh my god best purchase of my entire life  I've never had a legit gaming laptop so there's so much I haven't been able to actually do. This one does it.  The value is 100% worth the money, the performance is fantastic, it doesn't even get that hot.  A good example for games are Sims 4. I've never truly got to play it due to it taking forever to load, and then I couldn't even do anything when I got into it. With this laptop, it took less than an hour to download all 50 packs (my old computer took TWO DAYS), and takes a second to open it and get me to the house.  I so far have Sims, Sims 2 (and all packs), Sims 4 (and 50 packs), and House Flipper and it has no issues. Please please PLEASE get this laptop! It's so worth the price!!! Read more",
+        "asin": "B0CRDCXRK2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Oh my god best purchase of my entire life<br/><br/>I&apos;ve never had a legit gaming laptop so there&apos;s so much I haven&apos;t been able to actually do. This one does it.<br/><br/>The value is 100% worth the money, the performance is fantastic, it doesn&apos;t even get that hot.<br/><br/>A good example for games are Sims 4. I&apos;ve never truly got to play it due to it taking forever to load, and then I couldn&apos;t even do anything when I got into it. With this laptop, it took less than an hour to download all 50 packs (my old computer took TWO DAYS), and takes a second to open it and get me to the house.<br/><br/>I so far have Sims, Sims 2 (and all packs), Sims 4 (and 50 packs), and House Flipper and it has no issues. Please please PLEASE get this laptop! It&apos;s so worth the price!!!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3H5XSQVNBQ8QZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDCXRK2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 9, 2025",
+          "utc": "2025-05-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shelby Rainwater",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEISMALEPXWWAIQHE4RW5WKZME6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEISMALEPXWWAIQHE4RW5WKZME6Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "RB8GLTD12L5C8",
+        "title": "Good gaming laptop",
+        "body": "This laptop has been good. Good WiFi connectivity is good. Have not had any problem with connectivity. Since this is a gaming laptop the keyboard can have different colored lights. The gaming keys, qwerasdf are reverse lighted, so if I am typing in the dark it is good but in light it can be difficult to see the keys. Durability has been good. I carry it in a padded computer bag. It has a good weight so if you are looking for a light weight computer this would not be good. Cooling is very good for a gaming laptop. I can keep the laptop on my legs without it getting really hot. Design and layout is good. Monitor connection to based looks very good. It has a regular Ethernet port not the collapsible type in thin laptops which I like. Read more",
+        "asin": "B0CRDCXRK2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop has been good. Good WiFi connectivity is good. Have not had any problem with connectivity. Since this is a gaming laptop the keyboard can have different colored lights. The gaming keys, qwerasdf are reverse lighted, so if I am typing in the dark it is good but in light it can be difficult to see the keys. Durability has been good. I carry it in a padded computer bag. It has a good weight so if you are looking for a light weight computer this would not be good. Cooling is very good for a gaming laptop. I can keep the laptop on my legs without it getting really hot. Design and layout is good. Monitor connection to based looks very good. It has a regular Ethernet port not the collapsible type in thin laptops which I like.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RB8GLTD12L5C8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDCXRK2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 14, 2025",
+          "utc": "2025-04-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "AHorner",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHCBVBD3VHPRS4GDL75TK5UJQJXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHCBVBD3VHPRS4GDL75TK5UJQJXA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "RGTR7KUHKC1K6",
+        "title": "Great laptop for more then gaming.",
+        "body": "It's a good laptop. My first time buying from ROG and I'd say it has been a good buy. The laptop runs everything I throw at it well. I stream edit and work from this computer. The battery is not great during gaming of course. But for mild tasks like note taking surfing the web etc. It does great and is plenty for me during my classes at college.  It can get hot while gaming but I always have a little stand for it when I game. The fans and the system it advertises does alot better then I expected and overall is cooler then most laptops I see.  Also it looks nice. Read more",
+        "asin": "B0CRDCXRK2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It&apos;s a good laptop.<br/>My first time buying from ROG and I&apos;d say it has been a good buy.<br/>The laptop runs everything I throw at it well. I stream edit and work from this computer.<br/>The battery is not great during gaming of course. But for mild tasks like note taking surfing the web etc. It does great and is plenty for me during my classes at college.<br/><br/>It can get hot while gaming but I always have a little stand for it when I game.<br/>The fans and the system it advertises does alot better then I expected and overall is cooler then most laptops I see.<br/><br/>Also it looks nice.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RGTR7KUHKC1K6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDCXRK2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 14, 2025",
+          "utc": "2025-03-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kingofsteam",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2GO4BOIHFLRKN3LQSZGSXWG7MA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH2GO4BOIHFLRKN3LQSZGSXWG7MA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 14,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R2OWRCD7BNYLSO",
+        "title": "Amazing machine",
+        "body": "It's a big and beautiful laptop that slurps up all games like jam while staying very quiet by laptop standards. Expect high framerates and few frame dips thanks to high CPU limits, but with a few caveats.  Pros: 1. It is insanely fast and quiet. Balanced mode fans are around 40 dB (about as quiet as a desktop) but you can make them run much louder in Turbo mode. 2. Good display. The 165Hz screen is quite good and fast, slightly better gamut then my previous laptop. The 16:10 ratio is also really nice for games and productivity apps. Mine has a slight green tint but only when using the iGPU, switching to Nvidia removes it. Which means it's probably a software issue (see \"Cons\" below) 3. It runs cool. While playing endgame Dyson Sphere Program (basically a CPU stress test) the CPU doesn't even reach 80 degrees and manages to squeeze out 60+ fps where my old Ryzen 7 4800H would crap out and struggle to cough up 35 fps.  Cons: 1. Asus software is horrible, it's like it was coded by interns. This is the main reason I took one star off the review, out of the box MyAsus and Armoury Crate hog CPU and RAM and are constantly fighting against Windows' settings and each other. They can cause constant freezes and weird bugouts like the screen colors going haywire. Even after replacing them with G Helper, there are still a few lingering issues I have to be wary of. 2. Bad battery life. Out of the box it runs like 5 hours max, 4 hours if you disable the screen battery saver (60 Hz is nauseating). Definitely going to need to lug that huge power brick around. 3. The middle fan is very high-pitched like the ones you'd find in thinner laptops. It can be distracting for some, personally I'm on the fence. It is still very quiet and even gets drowned out by external speakers or headphones. 4. Gaudy design. The lightbar is obviously annoying and the keys are pretty much unreadable without backlight on, which I really hate. The 4-zone RGB keyboard is also poorly executed, it looks patchy and has very limited color range. Typing on it feels very good though, it has full-size keys, high travel and good feedback. I just wish it had a numpad or a dedicated Home, End, PgUp and PGDown keys, there's a lot of wasted space on the deck.  Overall I'm still very happy with my package, would recommend it to anyone who wants a well cooled laptop with insanely high performance with a tradeoff of portability and battery.  And Asus, please fix your damn software. Read more",
+        "asin": "B0CRDCXRK2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It&apos;s a big and beautiful laptop that slurps up all games like jam while staying very quiet by laptop standards. Expect high framerates and few frame dips thanks to high CPU limits, but with a few caveats.<br/><br/>Pros:<br/>1. It is insanely fast and quiet. Balanced mode fans are around 40 dB (about as quiet as a desktop) but you can make them run much louder in Turbo mode.<br/>2. Good display. The 165Hz screen is quite good and fast, slightly better gamut then my previous laptop. The 16:10 ratio is also really nice for games and productivity apps. Mine has a slight green tint but only when using the iGPU, switching to Nvidia removes it. Which means it&apos;s probably a software issue (see &quot;Cons&quot; below)<br/>3. It runs cool. While playing endgame Dyson Sphere Program (basically a CPU stress test) the CPU doesn&apos;t even reach 80 degrees and manages to squeeze out 60+ fps where my old Ryzen 7 4800H would crap out and struggle to cough up 35 fps.<br/><br/>Cons:<br/>1. Asus software is horrible, it&apos;s like it was coded by interns. This is the main reason I took one star off the review, out of the box MyAsus and Armoury Crate hog CPU and RAM and are constantly fighting against Windows&apos; settings and each other. They can cause constant freezes and weird bugouts like the screen colors going haywire. Even after replacing them with G Helper, there are still a few lingering issues I have to be wary of.<br/>2. Bad battery life. Out of the box it runs like 5 hours max, 4 hours if you disable the screen battery saver (60 Hz is nauseating). Definitely going to need to lug that huge power brick around.<br/>3. The middle fan is very high-pitched like the ones you&apos;d find in thinner laptops. It can be distracting for some, personally I&apos;m on the fence. It is still very quiet and even gets drowned out by external speakers or headphones.<br/>4. Gaudy design. The lightbar is obviously annoying and the keys are pretty much unreadable without backlight on, which I really hate. The 4-zone RGB keyboard is also poorly executed, it looks patchy and has very limited color range. Typing on it feels very good though, it has full-size keys, high travel and good feedback. I just wish it had a numpad or a dedicated Home, End, PgUp and PGDown keys, there&apos;s a lot of wasted space on the deck.<br/><br/>Overall I&apos;m still very happy with my package, would recommend it to anyone who wants a well cooled laptop with insanely high performance with a tradeoff of portability and battery.<br/><br/>And Asus, please fix your damn software.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2OWRCD7BNYLSO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDCXRK2",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on August 4, 2024",
+          "utc": "2024-08-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kevin Kiggs",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGVLLRLZ3YBRRG6LHRVLC7CKSXDQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGVLLRLZ3YBRRG6LHRVLC7CKSXDQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 58,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R2E8RQYQJHPCNK",
+        "title": "GAMERS FIRST CHOICE",
+        "body": "I buy this for my younger cousin and he love it the quality and the packing was so solid pluse the lightning is so cool ..!! Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I buy this for my younger cousin and he love it the quality and the packing was so solid pluse the lightning is so cool ..!!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on May 9, 2025",
+          "utc": "2025-05-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Narinder Singh"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R2G3G4VESVKFJJ",
+        "title": "Very good laptop and decent price",
+        "body": "The laptop performs well, with about 4 months of usage and it is still rock solid. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The laptop performs well, with about 4 months of usage and it is still rock solid.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on April 18, 2024",
+          "utc": "2024-04-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ahmad Haghshenas"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R2GWBO1C560A4R",
+        "title": "Asus rog strix g16 i7",
+        "body": "Bueno, la caja llego algo maltratada y pero no afecto nada al producto (laptop). Como también llego abierta en el aspecto que el sello del empaque ya venia rotó, pero la laptop no sufrío ningun daño, apenas me llego y cheque la parte de la pantalla o en general todo el hardware viene bien, no le e notado fujas de luz muy grave o que se vean demasiado en plena oscuridad, lo que si note un poco es cuando cierro la pantalla, se nota que si es muy delicado por que se marca esa parte las fugas pero no es muy notorio (durante el día) , solo espero que con tiempo no le afecte, en total oscuridad y con el brillo al máximo si se notan las fujas de luz no se si eso afecte con el tiempo de modo que se vea más visible las fugas de luz o sea al normal en este tipo de pantallas led O tal vez deba aplicar garantía dentro del mes que me queda? Y en cuestión de almacenamiento, si lo vas a utilizar para juegos, tiene que comprar una ssd por lo menos de 1 tb, Para los 16 gb de ram si están bien El Windows 11 home si viene activado, No se si fue una actualización que mando asus pero, cuando trate de actualizar los drivers de la laptop, también me actualizo la bios, no se que tan bueno málo sea, por el momento no me afecto nada en cuestión de arranque o algo así, La bisagra se ve que es resistente, La parte del teclado se siente bien, no se si en esa parte es de aluminio, por que no se siente que sea plástico, la carcasa y la parte detras de la pantalla si es plástico, Si eres de México y lo configuración del teclado a español con la ñ, si va hacer posible, siempre y cuando la configures versión latino, te recomiendo comprar una pegatina de la ñ y @ para identificar en las teclas donde van En general me parece una gran laptop en su categoría Esta es mi primer laptop gamer y espero sacarle provecho, no solo en juegos si no en mis estudios que principalmente la quiero. En caja solo viene : Laptop, Cargador (dura 1:30 a 2hr en cargar completamente) tipo americano Manuales (básicos y garantía de 90 días aplicables solo en EUA) La garantía que aplica es solo los 30 días de Amazon, no se aplicará garantía en México después de los 30 así que es recomendable que hagas todas pruebas duraste ese tiempo Y si aplica los 3 meses gratis de xbox obvio pagando primero el primer mes!, Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Bueno, la caja llego algo maltratada y pero no afecto nada al producto (laptop). Como tambi&#xE9;n llego abierta en el aspecto que el sello del empaque ya venia rot&#xF3;, pero la laptop no sufr&#xED;o ningun da&#xF1;o, apenas me llego y cheque la parte de la pantalla o en general todo el hardware viene bien, no le e notado fujas de luz muy grave o que se vean demasiado en plena oscuridad, lo que si note un poco es cuando cierro la pantalla, se nota que si es muy delicado por que se marca esa parte las fugas pero no es muy notorio (durante el d&#xED;a) , solo espero que con tiempo no le afecte, en total oscuridad y con el brillo al m&#xE1;ximo si se notan las fujas de luz no se si eso afecte con el tiempo de modo que se vea m&#xE1;s visible las fugas de luz o sea al normal en este tipo de pantallas led<br/>O tal vez deba aplicar garant&#xED;a dentro del mes que me queda?<br/>Y en cuesti&#xF3;n de almacenamiento, si lo vas a utilizar para juegos, tiene que comprar una ssd por lo menos de 1 tb,<br/>Para los 16 gb de ram si est&#xE1;n bien<br/>El Windows 11 home si viene activado,<br/>No se si fue una actualizaci&#xF3;n que mando asus pero, cuando trate de actualizar los drivers de la laptop, tambi&#xE9;n me actualizo la bios, no se que tan bueno m&#xE1;lo sea, por el momento no me afecto nada en cuesti&#xF3;n de arranque o algo as&#xED;,<br/>La bisagra se ve que es resistente,<br/>La parte del teclado se siente bien, no se si en esa parte es de aluminio, por que no se siente que sea pl&#xE1;stico, la carcasa y la parte detras de la pantalla si es pl&#xE1;stico,<br/>Si eres de M&#xE9;xico y lo configuraci&#xF3;n del teclado a espa&#xF1;ol con la &#xF1;, si va hacer posible, siempre y cuando la configures versi&#xF3;n latino, te recomiendo comprar una pegatina de la &#xF1; y @ para identificar en las teclas donde van<br/>En general me parece una gran laptop en su categor&#xED;a<br/>Esta es mi primer laptop gamer y espero sacarle provecho, no solo en juegos si no en mis estudios que principalmente la quiero.<br/>En caja solo viene :<br/>Laptop,<br/>Cargador (dura 1:30 a 2hr en cargar completamente) tipo americano<br/>Manuales (b&#xE1;sicos y garant&#xED;a de 90 d&#xED;as aplicables solo en EUA)<br/>La garant&#xED;a que aplica es solo los 30 d&#xED;as de Amazon, no se aplicar&#xE1; garant&#xED;a en M&#xE9;xico despu&#xE9;s de los 30 as&#xED; que es recomendable que hagas todas pruebas duraste ese tiempo<br/>Y si aplica los 3 meses gratis de xbox obvio pagando primero el primer mes!,<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 11, 2024",
+          "utc": "2024-04-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "jesus a."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R2MYG53GLEVLGQ",
+        "title": "Nice laptop",
+        "body": "Very good Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very good<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on May 4, 2025",
+          "utc": "2025-05-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Hisham jambi"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      },
+      {
+        "id": "R2TD5VCO95A0KA",
+        "title": "Laptop",
+        "body": "Great item for gaming, delivery fast Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great item for gaming, delivery fast<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Kingdom on December 30, 2024",
+          "utc": "2024-12-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "grazing"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "gb",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "RTX4060"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "Ou2LPyv6X8dr3HPmbfV6sNPmRFFrtMgW%2FE%2FAUr5UNQnBk%2BOhhoMOxP%2FYZMqdlm8G0ESJkz81lHM3z3a1kWdRRKTj1KPis121c%2FS13rI217f4iKinhApCYKHPT0NgdbpPKPE629bfXH515b%2Bw14nShcnef5D4lDJ7UhdhGcpO0xJYc0tTa1OtXKm7PHq0qBE5",
+        "caption": "Save with Used - Very Good",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "Looks and functions as if it were new. Item may not come in original packaging.",
+        "condition": {
+          "raw": "Save with Used - Very Good",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 1161.42,
+          "currency": "USD",
+          "raw": "$1,161.42"
+        },
+        "maximum_order_quantity": {
+          "value": 0
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true,
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Tuesday, May 27",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        }
+      },
+      "offer_id": "Ou2LPyv6X8dr3HPmbfV6sNPmRFFrtMgW/E/AUr5UNQnBk+OhhoMOxP/YZMqdlm8G0ESJkz81lHM3z3a1kWdRRKTj1KPis121c/S13rI217f4iKinhApCYKHPT0NgdbpPKPE629bfXH515b+w14nShcnef5D4lDJ7UhdhGcpO0xJYc0tTa1OtXKm7PHq0qBE5",
+      "mixed_offers_count": 8,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "130.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "199.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 2 hrs 18 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1258.91,
+        "currency": "USD",
+        "raw": "$1,258.91"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 1258.91,
+        "currency": "USD",
+        "raw": "$1,258.91"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎16 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1366 x 768 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1366 x 768 pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.9 GHz core_i7"
+      },
+      {
+        "name": "RAM",
+        "value": "‎16 GB DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎4800 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎1 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4060"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎2"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎Strix G16"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎G614JV-AS74"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5.51 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎13.94 x 0.89 x 10.39 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎13.94 x 0.89 x 10.39 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Eclipse Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎14"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎1 TB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎240 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CRDCXRK2"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         1,901 ratings          4.4 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#67 in Computers & Accessories (See Top 100 in Computers & Accessories) #7 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "January 3, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "Strix G16"
+      },
+      {
+        "name": "Screen Size",
+        "value": "16 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Eclipse Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "1 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i7"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Portable"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Portable. Operating System: Windows 11 Home. Ram Memory Installed Size: 16 GB. CPU Model: Core i7. Hard Disk Size: 1 TB. Color: Eclipse Gray. Screen Size: 16 Inches. Model Name: Strix G16. Brand: ASUS. Date First Available: January 3, 2024. Best Sellers Rank: #67 in Computers & Accessories (See Top 100 in Computers & Accessories) #7 in Traditional Laptop Computers. Customer Reviews: 4.4    4.4 out of 5 stars         1,901 ratings          4.4 out of 5 stars. ASIN: B0CRDCXRK2. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎240 Volts. Hard Drive Interface: ‎Solid State. Flash Memory Size: ‎1 TB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎14. Processor Brand: ‎Intel. Color: ‎Eclipse Gray. Item Dimensions  LxWxH: ‎13.94 x 0.89 x 10.39 inches. Product Dimensions: ‎13.94 x 0.89 x 10.39 inches. Item Weight: ‎5.51 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎G614JV-AS74. Series: ‎Strix G16. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎2. Wireless Type: ‎802.11ax. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4060. Hard Drive: ‎1 TB SSD. Memory Speed: ‎4800 MHz. RAM: ‎16 GB DDR5. Processor: ‎4.9 GHz core_i7. Max Screen Resolution: ‎1366 x 768 pixels. Screen Resolution: ‎1366 x 768 pixels. Standing screen display size: ‎16 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 67,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 7,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Eclipse Gray",
+    "weight": "‎5.51 pounds",
+    "first_available": {
+      "raw": "January 3, 2024",
+      "utc": "2024-01-03T00:00:00.000Z"
+    },
+    "dimensions": "‎13.94 x 0.89 x 10.39 inches",
+    "model_number": "‎G614JV-AS74",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 67, Category: Traditional Laptop Computers | Rank: 7",
+    "whats_in_the_box": [
+      "G614JV-AS74",
+      "Powercord &amp; Adapter",
+      "User Guide"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "newer_model": {
+    "title": "ASUS TUF F17 Gaming Laptop - 17.3\" 2K QHD 240Hz Display, Intel i7-13620H(up to 4.9 GHz), 64GB DDR5, 1TB SSD, NVIDIA GeForce RTX 4070, Wi-Fi 6, RGB Backlit Keyboard, Windows 11 Pro, MS Office Pro",
+    "asin": "B0F7LNL3FL",
+    "link": "https://www.amazon.com/ASUS-TUF-F17-Gaming-Laptop-dp-B0F7LNL3FL/dp/B0F7LNL3FL/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/7119bx4+AjL._SR75,75_.jpg",
+    "rating": 5,
+    "ratings_total": 12,
+    "price": {
+      "symbol": "$",
+      "value": 2199.99,
+      "currency": "USD",
+      "raw": "$2,199.99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 1292.76,
+      "currency": "USD",
+      "raw": "$1,292.76"
+    },
+    "products": [
+      {
+        "asin": "B0CRDCXRK2",
+        "title": "ASUS ROG Strix G16 Gaming Laptop, 165Hz Display, NVIDIA® GeForce RTX™ 4060, Intel Core i7-13650HX, 16GB DDR5, 1TB PCIe Gen4 SSD, Wi-Fi 6E, Windows 11, G614JV-AS74",
+        "link": "https://www.amazon.com/dp/B0CRDCXRK2",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81GrCeuCzxL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1136.97,
+          "currency": "USD",
+          "raw": "$1,136.97"
+        }
+      }
+    ]
+  }
+}

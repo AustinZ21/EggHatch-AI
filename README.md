@@ -49,18 +49,18 @@ graph TD
     F --> K{"Response Synthesis & Presentation (LLM-Powered)"};
     K --> A;
 
-    style A fill:#f9f,stroke:#333,stroke-width:2px
-    style B fill:#ccf,stroke:#333,stroke-width:2px,font-weight:bold
-    style C fill:#cfc,stroke:#333,stroke-width:2px
-    style D fill:#cfc,stroke:#333,stroke-width:2px,font-weight:bold
-    style E fill:#cfc,stroke:#333,stroke-width:2px
-    style F fill:#cfc,stroke:#333,stroke-width:2px
-    style G fill:#lightgrey,stroke:#333,stroke-width:2px
-    style H fill:#lightgrey,stroke:#333,stroke-width:2px
-    style I fill:#lightgrey,stroke:#333,stroke-width:2px
-    style J fill:#lightgrey,stroke:#333,stroke-width:2px
-    style JB fill:#lightgrey,stroke:#333,stroke-width:2px
-    style K fill:#ccf,stroke:#333,stroke-width:2px,font-weight:bold
+    style A fill:#ffe0b2,stroke:#333,stroke-width:2px
+    style B fill:#cce5ff,stroke:#333,stroke-width:2px,font-weight:bold
+    style C fill:#d4edda,stroke:#333,stroke-width:2px
+    style D fill:#d4edda,stroke:#333,stroke-width:2px,font-weight:bold
+    style E fill:#d4edda,stroke:#333,stroke-width:2px
+    style F fill:#d4edda,stroke:#333,stroke-width:2px
+    style G fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style H fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style I fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style J fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style JB fill:#f8f9fa,stroke:#333,stroke-width:2px
+    style K fill:#cce5ff,stroke:#333,stroke-width:2px,font-weight:bold
 ```
 
 ## Detailed Components & Workflow
@@ -86,7 +86,7 @@ For "I need a gaming laptop around $1800 that's good for competitive FPS titles 
 #### Tech Stack
 
 ##### POC Level
-- **Orchestration**: Python with LangGraph
+- **Orchestration**: Python with LangGraph (a framework for building stateful, multi-step AI workflows with directed graphs that manages state transitions and conditional routing)
 - **LLM Integration**: Python requests library or dedicated client for locally hosted LLM via Ollama API
 - **State Management**: In-memory within LangGraph states or simple Python dictionaries
 - **Prompt Engineering**: Manually crafted prompts stored as strings or in configuration files
@@ -110,16 +110,27 @@ For "I need a gaming laptop around $1800 that's good for competitive FPS titles 
 
 ##### Tech Stack
 
-###### POC Level
-- **Data Collection**: Python with Crawl4AI
-- **Data Access**: Python with Pandas
-- **NLP**: Pre-computed topic models and efficient pre-trained models
+###### POC Level:
 
-###### Production Level
-- **Data Ingestion**: Automated scraping pipelines
-- **Data Storage**: Data lake and structured databases
-- **NLP Pipeline**: Robust processing with Apache Spark
-- **Feature Store**: Integration for trend scores and sentiment distributions
+- **Initial Data Collection**: Python with Crawl4AI to scrape relevant web data (news, forums, reviews) and save it into local CSV files.
+- **Data Access**: Python with Pandas to read from these local CSV files.
+
+- **State-of-the-Art AI Models Implemented**:
+  - **Topic Modeling**: Scikit-learn's LatentDirichletAllocation (LDA) trained on-the-fly
+  - **Sentiment Analysis**: DistilBERT ("distilbert-base-uncased-finetuned-sst-2-english") for inference only
+  - **Zero-shot Classification**: DistilBART ("valhalla/distilbart-mnli-12-1") for feature categorization
+  - **Semantic Similarity**: Sentence-Transformers ("all-MiniLM-L6-v2") for embedding generation
+  - **LLM Integration**: Gemma 3 12B via Ollama for orchestration and response synthesis
+
+- **Note**: Neural network model training is explicitly omitted for the POC level. Only inference using existing pre-trained models is implemented for deep learning components. Lightweight statistical methods (like LDA for topic modeling) are still trained on-the-fly as they require minimal computational resources.
+
+###### Production Level:
+
+- **Data Ingestion**: Automated scraping pipelines (e.g., Crawl4AI, Scrapy) managed by an orchestrator like Airflow.
+- **Data Storage**: Data lake (e.g., AWS S3, Google Cloud Storage) for raw data; structured results in a data warehouse (e.g., Snowflake) or a document database.
+- **NLP Pipeline**: Robust NLP pipelines (potentially using Apache Spark for large-scale processing) for topic modeling, sentiment analysis (possibly fine-tuning domain-specific Transformer models), and NER.
+- **Feature Store Integration**: Results (trend scores, sentiment distributions) could be published to a Feature Store.
+- **Monitoring**: Data quality checks, drift detection for NLP model inputs/outputs.
 
 #### 2b. Product Knowledge, Compatibility & Benchmark Agent/Tool
 
@@ -131,15 +142,14 @@ For "I need a gaming laptop around $1800 that's good for competitive FPS titles 
 ##### Tech Stack
 
 ###### POC Level
-- **Knowledge Base**: Manually curated JSON/CSV files
-- **Data Access**: Python with Pandas or json module
+- **It is not implemented in the POC due to time constraints.**
 
 ###### Production Level
-- **Knowledge Base**: Relational database (PostgreSQL/MySQL)
-- **Benchmark Data**: Dedicated database collection
-- **Data Ingestion**: Automated pipelines
+- **Knowledge Base**: Robust relational database (e.g., PostgreSQL, MySQL) for structured product specs and complex compatibility rules (for PC components) or detailed configurations (for laptops). A graph database (e.g., Neo4j) could be very effective for modeling relationships.
+- **Benchmark Data**: Dedicated table/collection within the database, regularly updated via scraping or API feeds from benchmark sites.
+- **Data Ingestion**: Automated pipelines to update product specs, compatibility rules, and benchmarks.
 - **Querying**: SQL/Cypher/ORM
-- **Estimation**: ML models for benchmark predictions
+- **Estimation**: Simple ML models (scikit-learn) to estimate benchmark scores for unlisted configurations.
 
 #### 2c. Pricing & Availability Agent/Tool
 
@@ -152,14 +162,15 @@ For "I need a gaming laptop around $1800 that's good for competitive FPS titles 
 ##### Tech Stack
 
 ###### POC Level
-- **Data Source**: Pre-scraped CSV files
-- **Deal Assessment**: Simple Python heuristics
-- **Data Access**: Python with Pandas
+- **It is not implemented in the POC due to time constraints.**
 
 ###### Production Level
-- **Data Source**: Real-time NewEgg catalog access
-- **Deal Assessment**: Time-series forecasting and anomaly detection
-- **Caching**: Redis for price caching
+- **Data Source**: NewEgg's catalog
+- **Deal Assessment**: 
+  - Time-series forecasting models (Prophet) for price predictions.
+  - Anomaly detection algorithms (scikit-learn) to flag unusually good deals.
+  - Potentially use an LLM to prompt with historical context and current price for a qualitative deal assessment.
+- **Caching**: Cache frequently accessed product prices (e.g., using Redis).
 
 #### 2d. Build Configuration / Recommendation Agent/Tool
 
@@ -171,11 +182,13 @@ For "I need a gaming laptop around $1800 that's good for competitive FPS titles 
 ##### Tech Stack
 
 ###### POC Level
-- **Logic**: Rule-based Python scripts
-- **Templates**: Pre-defined laptop model suggestions
+- **It is not implemented in the POC due to time constraints.**
 
 ###### Production Level
-- **Logic**: ML models and LLM-driven reasoning
+- **Logic**: 
+  - Supervised ML models (scikit-learn, XGBoost, LightGBM) trained on historical "good builds" or popular laptop configurations if such data exists.
+  - LLM-driven reasoning: Prompting a powerful LLM with all constraints, available components/laptops, prices, and trend data to generate and justify a build/recommendation.
+  - Reinforcement Learning: Train an agent in a simulated environment to learn optimal build configuration or laptop selection strategies.
 - **Personalization**: User profile integration
 - **A/B Testing**: Framework for strategy comparison
 
@@ -205,33 +218,35 @@ For "I need a gaming laptop around $1800 that's good for competitive FPS titles 
 
 ### Production Level
 - Scalable web application (React/Vue.js/Angular frontend)
-- FastAPI/Node.js backend
+- FastAPI backend
 
 ## Project Structure
 
 ```
-EggHatch_AI_POC/
-├── data/                     # POC data files (CSV, JSON)
-│   ├── trends_sentiment.csv
-│   ├── product_info.json     # Specs, compatibility, benchmarks
-│   └── pricing_data.csv
+EggHatch-AI/
+├── data/                     # Data files
+│   ├── csv/                  # Aggregated CSV data
+│   ├── products/             # Individual product data
+│   └── reviews/              # Product reviews
 ├── notebooks/                # Jupyter notebooks for data exploration
-├── app/                      # Core POC application logic
+├── app/                      # Core application logic
+│   ├── __init__.py
 │   ├── master_agent.py       # Main LangGraph orchestration
-│   ├── agents/               # Sub-agent modules
+│   ├── agents/               # Specialized sub-agent modules
 │   │   ├── __init__.py
-│   │   ├── trend_sentiment_tool.py
-│   │   ├── product_knowledge_tool.py
-│   │   ├── pricing_availability_tool.py
-│   │   └── build_recommender_tool.py
-│   ├── llm_integrations.py   # LLM API communications
-│   └── prompts.py            # LLM prompts
+│   │   ├── data_pipeline.py  # Data loading and preprocessing
+│   │   ├── trend_analysis.py # Topic modeling and feature identification
+│   │   ├── sentiment_analysis.py # Sentiment classification
+│   │   ├── product_knowledge.py  # Product information retrieval
+│   │   ├── pricing_availability.py # Pricing data
+│   │   └── build_recommendation.py # Build suggestions
+│   ├── llm_integrations.py   # Ollama API client for Gemma 3 12B
+│   └── prompts.py            # LLM prompt templates
 ├── dashboard_app.py          # Streamlit UI
 ├── Dockerfile               # Docker image definition
 ├── requirements.txt         # Python dependencies
 ├── .env.example            # Environment variables template
 ├── .env                    # Environment variables (gitignored)
-├── .dockerignore          # Docker build exclusions
 ├── .gitignore             # Git exclusions
 └── README.md              # Project documentation
 ```
@@ -245,4 +260,4 @@ EggHatch_AI_POC/
    docker build -t egghatch-ai .
    docker run --env-file .env egghatch-ai
    ```
-4. Access the Streamlit dashboard at `http://localhost:8501`
+4. Access the Streamlit dashboard run `streamlit run dashboard_app.py`

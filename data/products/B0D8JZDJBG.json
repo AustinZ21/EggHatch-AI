@@ -1,0 +1,1175 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5597,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0D8JZDJBG",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:51:22.058Z",
+    "processed_at": "2025-05-20T01:51:26.996Z",
+    "total_time_taken": 4.94,
+    "amazon_url": "https://www.amazon.com/dp/B0D8JZDJBG?th=1&psc=1"
+  },
+  "product": {
+    "title": "Acer Nitro V Gaming Laptop | Intel Core i9-13900H Processor | NVIDIA GeForce RTX 4060 Laptop GPU | 15.6\" FHD IPS 144Hz Display | 32GB DDR5 | 1TB Gen 4 SSD | WiFi 6 | Backlit KB | ANV15-51-92XK",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Acer,Nitro,V,Gaming,Laptop,|,Intel,Core,i9-13900H,Processor,|,NVIDIA,GeForce,RTX,4060,Laptop,GPU,|,15.6\",FHD,IPS,144Hz,Display,|,32GB,DDR5,|,1TB,Gen,4,SSD,|,WiFi,6,|,Backlit,KB,|,ANV15-51-92XK",
+    "keywords_list": [
+      "Acer",
+      "Nitro",
+      "Gaming",
+      "Laptop",
+      "Intel",
+      "Core",
+      "i9-13900H",
+      "Processor",
+      "NVIDIA",
+      "GeForce",
+      "4060",
+      "Laptop",
+      "15.6\"",
+      "144Hz",
+      "Display",
+      "32GB",
+      "DDR5",
+      "WiFi",
+      "Backlit",
+      "ANV15-51-92XK"
+    ],
+    "is_collection": false,
+    "asin": "B0D8JZDJBG",
+    "parent_asin": "B0DWCFKFC6",
+    "link": "https://www.amazon.com/i9-13900H-Processor-GeForce-Display-ANV15-51-92XK/dp/B0D8JZDJBG",
+    "brand": "‎acer",
+    "protection_plans": [
+      {
+        "asin": "B07P6YXWCG",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 199.99,
+          "currency": "USD",
+          "raw": "$199.99"
+        }
+      },
+      {
+        "asin": "B07P61QVFM",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 130.99,
+          "currency": "USD",
+          "raw": "$130.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "16GB / 512GB",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "16GB / 512GB"
+          }
+        ],
+        "asin": "B0D8JXHZTH",
+        "link": "https://amazon.com/dp/B0D8JXHZTH?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "32GB / 1TB",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "32GB / 1TB"
+          }
+        ],
+        "asin": "B0D8JZDJBG",
+        "link": "https://amazon.com/dp/B0D8JZDJBG?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0D8JXHZTH,B0D8JZDJBG",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Live For Victory: Elevate your gaming adventure with the Acer Nitro V 15, your gateway to an adrenaline-charged journey. This laptop is the perfect blend of power and style, pushing the boundaries of what’s possible on a laptop. Powered by a 13th Gen Intel Core i9-13900H processor and NVIDIA GeForce RTX 4060 laptop graphics and showcasing a crystal-clear 15.6” Full HD display with a 144Hz IPS panel - you can see why the Nitro V 15 is a knockout hit for gamers of every level. (NH.QQEAA.00A)",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the acer Store",
+      "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2?is_byline_deeplink=true&deeplink=5BB8E016-64FC-4847-8612-DE004C216F55&redirect_store_id=0074ABD9-06D1-469D-B509-C3134D6FFFF2&lp_asin=B0D8JZDJBG&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 64,
+        "count": 90
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 16
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 2
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 4
+      },
+      "one_star": {
+        "percentage": 19,
+        "count": 26
+      }
+    },
+    "ratings_total": 141,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71F-Wcriq4L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71F-Wcriq4L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61cbZ6w8jBL._AC_SL1000_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61Jba5M+XAL._AC_SL1000_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710JGMmTGJL._AC_SL1000_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61xBdjk+eTL._AC_SL1000_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71LyDD2Z5iL._AC_SL1000_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71k4oo18+2L._AC_SL1000_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71StMt2-PmL._AC_SL1000_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61lnTrJD9lL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61-oc1K-WkL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51gtyRhWCeL._AC_SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51Dr9m8WxaL._AC_SL1500_.jpg",
+        "variant": "PT11"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71YcQTvQ4bL._AC_SL1500_.jpg",
+        "variant": "PT12"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61cWY5nxKhL._AC_SL1500_.jpg",
+        "variant": "PT13"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61oOqT4fvLL._AC_SL1500_.jpg",
+        "variant": "PT14"
+      }
+    ],
+    "images_count": 15,
+    "images_flat": "https://m.media-amazon.com/images/I/71F-Wcriq4L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61cbZ6w8jBL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61Jba5M+XAL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/710JGMmTGJL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61xBdjk+eTL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71LyDD2Z5iL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71k4oo18+2L._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71StMt2-PmL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61lnTrJD9lL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61-oc1K-WkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51gtyRhWCeL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51Dr9m8WxaL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71YcQTvQ4bL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61cWY5nxKhL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61oOqT4fvLL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 77,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/81jxrNwv1gL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e5e2ace-29e3-4279-8456-78fafe682588/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Is it worth it? Acer Nitro V Gaming Laptop"
+      },
+      {
+        "duration_seconds": 64,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/91vcEOnNqVL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Why You NEED To Try This Acer Nitro 5"
+      },
+      {
+        "duration_seconds": 40,
+        "width": 1148,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/71GBWgtycaL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/847a0904-2bfe-4c39-8526-b5788460a778/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Nitro V i9 Gaming Beast with RTX 4060 & 32GB RAM"
+      },
+      {
+        "duration_seconds": 7,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/51gHxdt31bL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f9ac348-7896-4186-b56f-91ced5e53250/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Damage"
+      },
+      {
+        "duration_seconds": 26,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61S1RYn3lWL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0a0426f-b683-430c-bc83-4c9c1172929e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Nitro 5 Webcam- Manual Focusing and Exposure Control"
+      },
+      {
+        "duration_seconds": 25,
+        "width": 640,
+        "height": 1136,
+        "thumbnail": "https://m.media-amazon.com/images/I/61vRCqLznqL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecaa910-28d7-46dc-ab8e-d8bd8e6d4b22/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Quick Look: Is the Acer Nitro V the Best Budget Gaming Laptop?"
+      },
+      {
+        "duration_seconds": 24,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61960sKsZOL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7524b25e-3237-418c-80b6-630df0884e0a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Soft Keyboard and Trackpad Experience"
+      },
+      {
+        "duration_seconds": 22,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61LY12L5JkL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/825f4338-bc58-423a-b4f9-e670fa42c814/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Exploring the Nitro 5 Laptop's Interior and Battery Capacity"
+      },
+      {
+        "duration_seconds": 25,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/51UnRfekGOL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd164ad2-b0e7-49d3-bf3d-bf3c43398c14/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "watch before you buy | Acer Nitro 5 Laptop Review"
+      },
+      {
+        "duration_seconds": 16,
+        "width": 854,
+        "height": 480,
+        "thumbnail": "https://m.media-amazon.com/images/I/81P741b0JyL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/100bf0a8-4270-41e1-b248-30a331f82a9b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Nitro V ANV15-51 Product Video"
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e5e2ace-29e3-4279-8456-78fafe682588/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/847a0904-2bfe-4c39-8526-b5788460a778/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f9ac348-7896-4186-b56f-91ced5e53250/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0a0426f-b683-430c-bc83-4c9c1172929e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecaa910-28d7-46dc-ab8e-d8bd8e6d4b22/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7524b25e-3237-418c-80b6-630df0884e0a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/825f4338-bc58-423a-b4f9-e670fa42c814/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd164ad2-b0e7-49d3-bf3d-bf3c43398c14/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/100bf0a8-4270-41e1-b248-30a331f82a9b/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0fac0c3424d6459899c6a38bed92cba8",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JXHZTH",
+        "title": "Is it worth it? Acer Nitro V Gaming Laptop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/7142ElpoC4L._CR48,90,522,522_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/anatoliylashkul",
+        "public_name": "✅ Tony's Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "anatoliylashkul:shop",
+        "vendor_name": "✅ Tony's Reviews",
+        "vendor_tracking_id": "onamzsporteza-20",
+        "video_image_id": "81jxrNwv1gL",
+        "video_image_url": "https://m.media-amazon.com/images/I/81jxrNwv1gL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81jxrNwv1gL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/769a8ba1-3186-4b7e-9290-e9e02e4e9c92/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e5e2ace-29e3-4279-8456-78fafe682588/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e5e2ace-29e3-4279-8456-78fafe682588/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6e5e2ace-29e3-4279-8456-78fafe682588/0c8e7de2-7534-4c59-8dc3-51aceb1e7343/0fac0c3424d6459899c6a38bed92cba8_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:17",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7d7172a8-a0eb-47c7-8814-9e3210388366.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.041aabe43eb54c29999927dc978cf182",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0CP8D4SM2,B0D8JXHZTH,B0DHYF6RYZ",
+        "title": "Why You NEED To Try This Acer Nitro 5",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1Yj35MGW5L._CR0,459,904,903_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/pacodesigntipshacks",
+        "public_name": "Paco Puylaert",
+        "creator_type": "Influencer",
+        "vendor_code": "pacodesigntipshacks:shop",
+        "vendor_name": "Paco Puylaert",
+        "vendor_tracking_id": "onamzpacopuyl-20",
+        "video_image_id": "91vcEOnNqVL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91vcEOnNqVL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91vcEOnNqVL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/44d7b6da-8914-4213-8e0d-c0b425175f63/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/6b7b06cc-5c93-4818-83a1-ba88529e6fef/041aabe43eb54c29999927dc978cf182_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:04",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/975e1425-2ebc-45ae-859a-78fc8c502939.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0528641859c9421682ebd1fc2062b078",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JZDJBG",
+        "title": "Acer Nitro V i9 Gaming Beast with RTX 4060 & 32GB RAM",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51wHhogjORL._CR0,0,600,600_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/bubbletubble-learningvideosfortoddlers",
+        "public_name": "KRySt",
+        "creator_type": "Influencer",
+        "vendor_code": "bubbletubble-learningvideosfortoddlers:shop",
+        "vendor_name": "KRySt",
+        "vendor_tracking_id": "onamzsoniaris-20",
+        "video_image_id": "71GBWgtycaL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71GBWgtycaL._CR0,0,1148,648_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71GBWgtycaL.jpg",
+        "video_image_width": "1148",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/55c6ef33-2d9b-442c-bc76-a8207b0b037b/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/847a0904-2bfe-4c39-8526-b5788460a778/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/847a0904-2bfe-4c39-8526-b5788460a778/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:40",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6a0e44fd-1fb3-45aa-9e44-f603bb41c20f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0f614b2eb35f43a79bf9de6ebb61ee7b",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JZDJBG",
+        "title": "Damage",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AEVZHM72VTF2KBP4C2KB7ZXMWWLQ",
+        "public_name": "Jorge hernandez",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Jorge hernandez",
+        "video_image_id": "51gHxdt31bL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51gHxdt31bL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51gHxdt31bL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4068db2-eec8-47bb-bc5d-0145261e008b/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f9ac348-7896-4186-b56f-91ced5e53250/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1f9ac348-7896-4186-b56f-91ced5e53250/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:07",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/47c088be-9a7f-4601-be68-5bcc61929be6.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0112b5b3e30d4c66b95daf0537ad6793",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JZDJBG",
+        "title": "Nitro 5 Webcam- Manual Focusing and Exposure Control",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41SOZWix2kL._CR0,0,1075,1075_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fyzotech",
+        "public_name": "Zelo",
+        "creator_type": "Influencer",
+        "vendor_code": "fyzotech:shop",
+        "vendor_name": "Zelo",
+        "vendor_tracking_id": "onamzethant01-20",
+        "video_image_id": "61S1RYn3lWL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61S1RYn3lWL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61S1RYn3lWL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b98d9d72-8a5c-4370-b140-10df5c588c0e/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0a0426f-b683-430c-bc83-4c9c1172929e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0a0426f-b683-430c-bc83-4c9c1172929e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/bf654340-761f-4c0c-b491-fb249331e5ae.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0cc0a937a2d045e4a889c492dc519a49",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0CX2PS48B,B0CV61RWHF,B0D8JZDJBG,B0DF1W6D16,B0DB5WW14G",
+        "title": "Quick Look: Is the Acer Nitro V the Best Budget Gaming Laptop?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "61vRCqLznqL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61vRCqLznqL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61vRCqLznqL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1136",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/596d46ce-38db-4840-8dc6-73be93669806/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecaa910-28d7-46dc-ab8e-d8bd8e6d4b22/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecaa910-28d7-46dc-ab8e-d8bd8e6d4b22/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eecaa910-28d7-46dc-ab8e-d8bd8e6d4b22/9e8eca36-f716-4341-91cb-967bc83f8cda/0cc0a937a2d045e4a889c492dc519a49_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:25",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7d2d6f82-3c94-4473-8a69-158ecfb69a57.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0256f51278b84b4395e82e91bba3b9b8",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JZDJBG",
+        "title": "Soft Keyboard and Trackpad Experience",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41SOZWix2kL._CR0,0,1075,1075_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fyzotech",
+        "public_name": "Zelo",
+        "creator_type": "Influencer",
+        "vendor_code": "fyzotech:shop",
+        "vendor_name": "Zelo",
+        "vendor_tracking_id": "onamzethant01-20",
+        "video_image_id": "61960sKsZOL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61960sKsZOL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61960sKsZOL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4073df9d-4047-44f2-9e73-de829f00dc21/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7524b25e-3237-418c-80b6-630df0884e0a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7524b25e-3237-418c-80b6-630df0884e0a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:24",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1fb6ba08-7918-46d6-94aa-7ba56ad34671.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0a8f209bbff5416c927c1e2078789e5e",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JZDJBG",
+        "title": "Exploring the Nitro 5 Laptop's Interior and Battery Capacity",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41SOZWix2kL._CR0,0,1075,1075_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fyzotech",
+        "public_name": "Zelo",
+        "creator_type": "Influencer",
+        "vendor_code": "fyzotech:shop",
+        "vendor_name": "Zelo",
+        "vendor_tracking_id": "onamzethant01-20",
+        "video_image_id": "61LY12L5JkL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61LY12L5JkL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61LY12L5JkL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3d535520-3e4c-4d08-a074-230dc9e036a2/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/825f4338-bc58-423a-b4f9-e670fa42c814/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/825f4338-bc58-423a-b4f9-e670fa42c814/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7848d397-edfd-41f4-9e94-c03c792e207f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.06b70178931f45eeb9d3f6641c512ebd",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0D8JZDJBG",
+        "title": "watch before you buy | Acer Nitro 5 Laptop Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41SOZWix2kL._CR0,0,1075,1075_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fyzotech",
+        "public_name": "Zelo",
+        "creator_type": "Influencer",
+        "vendor_code": "fyzotech:shop",
+        "vendor_name": "Zelo",
+        "vendor_tracking_id": "onamzethant01-20",
+        "video_image_id": "51UnRfekGOL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51UnRfekGOL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51UnRfekGOL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1453cba9-9f81-4ce0-bfa6-c3aa6a521b12/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd164ad2-b0e7-49d3-bf3d-bf3c43398c14/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd164ad2-b0e7-49d3-bf3d-bf3c43398c14/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:25",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f4d2fcd0-a7b6-4d71-bb4b-143d811a4804.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.08fa5bf85ad0492f8ffee44a2ba84186",
+        "product_asin": "B0D8JZDJBG",
+        "parent_asin": "B0DWCFKFC6",
+        "related_products": "B0CMRQXWK8,B0CMRGBXM9,B0CP8D4SM2,B0D8JXHZTH,B0D8JTYXQM",
+        "title": "Acer Nitro V ANV15-51 Product Video",
+        "public_name": "Merchant Video",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Merchant Video",
+        "video_image_id": "81P741b0JyL",
+        "video_image_url": "https://m.media-amazon.com/images/I/81P741b0JyL._CR2,0,851,480_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81P741b0JyL.png",
+        "video_image_width": "854",
+        "video_image_height": "480",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/95e61b63-c2d7-42b9-b4c1-2b2acacce67a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/100bf0a8-4270-41e1-b248-30a331f82a9b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/100bf0a8-4270-41e1-b248-30a331f82a9b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/100bf0a8-4270-41e1-b248-30a331f82a9b/c1287031-1079-4176-8c80-8f160901c301/08fa5bf85ad0492f8ffee44a2ba84186_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d9b23adf-2151-471a-81a5-94776ea4622e.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Beyond Performance: Empower your gaming and creativity with the Nitro V 15, combining a 13th Gen Intel Core i9-13900H processor with the NVIDIA GeForce RTX 4060 Laptop GPU.",
+      "AI-Driven Graphics: Experience lifelike visuals and unparalleled performance with the cutting-edge NVIDIA GeForce RTX 4060 laptop graphics. The integration of DLSS 3.5 technology takes your gaming to new heights, enhancing beauty, immersion, and realism. This innovative AI-powered technique elevates the quality of ray tracing, providing an even more captivating gaming experience.",
+      "Picture-Perfect. Furiously Fast: See your digital conquests unfold in vibrant Full HD on a 15.6\" screen, perfectly timed at a quick 144Hz refresh rate and a wide 16:9 aspect ratio providing 82.64% screen-to-body ratio. Now you can land those reflexive shots with pinpoint accuracy and minimal ghosting. It's like having a portal to the gaming universe right on your lap.",
+      "Internal Specifications: 32GB DDR5 Memory (2 DDR5 Slots Total, Maximum 32GB); 1TB PCIe Gen 4 SSD (2 x PCIe M.2 Slots)",
+      "Thunderbolt 4: With the powerful Thunderbolt 4 port, you have the trifecta of power charging and data transfer with bidirectional movement and video display in one interface.",
+      "Stay Connected: Your gaming sanctuary is wherever you are. On the couch? Settle in with fast and stable Wi-Fi 6. Gaming Cafe? Get an edge online with Gigabit Ethernet. No matter your location, Nitro V 16 ensures you're always in the driver's seat.",
+      "Keep Your Cool: Keep your cool amidst the fiercest gaming galaxies, thanks to Nitro V 15's innovative dual fans and effective exhaust system. As you navigate interstellar conflicts, your laptop stays serene as deep space. Its gradient design mirrors the neon hues of a futuristic cityscape, immersing you deeper into your gaming universe.",
+      "Always Be Heard and Seen: Experience crystal clear communication with AI-powered Acer PurifiedView and PurifiedVoice noise reduction technology. You'll feel like you're in the command center of a spaceship, with pinpoint sound accuracy giving you the edge in your gaming skirmishes.",
+      "Ports For All Your Accessories: 1 - USB Type-C Port USB 3.2 Gen 2 (up to 10 Gbps) DisplayPort over USB Type-C, Thunderbolt 4 and USB Charging, 1 - USB 3.2 Gen 1 Port (Featuring Power-off Charging), 2 - USB 3.2 Gen 1 ports, 1 - HDMI 2.1 Port with HDCP support, 1 - Headphone/Speaker/Line-out Jack, 1 - Ethernet (RJ-45), DC-in for AC adapter, 1 - Kensington Lock Slot",
+      "The Right Fit: 14.26\" W x 9.44\" D x 0.93/1.06\" H; 4.66 lbs.; One-Year International Travelers Limited Warranty (ITW)"
+    ],
+    "feature_bullets_count": 10,
+    "feature_bullets_flat": "The Right Fit: 14.26\" W x 9.44\" D x 0.93/1.06\" H; 4.66 lbs.; One-Year International Travelers Limited Warranty (ITW). Ports For All Your Accessories: 1 - USB Type-C Port USB 3.2 Gen 2 (up to 10 Gbps) DisplayPort over USB Type-C, Thunderbolt 4 and USB Charging, 1 - USB 3.2 Gen 1 Port (Featuring Power-off Charging), 2 - USB 3.2 Gen 1 ports, 1 - HDMI 2.1 Port with HDCP support, 1 - Headphone/Speaker/Line-out Jack, 1 - Ethernet (RJ-45), DC-in for AC adapter, 1 - Kensington Lock Slot. Always Be Heard and Seen: Experience crystal clear communication with AI-powered Acer PurifiedView and PurifiedVoice noise reduction technology. You'll feel like you're in the command center of a spaceship, with pinpoint sound accuracy giving you the edge in your gaming skirmishes. Keep Your Cool: Keep your cool amidst the fiercest gaming galaxies, thanks to Nitro V 15's innovative dual fans and effective exhaust system. As you navigate interstellar conflicts, your laptop stays serene as deep space. Its gradient design mirrors the neon hues of a futuristic cityscape, immersing you deeper into your gaming universe. Stay Connected: Your gaming sanctuary is wherever you are. On the couch? Settle in with fast and stable Wi-Fi 6. Gaming Cafe? Get an edge online with Gigabit Ethernet. No matter your location, Nitro V 16 ensures you're always in the driver's seat. Thunderbolt 4: With the powerful Thunderbolt 4 port, you have the trifecta of power charging and data transfer with bidirectional movement and video display in one interface. Internal Specifications: 32GB DDR5 Memory (2 DDR5 Slots Total, Maximum 32GB); 1TB PCIe Gen 4 SSD (2 x PCIe M.2 Slots). Picture-Perfect. Furiously Fast: See your digital conquests unfold in vibrant Full HD on a 15.6\" screen, perfectly timed at a quick 144Hz refresh rate and a wide 16:9 aspect ratio providing 82.64% screen-to-body ratio. Now you can land those reflexive shots with pinpoint accuracy and minimal ghosting. It's like having a portal to the gaming universe right on your lap. AI-Driven Graphics: Experience lifelike visuals and unparalleled performance with the cutting-edge NVIDIA GeForce RTX 4060 laptop graphics. The integration of DLSS 3.5 technology takes your gaming to new heights, enhancing beauty, immersion, and realism. This innovative AI-powered technique elevates the quality of ray tracing, providing an even more captivating gaming experience. Beyond Performance: Empower your gaming and creativity with the Nitro V 15, combining a 13th Gen Intel Core i9-13900H processor with the NVIDIA GeForce RTX 4060 Laptop GPU.",
+    "top_reviews": [
+      {
+        "id": "R1G7OS6PFFHZGY",
+        "title": "An Exceptional Gaming Powerhouse",
+        "body": "The Acer Nitro V Gaming Laptop has exceeded my expectations in every way, making it a top-notch choice for both gaming and productivity. Here’s why:  Pros: Outstanding Performance: The Intel Core i9-13900H processor and NVIDIA GeForce RTX 4060 GPU combo deliver lightning-fast performance. Whether I'm playing the latest AAA games or running demanding applications, this laptop handles it all with ease.  Stunning Display: The 15.6\" FHD IPS display with a 144Hz refresh rate provides crisp visuals and smooth gameplay. The colors are vibrant, and the high refresh rate makes a noticeable difference in fast-paced games.  Ample Memory and Storage: With 16GB of DDR5 RAM and a 512GB Gen 4 SSD, this laptop offers plenty of memory and storage for all my needs. The SSD ensures quick boot times and rapid loading of games and applications.  Advanced Connectivity: WiFi 6 provides fast and reliable internet connectivity, which is crucial for online gaming. The backlit keyboard is a nice touch, allowing me to game comfortably even in low-light conditions.  Build Quality and Design: The laptop feels sturdy and well-built. The design is sleek and modern, and it’s surprisingly lightweight for a gaming laptop, making it easy to carry around.  Cons: Battery Life: Like many gaming laptops, the battery life is decent but not exceptional. However, given the performance it offers, this is a trade-off I’m willing to accept.  Conclusion: The Acer Nitro V Gaming Laptop is a powerful, versatile machine that excels in both gaming and productivity tasks. Its impressive specs, stunning display, and solid build quality make it an excellent investment for gamers and power users alike. Highly recommended! Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Acer Nitro V Gaming Laptop has exceeded my expectations in every way, making it a top-notch choice for both gaming and productivity. Here&#x2019;s why:<br/><br/>Pros: Outstanding Performance: The Intel Core i9-13900H processor and NVIDIA GeForce RTX 4060 GPU combo deliver lightning-fast performance. Whether I&apos;m playing the latest AAA games or running demanding applications, this laptop handles it all with ease.<br/><br/>Stunning Display: The 15.6&quot; FHD IPS display with a 144Hz refresh rate provides crisp visuals and smooth gameplay. The colors are vibrant, and the high refresh rate makes a noticeable difference in fast-paced games.<br/><br/>Ample Memory and Storage: With 16GB of DDR5 RAM and a 512GB Gen 4 SSD, this laptop offers plenty of memory and storage for all my needs. The SSD ensures quick boot times and rapid loading of games and applications.<br/><br/>Advanced Connectivity: WiFi 6 provides fast and reliable internet connectivity, which is crucial for online gaming. The backlit keyboard is a nice touch, allowing me to game comfortably even in low-light conditions.<br/><br/>Build Quality and Design: The laptop feels sturdy and well-built. The design is sleek and modern, and it&#x2019;s surprisingly lightweight for a gaming laptop, making it easy to carry around.<br/><br/>Cons: Battery Life: Like many gaming laptops, the battery life is decent but not exceptional. However, given the performance it offers, this is a trade-off I&#x2019;m willing to accept.<br/><br/>Conclusion: The Acer Nitro V Gaming Laptop is a powerful, versatile machine that excels in both gaming and productivity tasks. Its impressive specs, stunning display, and solid build quality make it an excellent investment for gamers and power users alike. Highly recommended!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1G7OS6PFFHZGY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 8, 2024",
+          "utc": "2024-12-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Bryan",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEYYDR35VB7IMOYSRPITJOHOGN7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEYYDR35VB7IMOYSRPITJOHOGN7A",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/1a35a068-cb6e-4347-a56d-278d7e08ab90._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 35,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R3TDS5MWN7FXYP",
+        "title": "Worth the money",
+        "body": "This is a wonderful PC, laptop. It's very fast it keeps cool and I couldn't ask for anything more from acer Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is a wonderful PC, laptop. It&apos;s very fast it keeps cool and I couldn&apos;t ask for anything more from acer<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3TDS5MWN7FXYP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 3, 2025",
+          "utc": "2025-05-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Stephanie Patterson",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AERC3OOIAQRP6ND3TVOPIDIPY4IA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AERC3OOIAQRP6ND3TVOPIDIPY4IA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "32GB / 1TB"
+          }
+        ]
+      },
+      {
+        "id": "R36K8G2G9S8HTF",
+        "title": "Disappointed Gamer",
+        "body": "This gaming laptop was purchased for my son. He was so excited to get his first gaming laptop that he paid for by saving his money for a year, and as soon as he started using the laptop it had issues with needing to reboot multiple times a day, and now, a week later, it is not working at all. Submitted a request for a new laptop with seller and we have to pay for shipping materials to make sure it doesn’t get damaged shipping it back. We bought the extended warranty, but that doesn’t kick in until after the year warranty provided by the seller. In the meantime my son has no laptop and no idea when he might get it back. We requested a replacement, but they said they will repair it instead. I will update my review when the issue is resolved. We are very disappointed in our experience so far. Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This gaming laptop was purchased for my son. He was so excited to get his first gaming laptop that he paid for by saving his money for a year, and as soon as he started using the laptop it had issues with needing to reboot multiple times a day, and now, a week later, it is not working at all. Submitted a request for a new laptop with seller and we have to pay for shipping materials to make sure it doesn&#x2019;t get damaged shipping it back. We bought the extended warranty, but that doesn&#x2019;t kick in until after the year warranty provided by the seller. In the meantime my son has no laptop and no idea when he might get it back. We requested a replacement, but they said they will repair it instead. I will update my review when the issue is resolved. We are very disappointed in our experience so far.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R36K8G2G9S8HTF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on April 29, 2025",
+          "utc": "2025-04-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rosie",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGNY4FHEDUFGJ3J45BNUUBHYIMIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGNY4FHEDUFGJ3J45BNUUBHYIMIA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/0764522f-7873-43d0-b588-0ecbf2cedd85._CR0%2C0%2C337%2C337_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "32GB / 1TB"
+          }
+        ]
+      },
+      {
+        "id": "R1LI76J5GTJIWU",
+        "title": "Good for the price",
+        "body": "Good laptop for the price, mostly use it to use GIS. It can get pretty loud but so far no issues. Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good laptop for the price, mostly use it to use GIS. It can get pretty loud but so far no issues.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1LI76J5GTJIWU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 5, 2025",
+          "utc": "2025-05-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rosario",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEU67MW4YMVHD67775J6LOXFNM6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEU67MW4YMVHD67775J6LOXFNM6Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "32GB / 1TB"
+          }
+        ]
+      },
+      {
+        "id": "R2OYBX6953YK3J",
+        "title": "Worth it! All you need to know basically.",
+        "body": "This is one of the best options for a cheaper gaming laptop you'll find, it can run any game you want to play, I'm playing oblivion remaster and the sons of the forest sons of the forest can run high to ultra graphics, oblivion can run high settings with little frame drops so tweak it a little but it can run that's the good thing any modern game should be able to run high or higher, a TIP people complain about it getting hot go into your nitro sense which you can find my searching in your search bar, whenever you play demanding games set your nitro sense to performance mode and turn your fan up to a pretty high setting, I don't do the highest setting because I don't want to wear the fans down too quickly, moniter your PC during gameplay to make sure the fans are actually keeping it cool, if your computer is hot and won't cool down then close the game turn your fans up to the max and wait for the computer to cool off then start the game with the fans on high speed, unplug your computer when you're done with it and make sure it's powered off completely the goal is to perserve it's longevity especially cheaper laptops. It sounds good the audio can get loud, built in ai assistant, the screen isn't too small it's just right in my opinion. The storage is really the only big issue you can't have too many big games and having to constantly delete games is annoying but that's to be expected at this price level. It came with free gamepass for a month, malware bytes and some good antivirus software for free for the first month. Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is one of the best options for a cheaper gaming laptop you&apos;ll find, it can run any game you want to play, I&apos;m playing oblivion remaster and the sons of the forest sons of the forest can run high to ultra graphics, oblivion can run high settings with little frame drops so tweak it a little but it can run that&apos;s the good thing any modern game should be able to run high or higher, a TIP people complain about it getting hot go into your nitro sense which you can find my searching in your search bar, whenever you play demanding games set your nitro sense to performance mode and turn your fan up to a pretty high setting, I don&apos;t do the highest setting because I don&apos;t want to wear the fans down too quickly, moniter your PC during gameplay to make sure the fans are actually keeping it cool, if your computer is hot and won&apos;t cool down then close the game turn your fans up to the max and wait for the computer to cool off then start the game with the fans on high speed, unplug your computer when you&apos;re done with it and make sure it&apos;s powered off completely the goal is to perserve it&apos;s longevity especially cheaper laptops. It sounds good the audio can get loud, built in ai assistant, the screen isn&apos;t too small it&apos;s just right in my opinion. The storage is really the only big issue you can&apos;t have too many big games and having to constantly delete games is annoying but that&apos;s to be expected at this price level. It came with free gamepass for a month, malware bytes and some good antivirus software for free for the first month.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2OYBX6953YK3J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on April 27, 2025",
+          "utc": "2025-04-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Elijah",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG3PLVJ6UVW4FX7LI5KQCDJ3HCBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG3PLVJ6UVW4FX7LI5KQCDJ3HCBA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 7,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R1HUTPEQRM2NIW",
+        "title": "Good beginner game laptop",
+        "body": "Found this model on sale for cyber moday and needed a new laptop. Never had a gamer laptop but wanted a faster laptop. My old laptop was a much reliable gateway (that should tell you the age) that I used up to the day it died in October. I did get the 32 go ddr5 ram and took out the 16 as soon as I recieved it. I did have to get a webcam and a blu ray drive as I do still use it. The speed is really fast as I did a few updates that were zooming and a download that was lightning. Windows 11 takes some getting use to but impressive computer thus far. It may not be Alienware but it is cheaper. It does get warm but I had a Toshiba that use to get very hot and this is just warm. Quick startup and clear video. It weighs as much as a laptop that should have all the drives and such but that's fine. I don't game as much as I data transfer and I love the quickness this has. I hihlghly recommend for the price of a entry level game laptop. Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Found this model on sale for cyber moday and needed a new laptop. Never had a gamer laptop but wanted a faster laptop. My old laptop was a much reliable gateway (that should tell you the age) that I used up to the day it died in October. I did get the 32 go ddr5 ram and took out the 16 as soon as I recieved it. I did have to get a webcam and a blu ray drive as I do still use it. The speed is really fast as I did a few updates that were zooming and a download that was lightning. Windows 11 takes some getting use to but impressive computer thus far. It may not be Alienware but it is cheaper. It does get warm but I had a Toshiba that use to get very hot and this is just warm. Quick startup and clear video. It weighs as much as a laptop that should have all the drives and such but that&apos;s fine. I don&apos;t game as much as I data transfer and I love the quickness this has. I hihlghly recommend for the price of a entry level game laptop.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1HUTPEQRM2NIW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 3, 2025",
+          "utc": "2025-01-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "dennis",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHQUXEDK2HMUK5LIA6DPEPZ6S6NA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHQUXEDK2HMUK5LIA6DPEPZ6S6NA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R1Q2JJ1F1ANA99",
+        "title": "Really good size",
+        "body": "It’s great value for money it’s super simple and easy to use Read more",
+        "asin": "B0D8JZDJBG",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It&#x2019;s great value for money it&#x2019;s super simple and easy to use<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1Q2JJ1F1ANA99/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D8JZDJBG",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 6, 2025",
+          "utc": "2025-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dariana Mercedes de aza",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEHAJKDDG6JB2IA4UTG54ULOGA5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEHAJKDDG6JB2IA4UTG54ULOGA5A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i9-13900H / RTX4060"
+          },
+          {
+            "Capacity": "16GB / 512GB"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "199.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "130.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 8 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1349.99,
+        "currency": "USD",
+        "raw": "$1,349.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1922 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.1 GHz intel_core_i9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎1 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4060"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎4"
+      },
+      {
+        "name": "Brand",
+        "value": "‎acer"
+      },
+      {
+        "name": "Series",
+        "value": "‎Nitro V Gaming Laptop ANV15-51-92XK"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎NH.QQEAA.00A"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.66 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.26 x 0.93 x 9.44 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.26 x 0.93 x 9.44 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Black"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎14"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎1 TB"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎Battery Powered"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎230 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0D8JZDJBG"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.0    4.0 out of 5 stars         141 ratings          4.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#1,183 in Computers & Accessories (See Top 100 in Computers & Accessories) #142 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "August 2, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "acer"
+      },
+      {
+        "name": "Model Name",
+        "value": "Nitro V Gaming Laptop ANV15-51-92XK"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "1 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core i9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "32 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Backlit Keyboard. Operating System: Windows 11 Home. Ram Memory Installed Size: 32 GB. CPU Model: Intel Core i9. Hard Disk Size: 1 TB. Color: Black. Screen Size: 15.6 Inches. Model Name: Nitro V Gaming Laptop ANV15-51-92XK. Brand: acer. Date First Available: August 2, 2024. Best Sellers Rank: #1,183 in Computers & Accessories (See Top 100 in Computers & Accessories) #142 in Traditional Laptop Computers. Customer Reviews: 4.0    4.0 out of 5 stars         141 ratings          4.0 out of 5 stars. ASIN: B0D8JZDJBG. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎230 Volts. Power Source: ‎Battery Powered. Optical Drive Type: ‎No Optical Drive. Flash Memory Size: ‎1 TB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎14. Processor Brand: ‎Intel. Color: ‎Black. Item Dimensions  LxWxH: ‎14.26 x 0.93 x 9.44 inches. Product Dimensions: ‎14.26 x 0.93 x 9.44 inches. Item Weight: ‎4.66 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎NH.QQEAA.00A. Series: ‎Nitro V Gaming Laptop ANV15-51-92XK. Brand: ‎acer. Number of USB 3.0 Ports: ‎4. Wireless Type: ‎Bluetooth, 802.11ax. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4060. Hard Drive: ‎1 TB SSD. RAM: ‎DDR5. Processor: ‎4.1 GHz intel_core_i9. Max Screen Resolution: ‎1920x1080. Screen Resolution: ‎1922 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 1183,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 142,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Black",
+    "weight": "‎4.66 pounds",
+    "first_available": {
+      "raw": "August 2, 2024",
+      "utc": "2024-08-02T00:00:00.000Z"
+    },
+    "dimensions": "‎14.26 x 0.93 x 9.44 inches",
+    "model_number": "‎NH.QQEAA.00A",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 1183, Category: Traditional Laptop Computers | Rank: 142",
+    "whats_in_the_box": [
+      "Nitro Laptop",
+      "AC Adapter",
+      "Power Cord"
+    ]
+  },
+  "brand_store": {
+    "id": "0074ABD9-06D1-469D-B509-C3134D6FFFF2",
+    "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2"
+  },
+  "newer_model": {
+    "title": "acer Nitro V Gaming Laptop - Intel i9-13900H CPU | NVIDIA GeForce RTX 4060 GPU| 15.6\" FHD 144Hz Display | 64GB DDR5 | 2TB SSD | WiFi 6 | Backlit KB | Win11 Pro, with Accessories",
+    "asin": "B0DHRDRCLR",
+    "link": "https://www.amazon.com/acer-Nitro-Gaming-Laptop-Accessories-dp-B0DHRDRCLR/dp/B0DHRDRCLR/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/71BVEebRo8L._SR75,75_.jpg",
+    "price": {
+      "symbol": "$",
+      "value": 1639.99,
+      "currency": "USD",
+      "raw": "$1,639.99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 1417.97,
+      "currency": "USD",
+      "raw": "$1,417.97"
+    },
+    "products": [
+      {
+        "asin": "B0D8JZDJBG",
+        "title": "Acer Nitro V Gaming Laptop | Intel Core i9-13900H Processor | NVIDIA GeForce RTX 4060 Laptop GPU | 15.6\" FHD IPS 144Hz Display | 32GB DDR5 | 1TB Gen 4 SSD | WiFi 6 | Backlit KB | ANV15-51-92XK",
+        "link": "https://www.amazon.com/dp/B0D8JZDJBG",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71F-Wcriq4L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1349.99,
+          "currency": "USD",
+          "raw": "$1,349.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DLHBYRPS",
+    "link": "https://www.amazon.com/dp/B0DLHBYRPS/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=F92HSFC13BF5HPZYTCR3&pd_rd_wg=jshAX&pd_rd_i=B0DLHBYRPS&pd_rd_w=8rxC6&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=f8cc943f-9a6c-4e63-ae87-0ec4aefc2267&psc=1",
+    "title": "Apple 2024 MacBook Pro Laptop with M4 chip with 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Space Black",
+    "rating": 5,
+    "ratings_total": 768,
+    "image": "https://m.media-amazon.com/images/I/61-oTP1X4rL._SS100_.jpg",
+    "is_prime": true
+  }
+}

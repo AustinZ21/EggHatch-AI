@@ -1,0 +1,775 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5595,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F4WMLFRL",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:51:46.360Z",
+    "processed_at": "2025-05-20T01:51:54.909Z",
+    "total_time_taken": 8.55,
+    "amazon_url": "https://www.amazon.com/dp/B0F4WMLFRL?th=1&psc=1"
+  },
+  "product": {
+    "title": "2025 Laptop with AMD Ryzen 7 5700U Processor(8C/16T, Up to 4.3GHz), 16.1 inch FHD Display Laptop 16GB RAM 512GB NVMe SSD Laptop Computer, USB3.2, Type-C, WiFi 6, 53Wh Battery, Backlit KB",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "2025,Laptop,with,AMD,Ryzen,7,5700U,Processor(8C/16T,Up,to,4.3GHz),16.1,inch,FHD,Display,Laptop,16GB,RAM,512GB,NVMe,SSD,Laptop,Computer,USB3.2,Type-C,WiFi,6,53Wh,Battery,Backlit,KB",
+    "keywords_list": [
+      "2025",
+      "Laptop",
+      "with",
+      "Ryzen",
+      "5700U",
+      "Processor(8C/16T",
+      "4.3GHz)",
+      "16.1",
+      "inch",
+      "Display",
+      "Laptop",
+      "16GB",
+      "512GB",
+      "NVMe",
+      "Laptop",
+      "Computer",
+      "USB3.2",
+      "Type-C",
+      "WiFi",
+      "53Wh",
+      "Battery",
+      "Backlit"
+    ],
+    "is_collection": false,
+    "asin": "B0F4WMLFRL",
+    "parent_asin": "B0F93V1GXT",
+    "link": "https://www.amazon.com/AOC-Processor-Display-Computer-Battery/dp/B0F4WMLFRL",
+    "brand": "‎AOC",
+    "protection_plans": [
+      {
+        "asin": "B07PC4X6C8",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 145.99,
+          "currency": "USD",
+          "raw": "$145.99"
+        }
+      },
+      {
+        "asin": "B07P97VH1R",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 229.99,
+          "currency": "USD",
+          "raw": "$229.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb3558aa-737b-446f-b6fd-8116d396aaad.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/00927667-31e5-4eed-a998-4767389044c1.__CR0,1,1468,627_PT0_SX1464_V1___.jpg",
+        "description": "AOC is a company integrating R&D, production and sales. Immersed in the electronics manufacturing industry for many years, we have formed a complete and mature supply chain system. We pay attention to the voice of customers and constantly create better products. We hope that our products can make people more beautiful life.",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/00927667-31e5-4eed-a998-4767389044c1.__CR0,1,1468,627_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b528b59-2eb6-4fb2-b8d6-751c9ecd5aab.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b293b3ea-9285-4b8d-8f56-adac9712ab7b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5c9f29d-18f9-4965-869c-9a8e8009b00a.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34fcbe89-b30e-4bb5-9e29-b461fe6734f0.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ],
+        "faqs": [
+          {
+            "title": "Do you have after-sales troubles?",
+            "body": "We have a professional service team in the local area. Any product-related matters can be consulted by telephone or email, and offline maintenance services are provided."
+          },
+          {
+            "title": "How long is the wa-rranty period?",
+            "body": "We provide customers with a one-year effective wa-rranty period, free return or exchange service. We provide offline maintenance services for products beyond the deadline. Committed to your satisfaction."
+          },
+          {
+            "title": "How to find us?",
+            "body": "We have shown postcard in the brand information and seller profile, please rest assured to follow the guidance, we are always at your service."
+          },
+          {
+            "title": "How do we get start?",
+            "body": "We dream of bringing a smarter and more convenient life to everyone. Adhering to this philosophy, we have always been deeply involved in the electronics industry, and we are growing more and more."
+          },
+          {
+            "title": "Why do we love what we do?",
+            "body": "Customers' smiles keep us motivated. We sell products on the premise of meeting customer needs, and are committed to providing customers with better products."
+          },
+          {
+            "title": "What makes our products different?",
+            "body": "We listen to customer needs and continuously improve products. After years of polishing experience, we have formed an experienced R&D and production team."
+          }
+        ]
+      },
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fb3558aa-737b-446f-b6fd-8116d396aaad.__CR0,0,315,145_PT0_SX315_V1___.jpg",
+      "company_description_text": "AOC is a company integrating R&D, production and sales. Immersed in the electronics manufacturing industry for many years, we have formed a complete and mature supply chain system. We pay attention to the voice of customers and constantly create better products. We hope that our products can make people more beautiful life."
+    },
+    "sub_title": {
+      "text": "Visit the AOC Store",
+      "link": "https://www.amazon.com/stores/AOC/page/FC18CCAE-2303-40D7-9B7B-6E2889F8FBF2?lp_asin=B0F4WMLFRL&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 100,
+        "count": 11
+      },
+      "four_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 11,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71nUm4OBGFL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71nUm4OBGFL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81CiA1rUNSL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81Onl7n9eLL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81jkc9ThYwL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71b6XQlZEoL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81sOBiK5ZXL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81oKPyUE2ML._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/71nUm4OBGFL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81CiA1rUNSL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81Onl7n9eLL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81jkc9ThYwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71b6XQlZEoL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81sOBiK5ZXL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81oKPyUE2ML._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 41,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/614-Ce4MZRL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f520c058-6f30-47bf-a975-5d1a7e6bff7f/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Gaming  Laptop"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f520c058-6f30-47bf-a975-5d1a7e6bff7f/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0f5892deabc9495fb1d44fc2f1096029",
+        "product_asin": "B0F4WMLFRL",
+        "parent_asin": "B0F93V1GXT",
+        "related_products": "B0F4WMLFRL,B0F1XM66PD,B0DT92JMZL",
+        "title": "Gaming  Laptop",
+        "public_name": "ACEMAGIC-US",
+        "creator_type": "Seller",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "ACEMAGIC-US",
+        "video_image_id": "614-Ce4MZRL",
+        "video_image_url": "https://m.media-amazon.com/images/I/614-Ce4MZRL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/614-Ce4MZRL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a7cfc72f-1b96-45c8-9507-46c2a0655347/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f520c058-6f30-47bf-a975-5d1a7e6bff7f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f520c058-6f30-47bf-a975-5d1a7e6bff7f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:41",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9817953a-1a2b-46df-99d7-40e077e71fb5.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "HIGH-PERFORMANCE AMD PROCESSOR — The AOC Light gaming Laptop, equipped with the AMD Ryzen 7 5700U (8C16T, up to 4.3GHz)processor, delivers competitive performance for all your needs. Whether you’re casual play or competitive ranks, Light gaming, this laptop ensures every session is a victory. that transforms even the most processor-intensive tasks into a breeze. Tailored for professionalsand , it’s the epitome of smooth, efficient operations that propel you ahead of the competition.",
+      "16.1\" FULL HD DISPLAY — Dive into a visual feast with the AOC Light gaming Laptop expansive 16.1\" (1920 x 1080) Full HD screen. Perfect for , movie, and video clip tasks, Experience the thrill of high-definition with a display designed for intense action, and savor every detail of your favorite films with colors that pop. For creators and viewers alike, this laptop offers a visual journey that captivates and delights.",
+      "PORTS FOR ALL YOUR ACCESSORIES — The AOC Laptop is outfitted with a comprehensive array of ports to cater to all your needs: a webcam, two USB 3.2 ports, HDMI, a full-function Type-C, a 3.5mm headphone/speaker/line-out jack, a TF card slot, and a Type-C DC jack. With Wi-Fi 6（up to 3x faster than Wi-Fi 5.）, you’ll enjoy blazing-fast internet speeds. The backlit keyboard doesn’t just look good—it deepens your experience, turning every session into an epic journey.",
+      "MEMORY & STORAGE — The AOC laptop comes with 16GB DDR4 RAM and 512GB M.2 NVMe SSD, enabling you to smoothly run multiple applications and browser tabs at once. The 16GB RAM boosts performance across various applications, from multitasking to . Enjoy quick startup times and dependable storage for all your files, documents, and multimedia. The dual-channel DDR4 memory supports upgrades up to 64GB (2x32GB), and the NVMe/NGFF SSD can be upgraded up to 2TB.",
+      "ALL-PURPOSE LAPTOP — AOC laptop is pre-loaded with the Windows 11 system and features a 58.38Wh battery for up to 8 hours of battery life. Its hinge design allows for a 180° lay-flat capability. The slim profile easily slips into a backpack, and the durable metal body is built to withstand pressure. Ideal for work, online classes, or . AOC Light gaming laptops undergo a 7*24H machine test before shipment, Enjoy worry usage with a 1-year and round-the-clock customer service."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "ALL-PURPOSE LAPTOP — AOC laptop is pre-loaded with the Windows 11 system and features a 58.38Wh battery for up to 8 hours of battery life. Its hinge design allows for a 180° lay-flat capability. The slim profile easily slips into a backpack, and the durable metal body is built to withstand pressure. Ideal for work, online classes, or . AOC Light gaming laptops undergo a 7*24H machine test before shipment, Enjoy worry usage with a 1-year and round-the-clock customer service. MEMORY & STORAGE — The AOC laptop comes with 16GB DDR4 RAM and 512GB M.2 NVMe SSD, enabling you to smoothly run multiple applications and browser tabs at once. The 16GB RAM boosts performance across various applications, from multitasking to . Enjoy quick startup times and dependable storage for all your files, documents, and multimedia. The dual-channel DDR4 memory supports upgrades up to 64GB (2x32GB), and the NVMe/NGFF SSD can be upgraded up to 2TB. PORTS FOR ALL YOUR ACCESSORIES — The AOC Laptop is outfitted with a comprehensive array of ports to cater to all your needs: a webcam, two USB 3.2 ports, HDMI, a full-function Type-C, a 3.5mm headphone/speaker/line-out jack, a TF card slot, and a Type-C DC jack. With Wi-Fi 6（up to 3x faster than Wi-Fi 5.）, you’ll enjoy blazing-fast internet speeds. The backlit keyboard doesn’t just look good—it deepens your experience, turning every session into an epic journey. 16.1\" FULL HD DISPLAY — Dive into a visual feast with the AOC Light gaming Laptop expansive 16.1\" (1920 x 1080) Full HD screen. Perfect for , movie, and video clip tasks, Experience the thrill of high-definition with a display designed for intense action, and savor every detail of your favorite films with colors that pop. For creators and viewers alike, this laptop offers a visual journey that captivates and delights. HIGH-PERFORMANCE AMD PROCESSOR — The AOC Light gaming Laptop, equipped with the AMD Ryzen 7 5700U (8C16T, up to 4.3GHz)processor, delivers competitive performance for all your needs. Whether you’re casual play or competitive ranks, Light gaming, this laptop ensures every session is a victory. that transforms even the most processor-intensive tasks into a breeze. Tailored for professionalsand , it’s the epitome of smooth, efficient operations that propel you ahead of the competition.",
+    "top_reviews": [
+      {
+        "id": "R3AMZY0WVV7CC3",
+        "title": "Good for price",
+        "body": "This laptop is mainly used for gaming purpose, and homework. The vaule is good for the money spent. It is also good speed computer. We have downloaded a few bigger games and it has held up well. Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop is mainly used for gaming purpose, and homework. The vaule is good for the money spent. It is also good speed computer. We have downloaded a few bigger games and it has held up well.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3AMZY0WVV7CC3/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 9, 2024",
+          "utc": "2024-10-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Wensox",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHEPPBAP3VNNJVGS5JM6YNCGWYVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHEPPBAP3VNNJVGS5JM6YNCGWYVA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 6,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R4RYMJDE0NWQQ",
+        "title": "really great laptop",
+        "body": "I bought this for my husband. He usually takes my old laptop but they really have too much got him so I bought him this one and it’s perfect. All he does is watch videos and email on a computer so it’s fine for him. He was able to figure it out and get his email set up. Easy, peazy! Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this for my husband. He usually takes my old laptop but they really have too much got him so I bought him this one and it&#x2019;s perfect. All he does is watch videos and email on a computer so it&#x2019;s fine for him. He was able to figure it out and get his email set up. Easy, peazy!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R4RYMJDE0NWQQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 19, 2024",
+          "utc": "2024-11-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Xd",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AF5TRSRAZGZIKO65GYZPE2ILKNBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF5TRSRAZGZIKO65GYZPE2ILKNBA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R33YXCDOLQGWMT",
+        "title": "this laptop has been perfect for my daughter!",
+        "body": "This laptop has been an excellent purchase for my daughter! With its stunning 15.6 inch Full HD IPS Display, powerful N97 processor, and slim and light design, it's perfect for your schoolwork and multimedia activities. Its fast and smooth performance, along with decent battery life, make it ideal for working for hours without problems. In short, this laptop is a worthwhile investment for any student, it definitely deserves five stars! Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop has been an excellent purchase for my daughter! With its stunning 15.6 inch Full HD IPS Display, powerful N97 processor, and slim and light design, it&apos;s perfect for your schoolwork and multimedia activities. Its fast and smooth performance, along with decent battery life, make it ideal for working for hours without problems. In short, this laptop is a worthwhile investment for any student, it definitely deserves five stars!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R33YXCDOLQGWMT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 17, 2024",
+          "utc": "2024-12-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kameron Perez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEKVWNIRT42PA4DJ5I53GAP57GFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEKVWNIRT42PA4DJ5I53GAP57GFQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RLATOZK3YIZVX",
+        "title": "Wonderful gaming pc for the price",
+        "body": "Bought this laptop solely for playing vr and other games lots of people have shot it down for idk why sure it's not a high end laptop and if that's what your looking for move on but rather it's a solid choice for the price starts take seconds, loading into vr is seamless and runs vr games vr well! Again this is not a high end computer and should be expected to have some prefromene issues but still I am very impressed by the quality of this pc for the price Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bought this laptop solely for playing vr and other games lots of people have shot it down for idk why sure it&apos;s not a high end laptop and if that&apos;s what your looking for move on but rather it&apos;s a solid choice for the price starts take seconds, loading into vr is seamless and runs vr games vr well! Again this is not a high end computer and should be expected to have some prefromene issues but still I am very impressed by the quality of this pc for the price<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RLATOZK3YIZVX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 19, 2024",
+          "utc": "2024-11-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Yamielit",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGYPZF27M4JUZY4RLES6II5L7V3Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGYPZF27M4JUZY4RLES6II5L7V3Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 13,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1Y10LVHQMG2BK",
+        "title": "Surprise Hit!",
+        "body": "I wasn't sure what to expect when I got this. I certainly didn't have my hopes up, if I'm being honest. I'd just never heard of the brand and was a little leary, but I'm surprised at how good of a little laptop this is! Now, I'm not going to try and blow smoke and say it's this amazing gaming system. It's not. Don't get this to play games. This is great for business use though. I own a donut shop, and this has been the perfect computer to take with me. It's great for getting online and doing product orders, as well as doing all my business-related work from it. Again. I was NOT expecting it to work this well. I don't say this lightly either. Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I wasn&apos;t sure what to expect when I got this. I certainly didn&apos;t have my hopes up, if I&apos;m being honest. I&apos;d just never heard of the brand and was a little leary, but I&apos;m surprised at how good of a little laptop this is! Now, I&apos;m not going to try and blow smoke and say it&apos;s this amazing gaming system. It&apos;s not. Don&apos;t get this to play games. This is great for business use though. I own a donut shop, and this has been the perfect computer to take with me. It&apos;s great for getting online and doing product orders, as well as doing all my business-related work from it. Again. I was NOT expecting it to work this well. I don&apos;t say this lightly either.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1Y10LVHQMG2BK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 7, 2025",
+          "utc": "2025-02-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "MadROMAD",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHNS4IA3FTAYFENRMTJJ2XAKO7JQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHNS4IA3FTAYFENRMTJJ2XAKO7JQ"
+        },
+        "vine_program": true,
+        "vine_program_free_product": true,
+        "verified_purchase": false,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {}
+        ]
+      },
+      {
+        "id": "R1QPAMKLVMRNX6",
+        "title": "A Laptop With the Right Stuff",
+        "body": "This is a very competent PC brought to you by AOC, the monitor manufacturer of some note. I really like it for the current Alder Lake CPU (N97) which should keep gamers and the average user happy, and I am that average user who does a lot of photo editing as well as some office apps, YouTube, email, and web surfing. It has plenty of ports too which is important to me and most others. Even a real headphone jack. The 15.6\" screen is plenty good for a 1080p and the keyboard and trackpad work well. It even has a number pad. The plastic construction of the lid is OK , but not overly sturdy. But that helps keep the weight down and this is a very light machine. Five hour battery life is plenty for me since I won't be using it continually throughout the day. Also, it's equipped with some solid rubber-like feet, one which extends almost the entire width of the device, to keep it from moving when in use. I think AOC did a great job making this unit and I find it very easy to recommend. Glory to Christ Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is a very competent PC brought to you by AOC, the monitor manufacturer of some note. I really like it for the current Alder Lake CPU (N97) which should keep gamers and the average user happy, and I am that average user who does a lot of photo editing as well as some office apps, YouTube, email, and web surfing. It has plenty of ports too which is important to me and most others. Even a real headphone jack. The 15.6&quot; screen is plenty good for a 1080p and the keyboard and trackpad work well. It even has a number pad. The plastic construction of the lid is OK , but not overly sturdy. But that helps keep the weight down and this is a very light machine. Five hour battery life is plenty for me since I won&apos;t be using it continually throughout the day. Also, it&apos;s equipped with some solid rubber-like feet, one which extends almost the entire width of the device, to keep it from moving when in use. I think AOC did a great job making this unit and I find it very easy to recommend.<br/>Glory to Christ<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1QPAMKLVMRNX6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 15, 2024",
+          "utc": "2024-12-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Darrell B",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHBMCGN3GUEHG4PM7Z5XJBPGP3AQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHBMCGN3GUEHG4PM7Z5XJBPGP3AQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/e892eb54-ffbb-4b15-9aa3-3df865483f7f._CR62%2C0%2C375%2C375_SX460_.jpg"
+        },
+        "vine_program": true,
+        "vine_program_free_product": true,
+        "verified_purchase": false,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {}
+        ]
+      },
+      {
+        "id": "R3JF45HKDQDRKP",
+        "title": "Excellent Performance and Versatility",
+        "body": "I recently picked up the AOC 15.6” FHD Laptop, and I’m genuinely impressed with its performance. The latest 12th-generation Alder Lake N97 processor paired with 16GB of RAM and a 512GB SSD makes multitasking a breeze. I can handle multiple applications without any lag, which is a big plus for my work and study sessions.  The 15.6” FHD IPS display is crisp and vibrant, which enhances my experience whether I'm working on documents or watching videos. The ultra-narrow bezel really maximizes the screen space, making everything look more immersive.  I also appreciate the variety of connectivity options. The laptop includes USB 3.2, USB-C, HDMI, and even a TF card slot, which makes connecting peripherals and transferring files effortless. The Wi-Fi 5 and Bluetooth 5.0 capabilities ensure that I stay connected without any issues.  One of my favorite features is the 6000 mAh battery, which gives me about 5 hours of use without needing to plug in. The 180° hinge is convenient for sharing the screen during meetings or group study sessions. Overall, this laptop has been a reliable and high-performing choice for my needs. Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I recently picked up the AOC 15.6&#x201D; FHD Laptop, and I&#x2019;m genuinely impressed with its performance. The latest 12th-generation Alder Lake N97 processor paired with 16GB of RAM and a 512GB SSD makes multitasking a breeze. I can handle multiple applications without any lag, which is a big plus for my work and study sessions.<br/><br/>The 15.6&#x201D; FHD IPS display is crisp and vibrant, which enhances my experience whether I&apos;m working on documents or watching videos. The ultra-narrow bezel really maximizes the screen space, making everything look more immersive.<br/><br/>I also appreciate the variety of connectivity options. The laptop includes USB 3.2, USB-C, HDMI, and even a TF card slot, which makes connecting peripherals and transferring files effortless. The Wi-Fi 5 and Bluetooth 5.0 capabilities ensure that I stay connected without any issues.<br/><br/>One of my favorite features is the 6000 mAh battery, which gives me about 5 hours of use without needing to plug in. The 180&#xB0; hinge is convenient for sharing the screen during meetings or group study sessions. Overall, this laptop has been a reliable and high-performing choice for my needs.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3JF45HKDQDRKP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 10, 2024",
+          "utc": "2024-09-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ron",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEJTMG6WVZHMUBL5G6OTUQHTSTEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEJTMG6WVZHMUBL5G6OTUQHTSTEQ"
+        },
+        "vine_program": true,
+        "vine_program_free_product": true,
+        "verified_purchase": false,
+        "helpful_votes": 10,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {}
+        ]
+      },
+      {
+        "id": "R3MGFNOYTCEPXD",
+        "title": "No extra bloatware",
+        "body": "This laptop is really nice. It has plenty of RAM, is very fast, and has a decent amount of storage. I wish the SSD was 1 terabyte, but 512 gigs is plenty for now. The build quality is good, and it came with no extra bloatware (those unwanted programs that new computers always have) other than the stuff from Microsoft. It charges via USB-C, so that's one less proprietary cable, and the battery easily lasts a couple of hours. Read more",
+        "asin": "B0F4WMLFRL",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop is really nice. It has plenty of RAM, is very fast, and has a decent amount of storage. I wish the SSD was 1 terabyte, but 512 gigs is plenty for now. The build quality is good, and it came with no extra bloatware (those unwanted programs that new computers always have) other than the stuff from Microsoft. It charges via USB-C, so that&apos;s one less proprietary cable, and the battery easily lasts a couple of hours.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3MGFNOYTCEPXD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F4WMLFRL",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 13, 2024",
+          "utc": "2024-06-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kent A.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGAVSAGEWUX4LJHLJHCOPDNK5IHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGAVSAGEWUX4LJHLJHCOPDNK5IHA"
+        },
+        "vine_program": true,
+        "vine_program_free_product": true,
+        "verified_purchase": false,
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {}
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "new_offers_count": 3,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "145.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "229.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, May 23",
+          "name": "Or fastest delivery Friday, May 23. Order within 3 hrs 8 mins"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "CTONG Electronics",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2UXGPH7GL2RUJ&asin=B0F4WMLFRL&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A2UXGPH7GL2RUJ"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1699.99,
+        "currency": "USD",
+        "raw": "$1,699.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎16.09 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1200 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920 x 1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.5 GHz amd_ryzen_7"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR4"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB M.2 2280 SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎‎AMD Radeon RX Vega 8 1.90GHz"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎16 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11a/b/g/n/ac"
+      },
+      {
+        "name": "Number of USB 2.0 Ports",
+        "value": "‎1"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎2"
+      },
+      {
+        "name": "Brand",
+        "value": "‎AOC"
+      },
+      {
+        "name": "Series",
+        "value": "‎AX16 Pro"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎AX16Pro"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎6.14 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.5 x 9.89 x 0.7 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.5 x 9.89 x 0.7 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎8"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR4 SDRAM"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Serial ATA-300"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F4WMLFRL"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "5.0    5.0 out of 5 stars         11 ratings          5.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#2,964 in Computers & Accessories (See Top 100 in Computers & Accessories) #374 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 12, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "AOC"
+      },
+      {
+        "name": "Model Name",
+        "value": "AX16 Pro"
+      },
+      {
+        "name": "Screen Size",
+        "value": "16.09 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "AMD Ryzen 7"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Integrated. Special Feature: Backlit Keyboard. Operating System: Windows 11. Ram Memory Installed Size: 16 GB. CPU Model: AMD Ryzen 7. Hard Disk Size: 512 GB. Color: Gray. Screen Size: 16.09 Inches. Model Name: AX16 Pro. Brand: AOC. Date First Available: April 12, 2025. Best Sellers Rank: #2,964 in Computers & Accessories (See Top 100 in Computers & Accessories) #374 in Traditional Laptop Computers. Customer Reviews: 5.0    5.0 out of 5 stars         11 ratings          5.0 out of 5 stars. ASIN: B0F4WMLFRL. Hard Drive Interface: ‎Serial ATA-300. Computer Memory Type: ‎DDR4 SDRAM. Number of Processors: ‎8. Processor Brand: ‎AMD. Color: ‎Gray. Item Dimensions  LxWxH: ‎14.5 x 9.89 x 0.7 inches. Product Dimensions: ‎14.5 x 9.89 x 0.7 inches. Item Weight: ‎6.14 pounds. Operating System: ‎Windows 11. Item model number: ‎AX16Pro. Series: ‎AX16 Pro. Brand: ‎AOC. Number of USB 3.0 Ports: ‎2. Number of USB 2.0 Ports: ‎1. Wireless Type: ‎802.11a/b/g/n/ac. Graphics Card Ram Size: ‎16 GB. Card Description: ‎Integrated. Chipset Brand: ‎AMD. Graphics Coprocessor: ‎‎AMD Radeon RX Vega 8 1.90GHz. Hard Drive: ‎512 GB M.2 2280 SSD. RAM: ‎DDR4. Processor: ‎4.5 GHz amd_ryzen_7. Max Screen Resolution: ‎1920 x 1080 Pixels. Screen Resolution: ‎1920 x 1200 pixels. Standing screen display size: ‎16.09 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 2964,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 374,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Gray",
+    "weight": "‎6.14 pounds",
+    "first_available": {
+      "raw": "April 12, 2025",
+      "utc": "2025-04-12T00:00:00.000Z"
+    },
+    "dimensions": "‎14.5 x 9.89 x 0.7 inches",
+    "model_number": "‎AX16Pro",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 2964, Category: Traditional Laptop Computers | Rank: 374",
+    "whats_in_the_box": [
+      "1 &#xD7; AX16PRO Laptop 16GB RAM 512GB SSD",
+      "1 &#xD7; Power Adapter",
+      "1 &#xD7; User Manuel"
+    ]
+  },
+  "brand_store": {
+    "id": "FC18CCAE-2303-40D7-9B7B-6E2889F8FBF2",
+    "link": "https://www.amazon.com/stores/AOC/page/FC18CCAE-2303-40D7-9B7B-6E2889F8FBF2"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 1730.58,
+      "currency": "USD",
+      "raw": "$1,730.58"
+    },
+    "products": [
+      {
+        "asin": "B0F4WMLFRL",
+        "title": "AOC 2025 Laptop with AMD Ryzen 7 5700U Processor(8C/16T, Up to 4.3GHz), 16.1 inch FHD Display Laptop 16GB RAM 512GB NVMe SSD Laptop Computer, USB3.2, Type-C, WiFi 6, 53Wh Battery, Backlit KB",
+        "link": "https://www.amazon.com/dp/B0F4WMLFRL",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71nUm4OBGFL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1699.99,
+          "currency": "USD",
+          "raw": "$1,699.99"
+        }
+      }
+    ]
+  }
+}

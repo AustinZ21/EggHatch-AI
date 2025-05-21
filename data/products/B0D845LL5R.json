@@ -1,0 +1,1265 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5611,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0D845LL5R",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:49:04.939Z",
+    "processed_at": "2025-05-20T01:49:11.996Z",
+    "total_time_taken": 7.06,
+    "amazon_url": "https://www.amazon.com/dp/B0D845LL5R?th=1&psc=1"
+  },
+  "product": {
+    "title": "HP Victus 15.6 i5 Gaming Laptop, 15.6\" FHD 1920*1080 144Hz, Intel Core i5-12450H, NVIDIA GeForce RTX 3050, 32GB RAM, 1TB SSD, Backlit KB, Touchpad, SD Card Reader, Webcam, HDMI, Wi-Fi 6, W11 H, Blue",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "HP,Victus,15.6,i5,Gaming,Laptop,15.6\",FHD,1920*1080,144Hz,Intel,Core,i5-12450H,NVIDIA,GeForce,RTX,3050,32GB,RAM,1TB,SSD,Backlit,KB,Touchpad,SD,Card,Reader,Webcam,HDMI,Wi-Fi,6,W11,H,Blue",
+    "keywords_list": [
+      "Victus",
+      "15.6",
+      "Gaming",
+      "Laptop",
+      "15.6\"",
+      "1920*1080",
+      "144Hz",
+      "Intel",
+      "Core",
+      "i5-12450H",
+      "NVIDIA",
+      "GeForce",
+      "3050",
+      "32GB",
+      "Backlit",
+      "Touchpad",
+      "Card",
+      "Reader",
+      "Webcam",
+      "HDMI",
+      "Wi-Fi",
+      "Blue"
+    ],
+    "is_collection": false,
+    "asin": "B0D845LL5R",
+    "parent_asin": "B0DQ51RLJK",
+    "link": "https://www.amazon.com/HP-i5-12450H-GeForce-Backlit-Touchpad/dp/B0D845LL5R",
+    "brand": "‎HP",
+    "protection_plans": [
+      {
+        "asin": "B07P6YXWQ7",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 124.99,
+          "currency": "USD",
+          "raw": "$124.99"
+        }
+      },
+      {
+        "asin": "B07PC1MG12",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 73.99,
+          "currency": "USD",
+          "raw": "$73.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 1TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB RAM | 1TB SSD"
+          }
+        ],
+        "asin": "B0DSHZ4HQB",
+        "link": "https://amazon.com/dp/B0DSHZ4HQB?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0DSJ19MVH",
+        "link": "https://amazon.com/dp/B0DSJ19MVH?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "32GB RAM | 1TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB RAM | 1TB SSD"
+          }
+        ],
+        "asin": "B0D845LL5R",
+        "link": "https://amazon.com/dp/B0D845LL5R?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0DQ18D7KX",
+        "link": "https://amazon.com/dp/B0DQ18D7KX?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0DSHZ4HQB,B0DSJ19MVH,B0D845LL5R,B0DQ18D7KX",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the HP Store",
+      "link": "https://www.amazon.com/stores/HP/page/5BA42671-3E42-4AEB-B9E4-272F10DD0121?is_byline_deeplink=true&deeplink=C1F31EBA-97DC-4461-AD57-17E424DC4C1C&redirect_store_id=5BA42671-3E42-4AEB-B9E4-272F10DD0121&lp_asin=B0D845LL5R&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.3,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 70,
+        "count": 175
+      },
+      "four_star": {
+        "percentage": 15,
+        "count": 37
+      },
+      "three_star": {
+        "percentage": 2,
+        "count": 5
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 7
+      },
+      "one_star": {
+        "percentage": 10,
+        "count": 25
+      }
+    },
+    "ratings_total": 250,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71DHV9GZSOL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71DHV9GZSOL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71bXGiYrRwL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71B35kBvjWL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61yhq8U6imL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61FYZFvPKML._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71LXPlxDVwL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61LASnQmNDL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/71DHV9GZSOL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71bXGiYrRwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71B35kBvjWL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61yhq8U6imL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61FYZFvPKML._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71LXPlxDVwL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61LASnQmNDL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 38,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/71OYIO-wLFL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d412ed58-734f-4f71-9ded-a1f5006f7b19/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "MUST WATCH before buying! Honest review after 6 months!"
+      },
+      {
+        "duration_seconds": 31,
+        "width": 1080,
+        "height": 1918,
+        "thumbnail": "https://m.media-amazon.com/images/I/615niVaWEUL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0109a97-3995-44b2-9fc6-9e42ea1dd7cb/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Is the HP Victus 15.6-Inch Laptop EVEN WORTH It?!"
+      },
+      {
+        "duration_seconds": 65,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/9127zdlRGnL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da8de232-56bc-40fb-9d8e-11ac3c0c7a11/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Why You NEED To Try The HP Victus i5 Laptop"
+      },
+      {
+        "duration_seconds": 128,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51tETeaJ61L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7deb28b-ee07-4d6a-a277-80ff5e529f04/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "HP Victus 15.6 Gaming Laptop Unboxing "
+      },
+      {
+        "duration_seconds": 29,
+        "width": 640,
+        "height": 640,
+        "thumbnail": "https://m.media-amazon.com/images/I/61pNTCimwYL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73139789-ba45-4a9b-b1f3-fc318f59762e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "HP Victus Gaming Laptop"
+      },
+      {
+        "duration_seconds": 89,
+        "width": 1600,
+        "height": 1200,
+        "thumbnail": "https://m.media-amazon.com/images/I/61Srs9Y-45L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5ac6acb6-5091-4885-8473-c72f074bc0c6/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Watch before buying this gaming laptop."
+      },
+      {
+        "duration_seconds": 35,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/619RfUjwLvL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/022bf1f2-06e0-4d54-ad0f-bf259ddc4038/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "2023 HP Victus Review "
+      },
+      {
+        "duration_seconds": 22,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/51PfpQQcdaL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ad4accc-98bf-43ea-a4cd-cf7d707b1b4d/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Victus by HP Gaming Laptop unboxing"
+      }
+    ],
+    "videos_count": 8,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d412ed58-734f-4f71-9ded-a1f5006f7b19/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0109a97-3995-44b2-9fc6-9e42ea1dd7cb/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da8de232-56bc-40fb-9d8e-11ac3c0c7a11/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7deb28b-ee07-4d6a-a277-80ff5e529f04/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73139789-ba45-4a9b-b1f3-fc318f59762e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5ac6acb6-5091-4885-8473-c72f074bc0c6/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/022bf1f2-06e0-4d54-ad0f-bf259ddc4038/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ad4accc-98bf-43ea-a4cd-cf7d707b1b4d/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0f72bf0edc0240db9e4e1a6e98b33f20",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0D845LL5R",
+        "title": "MUST WATCH before buying! Honest review after 6 months!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61n7pyUBAcL._CR0,0,1170,1170_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rodriguesyw",
+        "public_name": "Brane's Review Hub",
+        "creator_type": "Influencer",
+        "vendor_code": "rodriguesyw:shop",
+        "vendor_name": "Brane's Review Hub",
+        "vendor_tracking_id": "onamzbranes0e-20",
+        "video_image_id": "71OYIO-wLFL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71OYIO-wLFL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71OYIO-wLFL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/64ae5b80-f5c4-4ab9-8ca9-33890cc3a4fe/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d412ed58-734f-4f71-9ded-a1f5006f7b19/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d412ed58-734f-4f71-9ded-a1f5006f7b19/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/134604cb-214f-40f8-94f6-e521a580ee16.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09b8f8100a2740da85e83deca4b200ef",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0CVNJ7LLN,B0D845LL5R,B0DDVNWLXQ",
+        "title": "Is the HP Victus 15.6-Inch Laptop EVEN WORTH It?!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "615niVaWEUL",
+        "video_image_url": "https://m.media-amazon.com/images/I/615niVaWEUL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/615niVaWEUL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1918",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1018566b-3d95-4df8-b878-e761241572dd/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0109a97-3995-44b2-9fc6-9e42ea1dd7cb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0109a97-3995-44b2-9fc6-9e42ea1dd7cb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0109a97-3995-44b2-9fc6-9e42ea1dd7cb/04ac92b3-a5a4-4bb8-bf8a-6bcd043a1346/09b8f8100a2740da85e83deca4b200ef_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9e8fe30d-d5d3-4dc6-847d-890cd7cdb67f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ee56b9e2d79463fa2e49d60e745f942",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0D845LL5R",
+        "title": "Why You NEED To Try The HP Victus i5 Laptop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1Yj35MGW5L._CR0,459,904,903_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/pacodesigntipshacks",
+        "public_name": "Paco Puylaert",
+        "creator_type": "Influencer",
+        "vendor_code": "pacodesigntipshacks:shop",
+        "vendor_name": "Paco Puylaert",
+        "vendor_tracking_id": "onamzpacopuyl-20",
+        "video_image_id": "9127zdlRGnL",
+        "video_image_url": "https://m.media-amazon.com/images/I/9127zdlRGnL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/9127zdlRGnL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29fe95ea-52e0-4a4d-bef9-ab1c86a01b27/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da8de232-56bc-40fb-9d8e-11ac3c0c7a11/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da8de232-56bc-40fb-9d8e-11ac3c0c7a11/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/da8de232-56bc-40fb-9d8e-11ac3c0c7a11/d39fe684-7194-4928-8f93-9e86fb6a3cfa/0ee56b9e2d79463fa2e49d60e745f942_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cadac099-d371-427b-bd53-552f00964551.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.02e154b858164f7fb809559313ac1c2a",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0D845LL5R",
+        "title": "HP Victus 15.6 Gaming Laptop Unboxing ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81oss+PLikL._CR1,396,727,727_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/httpsgoo.suxaaw",
+        "public_name": "Queenie Lesch",
+        "creator_type": "Influencer",
+        "vendor_code": "httpsgoo.suxaaw:shop",
+        "vendor_name": "Queenie Lesch",
+        "vendor_tracking_id": "onamzqueeniel-20",
+        "video_image_id": "51tETeaJ61L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51tETeaJ61L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51tETeaJ61L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/15dd9873-34e0-43c5-aad1-53325c65675b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7deb28b-ee07-4d6a-a277-80ff5e529f04/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7deb28b-ee07-4d6a-a277-80ff5e529f04/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7deb28b-ee07-4d6a-a277-80ff5e529f04/986f7e48-36ed-4e95-908f-39533135c47c/02e154b858164f7fb809559313ac1c2a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:08",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/33358aea-6fbe-42bc-9d7e-87c2a1c5c2cd.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0bde6e0f05c3462a8973196fdb0a7585",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0D841QS9D,B0D845LL5R,B0D844WM23,B0D8444GWK,B0D843RM32",
+        "title": "HP Victus Gaming Laptop",
+        "public_name": "PCOnline US",
+        "creator_type": "Seller",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "PCOnline US",
+        "video_image_id": "61pNTCimwYL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61pNTCimwYL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61pNTCimwYL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "640",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/51016980-6e86-449a-ba17-80e586b3f91a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73139789-ba45-4a9b-b1f3-fc318f59762e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73139789-ba45-4a9b-b1f3-fc318f59762e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73139789-ba45-4a9b-b1f3-fc318f59762e/bd5ab96f-5afe-4235-a51d-460df8503b5e/0bde6e0f05c3462a8973196fdb0a7585_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:29",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b0fd3c2d-a18f-409e-a2d4-193484fc45d9.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.05e035dc62274d4bba002a240aca0bc8",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0D845LL5R",
+        "title": "Watch before buying this gaming laptop.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91azMfMfqwL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rafaelmeirelles8",
+        "public_name": "Rafael Meirelles",
+        "creator_type": "Influencer",
+        "vendor_code": "rafaelmeirelles8:shop",
+        "vendor_name": "Rafael Meirelles",
+        "vendor_tracking_id": "onamzrmrsales-20",
+        "video_image_id": "61Srs9Y-45L",
+        "video_image_url": "https://m.media-amazon.com/images/I/61Srs9Y-45L._CR0,0,1600,903_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61Srs9Y-45L.jpg",
+        "video_image_width": "1600",
+        "video_image_height": "1200",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8722b863-4b84-4e66-9756-9744f32f71c5/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5ac6acb6-5091-4885-8473-c72f074bc0c6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5ac6acb6-5091-4885-8473-c72f074bc0c6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:29",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8c86605d-2ca5-4bb2-86f3-09f3b9321878.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0a5c9790c69440039981ae2165a26df9",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0DCNN32XK,B0D845LL5R",
+        "title": "2023 HP Victus Review ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61NzwMt95nL._CR0,0,736,736_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/yoosefal-kindi",
+        "public_name": "Jessie Renner",
+        "creator_type": "Influencer",
+        "vendor_code": "yoosefal-kindi:shop",
+        "vendor_name": "Jessie Renner",
+        "vendor_tracking_id": "onamzjes09a02-20",
+        "video_image_id": "619RfUjwLvL",
+        "video_image_url": "https://m.media-amazon.com/images/I/619RfUjwLvL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/619RfUjwLvL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a35764ff-4e87-4381-8607-f1b92294dad2/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/022bf1f2-06e0-4d54-ad0f-bf259ddc4038/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/022bf1f2-06e0-4d54-ad0f-bf259ddc4038/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/022bf1f2-06e0-4d54-ad0f-bf259ddc4038/1c8bf1e1-0714-4886-8465-1480d1b1b3a1/0a5c9790c69440039981ae2165a26df9_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2098da12-2da4-4e2b-802f-438180cc5f97.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0de2803e959546e7aefe05fe0aaa390d",
+        "product_asin": "B0D845LL5R",
+        "parent_asin": "B0DQ51RLJK",
+        "related_products": "B0D845LL5R",
+        "title": "Victus by HP Gaming Laptop unboxing",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71Gle2xDDgL._CR0,0,911,911_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/heesunsun",
+        "public_name": "HeeSunSun",
+        "creator_type": "Influencer",
+        "vendor_code": "heesunsun:shop",
+        "vendor_name": "HeeSunSun",
+        "vendor_tracking_id": "onamzloren0f0-20",
+        "video_image_id": "51PfpQQcdaL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51PfpQQcdaL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51PfpQQcdaL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01c7be78-0325-4b73-acb9-c9050b71c6a5/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ad4accc-98bf-43ea-a4cd-cf7d707b1b4d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ad4accc-98bf-43ea-a4cd-cf7d707b1b4d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ad4accc-98bf-43ea-a4cd-cf7d707b1b4d/4cf0dc9c-8b5b-4ca7-8e36-8d99a6a5d548/0de2803e959546e7aefe05fe0aaa390d_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/32373a40-8799-4b3f-8601-4e850e480297.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "[High Speed RAM And Enormous Space] 32GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer",
+      "[Processor] Intel Core i5-12450H Processor (8 Cores, 12 Threads, 12MB L3 Cache, Base Frequency at 1.5 GHz, Up to 4.4 GHz at Max Turbo Frequency), NVIDIA GeForce RTX 3050 (4 GB GDDR6)",
+      "[Display] 15.6\" 144Hz FHD (1920 x 1080) anti-glare display, IPS panel, Micro-edge",
+      "[Tech Specs] 1 x HDMI 2.1, 2 x USB Type-A (5Gbps signaling rate), 1 x RJ-45, 1 x USB Type-C (5Gbps signaling rate), 1 x Multi-format SD media card reader, 1 x Headphone/microphone combo, Touchpad, Backlit Keyboard, Webcam, Wi-Fi 6",
+      "[Operating System] Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "[Operating System] Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps. [Tech Specs] 1 x HDMI 2.1, 2 x USB Type-A (5Gbps signaling rate), 1 x RJ-45, 1 x USB Type-C (5Gbps signaling rate), 1 x Multi-format SD media card reader, 1 x Headphone/microphone combo, Touchpad, Backlit Keyboard, Webcam, Wi-Fi 6. [Display] 15.6\" 144Hz FHD (1920 x 1080) anti-glare display, IPS panel, Micro-edge. [Processor] Intel Core i5-12450H Processor (8 Cores, 12 Threads, 12MB L3 Cache, Base Frequency at 1.5 GHz, Up to 4.4 GHz at Max Turbo Frequency), NVIDIA GeForce RTX 3050 (4 GB GDDR6). [High Speed RAM And Enormous Space] 32GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer.",
+    "top_reviews": [
+      {
+        "id": "R2AJZXXRS4YTZ9",
+        "title": "So far so good! If you need a new laptop right now, I'd recommend it!",
+        "body": "Based on the first couple of hours, I'm very pleased--and writing this review on the laptop in question while I wait for some of the files I like to have downloaded to finish migrating. Arrived quickly, the box was perfect, the laptop looked perfect, the battery was completely dead which concerned me a bit, but it started charging and turned on as soon as I plugged it in. (And I wouldn't normally comment on those aspects, except that it seems like the only versions of this laptop that are available as I write this are from third party sellers with mixed reviews, and I was very hesitant to order such a--for me--big ticket item from a third party.) But like I said, the computer itself looked great, no sign of it being a return or anything, and it started charging and turned on as soon as I plugged it in. I did the setup which predictably took a couple of hours with updating and downloading my main apps and such, no problems. So far it's pleasingly zippy.  I loaded Elder Scrolls Online and was able to run around a bit with no lag even in heavily populated areas that made my poor older laptop lag to heck and back, but that's the most intense gaming I really do, so I while I wanted something to ideally last me a while, I'm not exactly a power gamer. For my purposes it looks like this laptop will do everything I wanted, including not immediately be out of date for anything I want to play for at least a couple of years.  I was hesitant about getting an HP, I've never had one, I've really only used Acers at home, but my dad has long used HP and as his first-line tech support, I've absolutely loathed every one he's ever owned and tried to talk him out of them every time he's needed a new computer, mostly because of all the bloatware, much of it that I was never able to remove. The first thing I did when I was actually in was take some stuff off and set some stuff I couldn't be bothered to verify the use of to at least not run on setup, time will tell how much it ends up annoying me. Again, at the moment I've only had this laptop a few hours.  The screen is nice, the sound is fine, I rarely rely on laptop speakers, most of the time if I care about what I'm listening to I'll be on headphones. Looks like it should run the games I care about with no problem. I couldn't beat the price, which is why I took the chance on the HP. My old Acer still runs everything I care about well enough, but it's too old to update to Win 11 (which I didn't really want anyway... sigh) but Microsoft keeps emailing me about them killing support for 10 in October and with current events exponentially raising prices of everything across the board, especially tech, whatever they try to insist, I've been feeling increasingly panicked about replacing my older laptop ASAP. Which is also why I'm writing this review based on only a few hours of use, something I won't usually do. If you're like me, panic shopping because you know you'll need something in the next year or so and you're terrified prices are going to skyrocket, at least from my initial impression, this is a good investment for simple gaming on a budget. If this thing dies say, thirty-one days from now, the second it's out of the return window, believe me, I will update this review immediately. Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Based on the first couple of hours, I&apos;m very pleased--and writing this review on the laptop in question while I wait for some of the files I like to have downloaded to finish migrating. Arrived quickly, the box was perfect, the laptop looked perfect, the battery was completely dead which concerned me a bit, but it started charging and turned on as soon as I plugged it in. (And I wouldn&apos;t normally comment on those aspects, except that it seems like the only versions of this laptop that are available as I write this are from third party sellers with mixed reviews, and I was very hesitant to order such a--for me--big ticket item from a third party.) But like I said, the computer itself looked great, no sign of it being a return or anything, and it started charging and turned on as soon as I plugged it in. I did the setup which predictably took a couple of hours with updating and downloading my main apps and such, no problems. So far it&apos;s pleasingly zippy.<br/><br/>I loaded Elder Scrolls Online and was able to run around a bit with no lag even in heavily populated areas that made my poor older laptop lag to heck and back, but that&apos;s the most intense gaming I really do, so I while I wanted something to ideally last me a while, I&apos;m not exactly a power gamer. For my purposes it looks like this laptop will do everything I wanted, including not immediately be out of date for anything I want to play for at least a couple of years.<br/><br/>I was hesitant about getting an HP, I&apos;ve never had one, I&apos;ve really only used Acers at home, but my dad has long used HP and as his first-line tech support, I&apos;ve absolutely loathed every one he&apos;s ever owned and tried to talk him out of them every time he&apos;s needed a new computer, mostly because of all the bloatware, much of it that I was never able to remove. The first thing I did when I was actually in was take some stuff off and set some stuff I couldn&apos;t be bothered to verify the use of to at least not run on setup, time will tell how much it ends up annoying me. Again, at the moment I&apos;ve only had this laptop a few hours.<br/><br/>The screen is nice, the sound is fine, I rarely rely on laptop speakers, most of the time if I care about what I&apos;m listening to I&apos;ll be on headphones. Looks like it should run the games I care about with no problem. I couldn&apos;t beat the price, which is why I took the chance on the HP. My old Acer still runs everything I care about well enough, but it&apos;s too old to update to Win 11 (which I didn&apos;t really want anyway... sigh) but Microsoft keeps emailing me about them killing support for 10 in October and with current events exponentially raising prices of everything across the board, especially tech, whatever they try to insist, I&apos;ve been feeling increasingly panicked about replacing my older laptop ASAP. Which is also why I&apos;m writing this review based on only a few hours of use, something I won&apos;t usually do. If you&apos;re like me, panic shopping because you know you&apos;ll need something in the next year or so and you&apos;re terrified prices are going to skyrocket, at least from my initial impression, this is a good investment for simple gaming on a budget. If this thing dies say, thirty-one days from now, the second it&apos;s out of the return window, believe me, I will update this review immediately.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2AJZXXRS4YTZ9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 23, 2025",
+          "utc": "2025-04-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jen",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AF47BWNCRAZZK3NXMRCUN5Q7ZOOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF47BWNCRAZZK3NXMRCUN5Q7ZOOA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R3SCBD85SQRQJE",
+        "title": "Fantastic",
+        "body": "I’ve had this laptop for a couple of months and it’s been great. It was easy to set up and has high quality graphics for gaming. It’s a good size and has a ten-key which I like. It runs games well. It’s heavier than I expected but otherwise a great purchase for a great price. Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&#x2019;ve had this laptop for a couple of months and it&#x2019;s been great. It was easy to set up and has high quality graphics for gaming. It&#x2019;s a good size and has a ten-key which I like. It runs games well. It&#x2019;s heavier than I expected but otherwise a great purchase for a great price.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3SCBD85SQRQJE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 26, 2025",
+          "utc": "2025-04-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEWSDK6ISOJDHFJFLKZJCFRUR5OA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEWSDK6ISOJDHFJFLKZJCFRUR5OA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "64GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R36GARF8Y5YXB4",
+        "title": "Great Budget Gaming Laptop",
+        "body": "This laptop is actually pretty good for a budget laptop! Pros: •Blue color is nice •It'll play Dragon Age Veilguard, Diablo 4, and Baldurs Gate 3. Not on ultra settings but it still looks good and runs well for multiple hours (8+) at a time. Gaming is pretty good. •It doesn't get too hot but I also bought a lap rest with fans to mitigate that. •Sound quality is decent from internal speakers, but I tend to use my headphones. •Screen quality seems good to me, no touch capabilities but who cares. Cons: •Keyboard backlight doesn't change color at all. •Not enough ports for my liking but that can be easily remedied. • Battery life when not plugged in is pretty much non existent. Not really a huge deal for me personally but maybe invest in a spare charger or external battery of some sort. All in all I recommend if you're looking for something on a budget that isn't garbage to play games on. 👍 Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop is actually pretty good for a budget laptop!<br/>Pros:<br/>&#x2022;Blue color is nice<br/>&#x2022;It&apos;ll play Dragon Age Veilguard, Diablo 4, and Baldurs Gate 3. Not on ultra settings but it still looks good and runs well for multiple hours (8+) at a time. Gaming is pretty good.<br/>&#x2022;It doesn&apos;t get too hot but I also bought a lap rest with fans to mitigate that.<br/>&#x2022;Sound quality is decent from internal speakers, but I tend to use my headphones.<br/>&#x2022;Screen quality seems good to me, no touch capabilities but who cares.<br/>Cons:<br/>&#x2022;Keyboard backlight doesn&apos;t change color at all.<br/>&#x2022;Not enough ports for my liking but that can be easily remedied.<br/>&#x2022; Battery life when not plugged in is pretty much non existent. Not really a huge deal for me personally but maybe invest in a spare charger or external battery of some sort.<br/>All in all I recommend if you&apos;re looking for something on a budget that isn&apos;t garbage to play games on. &#x1F44D;<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R36GARF8Y5YXB4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 24, 2025",
+          "utc": "2025-03-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "HarlequinCodex",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFTSCG7MWBGYGBL2FL47BK6R2MRQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFTSCG7MWBGYGBL2FL47BK6R2MRQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R39QMVKPJBCS7Z",
+        "title": "Great for work",
+        "body": "I bought this computer for work (BDR). I don't need any graphic power—just a decent machine that can handle lots of Chrome tabs and several applications without slowing down, since multitasking is essential in this role.  This HP hit the sweet spot in terms of price and performance. I don't mind the battery life since it'll be plugged in all the time, and even though it's a bit heavy, the idea is to use it as a desktop computer connected to a second monitor.  I love the keyboard, the screen is good as long as you're not doing any color-accuracy tasks, and it's fast for what I need. Great buy! Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this computer for work (BDR). I don&apos;t need any graphic power&#x2014;just a decent machine that can handle lots of Chrome tabs and several applications without slowing down, since multitasking is essential in this role.<br/><br/>This HP hit the sweet spot in terms of price and performance. I don&apos;t mind the battery life since it&apos;ll be plugged in all the time, and even though it&apos;s a bit heavy, the idea is to use it as a desktop computer connected to a second monitor.<br/><br/>I love the keyboard, the screen is good as long as you&apos;re not doing any color-accuracy tasks, and it&apos;s fast for what I need. Great buy!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R39QMVKPJBCS7Z/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 6, 2025",
+          "utc": "2025-04-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "M. Ortega",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGA7L7UJZAPZQESWNDXHUTE4PJGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGA7L7UJZAPZQESWNDXHUTE4PJGQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R1MF9NIIU2PWJO",
+        "title": "Great Product, Bad Battery Life, & Deceptive Seller!",
+        "body": "I've been a customer on Amazon for over 20 years and this is one of the worst experiences I've had on Amazon. I'm extremely disappointed with this purchase. The laptop I purchased was supposed to be NEW, but it's clearly used. I checked the warranty with HP, and it had been activated on Dec 17th, 2024 - I received the laptop on Feb 7th, 2025. The box also had a sticker placed over the computer specs to read as 1TB SSD—32GB RAM. Underneath, it had the official specs which said 8GB RAM and 512GB hard drive. If the hardware were changed, the warranty is void - meaning if something happens to this laptop I won't be able to get the warranty benefits. The seller is engaging in deceptive practices. I honestly suggest against purchasing this laptop here and going elsewhere, preferably in-store. This was an extremely expensive purchase for me and I'm very disappointed. Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve been a customer on Amazon for over 20 years and this is one of the worst experiences I&apos;ve had on Amazon. I&apos;m extremely disappointed with this purchase. The laptop I purchased was supposed to be NEW, but it&apos;s clearly used. I checked the warranty with HP, and it had been activated on Dec 17th, 2024 - I received the laptop on Feb 7th, 2025. The box also had a sticker placed over the computer specs to read as 1TB SSD&#x2014;32GB RAM. Underneath, it had the official specs which said 8GB RAM and 512GB hard drive. If the hardware were changed, the warranty is void - meaning if something happens to this laptop I won&apos;t be able to get the warranty benefits. The seller is engaging in deceptive practices. I honestly suggest against purchasing this laptop here and going elsewhere, preferably in-store. This was an extremely expensive purchase for me and I&apos;m very disappointed.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1MF9NIIU2PWJO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on February 10, 2025",
+          "utc": "2025-02-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Margaret",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGKK2Y4OOIEWDDS47QJOFZ4L7WAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGKK2Y4OOIEWDDS47QJOFZ4L7WAA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/9b9fe273-9f91-4adf-99ee-878537d3b8bd._CR3%2C0%2C493%2C493_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 27,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RU8VYCZ4Q37JA",
+        "title": "High Quality Gaming Computer",
+        "body": "The computer works great as a gaming computer, I’ve been able to run very high games on it such as Elden Ring and Skyrim. The only downside is its low battery life but that’s to be expected if you’re running games on it. Overall very worth it, would recommend it! Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The computer works great as a gaming computer, I&#x2019;ve been able to run very high games on it such as Elden Ring and Skyrim. The only downside is its low battery life but that&#x2019;s to be expected if you&#x2019;re running games on it. Overall very worth it, would recommend it!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RU8VYCZ4Q37JA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 23, 2025",
+          "utc": "2025-02-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Andrew",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGSSRNA7KHXUVEGW42BEWALZ23HQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGSSRNA7KHXUVEGW42BEWALZ23HQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/606b94ec-ea78-4978-84d0-453777b9de7a._CR0%2C26%2C281%2C281_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R3D2DMEEBL9HOG",
+        "title": "Its been a great computer",
+        "body": "It really is a nice laptop. I've had it for over a month and have had zero issues. To everyone complaining that the laptop must be used because the warranty already started, this is from the HP website:  \"The warranty date in the system you see online starts from when HP sells the product to a major distributor or when the PC gets out of the factory. Since you didn't order directly from HP factory but from a local store, you see a difference because HP cannot know exactly when you purchase it.  There is a process to dispute the warranty\" Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It really is a nice laptop. I&apos;ve had it for over a month and have had zero issues. To everyone complaining that the laptop must be used because the warranty already started, this is from the HP website:<br/><br/>&quot;The warranty date in the system you see online starts from when HP sells the product to a major distributor or when the PC gets out of the factory. Since you didn&apos;t order directly from HP factory but from a local store, you see a difference because HP cannot know exactly when you purchase it.<br/><br/>There is a process to dispute the warranty&quot;<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3D2DMEEBL9HOG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 6, 2025",
+          "utc": "2025-03-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tina",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEKHFOIMMFYXPOVIQQC5FIHBVXRQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEKHFOIMMFYXPOVIQQC5FIHBVXRQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R5FQWWRBFQ0VL",
+        "title": "Big Fan",
+        "body": "Smooth operating. Only using for an online game and occasional work. Speakers are great, the refresh rate is quick, the clarity is clean. Would recommend Read more",
+        "asin": "B0D845LL5R",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Smooth operating. Only using for an online game and occasional work. Speakers are great, the refresh rate is quick, the clarity is clean. Would recommend<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R5FQWWRBFQ0VL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D845LL5R",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 22, 2025",
+          "utc": "2025-04-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Payson Geohagan",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFEJMMYLY3J7ID6M4BWGJOXWOITA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFEJMMYLY3J7ID6M4BWGJOXWOITA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R3R64EYLM5J9VH",
+        "title": "Buen producto",
+        "body": "Excelente calidad, buena velocidad, excelente estado y funcionalidad Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Excelente calidad, buena velocidad, excelente estado y funcionalidad<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 28, 2025",
+          "utc": "2025-01-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ale"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "REZH4PMGI2SN9",
+        "title": "Good professional seller. Great product in original manufacturer box.",
+        "body": "Item sent on time and in original box.  Laptop specifications exactly as advertised.  Had issues with the laptop and seller was quickly responsive. Fix the laptop at no cost and in a professional way. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Item sent on time and in original box.<br/><br/>Laptop specifications exactly as advertised.<br/><br/>Had issues with the laptop and seller was quickly responsive. Fix the laptop at no cost and in a professional way.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on March 14, 2025",
+          "utc": "2025-03-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Wessam"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R1JI5Q9REBY96E",
+        "title": "Excelente calidad-precio",
+        "body": "La tecla ñ cuesta unos $12-15,000.  Esta computadora tiene teclado en inglés y funciona de maravilla. Vi la misma computadora, con la mitad de RAM, en una tienda de cadena y esa costaba $28,000, por lo que el factor calidad-precio de esta opción es excelente. El teclado, como en todas las computadoras, se puede poner en español, y aunque eso puede causar algo de confusión al principio por el acomodo de las teclas, mis dedos saben dónde está cada cosa, por lo que es fácil escribir de todas maneras.  Lo único malo es que el color es un matte que atrae las huellas digitales, pero mientras se cuide bien la parte que está cerca del touchpad, estará muy bien. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">La tecla &#xF1; cuesta unos $12-15,000.<br/><br/>Esta computadora tiene teclado en ingl&#xE9;s y funciona de maravilla. Vi la misma computadora, con la mitad de RAM, en una tienda de cadena y esa costaba $28,000, por lo que el factor calidad-precio de esta opci&#xF3;n es excelente. El teclado, como en todas las computadoras, se puede poner en espa&#xF1;ol, y aunque eso puede causar algo de confusi&#xF3;n al principio por el acomodo de las teclas, mis dedos saben d&#xF3;nde est&#xE1; cada cosa, por lo que es f&#xE1;cil escribir de todas maneras.<br/><br/>Lo &#xFA;nico malo es que el color es un matte que atrae las huellas digitales, pero mientras se cuide bien la parte que est&#xE1; cerca del touchpad, estar&#xE1; muy bien.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 15, 2025",
+          "utc": "2025-04-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "K. Revelles"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R1Z4LHO5SKU2D6",
+        "title": "Amazing Laptop for the price!",
+        "body": "I can't recommend the seller enough for their brilliant product, honest description and great customer care. They contacted me and made sure I was happy with the product, which I truly am. Highly recommend! Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I can&apos;t recommend the seller enough for their brilliant product, honest description and great customer care. They contacted me and made sure I was happy with the product, which I truly am. Highly recommend!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on March 5, 2025",
+          "utc": "2025-03-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Khoder Nashar"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R2EN27DHDG1UJI",
+        "title": "No Audio on Laptop, Amazon or seller not sending invoice after reapedetedly asking.",
+        "body": "I ordered this laptop for 2300 dhm, and got my order, there was no system Audio.. I asked HP to replace and they were OK to do so, once I provide invoice from Amazon. But even after repeatedly asking Amazon and Seller for invoice they are not providing fr my invoice to replace faulty product . Wish I could give 0 star review Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I ordered this laptop for 2300 dhm, and got my order, there was no system Audio.. I asked HP to replace and they were OK to do so, once I provide invoice from Amazon. But even after repeatedly asking Amazon and Seller for invoice they are not providing fr my invoice to replace faulty product . Wish I could give 0 star review<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on December 17, 2024",
+          "utc": "2024-12-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Asra shaikh"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "32GB RAM"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 4,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "HKcHOhT1WiDpDG0AjCUH4dLeP%2B8VYGV6%2BqSpd4rCcrXrZaLWZbZyR5xWw3xQoFotfPVLKOyvraCNZVP9kGjY0%2BmPmoGUZKZ4Yz0oo%2BAYjrReLvJUlGhNITOaGh2GX7GaBLnZ6dMHtxvfSbVqAuHPmeuWSWKiCQlXhLEvNM%2Bj5HKV5BaQtYpscp9OuWZsjHOZ",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 579,
+          "currency": "USD",
+          "raw": "$579.00"
+        },
+        "maximum_order_quantity": {
+          "value": 0
+        },
+        "ship_details": "Ships from and sold by Cardinal Pro Electronics.",
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Wednesday, May 21",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Cardinal Pro Electronics"
+          },
+          "is_sold_by_amazon": false,
+          "is_sold_by_third_party": true,
+          "fulfilled_by": "Cardinal Pro Electronics",
+          "is_fulfilled_by_amazon": false,
+          "is_fulfilled_by_third_party": true,
+          "fulfillment_type": "p3"
+        }
+      },
+      "offer_id": "HKcHOhT1WiDpDG0AjCUH4dLeP+8VYGV6+qSpd4rCcrXrZaLWZbZyR5xWw3xQoFotfPVLKOyvraCNZVP9kGjY0+mPmoGUZKZ4Yz0oo+AYjrReLvJUlGhNITOaGh2GX7GaBLnZ6dMHtxvfSbVqAuHPmeuWSWKiCQlXhLEvNM+j5HKV5BaQtYpscp9OuWZsjHOZ",
+      "mixed_offers_count": 70,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping"
+      },
+      "protection_plans": [
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "124.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "73.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 4 left in stock - order soon.",
+        "dispatch_days": 1,
+        "stock_level": 4
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "May 22 - 27",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "Or Prime members get FREE delivery Wednesday, May 21. Order within 15 hrs 40 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "ComputersUSA",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3DH5AGPM3JVAB&asin=B0D845LL5R&ref_=dp_merchant_link",
+          "id": "A3DH5AGPM3JVAB"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 633,
+        "currency": "USD",
+        "raw": "$633.00"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 633,
+        "currency": "USD",
+        "raw": "$633.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920 x 1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.4 GHz core_i5_family"
+      },
+      {
+        "name": "RAM",
+        "value": "‎32 GB DDR4"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎3200 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎1 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 3050"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎4 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎HP"
+      },
+      {
+        "name": "Series",
+        "value": "‎TPN-Q278_599J4AV"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎TPN-Q278_599J4AV"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5.06 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.09 x 10.04 x 0.93 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.09 x 10.04 x 0.93 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Blue"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎8"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR4 SDRAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎32 GB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎PCIE x 4"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎BD-R"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎AC & Battery"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required."
+      },
+      {
+        "name": "ASIN",
+        "value": "B0D845LL5R"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.3    4.3 out of 5 stars         250 ratings          4.3 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#827 in Computers & Accessories (See Top 100 in Computers & Accessories) #103 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "June 26, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "HP"
+      },
+      {
+        "name": "Model Name",
+        "value": "TPN-Q278_599J4AV"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Blue"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "1 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i5 Family"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "32 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard, Numeric Keypad"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Backlit Keyboard, Numeric Keypad. Operating System: Windows 11 Home. Ram Memory Installed Size: 32 GB. CPU Model: Core i5 Family. Hard Disk Size: 1 TB. Color: Blue. Screen Size: 15.6 Inches. Model Name: TPN-Q278_599J4AV. Brand: HP. Date First Available: June 26, 2024. Best Sellers Rank: #827 in Computers & Accessories (See Top 100 in Computers & Accessories) #103 in Traditional Laptop Computers. Customer Reviews: 4.3    4.3 out of 5 stars         250 ratings          4.3 out of 5 stars. ASIN: B0D845LL5R. Batteries: ‎1 Lithium Ion batteries required. Power Source: ‎AC & Battery. Optical Drive Type: ‎BD-R. Hard Drive Interface: ‎PCIE x 4. Flash Memory Size: ‎32 GB. Computer Memory Type: ‎DDR4 SDRAM. Number of Processors: ‎8. Processor Brand: ‎Intel. Color: ‎Blue. Item Dimensions  LxWxH: ‎14.09 x 10.04 x 0.93 inches. Product Dimensions: ‎14.09 x 10.04 x 0.93 inches. Item Weight: ‎5.06 pounds. Operating System: ‎Windows 11 Home. Hardware Platform: ‎PC. Item model number: ‎TPN-Q278_599J4AV. Series: ‎TPN-Q278_599J4AV. Brand: ‎HP. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎802.11ax. Graphics Card Ram Size: ‎4 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 3050. Hard Drive: ‎1 TB SSD. Memory Speed: ‎3200 MHz. RAM: ‎32 GB DDR4. Processor: ‎4.4 GHz core_i5_family. Max Screen Resolution: ‎1920 x 1080 Pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 827,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 103,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎Blue",
+    "weight": "‎5.06 pounds",
+    "first_available": {
+      "raw": "June 26, 2024",
+      "utc": "2024-06-26T00:00:00.000Z"
+    },
+    "dimensions": "‎14.09 x 10.04 x 0.93 inches",
+    "model_number": "‎TPN-Q278_599J4AV",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 827, Category: Traditional Laptop Computers | Rank: 103",
+    "whats_in_the_box": [
+      "HP Victus Laptop"
+    ]
+  },
+  "brand_store": {
+    "id": "5BA42671-3E42-4AEB-B9E4-272F10DD0121",
+    "link": "https://www.amazon.com/stores/HP/page/5BA42671-3E42-4AEB-B9E4-272F10DD0121"
+  },
+  "newer_model": {
+    "title": "HP Elitebook 660 G11 Business Laptop, 16\" FHD+ Computer, 12-Core Intel Ultra 5 125U (Beat i7-1355U), 16GB DDR5 RAM, 512GB PCIe SSD, WiFi 6E, Backlit KB, Fingerprint Reader, Windows 11 Pro, Befectoy",
+    "asin": "B0DKDY3DQK",
+    "link": "https://www.amazon.com/HP-Elitebook-660-G11-Fingerprint-dp-B0DKDY3DQK/dp/B0DKDY3DQK/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/71T0VhGTEpL._SR75,75_.jpg",
+    "rating": 4.5,
+    "ratings_total": 27,
+    "price": {
+      "symbol": "$",
+      "value": 989,
+      "currency": "USD",
+      "raw": "$989.00"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 663.98,
+      "currency": "USD",
+      "raw": "$663.98"
+    },
+    "products": [
+      {
+        "asin": "B0D845LL5R",
+        "title": "HP Victus 15.6 i5 Gaming Laptop, 15.6\" FHD 1920*1080 144Hz, Intel Core i5-12450H, NVIDIA GeForce RTX 3050, 32GB RAM, 1TB SSD, Backlit KB, Touchpad, SD Card Reader, Webcam, HDMI, Wi-Fi 6, W11 H, Blue",
+        "link": "https://www.amazon.com/dp/B0D845LL5R",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71DHV9GZSOL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 579,
+          "currency": "USD",
+          "raw": "$579.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0CZ59B6MH",
+    "link": "https://www.amazon.com/dp/B0CZ59B6MH/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=JW9TK3T8WBB75PH3FVJW&pd_rd_wg=ZwENX&pd_rd_i=B0CZ59B6MH&pd_rd_w=KdZSy&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=51689705-96c2-4acc-8858-3033ed034444&psc=1",
+    "title": "Dell Inspiron 5645 Laptop - 16.0 16:10 FHD+ (1920 x 1200) Display, AMD Ryzen 7-8840U, 16GB DDR5 RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, Onsite & Migrate Services - Midnight Blue",
+    "rating": 4,
+    "ratings_total": 124,
+    "image": "https://m.media-amazon.com/images/I/818WO3r8jhL._SS100_.jpg",
+    "is_prime": true
+  }
+}

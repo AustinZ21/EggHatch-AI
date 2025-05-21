@@ -1,0 +1,957 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5579,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DRWBKHLF",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:54:04.594Z",
+    "processed_at": "2025-05-20T01:54:10.916Z",
+    "total_time_taken": 6.32,
+    "amazon_url": "https://www.amazon.com/dp/B0DRWBKHLF?th=1&psc=1"
+  },
+  "product": {
+    "title": "HP 15.6\" Touchscreen Business & Student Laptop Computer, 32GB RAM 1TB SSD, 10-Cores Intel Core i5, Windows 11 Pro Laptop with Microsoft Office Lifetime Suite, PLUSERA Earphones, Silver",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "HP,15.6\",Touchscreen,Business,&,Student,Laptop,Computer,32GB,RAM,1TB,SSD,10-Cores,Intel,Core,i5,Windows,11,Pro,Laptop,with,Microsoft,Office,Lifetime,Suite,PLUSERA,Earphones,Silver",
+    "keywords_list": [
+      "15.6\"",
+      "Touchscreen",
+      "Business",
+      "Student",
+      "Laptop",
+      "Computer",
+      "32GB",
+      "10-Cores",
+      "Intel",
+      "Core",
+      "Windows",
+      "Laptop",
+      "with",
+      "Microsoft",
+      "Office",
+      "Lifetime",
+      "Suite",
+      "PLUSERA",
+      "Earphones",
+      "Silver"
+    ],
+    "is_collection": false,
+    "asin": "B0DRWBKHLF",
+    "parent_asin": "B09MFFLQTY",
+    "link": "https://www.amazon.com/HP-Touchscreen-Business-Microsoft-Earphones/dp/B0DRWBKHLF",
+    "brand": "‎HP",
+    "protection_plans": [
+      {
+        "asin": "B07PC1MG12",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 73.99,
+          "currency": "USD",
+          "raw": "$73.99"
+        }
+      },
+      {
+        "asin": "B07P6YXWQ7",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 124.99,
+          "currency": "USD",
+          "raw": "$124.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "16GB RAM | 512GB SSD",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "16GB RAM | 512GB SSD"
+          }
+        ],
+        "asin": "B0DRW55QK9",
+        "link": "https://amazon.com/dp/B0DRW55QK9?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "32GB RAM |1TB SSD",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "32GB RAM |1TB SSD"
+          }
+        ],
+        "asin": "B0DRWBKHLF",
+        "link": "https://amazon.com/dp/B0DRWBKHLF?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "64GB RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0DRW64MLF",
+        "link": "https://amazon.com/dp/B0DRW64MLF?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0DRW55QK9,B0DRWBKHLF,B0DRW64MLF",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets",
+    "description": "This laptop is equipped with the powerful Intel Core i5 processor, along with generous RAM and Storage. Enjoy effortless multitasking on its 15.6\" HD touchscreen LED display with an integrated camera. This laptop is designed with additional features to cater to your specific needs. Numeric keypad. Camera privacy shutter. The extended battery life ensures you can stay focused for longer periods. Stay connected with ample ports for all your devices. Built to support your workflow, whether at home or on the go. Experience the enhanced security and performance of Windows 11 Pro, with fast boot times and responsive operations.",
+    "sub_title": {
+      "text": "Visit the HP Store",
+      "link": "https://www.amazon.com/stores/HP/page/5BA42671-3E42-4AEB-B9E4-272F10DD0121?is_byline_deeplink=true&deeplink=A21BA0AE-A95C-4451-AE56-8F0ADE32026D&redirect_store_id=5BA42671-3E42-4AEB-B9E4-272F10DD0121&lp_asin=B0DRWBKHLF&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 68,
+        "count": 106
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 20
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 7
+      },
+      "two_star": {
+        "percentage": 6,
+        "count": 9
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 12
+      }
+    },
+    "ratings_total": 156,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61VmjV916NL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61VmjV916NL._AC_SL1324_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61W3nYuQDBL._AC_SL1100_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61tOFm38uBL._AC_SL1114_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61RoV83Dg6L._AC_SL1114_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71LGhLTJqjL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51RyRq6O6yL._AC_SL1000_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81igC-yl59L._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/61VmjV916NL._AC_SL1324_.jpg,https://m.media-amazon.com/images/I/61W3nYuQDBL._AC_SL1100_.jpg,https://m.media-amazon.com/images/I/61tOFm38uBL._AC_SL1114_.jpg,https://m.media-amazon.com/images/I/61RoV83Dg6L._AC_SL1114_.jpg,https://m.media-amazon.com/images/I/71LGhLTJqjL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51RyRq6O6yL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/81igC-yl59L._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 42,
+        "width": 640,
+        "height": 358,
+        "thumbnail": "https://m.media-amazon.com/images/I/51Wz-59FG3L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e174496a-f722-4446-8cce-be336bb281ee/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "HP Laptop For Business use Review"
+      },
+      {
+        "duration_seconds": 35,
+        "width": 640,
+        "height": 358,
+        "thumbnail": "https://m.media-amazon.com/images/I/51n93LTodSL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/127ff58d-958d-46ad-9454-d94976cbab02/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Looking for a good school computer? WATCH THIS!"
+      },
+      {
+        "duration_seconds": 14,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51Z+ibLSD8L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0dffc9e6-8b50-47b9-90ea-657b460c0cb1/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "I highly recommend this laptop"
+      },
+      {
+        "duration_seconds": 79,
+        "width": 4000,
+        "height": 2252,
+        "thumbnail": "https://m.media-amazon.com/images/I/B1JWf6rGWVL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89795ba1-a7fe-4bd1-a653-46028b647806/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Fast and efficient, all the hardware you need to work fast!"
+      },
+      {
+        "duration_seconds": 156,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51HX0NJxgPL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6c5d5be-b4d4-469e-a721-7edf43f8c5f7/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "HP Laptop Reviewed"
+      },
+      {
+        "duration_seconds": 102,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/512hD4nCNbL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a68f0147-e8f2-428a-a71c-2c1de7f2e9e6/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "HP Laptop Review"
+      }
+    ],
+    "videos_count": 6,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e174496a-f722-4446-8cce-be336bb281ee/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/127ff58d-958d-46ad-9454-d94976cbab02/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0dffc9e6-8b50-47b9-90ea-657b460c0cb1/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89795ba1-a7fe-4bd1-a653-46028b647806/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6c5d5be-b4d4-469e-a721-7edf43f8c5f7/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a68f0147-e8f2-428a-a71c-2c1de7f2e9e6/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.085dd86378c8412a8d109e43fe177c01",
+        "product_asin": "B0DRWBKHLF",
+        "parent_asin": "B09MFFLQTY",
+        "related_products": "B0D1LQM6RX,B0DRWBKHLF,B0C4G4L53W,B0D912VYH7,B0DVH4R2SL",
+        "title": "HP Laptop For Business use Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1tkf54eHeL._CR0,0,2256,2256_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/inspiredlifts",
+        "public_name": "Austin McCoo",
+        "creator_type": "Influencer",
+        "vendor_code": "inspiredlifts:shop",
+        "vendor_name": "Austin McCoo",
+        "vendor_tracking_id": "onamzququilla-20",
+        "video_image_id": "51Wz-59FG3L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Wz-59FG3L._CR3,0,634,358_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Wz-59FG3L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "358",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a7eeb329-bd6a-48ec-a7c2-c64162eb3c41/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e174496a-f722-4446-8cce-be336bb281ee/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e174496a-f722-4446-8cce-be336bb281ee/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e174496a-f722-4446-8cce-be336bb281ee/fa9a5f10-ea86-49d0-a099-549039ba5b61/085dd86378c8412a8d109e43fe177c01_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:42",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2a5c4730-ba77-4f30-9822-a2d518271e2d.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0870720a7689473b926018d9c5242f22",
+        "product_asin": "B0DRWBKHLF",
+        "parent_asin": "B09MFFLQTY",
+        "related_products": "B0DRWBKHLF,B0DW6D21ZB,B0DRW64MLF,B0DXM86TRB",
+        "title": "Looking for a good school computer? WATCH THIS!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71Lcej2FDNL._CR0,0,951,951_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mccoo",
+        "public_name": "InspiredWithAustin",
+        "creator_type": "Influencer",
+        "vendor_code": "mccoo:shop",
+        "vendor_name": "InspiredWithAustin",
+        "vendor_tracking_id": "onamzausti0d4-20",
+        "video_image_id": "51n93LTodSL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51n93LTodSL._CR3,0,634,358_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51n93LTodSL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "358",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/45272f84-a4b6-425e-883b-f1be1d7078b9/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/127ff58d-958d-46ad-9454-d94976cbab02/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/127ff58d-958d-46ad-9454-d94976cbab02/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/127ff58d-958d-46ad-9454-d94976cbab02/1c91748d-7256-49be-ad6f-373016e426a2/0870720a7689473b926018d9c5242f22_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4b941f50-b68f-4e3f-a6ce-5ab6d656d5a8.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b6f29fd91944ddfab4b789bd9984f80",
+        "product_asin": "B0DRWBKHLF",
+        "parent_asin": "B09MFFLQTY",
+        "related_products": "B0DRWBKHLF",
+        "title": "I highly recommend this laptop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61SuXYSCYcL._CR0,0,706,706_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/original.cocaa",
+        "public_name": "Bee",
+        "creator_type": "Influencer",
+        "vendor_code": "original.cocaa:shop",
+        "vendor_name": "Bee",
+        "vendor_tracking_id": "onamzbaile08e-20",
+        "video_image_id": "51Z+ibLSD8L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Z+ibLSD8L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Z+ibLSD8L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/14a87f91-e090-4345-bde6-7630a37af92b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0dffc9e6-8b50-47b9-90ea-657b460c0cb1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0dffc9e6-8b50-47b9-90ea-657b460c0cb1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a4146897-130a-4be6-8647-05e6879b48a8.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0de7b5cec1a343be999c96fcb9c6cd5b",
+        "product_asin": "B0DRWBKHLF",
+        "parent_asin": "B09MFFLQTY",
+        "related_products": "B0DRWBKHLF,B0DWSW99VX,B0CWN27G3V,B0DWSZX4F9,B0DSLT5JV6",
+        "title": "Fast and efficient, all the hardware you need to work fast!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81rzbVBI5VL._CR0,0,1376,1376_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/cassiea_youngatheart",
+        "public_name": "Cassie",
+        "creator_type": "Influencer",
+        "vendor_code": "cassiea_youngatheart:shop",
+        "vendor_name": "Cassie",
+        "vendor_tracking_id": "onamzcassieag-20",
+        "video_image_id": "B1JWf6rGWVL",
+        "video_image_url": "https://m.media-amazon.com/images/I/B1JWf6rGWVL._CR5,0,3991,2252_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/B1JWf6rGWVL.jpg",
+        "video_image_width": "4000",
+        "video_image_height": "2252",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c453058a-1401-4d7c-9fd5-acf0491cd539/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89795ba1-a7fe-4bd1-a653-46028b647806/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89795ba1-a7fe-4bd1-a653-46028b647806/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89795ba1-a7fe-4bd1-a653-46028b647806/bb5c5f0d-a73b-4eec-8e9e-77fc6c41c72a/0de7b5cec1a343be999c96fcb9c6cd5b_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:19",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/79ded77e-f1d9-42dd-b776-dc7ad75dbe77.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0dcfbd64cf5043219550fb21abd3f790",
+        "product_asin": "B0DRWBKHLF",
+        "parent_asin": "B09MFFLQTY",
+        "related_products": "B0DDMFK41Q,B0DJM1BJHB,B0DRWBKHLF,B0DTYJ55WM,B0DVH4R2SL",
+        "title": "HP Laptop Reviewed",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1tkf54eHeL._CR0,0,2256,2256_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/inspiredlifts",
+        "public_name": "Austin McCoo",
+        "creator_type": "Influencer",
+        "vendor_code": "inspiredlifts:shop",
+        "vendor_name": "Austin McCoo",
+        "vendor_tracking_id": "onamzququilla-20",
+        "video_image_id": "51HX0NJxgPL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51HX0NJxgPL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51HX0NJxgPL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d76b2799-9b31-4635-9945-7df1e5fcf93a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6c5d5be-b4d4-469e-a721-7edf43f8c5f7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6c5d5be-b4d4-469e-a721-7edf43f8c5f7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6c5d5be-b4d4-469e-a721-7edf43f8c5f7/cff17263-9e78-4e59-a0f2-34d7bbeaf20f/0dcfbd64cf5043219550fb21abd3f790_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:36",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/95a16071-2d25-4048-ba91-41372d3840c4.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0a56bacdd72b4edfbec516d0946928ea",
+        "product_asin": "B0DRWBKHLF",
+        "parent_asin": "B09MFFLQTY",
+        "related_products": "B09XN6HNF8,B0DRWBKHLF,B0DP5FHXQX,B0CKKFTTY8,B0DVH4R2SL",
+        "title": "HP Laptop Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1tkf54eHeL._CR0,0,2256,2256_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/inspiredlifts",
+        "public_name": "Austin McCoo",
+        "creator_type": "Influencer",
+        "vendor_code": "inspiredlifts:shop",
+        "vendor_name": "Austin McCoo",
+        "vendor_tracking_id": "onamzququilla-20",
+        "video_image_id": "512hD4nCNbL",
+        "video_image_url": "https://m.media-amazon.com/images/I/512hD4nCNbL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/512hD4nCNbL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/589d2776-945b-40d3-808e-a4f8991a7b7f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a68f0147-e8f2-428a-a71c-2c1de7f2e9e6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a68f0147-e8f2-428a-a71c-2c1de7f2e9e6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a68f0147-e8f2-428a-a71c-2c1de7f2e9e6/2cfaf496-9e55-4449-95f4-d97bb8deaf74/0a56bacdd72b4edfbec516d0946928ea_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:42",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2a360790-5918-449d-be35-f58a57f3bb1c.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "【Processor】Intel Core i5 (10 Cores, 12 Threads, Max Boost Clock Up to 4.40Ghz, 12MB Cache). Intel Iris Xe Graphics. This 15.6-inch touch screen laptop is also equipped with Windows 11 Pro, which makes your work or study easy and convenient.",
+      "【Touch Display】This laptop has a 15.6-inch touchscreen LED display with 1366 x 768 (HD) resolution and vivid images to maximize your entertainment.",
+      "【Powerful Storage】Up to 64GB RAM can smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs, all at once. Up to 2TB PCIe Solid State Drive leaves the power at your fingertips with the fastest data transfers currently available.",
+      "【Tech Specs】1 x USB-C 3.0. 2 x USB-A 3.0. 1 x HDMI 1.4. 1 x Headphone/Microphone Combo Jack. Wi-Fi 6E. Bluetooth 5.3. Windows 11 Pro, Microsoft Office Lifetime License, Touchscreen Laptop, Numeric Keypad, Camera Privacy Shutter, HP Fast Charge. HP True Vision HD camera. Tuned stereo speakers.",
+      "【Designed for the Office】With Windows 11 Pro, Intel Iris Xe Graphics, Touchscreen, Numeric Keypad, Camera Privacy Shutter, HP Fast Charge. HP True Vision HD camera. Tuned stereo speakers, it ensures a stylish and innovative look, excellent portability, and is suitable for daily work and play. It is a great choice for businesses, offices, or students."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "【Designed for the Office】With Windows 11 Pro, Intel Iris Xe Graphics, Touchscreen, Numeric Keypad, Camera Privacy Shutter, HP Fast Charge. HP True Vision HD camera. Tuned stereo speakers, it ensures a stylish and innovative look, excellent portability, and is suitable for daily work and play. It is a great choice for businesses, offices, or students. 【Tech Specs】1 x USB-C 3.0. 2 x USB-A 3.0. 1 x HDMI 1.4. 1 x Headphone/Microphone Combo Jack. Wi-Fi 6E. Bluetooth 5.3. Windows 11 Pro, Microsoft Office Lifetime License, Touchscreen Laptop, Numeric Keypad, Camera Privacy Shutter, HP Fast Charge. HP True Vision HD camera. Tuned stereo speakers. 【Powerful Storage】Up to 64GB RAM can smoothly run your games and photo- and video-editing applications, as well as multiple programs and browser tabs, all at once. Up to 2TB PCIe Solid State Drive leaves the power at your fingertips with the fastest data transfers currently available. 【Touch Display】This laptop has a 15.6-inch touchscreen LED display with 1366 x 768 (HD) resolution and vivid images to maximize your entertainment. 【Processor】Intel Core i5 (10 Cores, 12 Threads, Max Boost Clock Up to 4.40Ghz, 12MB Cache). Intel Iris Xe Graphics. This 15.6-inch touch screen laptop is also equipped with Windows 11 Pro, which makes your work or study easy and convenient.",
+    "top_reviews": [
+      {
+        "id": "R2RQ4BXVHVZEV1",
+        "title": "Hot Damn, this PC flies",
+        "body": "This laptop was a SCREAMER! With 2TB of storage, it had plenty of room to store even the most robust image/video libraries. The screen size was adequate for a laptop, but an external monitor or monitors are always useful for major development work. The fact that it came with so much software, including the ability to download Microsoft Office free of charge was an added bonus. I highly recommend this unit. Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop was a SCREAMER! With 2TB of storage, it had plenty of room to store even the most robust image/video libraries. The screen size was adequate for a laptop, but an external monitor or monitors are always useful for major development work. The fact that it came with so much software, including the ability to download Microsoft Office free of charge was an added bonus. I highly recommend this unit.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2RQ4BXVHVZEV1/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 17, 2025",
+          "utc": "2025-05-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "WMM",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFRCNRR7M6MTXVBIXEEIJWQFIVSQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFRCNRR7M6MTXVBIXEEIJWQFIVSQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "64GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "R1YA2R1C477ACO",
+        "title": "It worked right oit of box. Life time Microsoft office. No go off after 2 years",
+        "body": "Good deal Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good deal<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1YA2R1C477ACO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 10, 2025",
+          "utc": "2025-05-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Antony Kroo",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGRLYKAZQDZWZFICBCBB3WLQIA7Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGRLYKAZQDZWZFICBCBB3WLQIA7Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "32GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "R75MOK818163Z",
+        "title": "Very fast",
+        "body": "Very fast and love this! Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very fast and love this!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R75MOK818163Z/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 26, 2025",
+          "utc": "2025-04-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cassandra Conover",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE357KFCNOZ35J4XYVH32VNJV7HA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE357KFCNOZ35J4XYVH32VNJV7HA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "32GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "RX5ZXJMVJ3KBS",
+        "title": "Good laptop",
+        "body": "Just what I needed Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Just what I needed<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RX5ZXJMVJ3KBS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on April 12, 2025",
+          "utc": "2025-04-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Good to carry",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AED7Y7BQDFCYRKVPZO6P4NUSCGFA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AED7Y7BQDFCYRKVPZO6P4NUSCGFA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "64GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "R2EA7EAORGV51B",
+        "title": "Checks all the boxes",
+        "body": "Checks ALL THE BOXES; SPEED,STORAGE, TOUCH SCREEN, CONNECTIONS. SOFTWARE, BATTERY LIFE YOU GOT THIS! Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Checks ALL THE BOXES; SPEED,STORAGE,<br/>TOUCH SCREEN, CONNECTIONS. SOFTWARE, BATTERY LIFE<br/>YOU GOT THIS!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2EA7EAORGV51B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 6, 2025",
+          "utc": "2025-04-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Daniel Porter",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE5FLZHGZCY6GYVPHN5RCH5L5JPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE5FLZHGZCY6GYVPHN5RCH5L5JPQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "32GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "RB1ODIRWPPR5N",
+        "title": "Terrible and a dsigrace on both Amazon and HP",
+        "body": "Buyer be ware, advertised as a business machine but NOT docking station capable. In 2024 that is a disgusting omission that should be prominently stated. Disgusted with both Amazon and HP to allow this to happen. I guess they don't care because they got thier money and now they hope I will just buy another capable laptop from them but that won't happen. Last time I buy anything from Amazon that I don't have full knowledge about. I will put my money (even though it will cost more) into a local supplier that will properly answer my questions. With all the AI and data capabilities you would think that Amazon would alert me that the docking station I am buying doesn't work with the computer I am buying especially since they will charge me to return them. Old school ebay does this but mighty Amazon is a no joy! Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Buyer be ware, advertised as a business machine but NOT docking station capable. In 2024 that is a disgusting omission that should be prominently stated. Disgusted with both Amazon and HP to allow this to happen. I guess they don&apos;t care because they got thier money and now they hope I will just buy another capable laptop from them but that won&apos;t happen. Last time I buy anything from Amazon that I don&apos;t have full knowledge about. I will put my money (even though it will cost more) into a local supplier that will properly answer my questions. With all the AI and data capabilities you would think that Amazon would alert me that the docking station I am buying doesn&apos;t work with the computer I am buying especially since they will charge me to return them. Old school ebay does this but mighty Amazon is a no joy!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RB1ODIRWPPR5N/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on April 5, 2025",
+          "utc": "2025-04-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Michael Chapman",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHIVXTZJ3ERL5SBKYGSEJVOE7C2Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHIVXTZJ3ERL5SBKYGSEJVOE7C2Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "32GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "RZ8R11YNVWYPO",
+        "title": "Perfection",
+        "body": "Absolutely love my laptop! Everything about it fits my needs Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Absolutely love my laptop! Everything about it fits my needs<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RZ8R11YNVWYPO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 8, 2025",
+          "utc": "2025-04-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jacob and Tiffany Snyder",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4BULIW7LYSUIZ4GBN47ZURWPZQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4BULIW7LYSUIZ4GBN47ZURWPZQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/39afec63-9262-4665-892e-b4a358b57e85._CR0%2C29%2C275%2C275_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "64GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      },
+      {
+        "id": "R2U4V871YEDSLZ",
+        "title": "quality",
+        "body": "received product on time and in new condition Read more",
+        "asin": "B0DRWBKHLF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>received product on time and in new condition<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2U4V871YEDSLZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DRWBKHLF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 6, 2025",
+          "utc": "2025-04-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "William C Feest",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFRW5SOPWGCPJY7UOE4T74DUKMSA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFRW5SOPWGCPJY7UOE4T74DUKMSA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "64GB RAM"
+          },
+          {
+            "Style": "Core i5"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "73.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "124.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Thursday, May 22",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Smartisan Tech",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2BWHJMXWRZ2LP&asin=B0DRWBKHLF&ref_=dp_merchant_link",
+          "id": "A2BWHJMXWRZ2LP"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 629.98,
+        "currency": "USD",
+        "raw": "$629.98"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1366 x 768 pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.4 apple_ci5"
+      },
+      {
+        "name": "RAM",
+        "value": "‎32 GB DDR4"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎SSD"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎HP"
+      },
+      {
+        "name": "Series",
+        "value": "‎HP 15"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎HP 15"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.14 x 9.31 x 0.78 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.14 x 9.31 x 0.78 inches"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎10"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR4 SDRAM"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DRWBKHLF"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.2    4.2 out of 5 stars         156 ratings          4.2 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#32,930 in Electronics (See Top 100 in Electronics) #1,719 in Computers & Tablets"
+      },
+      {
+        "name": "Date First Available",
+        "value": "December 30, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "HP"
+      },
+      {
+        "name": "Model Name",
+        "value": "HP 15"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core i5"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      },
+      {
+        "name": "CPU Speed",
+        "value": "4.4"
+      },
+      {
+        "name": "Hard Disk Description",
+        "value": "SSD"
+      },
+      {
+        "name": "Item Weight",
+        "value": "5 Pounds"
+      },
+      {
+        "name": "Total USB Ports",
+        "value": "3"
+      }
+    ],
+    "specifications_flat": "Total USB Ports: 3. Item Weight: 5 Pounds. Hard Disk Description: SSD. CPU Speed: 4.4. Graphics Card Description: Integrated. Operating System: Windows 11 Pro. CPU Model: Intel Core i5. Screen Size: 15.6. Model Name: HP 15. Brand: HP. Date First Available: December 30, 2024. Best Sellers Rank: #32,930 in Electronics (See Top 100 in Electronics) #1,719 in Computers & Tablets. Customer Reviews: 4.2    4.2 out of 5 stars         156 ratings          4.2 out of 5 stars. ASIN: B0DRWBKHLF. Batteries: ‎1 Lithium Ion batteries required. (included). Optical Drive Type: ‎No Optical Drive. Computer Memory Type: ‎DDR4 SDRAM. Number of Processors: ‎10. Processor Brand: ‎Intel. Item Dimensions  LxWxH: ‎14.14 x 9.31 x 0.78 inches. Product Dimensions: ‎14.14 x 9.31 x 0.78 inches. Item Weight: ‎5 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎HP 15. Series: ‎HP 15. Brand: ‎HP. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎802.11ax. Card Description: ‎Integrated. Chipset Brand: ‎Intel. Hard Drive: ‎SSD. RAM: ‎32 GB DDR4. Processor: ‎4.4 apple_ci5. Screen Resolution: ‎1366 x 768 pixels. Standing screen display size: ‎15.6.",
+    "bestsellers_rank": [
+      {
+        "category": "Electronics",
+        "rank": 32930,
+        "link": "https://www.amazon.com/gp/bestsellers/electronics/ref=pd_zg_ts_electronics"
+      },
+      {
+        "category": "Computers & Tablets",
+        "rank": 1719,
+        "link": "https://www.amazon.com/gp/bestsellers/electronics/13896617011/ref=pd_zg_hrsr_electronics"
+      }
+    ],
+    "weight": "‎5 pounds",
+    "first_available": {
+      "raw": "December 30, 2024",
+      "utc": "2024-12-30T00:00:00.000Z"
+    },
+    "dimensions": "‎14.14 x 9.31 x 0.78 inches",
+    "model_number": "‎HP 15",
+    "bestsellers_rank_flat": "Category: Electronics | Rank: 32930, Category: Computers & Tablets | Rank: 1719",
+    "whats_in_the_box": [
+      "Laptop"
+    ]
+  },
+  "brand_store": {
+    "id": "5BA42671-3E42-4AEB-B9E4-272F10DD0121",
+    "link": "https://www.amazon.com/stores/HP/page/5BA42671-3E42-4AEB-B9E4-272F10DD0121"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 663.36,
+      "currency": "USD",
+      "raw": "$663.36"
+    },
+    "products": [
+      {
+        "asin": "B0DRWBKHLF",
+        "title": "HP 15.6\" Touchscreen Business & Student Laptop Computer, 32GB RAM 1TB SSD, 10-Cores Intel Core i5, Windows 11 Pro Laptop with Microsoft Office Lifetime Suite, PLUSERA Earphones, Silver",
+        "link": "https://www.amazon.com/dp/B0DRWBKHLF",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61VmjV916NL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 629.98,
+          "currency": "USD",
+          "raw": "$629.98"
+        }
+      }
+    ]
+  }
+}

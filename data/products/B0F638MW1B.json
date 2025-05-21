@@ -1,0 +1,889 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5599,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F638MW1B",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:50:46.628Z",
+    "processed_at": "2025-05-20T01:50:51.231Z",
+    "total_time_taken": 4.6,
+    "amazon_url": "https://www.amazon.com/dp/B0F638MW1B?th=1&psc=1"
+  },
+  "product": {
+    "title": "NIMO 15.6 FHD-Business-Gaming-Laptop, 6-Cores 660M GPU, AMD Ryzen 5 6600H 32GB DDR5 1TB SSD (Beat i5-12450H, Up to 4.5GHz) IPS Laptop Computer with 100W Type C Fingerprint Backlit Keyboard Win 11",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "NIMO,15.6,FHD-Business-Gaming-Laptop,6-Cores,660M,GPU,AMD,Ryzen,5,6600H,32GB,DDR5,1TB,SSD,(Beat,i5-12450H,Up,to,4.5GHz),IPS,Laptop,Computer,with,100W,Type,C,Fingerprint,Backlit,Keyboard,Win,11",
+    "keywords_list": [
+      "NIMO",
+      "15.6",
+      "FHD-Business-Gaming-Laptop",
+      "6-Cores",
+      "660M",
+      "Ryzen",
+      "6600H",
+      "32GB",
+      "DDR5",
+      "(Beat",
+      "i5-12450H",
+      "4.5GHz)",
+      "Laptop",
+      "Computer",
+      "with",
+      "100W",
+      "Type",
+      "Fingerprint",
+      "Backlit",
+      "Keyboard"
+    ],
+    "is_collection": false,
+    "asin": "B0F638MW1B",
+    "parent_asin": "B0F93W341X",
+    "link": "https://www.amazon.com/NIMO-FHD-Business-Gaming-Laptop-i5-12450H-Computer-Fingerprint/dp/B0F638MW1B",
+    "brand": "‎NIMO",
+    "protection_plans": [
+      {
+        "asin": "B07P83ZWQ5",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 65.99,
+          "currency": "USD",
+          "raw": "$65.99"
+        }
+      },
+      {
+        "asin": "B07PBZ7BBW",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 113.99,
+          "currency": "USD",
+          "raw": "$113.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "32GB | 2 TB Scarlet Red",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 2 TB"
+          },
+          {
+            "name": "color",
+            "value": "Scarlet Red"
+          }
+        ],
+        "asin": "B0F637HBXS",
+        "link": "https://amazon.com/dp/B0F637HBXS?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB | 2 TB Space Gray",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 2 TB"
+          },
+          {
+            "name": "color",
+            "value": "Space Gray"
+          }
+        ],
+        "asin": "B0F635P33L",
+        "link": "https://amazon.com/dp/B0F635P33L?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16GB | 1 TB Scarlet Red",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Scarlet Red"
+          }
+        ],
+        "asin": "B0F638M2J5",
+        "link": "https://amazon.com/dp/B0F638M2J5?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB | 2 TB Royal Blue",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 2 TB"
+          },
+          {
+            "name": "color",
+            "value": "Royal Blue"
+          }
+        ],
+        "asin": "B0F638HDDQ",
+        "link": "https://amazon.com/dp/B0F638HDDQ?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16GB | 1 TB Natural Silver",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Natural Silver"
+          }
+        ],
+        "asin": "B0F638J564",
+        "link": "https://amazon.com/dp/B0F638J564?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16GB | 1 TB Royal Blue",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Royal Blue"
+          }
+        ],
+        "asin": "B0F63CMHTV",
+        "link": "https://amazon.com/dp/B0F63CMHTV?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB | 1 TB Natural Silver",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Natural Silver"
+          }
+        ],
+        "asin": "B0F638ZQL6",
+        "link": "https://amazon.com/dp/B0F638ZQL6?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "32GB | 1 TB Scarlet Red",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Scarlet Red"
+          }
+        ],
+        "asin": "B0F638MW1B",
+        "link": "https://amazon.com/dp/B0F638MW1B?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16GB | 1 TB Space Gray",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Space Gray"
+          }
+        ],
+        "asin": "B0F637LW49",
+        "link": "https://amazon.com/dp/B0F637LW49?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB | 1 TB Space Gray",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Space Gray"
+          }
+        ],
+        "asin": "B0F637B7SK",
+        "link": "https://amazon.com/dp/B0F637B7SK?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB | 2 TB Natural Silver",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 2 TB"
+          },
+          {
+            "name": "color",
+            "value": "Natural Silver"
+          }
+        ],
+        "asin": "B0F639K3V3",
+        "link": "https://amazon.com/dp/B0F639K3V3?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB | 1 TB Royal Blue",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB | 1 TB"
+          },
+          {
+            "name": "color",
+            "value": "Royal Blue"
+          }
+        ],
+        "asin": "B0F6385GPN",
+        "link": "https://amazon.com/dp/B0F6385GPN?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0F637HBXS,B0F635P33L,B0F638M2J5,B0F638HDDQ,B0F638J564,B0F63CMHTV,B0F638ZQL6,B0F638MW1B,B0F637LW49,B0F637B7SK,B0F639K3V3,B0F6385GPN",
+    "proposition_65_warning": true,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the NIMO Store",
+      "link": "https://www.amazon.com/stores/Nimo/page/D6499A2A-8F0F-48BD-9AAE-6CBD2EDD70EF?lp_asin=B0F638MW1B&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply $100 coupon",
+    "rating": 5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 100,
+        "count": 7
+      },
+      "four_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 7,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/716Fn87FmdL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/716Fn87FmdL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81KPBXdlJEL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61qB5H3o3wL._AC_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71v-n3VvMDL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71wN3FC5nkL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71vdwIl9BdL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71AA3880AeL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/716Fn87FmdL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81KPBXdlJEL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61qB5H3o3wL._AC_.jpg,https://m.media-amazon.com/images/I/71v-n3VvMDL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71wN3FC5nkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71vdwIl9BdL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71AA3880AeL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 60,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51ev2lLmijL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/575f01f0-2396-45a3-9681-6fd272900e20/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Efficiency Meets Convenience: Nimo Laptop"
+      }
+    ],
+    "videos_count": 1,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/575f01f0-2396-45a3-9681-6fd272900e20/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0fb9a87c518941adae918b5141925ddc",
+        "product_asin": "B0F638MW1B",
+        "parent_asin": "B0F93W341X",
+        "related_products": "B0DH2N6PWJ,B0DH2M922V,B0DH2MS1G7,B0DH2LQ99Y,B0DH2MH771",
+        "title": "Efficiency Meets Convenience: Nimo Laptop",
+        "public_name": "AMAZING WAREHOUSE DEAL(Record SN)",
+        "creator_type": "Seller",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "AMAZING WAREHOUSE DEAL(Record SN)",
+        "video_image_id": "51ev2lLmijL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51ev2lLmijL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51ev2lLmijL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ecf4960c-70a9-4c2d-bbad-c5d258a31525/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/575f01f0-2396-45a3-9681-6fd272900e20/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/575f01f0-2396-45a3-9681-6fd272900e20/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/575f01f0-2396-45a3-9681-6fd272900e20/083dee23-c890-4693-9bb4-5bfb34460fe0/0fb9a87c518941adae918b5141925ddc_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "【2-Year Manufacturer's Warranty, Partially Assembled in the USA, 90-Day Hassle-Free Returns】We prioritize your satisfaction with a high standard quality assurance, backed by a comprehensive 2-year manufacturer's warranty and 90-day hassle-free returns. Partially assembled in the USA, our laptops undergo rigorous quality control to ensure durability and performance. If any concerns arise, our dedicated support team is ready to swiftly resolve issues or facilitate replacements.",
+      "【AMD Ryzen 5 6600H CPU, 660M GPU with Steady Build Quality】Powered by the AMD Ryzen 5 6600H (6 cores, 12 threads, up to 4.5 GHz) paired with the modern 660M GPU (6nm process, 6 GPU cores, 1900MHz), this laptop delivers steady build quality for reliable performance. Designed for productivity and efficiency, it handles multitasking, gaming, and professional applications with ease.",
+      "【Type-C 100W PD Fast Charger】Travel confidently with our compact 100W USB-C PD fast charger and 6.56ft cable. Charge for 15 minutes to standby for 2 hours, and say goodbye to charging anxiety. Compatible with iPads, phones, cameras, and more, this charger simplifies your travel setup.",
+      "【Upgradable/Expandable Durable Configuration】Future-proof your workflow with upgradable/expandable dual-channel memory and detachable RAM/SSD. Pre-installed with 32GB DDR5 RAM and 1TB PCIe 4.0 SSD, this laptop offers lightning-fast performance and ample storage. The metal A-shell design combines durability with a sleek appearance.",
+      "【Humanized Design】Experience premium usability with a 15.6\" FHD IPS (1920x1080) anti-glare display featuring an 85% screen-to-body ratio and micro-edge design. The fingerprint reader built into the touchpad ensures secure, one-touch login, while the backlit keyboard and multi-touch touchpad enhance productivity in any lighting condition."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "【Humanized Design】Experience premium usability with a 15.6\" FHD IPS (1920x1080) anti-glare display featuring an 85% screen-to-body ratio and micro-edge design. The fingerprint reader built into the touchpad ensures secure, one-touch login, while the backlit keyboard and multi-touch touchpad enhance productivity in any lighting condition. 【Upgradable/Expandable Durable Configuration】Future-proof your workflow with upgradable/expandable dual-channel memory and detachable RAM/SSD. Pre-installed with 32GB DDR5 RAM and 1TB PCIe 4.0 SSD, this laptop offers lightning-fast performance and ample storage. The metal A-shell design combines durability with a sleek appearance. 【Type-C 100W PD Fast Charger】Travel confidently with our compact 100W USB-C PD fast charger and 6.56ft cable. Charge for 15 minutes to standby for 2 hours, and say goodbye to charging anxiety. Compatible with iPads, phones, cameras, and more, this charger simplifies your travel setup. 【AMD Ryzen 5 6600H CPU, 660M GPU with Steady Build Quality】Powered by the AMD Ryzen 5 6600H (6 cores, 12 threads, up to 4.5 GHz) paired with the modern 660M GPU (6nm process, 6 GPU cores, 1900MHz), this laptop delivers steady build quality for reliable performance. Designed for productivity and efficiency, it handles multitasking, gaming, and professional applications with ease. 【2-Year Manufacturer's Warranty, Partially Assembled in the USA, 90-Day Hassle-Free Returns】We prioritize your satisfaction with a high standard quality assurance, backed by a comprehensive 2-year manufacturer's warranty and 90-day hassle-free returns. Partially assembled in the USA, our laptops undergo rigorous quality control to ensure durability and performance. If any concerns arise, our dedicated support team is ready to swiftly resolve issues or facilitate replacements.",
+    "important_information": {
+      "sections": [
+        {
+          "title": "Safety Information",
+          "body": "laptop"
+        },
+        {
+          "title": "Legal Disclaimer",
+          "body": "laptop"
+        }
+      ]
+    },
+    "top_reviews": [
+      {
+        "id": "R1H5NSR6LW7JWL",
+        "title": "Absolutely Killer for On-the-go Productivity!",
+        "body": "Fits great into a backpack. CPU absolutely smashed most productivity tasks, with light speed internet browsing and loading. Screen has good color, no flickering, and low reflective layer. Very easy to use, boot up windows, assign account, and download personal data and apps. So far very happy with my purchase as a college student running around everywhere. Read more",
+        "asin": "B0F638MW1B",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Fits great into a backpack. CPU absolutely smashed most productivity tasks, with light speed internet browsing and loading. Screen has good color, no flickering, and low reflective layer. Very easy to use, boot up windows, assign account, and download personal data and apps. So far very happy with my purchase as a college student running around everywhere.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1H5NSR6LW7JWL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F638MW1B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 27, 2025",
+          "utc": "2025-03-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kaden R",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGZAQSZEPQDZUBF7OGSEWYGF2ZAQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGZAQSZEPQDZUBF7OGSEWYGF2ZAQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2L5DL4CDNR6Q9",
+        "title": "For programming machines is this one good enough :)",
+        "body": "The Nimo Laptop is an excellent choice for anyone seeking a high-performance working computer. With its fast processor and ample RAM, it handles multitasking effortlessly, making it ideal for demanding tasks like data analysis, graphic design, or software development. The build quality is solid, and its sleek, professional design adds to its appeal in a work environment. Additionally, the battery life is impressive, ensuring productivity on the go. The display is sharp and vibrant, which is great for extended screen time. Overall, the Nimo Laptop combines reliability, speed, and efficiency, making it a top pick for professionals. Read more",
+        "asin": "B0F638MW1B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Nimo Laptop is an excellent choice for anyone seeking a high-performance working computer. With its fast processor and ample RAM, it handles multitasking effortlessly, making it ideal for demanding tasks like data analysis, graphic design, or software development. The build quality is solid, and its sleek, professional design adds to its appeal in a work environment. Additionally, the battery life is impressive, ensuring productivity on the go. The display is sharp and vibrant, which is great for extended screen time. Overall, the Nimo Laptop combines reliability, speed, and efficiency, making it a top pick for professionals.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2L5DL4CDNR6Q9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F638MW1B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 25, 2025",
+          "utc": "2025-01-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "TK",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH3Y4N47R4XPFV2JYS6MCWZQJT2Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH3Y4N47R4XPFV2JYS6MCWZQJT2Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R4ZF9GD2TX1LT",
+        "title": "new favorite brand",
+        "body": "first time buying a laptop in a hot minute and this one did not disappoint! super sleek and visually appealing and runs just as well, overall I am super satisfied with this company and would absolutely do business again Read more",
+        "asin": "B0F638MW1B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>first time buying a laptop in a hot minute and this one did not disappoint! super sleek and visually appealing and runs just as well, overall I am super satisfied with this company and would absolutely do business again<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R4ZF9GD2TX1LT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F638MW1B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 12, 2025",
+          "utc": "2025-02-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "grace",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG65GJNZWW3X7L7QWTUOCLCZK3VA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG65GJNZWW3X7L7QWTUOCLCZK3VA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3KXGGTB047R24",
+        "title": "Laptop lid should be a little thicker",
+        "body": "Very nice laptop for the price. The only thing I would recommend is that the laptop lid should be a little bit thicker. Read more",
+        "asin": "B0F638MW1B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very nice laptop for the price. The only thing I would recommend is that the laptop lid should be a little bit thicker.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3KXGGTB047R24/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F638MW1B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2025",
+          "utc": "2025-03-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "RC",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFNP7PUWJUZ5WVG5F3FKPNI4EFUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFNP7PUWJUZ5WVG5F3FKPNI4EFUA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      }
+    ],
+    "additional_details": [
+      {
+        "name": "Small Business",
+        "value": "This product is from a small business brand. Support small."
+      }
+    ],
+    "additional_details_flat": "Small Business: This product is from a small business brand. Support small.",
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "new_offers_count": 2,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "65.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "113.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "May 22 - 27",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "AMAZING WAREHOUSE DEAL(Record SN)",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AM0VWZ1WMK39K&asin=B0F638MW1B&ref_=dp_merchant_link",
+          "id": "AM0VWZ1WMK39K"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 599.99,
+        "currency": "USD",
+        "raw": "$599.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 999.99,
+        "currency": "USD",
+        "raw": "$999.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920 x 1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.5 GHz ryzen_5"
+      },
+      {
+        "name": "RAM",
+        "value": "‎32 GB DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎4800 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎1 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎Integrated Graphics"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11a/b/g/n/ac"
+      },
+      {
+        "name": "Number of USB 2.0 Ports",
+        "value": "‎1"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎2"
+      },
+      {
+        "name": "Average Battery Life (in hours)",
+        "value": "‎5 Hours"
+      },
+      {
+        "name": "National Stock Number",
+        "value": "‎laptop"
+      },
+      {
+        "name": "Brand",
+        "value": "‎NIMO"
+      },
+      {
+        "name": "Series",
+        "value": "‎Nimo N153"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎Nimo N153"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎3.8 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.07 x 8.98 x 0.76 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.07 x 8.98 x 0.76 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Scarlet Red"
+      },
+      {
+        "name": "Rear Webcam Resolution",
+        "value": "‎2 MP"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎6"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 SDRAM"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "Hard Drive Rotational Speed",
+        "value": "‎2400 RPM"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎Battery Powered"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎11.4 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Polymer batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F638MW1B"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "5.0    5.0 out of 5 stars         7 ratings          5.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#5,293 in Computers & Accessories (See Top 100 in Computers & Accessories) #635 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 23, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "NIMO"
+      },
+      {
+        "name": "Model Name",
+        "value": "Nimo N153"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Scarlet Red"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "1 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Ryzen 5"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "32 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Fingerprint Reader, High Definition Audio, Backlit Keyboard, Numeric Keypad"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Integrated. Special Feature: Fingerprint Reader, High Definition Audio, Backlit Keyboard, Numeric Keypad. Operating System: Windows 11. Ram Memory Installed Size: 32 GB. CPU Model: Ryzen 5. Hard Disk Size: 1 TB. Color: Scarlet Red. Screen Size: 15.6 Inches. Model Name: Nimo N153. Brand: NIMO. Date First Available: April 23, 2025. Best Sellers Rank: #5,293 in Computers & Accessories (See Top 100 in Computers & Accessories) #635 in Traditional Laptop Computers. Customer Reviews: 5.0    5.0 out of 5 stars         7 ratings          5.0 out of 5 stars. ASIN: B0F638MW1B. Batteries: ‎1 Lithium Polymer batteries required. (included). Voltage: ‎11.4 Volts. Power Source: ‎Battery Powered. Optical Drive Type: ‎No Optical Drive. Hard Drive Rotational Speed: ‎2400 RPM. Hard Drive Interface: ‎Solid State. Computer Memory Type: ‎DDR5 SDRAM. Number of Processors: ‎6. Processor Brand: ‎AMD. Rear Webcam Resolution: ‎2 MP. Color: ‎Scarlet Red. Item Dimensions  LxWxH: ‎14.07 x 8.98 x 0.76 inches. Product Dimensions: ‎14.07 x 8.98 x 0.76 inches. Item Weight: ‎3.8 pounds. Operating System: ‎Windows 11. Hardware Platform: ‎PC. Item model number: ‎Nimo N153. Series: ‎Nimo N153. Brand: ‎NIMO. National Stock Number: ‎laptop. Average Battery Life (in hours): ‎5 Hours. Number of USB 3.0 Ports: ‎2. Number of USB 2.0 Ports: ‎1. Wireless Type: ‎802.11a/b/g/n/ac. Card Description: ‎Integrated. Chipset Brand: ‎AMD. Graphics Coprocessor: ‎Integrated Graphics. Hard Drive: ‎1 TB SSD. Memory Speed: ‎4800 MHz. RAM: ‎32 GB DDR5. Processor: ‎4.5 GHz ryzen_5. Max Screen Resolution: ‎1920 x 1080 Pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 5293,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 635,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎Scarlet Red",
+    "weight": "‎3.8 pounds",
+    "first_available": {
+      "raw": "April 23, 2025",
+      "utc": "2025-04-23T00:00:00.000Z"
+    },
+    "dimensions": "‎14.07 x 8.98 x 0.76 inches",
+    "model_number": "‎Nimo N153",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 5293, Category: Traditional Laptop Computers | Rank: 635",
+    "whats_in_the_box": [
+      "1 x Nimo N153 Laptop",
+      "1 x Type-C 100W PD Fast Charger",
+      "1 x User Manual",
+      "Windows 11 Home"
+    ]
+  },
+  "brand_store": {
+    "id": "D6499A2A-8F0F-48BD-9AAE-6CBD2EDD70EF",
+    "link": "https://www.amazon.com/stores/Nimo/page/D6499A2A-8F0F-48BD-9AAE-6CBD2EDD70EF"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 647.97,
+      "currency": "USD",
+      "raw": "$647.97"
+    },
+    "products": [
+      {
+        "asin": "B0F638MW1B",
+        "title": "NIMO 15.6 FHD-Business-Gaming-Laptop, 6-Cores 660M GPU, AMD Ryzen 5 6600H 32GB DDR5 1TB SSD (Beat i5-12450H, Up to 4.5GHz) IPS Laptop Computer with 100W Type C Fingerprint Backlit Keyboard Win 11",
+        "link": "https://www.amazon.com/dp/B0F638MW1B",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/716Fn87FmdL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 599.99,
+          "currency": "USD",
+          "raw": "$599.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0D1KS5VX9",
+    "link": "https://www.amazon.com/dp/B0D1KS5VX9/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=SMT946JJVAKT5KY4TZXW&pd_rd_wg=wsPVt&pd_rd_i=B0D1KS5VX9&pd_rd_w=xwRsN&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=53cbcb0d-e729-454e-9221-2aeb18464d9b&psc=1",
+    "title": "Dell Inspiron 3530 Laptop - 15.6-inch FHD 120Hz Display, Intel Core i5-1334U Processor, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Migrate Services - Platinum Silver (Aluminum)",
+    "rating": 4.5,
+    "ratings_total": 91,
+    "image": "https://m.media-amazon.com/images/I/71xXnuKlO8L._SS100_.jpg",
+    "is_prime": true
+  }
+}

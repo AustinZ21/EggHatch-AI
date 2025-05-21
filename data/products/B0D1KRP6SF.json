@@ -1,0 +1,1492 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5589,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0D1KRP6SF",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:52:36.437Z",
+    "processed_at": "2025-05-20T01:52:43.905Z",
+    "total_time_taken": 7.47,
+    "amazon_url": "https://www.amazon.com/dp/B0D1KRP6SF?th=1&psc=1"
+  },
+  "product": {
+    "title": "Dell G16 7630 Gaming Laptop - 16-inch QHD+ 240Hz 3ms Display, Intel Core i9-13900HX, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 4070 8GB GDDR6, Windows 11 Home, Onsite Service - Metallic Nightshade",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Dell,G16,7630,Gaming,Laptop,16-inch,QHD+,240Hz,3ms,Display,Intel,Core,i9-13900HX,16GB,DDR5,RAM,1TB,SSD,NVIDIA,GeForce,RTX,4070,8GB,GDDR6,Windows,11,Home,Onsite,Service,Metallic,Nightshade",
+    "keywords_list": [
+      "Dell",
+      "7630",
+      "Gaming",
+      "Laptop",
+      "16-inch",
+      "QHD+",
+      "240Hz",
+      "Display",
+      "Intel",
+      "Core",
+      "i9-13900HX",
+      "16GB",
+      "DDR5",
+      "NVIDIA",
+      "GeForce",
+      "4070",
+      "GDDR6",
+      "Windows",
+      "Home",
+      "Onsite",
+      "Service",
+      "Metallic",
+      "Nightshade"
+    ],
+    "is_collection": false,
+    "asin": "B0D1KRP6SF",
+    "parent_asin": "B0CJQCRYW2",
+    "link": "https://www.amazon.com/Dell-G16-7630-Gaming-Laptop/dp/B0D1KRP6SF",
+    "brand": "‎Dell",
+    "protection_plans": [
+      {
+        "asin": "B07P61QVFM",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 130.99,
+          "currency": "USD",
+          "raw": "$130.99"
+        }
+      },
+      {
+        "asin": "B07P6YXWCG",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 199.99,
+          "currency": "USD",
+          "raw": "$199.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "PLAY IN STYLE. Top the leaderboard in style on the new Dell G16 Gaming Laptop. Enjoy all the benefits of a portable gaming laptop with a larger 16:10 aspect ratio. The 2560x1600 QHD+ resolution and 16-inch display makes your favorite games look next level - with uninterrupted gameplay and vivid visuals that let you fully immerse in the game.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b1a71fb-136a-4b63-8e61-92f733280305.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/9B75DD0E-9F42-4B9B-ACAA-F329B23ADE7D",
+          "id": "9B75DD0E-9F42-4B9B-ACAA-F329B23ADE7D"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b1a71fb-136a-4b63-8e61-92f733280305.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e94dfc5-bcfd-4af5-98f1-14364ae83a1d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3ad800f3-cf83-43c6-9734-2992d26d7a6c.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Dell Store",
+      "link": "https://www.amazon.com/stores/Dell/page/9B75DD0E-9F42-4B9B-ACAA-F329B23ADE7D?is_byline_deeplink=true&deeplink=94116349-D1E7-4C45-B80A-A1B6A9C4BFEF&redirect_store_id=9B75DD0E-9F42-4B9B-ACAA-F329B23ADE7D&lp_asin=B0D1KRP6SF&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 3.9,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 58,
+        "count": 89
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 24
+      },
+      "three_star": {
+        "percentage": 7,
+        "count": 10
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 1
+      },
+      "one_star": {
+        "percentage": 18,
+        "count": 27
+      }
+    },
+    "ratings_total": 155,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71IV0S6EC8L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71IV0S6EC8L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81h3mqo8cXL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81G9ePrC0cL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717wZmmSb5L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81QrYmU6CTL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81JboZB0SeL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71NaaaTIzUL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61O4SZC17CL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      }
+    ],
+    "images_count": 8,
+    "images_flat": "https://m.media-amazon.com/images/I/71IV0S6EC8L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81h3mqo8cXL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81G9ePrC0cL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/717wZmmSb5L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81QrYmU6CTL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81JboZB0SeL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71NaaaTIzUL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61O4SZC17CL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 30,
+        "width": 640,
+        "height": 1136,
+        "thumbnail": "https://m.media-amazon.com/images/I/71lAV6VHRmL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37340895-8dd7-4523-8a27-f79d3f262d0b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Is the Dell G16 EVEN WORTH It?!"
+      },
+      {
+        "duration_seconds": 44,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51-0bWawYOL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e00a9b-b8d4-4066-b566-6f5362a2d2a5/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "G Series 16 7630 "
+      },
+      {
+        "duration_seconds": 86,
+        "width": 3840,
+        "height": 2160,
+        "thumbnail": "https://m.media-amazon.com/images/I/C1oV5IhAmbL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e78fe98-531a-4e9f-a5d6-a2e7e591482e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Dell G16 RTX 4070 Unboxing & First Look | i9, 32GB RAM"
+      },
+      {
+        "duration_seconds": 63,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51l06g7UAEL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b75f66c-0ac6-40b7-81b0-3d2e9f24e74a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Best Laptop EVER - WATCH Before Buying"
+      },
+      {
+        "duration_seconds": 252,
+        "width": 854,
+        "height": 480,
+        "thumbnail": "https://m.media-amazon.com/images/I/61TwSyJJIeL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/761d1b4b-6ca5-45d1-94f3-0bda6fb6c84c/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "How I Feel After Using for a Month"
+      },
+      {
+        "duration_seconds": 30,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/91HgzZ+13jL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/71453867-9d50-43b3-b096-7527e05e4e3b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Should you buy this? - Dell G16 Gaming Laptop Review"
+      },
+      {
+        "duration_seconds": 32,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/A15xqmkVioL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35c0afff-4485-4234-a9c1-2f1a3ba8175d/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "What I Wish I Knew About the Dell G16"
+      },
+      {
+        "duration_seconds": 60,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/711vFYuRDJL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd8d4aae-9f82-43b8-a23b-d44950ca708e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Is it worth it? Dell G15 5530 Gaming Laptop"
+      },
+      {
+        "duration_seconds": 13,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/51-zANLhL3L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e155f09-480e-4076-a251-69d21d43e07e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Keep crashing and lagging"
+      },
+      {
+        "duration_seconds": 44,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61eNwBg6AfL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad8839e1-500e-41d5-ba35-1eb652f90503/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "NVIDIA 40 series "
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37340895-8dd7-4523-8a27-f79d3f262d0b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e00a9b-b8d4-4066-b566-6f5362a2d2a5/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e78fe98-531a-4e9f-a5d6-a2e7e591482e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b75f66c-0ac6-40b7-81b0-3d2e9f24e74a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/761d1b4b-6ca5-45d1-94f3-0bda6fb6c84c/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/71453867-9d50-43b3-b096-7527e05e4e3b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35c0afff-4485-4234-a9c1-2f1a3ba8175d/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd8d4aae-9f82-43b8-a23b-d44950ca708e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e155f09-480e-4076-a251-69d21d43e07e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad8839e1-500e-41d5-ba35-1eb652f90503/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0ad16521bc5c465da8024a7dfa4c1169",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF",
+        "title": "Is the Dell G16 EVEN WORTH It?!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "71lAV6VHRmL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71lAV6VHRmL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71lAV6VHRmL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1136",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4aec3d74-43d7-4a6e-b703-e8f1b6e93335/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37340895-8dd7-4523-8a27-f79d3f262d0b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37340895-8dd7-4523-8a27-f79d3f262d0b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37340895-8dd7-4523-8a27-f79d3f262d0b/a21d58f8-cd1d-4878-b312-65fc5bb3475c/0ad16521bc5c465da8024a7dfa4c1169_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ce63882c-0f68-4af7-a011-d7f3cd7479fa.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0c98bc0f4c994acda16d5fdb613954ec",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF",
+        "title": "G Series 16 7630 ",
+        "public_name": "Dell Marketing USA, LP",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Dell Marketing USA, LP",
+        "video_image_id": "51-0bWawYOL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51-0bWawYOL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51-0bWawYOL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/91e75150-fdb9-4147-a9c5-b3a85385d294/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e00a9b-b8d4-4066-b566-6f5362a2d2a5/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e00a9b-b8d4-4066-b566-6f5362a2d2a5/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/57e00a9b-b8d4-4066-b566-6f5362a2d2a5/69dfdee3-c4f4-4417-a39f-62f613b03f4b/0c98bc0f4c994acda16d5fdb613954ec_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2f4e9a39-653b-44ed-83dc-c855dbd7b1df.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0c52f819ba6642a598e5b4ee084635c2",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF,B0DHZSWF4H,B0DSTJ8LVH,B0F32Q67Z1",
+        "title": "Dell G16 RTX 4070 Unboxing & First Look | i9, 32GB RAM",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/littleguybigreviews_1651938372812_original._CR136,64,670,670_._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/littleguybigreviews",
+        "public_name": "Littleguy Big Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "littleguybigreviews:shop",
+        "vendor_name": "Littleguy Big Reviews",
+        "vendor_tracking_id": "onamzlittlegu-20",
+        "video_image_id": "C1oV5IhAmbL",
+        "video_image_url": "https://m.media-amazon.com/images/I/C1oV5IhAmbL._CR6,0,3828,2160_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/C1oV5IhAmbL.png",
+        "video_image_width": "3840",
+        "video_image_height": "2160",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7cbe242-93b9-49eb-a747-9d7fa17e598e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e78fe98-531a-4e9f-a5d6-a2e7e591482e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3e78fe98-531a-4e9f-a5d6-a2e7e591482e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5cd733bd-d2ef-492d-bcbb-0ef8799c11f0.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.091db246afc34da6bf04d02ac90bec70",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF",
+        "title": "Best Laptop EVER - WATCH Before Buying",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41zKmnhcH2L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/memeshubet",
+        "public_name": "Product Overview",
+        "creator_type": "Influencer",
+        "vendor_code": "memeshubet:shop",
+        "vendor_name": "Product Overview",
+        "vendor_tracking_id": "onamzconno0d3-20",
+        "video_image_id": "51l06g7UAEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51l06g7UAEL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51l06g7UAEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2e086ff1-5e63-42f6-b719-144aa1f8398e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b75f66c-0ac6-40b7-81b0-3d2e9f24e74a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b75f66c-0ac6-40b7-81b0-3d2e9f24e74a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b75f66c-0ac6-40b7-81b0-3d2e9f24e74a/52f10923-957c-4a96-83e6-446e5fa11f35/091db246afc34da6bf04d02ac90bec70_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/dfcd7d49-3d52-40b7-96e6-ee183266e60e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09d6a5392ee74abaafbdd30b07d32d85",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF,B0F43649VD,B0DFM32CH1,B0F43DY34T,B0DBHT8X2P",
+        "title": "How I Feel After Using for a Month",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51qaS1RlRdL._CR0,0,380,380_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/drivestickshift",
+        "public_name": "📎 DriveStickShift",
+        "creator_type": "Influencer",
+        "vendor_code": "drivestickshift:shop",
+        "vendor_name": "📎 DriveStickShift",
+        "vendor_tracking_id": "onamzdrivesti-20",
+        "video_image_id": "61TwSyJJIeL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61TwSyJJIeL._CR2,0,851,480_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61TwSyJJIeL.jpg",
+        "video_image_width": "854",
+        "video_image_height": "480",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8282ad6-6787-4b49-9343-131a38f4212e/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/761d1b4b-6ca5-45d1-94f3-0bda6fb6c84c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/761d1b4b-6ca5-45d1-94f3-0bda6fb6c84c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "4:12",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a5f03df3-4059-4b38-9add-7002b7686f98.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0a563049131f4f219f3242f3e1859b79",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF",
+        "title": "Should you buy this? - Dell G16 Gaming Laptop Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/31dtE1xoOmL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/radiantmvps",
+        "public_name": "FindzHub",
+        "creator_type": "Influencer",
+        "vendor_code": "radiantmvps:shop",
+        "vendor_name": "FindzHub",
+        "vendor_tracking_id": "onamzderroach-20",
+        "video_image_id": "91HgzZ+13jL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91HgzZ+13jL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91HgzZ+13jL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2269b739-ff14-4322-a8c5-6151b317de7f/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/71453867-9d50-43b3-b096-7527e05e4e3b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/71453867-9d50-43b3-b096-7527e05e4e3b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/71453867-9d50-43b3-b096-7527e05e4e3b/c82ab6df-2a8b-40ae-9b20-b38d21f7d067/0a563049131f4f219f3242f3e1859b79_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/313ce38a-fe3b-4e80-ac63-2bd5daa0973e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.089c4f3c28724df5b47b85f9466188bd",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF",
+        "title": "What I Wish I Knew About the Dell G16",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "A15xqmkVioL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A15xqmkVioL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A15xqmkVioL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a92edfee-8659-4a5e-b16a-45dc1b7098d9/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35c0afff-4485-4234-a9c1-2f1a3ba8175d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35c0afff-4485-4234-a9c1-2f1a3ba8175d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35c0afff-4485-4234-a9c1-2f1a3ba8175d/c448ead4-1c68-4edb-9e5e-b08c8a15fbb6/089c4f3c28724df5b47b85f9466188bd_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:32",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/989a958e-d023-425a-a28d-1a4cc1902a9b.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0764d183296b4c4ebd7b14e7f04f78e4",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0C5NRWVJX",
+        "title": "Is it worth it? Dell G15 5530 Gaming Laptop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/7142ElpoC4L._CR48,90,522,522_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/anatoliylashkul",
+        "public_name": "✅ Tony's Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "anatoliylashkul:shop",
+        "vendor_name": "✅ Tony's Reviews",
+        "vendor_tracking_id": "onamzsporteza-20",
+        "video_image_id": "711vFYuRDJL",
+        "video_image_url": "https://m.media-amazon.com/images/I/711vFYuRDJL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/711vFYuRDJL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9a14e1fc-1e92-4e09-aa81-dc3cb7329652/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd8d4aae-9f82-43b8-a23b-d44950ca708e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd8d4aae-9f82-43b8-a23b-d44950ca708e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bd8d4aae-9f82-43b8-a23b-d44950ca708e/01bbd3c1-72b0-42a6-8680-1cd98c7d85bc/0764d183296b4c4ebd7b14e7f04f78e4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6417dadc-7041-46af-bc3f-ce3baa01ff01.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.048ab1def3a24a078d691f91be4d1a46",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0D1KRP6SF",
+        "title": "Keep crashing and lagging",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AEJ2F7AFODKARW2VQLEL4J2MLRUA",
+        "public_name": "Yuvraj singh",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Yuvraj singh",
+        "video_image_id": "51-zANLhL3L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51-zANLhL3L._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51-zANLhL3L.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d2f940fc-9302-4ac6-9461-7d811cda31f9/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e155f09-480e-4076-a251-69d21d43e07e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e155f09-480e-4076-a251-69d21d43e07e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:13",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1d05ff57-584b-4dea-a3a4-97949c8c46bc.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.07b21a271290415fbf0e169afaeaacac",
+        "product_asin": "B0D1KRP6SF",
+        "parent_asin": "B0CJQCRYW2",
+        "related_products": "B0CY5PYMC9,B0D1KQTFT4,B0D1KQBXP3,B0D1KRP6SF,B0D27BP8VN",
+        "title": "NVIDIA 40 series ",
+        "public_name": "Dell Marketing USA, LP",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Dell Marketing USA, LP",
+        "video_image_id": "61eNwBg6AfL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61eNwBg6AfL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61eNwBg6AfL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cd9d97c4-c9d2-4234-8081-68b36440c619/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad8839e1-500e-41d5-ba35-1eb652f90503/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad8839e1-500e-41d5-ba35-1eb652f90503/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad8839e1-500e-41d5-ba35-1eb652f90503/bfb98188-5c57-4b89-a8b6-45fb1d40def6/07b21a271290415fbf0e169afaeaacac_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/51d47d1a-943e-4b6c-a3f7-b6f08f49d81f.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Memory Performance: Boost your gaming performance with 16GB of LPDDR5x integrated memory. Enjoy faster load times, smoother gameplay, and enhanced multitasking capabilities.",
+      "Remarkably Fast Refresh Rates Fast reaction times on the 240Hz VRR displays lets you play without a lag.",
+      "13th Generation Intel Processors: Combined with the latest powerful NVIDIA GeForce RTX Graphics to support the most graphic-intensive games.",
+      "Fast DDR5 Memory: Play locally and lag-free with 16GB of DDR5 memory and up to 1TB of internal storage.",
+      "Alienware-Inspired Thermal Design: Four heat pipes and two fans with ultra-thin blades paired with a Vapor Chamber combine to stabilize the laptop’s performance even during the most chaotic in-game segments.",
+      "Gaming-Inspired Colors: Metallic Nightshade with Black thermal shelf"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "Gaming-Inspired Colors: Metallic Nightshade with Black thermal shelf. Alienware-Inspired Thermal Design: Four heat pipes and two fans with ultra-thin blades paired with a Vapor Chamber combine to stabilize the laptop’s performance even during the most chaotic in-game segments. Fast DDR5 Memory: Play locally and lag-free with 16GB of DDR5 memory and up to 1TB of internal storage. 13th Generation Intel Processors: Combined with the latest powerful NVIDIA GeForce RTX Graphics to support the most graphic-intensive games. Remarkably Fast Refresh Rates Fast reaction times on the 240Hz VRR displays lets you play without a lag. Memory Performance: Boost your gaming performance with 16GB of LPDDR5x integrated memory. Enjoy faster load times, smoother gameplay, and enhanced multitasking capabilities.",
+    "top_reviews": [
+      {
+        "id": "R13D3DL8FDU2GO",
+        "title": "A solid reliable laptop",
+        "body": "I have owned many Dell computers in my lifetime and this one is a solid performer for gaming and everyday usage. Its only weakness is that the audio port seems to be a dust magnet and has to be blown out regularly to maintain a connection to an external speaker or headphone. I got tired of blasting it with a can of compressed air so I just use Bluetooth for external sound with it now. Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have owned many Dell computers in my lifetime and this one is a solid performer for gaming and everyday usage. Its only weakness is that the audio port seems to be a dust magnet and has to be blown out regularly to maintain a connection to an external speaker or headphone. I got tired of blasting it with a can of compressed air so I just use Bluetooth for external sound with it now.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R13D3DL8FDU2GO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 20, 2024",
+          "utc": "2024-12-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Michael Drips",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AF3NZPZLSI44O2JNXSJUXIZATIJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF3NZPZLSI44O2JNXSJUXIZATIJA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/f7e591c4-c2e0-49f5-b6d9-f77a99b3b01e._CR0%2C0%2C320%2C320_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "RYTLEVD6LU1SZ",
+        "title": "Endless problems",
+        "body": "Have had numerous serious issues with this laptop since I bought it. Every windows update breaks something else in the software.  The Alienware command center app is a RAM hog. Playing WoW with discord open and the Alienware system monitor overlay was using 15 GB of RAM. The \"Gaming mode\" button that turns on turbo performance is also reportedly responsible for frying people's CPUs. I think mine is a victim of that as well.  The PC overheats without the turbo mode on because the fans hardly work in normal performance mode. Mine likes to shut off randomly without warning or errors. I first thought it was overheating but it does it sometimes within minutes of being turned on for the first time in a day.  Today, it shut off twice so I pulled the cover to check the battery connection. After unplugging the battery and plugging it back in, the PC would not turn on for about 30 minutes at all. It also now will not turn on unless it's plugged in, regardless of the battery charge, which remains at 81% and healthy according to the BIOS.  Every update of windows or audio drivers changes the settings and defaults of my headphones to something else. There's are 3 locations of settings to choose which audio hardware you are using, and they all get swapped around. Having to dig through each one to figure out why my mic stops working for example, is annoying.  These issues are far beyond my ability and desire to fix. In short, this has been the most problematic PC I've ever had the displeasure of using. And at $1700 it's laughably bad. A \"Gaming PC\" that overheats at idle while the screen is in sleep mode is just stupid. Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Have had numerous serious issues with this laptop since I bought it. Every windows update breaks something else in the software.<br/><br/>The Alienware command center app is a RAM hog. Playing WoW with discord open and the Alienware system monitor overlay was using 15 GB of RAM. The &quot;Gaming mode&quot; button that turns on turbo performance is also reportedly responsible for frying people&apos;s CPUs. I think mine is a victim of that as well.<br/><br/>The PC overheats without the turbo mode on because the fans hardly work in normal performance mode. Mine likes to shut off randomly without warning or errors. I first thought it was overheating but it does it sometimes within minutes of being turned on for the first time in a day.<br/><br/>Today, it shut off twice so I pulled the cover to check the battery connection. After unplugging the battery and plugging it back in, the PC would not turn on for about 30 minutes at all. It also now will not turn on unless it&apos;s plugged in, regardless of the battery charge, which remains at 81% and healthy according to the BIOS.<br/><br/>Every update of windows or audio drivers changes the settings and defaults of my headphones to something else. There&apos;s are 3 locations of settings to choose which audio hardware you are using, and they all get swapped around. Having to dig through each one to figure out why my mic stops working for example, is annoying.<br/><br/>These issues are far beyond my ability and desire to fix. In short, this has been the most problematic PC I&apos;ve ever had the displeasure of using. And at $1700 it&apos;s laughably bad. A &quot;Gaming PC&quot; that overheats at idle while the screen is in sleep mode is just stupid.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RYTLEVD6LU1SZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on February 17, 2025",
+          "utc": "2025-02-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Bradley Barber",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGFPDH6WPWSJJS5SBQ4KIVDNOS2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGFPDH6WPWSJJS5SBQ4KIVDNOS2A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 14,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R2B088V0MUPSZU",
+        "title": "Excelente!!!",
+        "body": "Increíbles prestaciones!! La usa mi hija que es Arquitecta y corre programas muy pesados para diseño y renderizar. Impecable y muy buena.terminacion , recomendable 100%. Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Incre&#xED;bles prestaciones!! La usa mi hija que es Arquitecta y corre programas muy pesados para dise&#xF1;o y renderizar. Impecable y muy buena.terminacion , recomendable 100%.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2B088V0MUPSZU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 16, 2025",
+          "utc": "2025-05-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Juan Carlos Laurizi",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEW6RB7D3MHLU3CYXPSQDACIY75Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEW6RB7D3MHLU3CYXPSQDACIY75Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "RLCKFILCVBYJQ",
+        "title": "Works good but not too impressed with performance when it comes to gaming",
+        "body": "My first gaming laptop ever so far I like it my only issue is it's nowhere near as powerful as my desktop which understandably cuz desktops have more expandability but with the same memory better processor than my gaming PC and a newer gaming video card than my desktop PC which has a RTX 3070 TI gave me laptop has RTX 4070 but still does not outperform the desktop PC so still deciding if I should keep it or returning it and it said just use my Xbox series s downstairs or when I travel Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>My first gaming laptop ever so far I like it my only issue is it&apos;s nowhere near as powerful as my desktop which understandably cuz desktops have more expandability but with the same memory better processor than my gaming PC and a newer gaming video card than my desktop PC which has a RTX 3070 TI gave me laptop has RTX 4070 but still does not outperform the desktop PC so still deciding if I should keep it or returning it and it said just use my Xbox series s downstairs or when I travel<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RLCKFILCVBYJQ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 26, 2025",
+          "utc": "2025-02-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "JBonez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEXO52OSRWYK63Q5QDNI2JVW6NJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEXO52OSRWYK63Q5QDNI2JVW6NJQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/e0f06faf-1687-4aea-aed7-7352a753dc86._CR0%2C0%2C337%2C337_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R2OL5XFMWOGZXD",
+        "title": "Excelente",
+        "body": "Calidad y excelente producto Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Calidad y excelente producto<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2OL5XFMWOGZXD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 16, 2025",
+          "utc": "2025-05-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "EST",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGGVI4LLPU7AIMOXAHCULO5MJFOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGGVI4LLPU7AIMOXAHCULO5MJFOA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R2LANLG9ULO1TA",
+        "title": "Es lo que esperaba",
+        "body": "Es un buen equipo, muy potente, 16gb de ram le quedan chicos, para usar todo su potencial necesita los 32gb. El software y los servicios de dell son ideales para tener bien el rendimiento. Si bien es una notebook, su tamaño, peso y cargador(gigante) no la hacen muy comoda para el transporte, y no existe bolsos de notebook para su tamaño por lo que directamente habrá que llevarla en una mochila. 1tb es lo minimo e indispensable para usarla en un principio pero luga ya te deja ver que se necesitará otro ssd. Por mi parte el software de macaffe no es de mi agrado, considero que consume muchos recursos del pc para mantenerlo seguro, y sinceramente si no te metes en paginas raras, no descargas software de dudosa procedencia y no abres los mail spam de \"te ganaste un smartphone\" con windows defender basta y sobra. Por ultimo note que el software de alienware que trae y el de nvidea se pisan uno al otro buscando optimizar la pc, supongo que bastara con probar cual da mejor resultado y a partir de entonces elegir solo uno de los dos. Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Es un buen equipo, muy potente, 16gb de ram le quedan chicos, para usar todo su potencial necesita los 32gb. El software y los servicios de dell son ideales para tener bien el rendimiento. Si bien es una notebook, su tama&#xF1;o, peso y cargador(gigante) no la hacen muy comoda para el transporte, y no existe bolsos de notebook para su tama&#xF1;o por lo que directamente habr&#xE1; que llevarla en una mochila. 1tb es lo minimo e indispensable para usarla en un principio pero luga ya te deja ver que se necesitar&#xE1; otro ssd. Por mi parte el software de macaffe no es de mi agrado, considero que consume muchos recursos del pc para mantenerlo seguro, y sinceramente si no te metes en paginas raras, no descargas software de dudosa procedencia y no abres los mail spam de &quot;te ganaste un smartphone&quot; con windows defender basta y sobra. Por ultimo note que el software de alienware que trae y el de nvidea se pisan uno al otro buscando optimizar la pc, supongo que bastara con probar cual da mejor resultado y a partir de entonces elegir solo uno de los dos.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2LANLG9ULO1TA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 13, 2025",
+          "utc": "2025-01-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "silvia l.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGZQXSRSZHUDVVKFTBBDWJE4KVLA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGZQXSRSZHUDVVKFTBBDWJE4KVLA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R1EKPZU5V7W3HU",
+        "title": "Lesson Learned",
+        "body": "You see the price and the rating and you think to yourself, wow! That's a great deal for those specs! You see the 4 star rating and accept the risk. And now you're reading the one star reviews like you should have before the purchase.  Absolutely nothing but issues from the moment it was unboxed. The screen won't turn on. The only way to get the computer to boot was performing a hard reset by holding the power button for 35 seconds, and using an external monitor. Computer bluescreens during setup. Flashing error codes 2 yellow, 4 white.  Overheats while idle / sleeping. Completely unusable and a tremendous disappointment. Easily the worst purchase I have ever made in life. Owned for less than 24 hours before requesting a refund. Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>You see the price and the rating and you think to yourself, wow! That&apos;s a great deal for those specs! You see the 4 star rating and accept the risk. And now you&apos;re reading the one star reviews like you should have before the purchase.<br/><br/>Absolutely nothing but issues from the moment it was unboxed. The screen won&apos;t turn on. The only way to get the computer to boot was performing a hard reset by holding the power button for 35 seconds, and using an external monitor. Computer bluescreens during setup. Flashing error codes 2 yellow, 4 white.<br/><br/>Overheats while idle / sleeping. Completely unusable and a tremendous disappointment. Easily the worst purchase I have ever made in life. Owned for less than 24 hours before requesting a refund.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1EKPZU5V7W3HU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on March 23, 2025",
+          "utc": "2025-03-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Seth L.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AF6FAFG7R7NH2W3SRXIGV2YUDTQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF6FAFG7R7NH2W3SRXIGV2YUDTQQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R30FCDW5U0R5CS",
+        "title": "solo falto el lector de huellas para ser perfecto, The fingerprint reader was missing to be perfect.",
+        "body": "Excelente equipo, por tener un procesador tan potente, a la hora de subir al tope los graficos suele calentar mucho y puede producir problemas, esto es en todo equipo con procesador de este tipo, del resto es una hermosura.  Excellent equipment, for having such a powerful processor, when it comes to raising the graphics to the top it usually heats up a lot and can cause problems, this is in any computer with a processor of this type, the rest is a beauty. Read more",
+        "asin": "B0D1KRP6SF",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Excelente equipo, por tener un procesador tan potente, a la hora de subir al tope los graficos suele calentar mucho y puede producir problemas, esto es en todo equipo con procesador de este tipo, del resto es una hermosura.<br/><br/>Excellent equipment, for having such a powerful processor, when it comes to raising the graphics to the top it usually heats up a lot and can cause problems, this is in any computer with a processor of this type, the rest is a beauty.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R30FCDW5U0R5CS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D1KRP6SF",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 12, 2024",
+          "utc": "2024-08-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Enrique Zar",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEEPLZQ3B2JURQELRZUN422K3KSA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEEPLZQ3B2JURQELRZUN422K3KSA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R16QEO1DQ8DM2M",
+        "title": "Llego en excelentes condiciones.  Buena compra.",
+        "body": "Teclado en ingles. Sino tienes tema con esto, estonces todo bien. Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Teclado en ingles. Sino tienes tema con esto, estonces todo bien.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 21, 2025",
+          "utc": "2025-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Gildardo Fuentes Najera"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R3D01SSF8GLVHD",
+        "title": "Potent but runs hot",
+        "body": "Great laptop so far. Upgraded to 64gb ram and installed a WD black 4TB for my primary and using the 1TB for storage. Upgrading was easy, which is nice for a laptop.  I typically run CAD/CAM programs, which this runs with ease. Computing toolpaths is fairly quick for a laptop. OS loads quickly, programs load quickly.  She does get hot though and like others are saying - the power brick weights almost as much as the laptop. So this is more of a desktop alternative than a portable computer.  And do a fresh OS install to clear out all the Dell bloatware and minimize software issues.  Buy it when its on sale - 1800cad was a fair price. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great laptop so far. Upgraded to 64gb ram and installed a WD black 4TB for my primary and using the 1TB for storage. Upgrading was easy, which is nice for a laptop.<br/><br/>I typically run CAD/CAM programs, which this runs with ease. Computing toolpaths is fairly quick for a laptop. OS loads quickly, programs load quickly.<br/><br/>She does get hot though and like others are saying - the power brick weights almost as much as the laptop. So this is more of a desktop alternative than a portable computer.<br/><br/>And do a fresh OS install to clear out all the Dell bloatware and minimize software issues.<br/><br/>Buy it when its on sale - 1800cad was a fair price.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on February 25, 2025",
+          "utc": "2025-02-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Scott K."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "RJFVODT4MV2YO",
+        "title": "Great performance NEEDS CLEANING",
+        "body": "I've been using it for months, It's given me a great deal of performance for the price, running most games at 120 fps comfortably, and hasn't given me any issues in coding. The screen has great colors, it's really smooth. Ram can be an issue, but you can always just slap another stick in there. All these points are great except that IT COLLECTS ALOT of dust, and it warms up a lot and you can see the dust that it accumulated in the vents from the outside. Cleaning can be quite tricky but is doable, considering it must be done often it is annoying. The RGB is mediocre at best, as it doesn't seep through the key caps bright enough, and you don't have many customization options, and the program by alien ware is ok. About the battery, I'd give it 2 stars if this wasn't a gaming laptop, nowadays you can find laptops that last 10 hours, this one can last around 5 if you really push it to save battery, which is good enough for my situation in college. Overall for what it is, and to whom it seems to appeal to it's a decent deal. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve been using it for months, It&apos;s given me a great deal of performance for the price, running most games at 120 fps comfortably, and hasn&apos;t given me any issues in coding. The screen has great colors, it&apos;s really smooth. Ram can be an issue, but you can always just slap another stick in there. All these points are great except that IT COLLECTS ALOT of dust, and it warms up a lot and you can see the dust that it accumulated in the vents from the outside. Cleaning can be quite tricky but is doable, considering it must be done often it is annoying. The RGB is mediocre at best, as it doesn&apos;t seep through the key caps bright enough, and you don&apos;t have many customization options, and the program by alien ware is ok. About the battery, I&apos;d give it 2 stars if this wasn&apos;t a gaming laptop, nowadays you can find laptops that last 10 hours, this one can last around 5 if you really push it to save battery, which is good enough for my situation in college. Overall for what it is, and to whom it seems to appeal to it&apos;s a decent deal.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Canada on April 17, 2024",
+          "utc": "2024-04-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Omar Awad"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true
+      },
+      {
+        "id": "RM7P7MIM7KMGN",
+        "title": "Garbage, don’t buy it",
+        "body": "The worst laptop I’ve owned. Returning it.  • Constant blue screens, especially when playing Battlefield 2042. Random restarts mid-game make it impossible to enjoy. • Cheap, low-quality packaging that didn’t feel protective at all. For the price, I expected better. • Bulky power supply in a form of a brick 1/4th the size of the laptop itself. • Crashes, overheating, and restarts ruin the gaming part, definitely not worth the price. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The worst laptop I&#x2019;ve owned. Returning it.<br/><br/>&#x2022; Constant blue screens, especially when playing Battlefield 2042. Random restarts mid-game make it impossible to enjoy.<br/>&#x2022; Cheap, low-quality packaging that didn&#x2019;t feel protective at all. For the price, I expected better.<br/>&#x2022; Bulky power supply in a form of a brick 1/4th the size of the laptop itself.<br/>&#x2022; Crashes, overheating, and restarts ruin the gaming part, definitely not worth the price.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Canada on February 12, 2025",
+          "utc": "2025-02-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Artem Chumakov"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      },
+      {
+        "id": "R3ASY4LRZL7MCO",
+        "title": "Works as expected - good value for price",
+        "body": "Upgraded to 24G RAM (had 16+8 on hand) and works well for playing games on STEAM with Discord in the background and using a USB connected control. Can hear the fans kick in but works wells. The charger is quite bulky so I would not recommend this as a commuting laptop. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Upgraded to 24G RAM (had 16+8 on hand) and works well for playing games on STEAM with Discord in the background and using a USB connected control. Can hear the fans kick in but works wells. The charger is quite bulky so I would not recommend this as a commuting laptop.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on December 26, 2024",
+          "utc": "2024-12-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "JnA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-13900HX"
+          },
+          {
+            "RAM Size": "16 GB"
+          },
+          {
+            "Capacity": "16.0 QHD 240Hz"
+          },
+          {
+            "Style": "RTX 4070"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 12,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "T2a6%2FqmsRf3H9ivJ6Dbp5L9jnmjkP9tMi%2B1olAdg4tbZrO3rdpKG1L4rFDqIqX7tXkV%2FJ5qVGv%2FIsaFCTX%2BnGCR60B3cy5xK%2FFTTBHj3QLq24PcxSOlcH5MXzjw0rZ%2Bw%2Bhq%2FaNgYwSt%2FIvs7a2547Ew8f68XP7LwHHpTUZ6C10Y79Lrc4m7fzQ%3D%3D",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "This is an open box item with everything original and manufactuer warranty. Customer satisfaction guaranteed or your money back!",
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 1319,
+          "currency": "USD",
+          "raw": "$1,319.00"
+        },
+        "maximum_order_quantity": {
+          "value": 0
+        },
+        "ship_details": "Ships from and sold by ElectronicsTogo.",
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "May 23 - 28",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "May 22 - 27",
+            "name": "Or fastest delivery May 22 - 27. Details"
+          },
+          "amazon_seller": {
+            "name": "ElectronicsTogo"
+          },
+          "is_sold_by_amazon": false,
+          "is_sold_by_third_party": true,
+          "fulfilled_by": "ElectronicsTogo",
+          "is_fulfilled_by_amazon": false,
+          "is_fulfilled_by_third_party": true,
+          "fulfillment_type": "p3"
+        }
+      },
+      "offer_id": "T2a6/qmsRf3H9ivJ6Dbp5L9jnmjkP9tMi+1olAdg4tbZrO3rdpKG1L4rFDqIqX7tXkV/J5qVGv/IsaFCTX+nGCR60B3cy5xK/FTTBHj3QLq24PcxSOlcH5MXzjw0rZ+w+hq/aNgYwSt/Ivs7a2547Ew8f68XP7LwHHpTUZ6C10Y79Lrc4m7fzQ==",
+      "mixed_offers_count": 9,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping"
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "130.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "199.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 12 left in stock - order soon.",
+        "dispatch_days": 1,
+        "stock_level": 12
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Tuesday, May 27",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, May 23",
+          "name": "Or fastest delivery Friday, May 23"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1399.95,
+        "currency": "USD",
+        "raw": "$1,399.95"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 1599.99,
+        "currency": "USD",
+        "raw": "$1,599.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎16 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎2560 x 1600 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎2560x1600 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.2 GHz core_i9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎16 GB DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎4800 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎1 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA® GeForce RTX™ 4070"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Dell"
+      },
+      {
+        "name": "Series",
+        "value": "‎Dell G Series 16 7630 Laptop"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎G7630-9926GRY-PUS"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎6.32 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎11.37 x 14.05 x 0.98 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎11.37 x 14.05 x 0.98 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Metallic Nightshade with Black thermal shelf"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎24"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎1 TB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎240 Volts (AC)"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0D1KRP6SF"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "3.9    3.9 out of 5 stars         155 ratings          3.9 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#1,600 in Computers & Accessories (See Top 100 in Computers & Accessories) #198 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 12, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "Dell"
+      },
+      {
+        "name": "Model Name",
+        "value": "Dell G Series 16 7630 Laptop"
+      },
+      {
+        "name": "Screen Size",
+        "value": "16 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Metallic Nightshade with Black thermal shelf"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "1 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "HD Audio, Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: HD Audio, Backlit Keyboard. Operating System: Windows 11 Home. Ram Memory Installed Size: 16 GB. CPU Model: Core i9. Hard Disk Size: 1 TB. Color: Metallic Nightshade with Black thermal shelf. Screen Size: 16 Inches. Model Name: Dell G Series 16 7630 Laptop. Brand: Dell. Date First Available: April 12, 2024. Best Sellers Rank: #1,600 in Computers & Accessories (See Top 100 in Computers & Accessories) #198 in Traditional Laptop Computers. Customer Reviews: 3.9    3.9 out of 5 stars         155 ratings          3.9 out of 5 stars. ASIN: B0D1KRP6SF. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎240 Volts (AC). Optical Drive Type: ‎No Optical Drive. Hard Drive Interface: ‎Solid State. Flash Memory Size: ‎1 TB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎24. Processor Brand: ‎Intel. Color: ‎Metallic Nightshade with Black thermal shelf. Item Dimensions  LxWxH: ‎11.37 x 14.05 x 0.98 inches. Product Dimensions: ‎11.37 x 14.05 x 0.98 inches. Item Weight: ‎6.32 pounds. Operating System: ‎Windows 11 Home. Hardware Platform: ‎PC. Item model number: ‎G7630-9926GRY-PUS. Series: ‎Dell G Series 16 7630 Laptop. Brand: ‎Dell. Wireless Type: ‎Bluetooth. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA® GeForce RTX™ 4070. Hard Drive: ‎1 TB SSD. Memory Speed: ‎4800 MHz. RAM: ‎16 GB DDR5. Processor: ‎2.2 GHz core_i9. Max Screen Resolution: ‎2560x1600 Pixels. Screen Resolution: ‎2560 x 1600 pixels. Standing screen display size: ‎16 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 1600,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 198,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎Metallic Nightshade with Black thermal shelf",
+    "weight": "‎6.32 pounds",
+    "first_available": {
+      "raw": "April 12, 2024",
+      "utc": "2024-04-12T00:00:00.000Z"
+    },
+    "dimensions": "‎11.37 x 14.05 x 0.98 inches",
+    "model_number": "‎G7630-9926GRY-PUS",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 1600, Category: Traditional Laptop Computers | Rank: 198",
+    "whats_in_the_box": [
+      "Dell G16 7630 Laptop",
+      "330-Watt AC Adapter",
+      "Power Cord",
+      "Documentation"
+    ]
+  },
+  "brand_store": {
+    "id": "9B75DD0E-9F42-4B9B-ACAA-F329B23ADE7D",
+    "link": "https://www.amazon.com/stores/Dell/page/9B75DD0E-9F42-4B9B-ACAA-F329B23ADE7D"
+  },
+  "newer_model": {
+    "title": "Dell G16 7630 Gaming Laptop, 16\" QHD+ 240Hz(100% DCI-P3, 3ms) Display, Intel 24-Core i9-13900HX, RTX 4070 8GB GDDR6, 64 GB DDR5 RAM, 4 TB SSD, RGB Backlit KB, WiFi 6, Windows 11 Pro, w/Tugwry Bundle",
+    "asin": "B0DPKTZSB7",
+    "link": "https://www.amazon.com/Dell-G16-7630-Display-i9-13900HX-dp-B0DPKTZSB7/dp/B0DPKTZSB7/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/717AJCrNl1L._SR75,75_.jpg",
+    "rating": 5,
+    "ratings_total": 3,
+    "price": {
+      "symbol": "$",
+      "value": 2399.99,
+      "currency": "USD",
+      "raw": "$2,399.99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 2577.95,
+      "currency": "USD",
+      "raw": "$2,577.95"
+    },
+    "products": [
+      {
+        "asin": "B0D1KRP6SF",
+        "title": "Dell G16 7630 Gaming Laptop - 16-inch QHD+ 240Hz 3ms Display, Intel Core i9-13900HX, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 4070 8GB GDDR6, Windows 11 Home, Onsite Service - Metallic Nightshade",
+        "link": "https://www.amazon.com/dp/B0D1KRP6SF",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71IV0S6EC8L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1319,
+          "currency": "USD",
+          "raw": "$1,319.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DLHBYRPS",
+    "link": "https://www.amazon.com/dp/B0DLHBYRPS/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=H0yXA&pd_rd_i=B0DLHBYRPS&pd_rd_w=LKwEh&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=07be0f92-1cb5-4987-bb43-adcdf50deb9d&psc=1",
+    "title": "Apple 2024 MacBook Pro Laptop with M4 chip with 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Space Black",
+    "rating": 5,
+    "ratings_total": 768,
+    "image": "https://m.media-amazon.com/images/I/61-oTP1X4rL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "ASUS TUF Gaming A16 (2024) Gaming Laptop, 16” QHD+ 165Hz 16:10 Display, AMD Ryzen™ 9 7940HX, NVIDIA® GeForce RTX™ 4070, 16GB ",
+      "asin": "B0CRCWY9VT",
+      "link": "https://www.amazon.com/ASUS-TUF-Gaming-Laptop-165Hz/dp/B0CRCWY9VT/ref=pd_sim_d_sccl_2_1/143-3512104-3200244?pd_rd_w=hhcy3&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=9DpVY&pd_rd_r=9bd32ef9-b093-4c30-9877-a5200055faaf&pd_rd_i=B0CRCWY9VT&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419KcaZSPrL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 116,
+      "price": {
+        "symbol": "$",
+        "value": 1595,
+        "currency": "USD",
+        "raw": "$1,595.00"
+      }
+    },
+    {
+      "title": "ASUS V16 Gaming Laptop, 16” WUXGA 144Hz Display, Intel Core 7 Processor 240H, NVIDIA GeForce RTX 3050, 16GB Memory, 512GB Sto",
+      "asin": "B0F1C36V7Q",
+      "link": "https://www.amazon.com/ASUS-Display-Processor-GeForce-V3607VJ-DS76/dp/B0F1C36V7Q/ref=pd_sim_d_sccl_2_2/143-3512104-3200244?pd_rd_w=hhcy3&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=9DpVY&pd_rd_r=9bd32ef9-b093-4c30-9877-a5200055faaf&pd_rd_i=B0F1C36V7Q&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71jUWgXKPvL._AC_UL165_SR165,165_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 949.99,
+        "currency": "USD",
+        "raw": "$949.99"
+      }
+    },
+    {
+      "title": "Acer Nitro V Gaming Laptop | AMD Ryzen 7 8845HS Octa-Core AI Capable Processor | NVIDIA GeForce RTX 4060 GPU | 16\" WUXGA IPS ",
+      "asin": "B0CXY573W9",
+      "link": "https://www.amazon.com/Octa-Core-Capable-Processor-GeForce-ANV16-41-R5J0/dp/B0CXY573W9/ref=pd_sim_d_sccl_2_3/143-3512104-3200244?pd_rd_w=hhcy3&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=9DpVY&pd_rd_r=9bd32ef9-b093-4c30-9877-a5200055faaf&pd_rd_i=B0CXY573W9&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71iB6UqXbGL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 84,
+      "price": {
+        "symbol": "$",
+        "value": 1044.99,
+        "currency": "USD",
+        "raw": "$1,044.99"
+      }
+    },
+    {
+      "title": "ASUS ROG Strix G16 Gaming Laptop, 16” Nebula Display 16:10 QHD 240Hz, GeForce RTX 4060, Intel® Core™ i9-14900HX, 16GB DDR5-56",
+      "asin": "B0CRCYJ8YV",
+      "link": "https://www.amazon.com/ASUS-Gaming-Laptop-Nebula-Display/dp/B0CRCYJ8YV/ref=pd_sim_d_sccl_2_4/143-3512104-3200244?pd_rd_w=hhcy3&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=9DpVY&pd_rd_r=9bd32ef9-b093-4c30-9877-a5200055faaf&pd_rd_i=B0CRCYJ8YV&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kOH3in8TL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "ratings_total": 221,
+      "price": {
+        "symbol": "$",
+        "value": 1449.4,
+        "currency": "USD",
+        "raw": "$1,449.40"
+      }
+    },
+    {
+      "title": "Lenovo LOQ Gaming Laptop - NVIDIA® GeForce RTX™ 4050 6GB - 15.6” FHD Display - AMD Ryzen 7 8845HS - 16GB RAM - 512GB SSD - Wi",
+      "asin": "B0CWB2LWRN",
+      "link": "https://www.amazon.com/Lenovo-NVIDIA%C2%AE-GeForce-Display-1920x1080/dp/B0CWB2LWRN/ref=pd_sim_d_sccl_2_5/143-3512104-3200244?pd_rd_w=hhcy3&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=9DpVY&pd_rd_r=9bd32ef9-b093-4c30-9877-a5200055faaf&pd_rd_i=B0CWB2LWRN&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71mv0y2f8cL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 78,
+      "price": {
+        "symbol": "$",
+        "value": 922,
+        "currency": "USD",
+        "raw": "$922.00"
+      }
+    },
+    {
+      "title": "acer Nitro V Gaming Laptop | Intel Core i7-13620H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6\" FHD IPS 144Hz Displa",
+      "asin": "B0CMRGBXM9",
+      "link": "https://www.amazon.com/i7-13620H-Processor-GeForce-Display-ANV15-51-73B9/dp/B0CMRGBXM9/ref=pd_sim_d_sccl_2_6/143-3512104-3200244?pd_rd_w=hhcy3&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=5BZK95HDRYNCJXK9W55S&pd_rd_wg=9DpVY&pd_rd_r=9bd32ef9-b093-4c30-9877-a5200055faaf&pd_rd_i=B0CMRGBXM9&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F-Wcriq4L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 1126,
+      "price": {
+        "symbol": "$",
+        "value": 895.27,
+        "currency": "USD",
+        "raw": "$895.27"
+      }
+    }
+  ]
+}

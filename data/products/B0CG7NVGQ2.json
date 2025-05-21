@@ -1,0 +1,1499 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5605,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CG7NVGQ2",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:49:57.232Z",
+    "processed_at": "2025-05-20T01:50:05.029Z",
+    "total_time_taken": 7.8,
+    "amazon_url": "https://www.amazon.com/dp/B0CG7NVGQ2?th=1&psc=1"
+  },
+  "product": {
+    "title": "MSI Katana 17 Gaming Laptop: 13th Gen Intel Core i7, GeForce RTX 4060, 17.3\" 144Hz FHD Display, 32GB DDR5, 1TB NVMe SSD, USB-Type C, Cooler Boost 5, Win11 Home: Black B13VFK-835US",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "MSI,Katana,17,Gaming,Laptop:,13th,Gen,Intel,Core,i7,GeForce,RTX,4060,17.3\",144Hz,FHD,Display,32GB,DDR5,1TB,NVMe,SSD,USB-Type,C,Cooler,Boost,5,Win11,Home:,Black,B13VFK-835US",
+    "keywords_list": [
+      "Katana",
+      "Gaming",
+      "Laptop:",
+      "13th",
+      "Intel",
+      "Core",
+      "GeForce",
+      "4060",
+      "17.3\"",
+      "144Hz",
+      "Display",
+      "32GB",
+      "DDR5",
+      "NVMe",
+      "USB-Type",
+      "Cooler",
+      "Boost",
+      "Win11",
+      "Home:",
+      "Black",
+      "B13VFK-835US"
+    ],
+    "is_collection": false,
+    "asin": "B0CG7NVGQ2",
+    "parent_asin": "B0D92TT6ZP",
+    "link": "https://www.amazon.com/MSI-Katana-Gaming-Laptop-B13VFK-835US/dp/B0CG7NVGQ2",
+    "brand": "‎MSI",
+    "protection_plans": [
+      {
+        "asin": "B07P61QVFM",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 130.99,
+          "currency": "USD",
+          "raw": "$130.99"
+        }
+      },
+      {
+        "asin": "B07P6YXWCG",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 199.99,
+          "currency": "USD",
+          "raw": "$199.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": true,
+        "title": "13th Gen i7 32 GB 1 TB RTX 4060 15.6\" FHD",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "13th Gen i7"
+          },
+          {
+            "name": "ramsize",
+            "value": "32 GB"
+          },
+          {
+            "name": "harddisksize",
+            "value": "1 TB"
+          },
+          {
+            "name": "graphicsdescription",
+            "value": "RTX 4060"
+          },
+          {
+            "name": "style",
+            "value": "15.6\" FHD"
+          }
+        ],
+        "asin": "B0CG7NVGQ2",
+        "link": "https://amazon.com/dp/B0CG7NVGQ2?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Ryzen 7 32 GB 1 TB RTX 4060 15.6\" FHD",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Ryzen 7"
+          },
+          {
+            "name": "ramsize",
+            "value": "32 GB"
+          },
+          {
+            "name": "harddisksize",
+            "value": "1 TB"
+          },
+          {
+            "name": "graphicsdescription",
+            "value": "RTX 4060"
+          },
+          {
+            "name": "style",
+            "value": "15.6\" FHD"
+          }
+        ],
+        "asin": "B0CXVGSY2H",
+        "link": "https://amazon.com/dp/B0CXVGSY2H?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Ryzen 9 32 GB 1 TB RTX 4070 15.6\" QHD+",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Ryzen 9"
+          },
+          {
+            "name": "ramsize",
+            "value": "32 GB"
+          },
+          {
+            "name": "harddisksize",
+            "value": "1 TB"
+          },
+          {
+            "name": "graphicsdescription",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "15.6\" QHD+"
+          }
+        ],
+        "asin": "B0CXV9CTM8",
+        "link": "https://amazon.com/dp/B0CXV9CTM8?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Ryzen 9 64 GB 2 TB RTX 4070 17\" QHD+",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Ryzen 9"
+          },
+          {
+            "name": "ramsize",
+            "value": "64 GB"
+          },
+          {
+            "name": "harddisksize",
+            "value": "2 TB"
+          },
+          {
+            "name": "graphicsdescription",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "17\" QHD+"
+          }
+        ],
+        "asin": "B0CZPP4PJX",
+        "link": "https://amazon.com/dp/B0CZPP4PJX?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0CG7NVGQ2,B0CXVGSY2H,B0CXV9CTM8,B0CZPP4PJX",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "MSI Katana 17 Gaming Laptop: 13th Gen Intel Core i7, GeForce RTX 4060, 17.3\" 144Hz FHD Display, 32GB DDR5, 1TB NVMe SSD, USB-Type C, Cooler Boost 5, Win11 Home: Black B13VFK-835US",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the msi Store",
+      "link": "https://www.amazon.com/stores/MSI/page/4B9191C5-F3E7-4101-993F-ABD067C141BB?lp_asin=B0CG7NVGQ2&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 69,
+        "count": 245
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 35
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 17
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 14
+      },
+      "one_star": {
+        "percentage": 12,
+        "count": 42
+      }
+    },
+    "ratings_total": 356,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81vnNsRDo6L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81vnNsRDo6L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/812JUx8SwaL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71-VLYjkEFL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/714pVpdBj+L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71subwxxgUL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710OT19xdDL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71lYWT4Tz7L._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/81vnNsRDo6L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/812JUx8SwaL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71-VLYjkEFL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/714pVpdBj+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71subwxxgUL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710OT19xdDL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71lYWT4Tz7L._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 30,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61uJquD8BEL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c021554f-33c4-4776-8a9b-8ec322e476cc/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "msi katana laptop - is it worth it? "
+      },
+      {
+        "duration_seconds": 92,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/91Jl9fWb3yL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a328e42-44fa-43a4-9f10-e3719c9a1f7b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Review: MSI Katana Gamaing Laptop"
+      },
+      {
+        "duration_seconds": 84,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1iSA5le5xL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdf2849b-f9f8-4a83-a822-db0920d8759b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "MSI Katana Gaming Laptop Review - 1 thing i don't like"
+      },
+      {
+        "duration_seconds": 26,
+        "width": 720,
+        "height": 1280,
+        "thumbnail": "https://m.media-amazon.com/images/I/61PuVi9Mf2L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67590bd3-190f-46af-9165-d23c621d5153/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "MSI KATANA 17 Gaming Laptop Quick Review!"
+      },
+      {
+        "duration_seconds": 88,
+        "width": 1600,
+        "height": 1200,
+        "thumbnail": "https://m.media-amazon.com/images/I/615HRHdTNtL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d42521-0233-49ab-9ef5-116be89ec9c6/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Check my HONEST opinion out about this MSI gaming laptop!!!"
+      },
+      {
+        "duration_seconds": 26,
+        "width": 1080,
+        "height": 1918,
+        "thumbnail": "https://m.media-amazon.com/images/I/51DJafkgurL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4076d3e-7678-4381-a94b-cb902e7375f6/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "What I Wish I Knew About the MSI Katana A15"
+      },
+      {
+        "duration_seconds": 48,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/5127QfNkVIL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e17525bd-1abd-4209-aeaf-02eb9df23998/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Honest Review - MSI Katana Gaming Laptop"
+      },
+      {
+        "duration_seconds": 21,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51TpxuPwoZL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b71469cf-3512-4712-9f41-c0818b8fc1cf/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "MSI Katana 17 Product Video"
+      },
+      {
+        "duration_seconds": 69,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/81D9F5Zrw6L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01b1ef06-80ad-4cb4-97d2-277fcc54ab7e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "What do we LIKE about the Katana Gaming Laptop? REVIEW"
+      },
+      {
+        "duration_seconds": 22,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/51aXzvwak5L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b225ab6-713f-4b2e-a6a0-4a5ad6c47cd5/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Unstable fps. Windows 11. Bad delivery methods."
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c021554f-33c4-4776-8a9b-8ec322e476cc/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a328e42-44fa-43a4-9f10-e3719c9a1f7b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdf2849b-f9f8-4a83-a822-db0920d8759b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67590bd3-190f-46af-9165-d23c621d5153/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d42521-0233-49ab-9ef5-116be89ec9c6/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4076d3e-7678-4381-a94b-cb902e7375f6/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e17525bd-1abd-4209-aeaf-02eb9df23998/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b71469cf-3512-4712-9f41-c0818b8fc1cf/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01b1ef06-80ad-4cb4-97d2-277fcc54ab7e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b225ab6-713f-4b2e-a6a0-4a5ad6c47cd5/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0b99fe3c459e4c83a463d848e3ae3f09",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2",
+        "title": "msi katana laptop - is it worth it? ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41n5hkNRUDL._CR0,0,342,342_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-385396b6",
+        "public_name": "Isaac Bengston",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-385396b6:shop",
+        "vendor_name": "Isaac Bengston",
+        "vendor_tracking_id": "onamzisaacb0b-20",
+        "video_image_id": "61uJquD8BEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61uJquD8BEL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61uJquD8BEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b8dfaaf0-09c1-4724-b65f-eb5d339e0269/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c021554f-33c4-4776-8a9b-8ec322e476cc/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c021554f-33c4-4776-8a9b-8ec322e476cc/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/61383284-2b1b-4593-bc6c-3257581b7884.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.056d2ccd4bac49a4ae43a59f79117559",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2",
+        "title": "Review: MSI Katana Gamaing Laptop",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/technopanda_1677223281809_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/technopanda",
+        "public_name": "Techno Panda Picks",
+        "creator_type": "Influencer",
+        "vendor_code": "technopanda:shop",
+        "vendor_name": "Techno Panda Picks",
+        "vendor_tracking_id": "onamztechnopa-20",
+        "video_image_id": "91Jl9fWb3yL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91Jl9fWb3yL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91Jl9fWb3yL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/53587732-1604-4881-9d4b-366c464df1b3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a328e42-44fa-43a4-9f10-e3719c9a1f7b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a328e42-44fa-43a4-9f10-e3719c9a1f7b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2a328e42-44fa-43a4-9f10-e3719c9a1f7b/5028c3df-de53-4fb6-8721-a3f3743c5b95/056d2ccd4bac49a4ae43a59f79117559_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:32",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/07ede08b-6299-4216-9003-39d5b574bf76.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b8651805967426b81cda5e6ccf95fd2",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2",
+        "title": "MSI Katana Gaming Laptop Review - 1 thing i don't like",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71zCrd1vPmL._CR0,0,514,514_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jacobcook",
+        "public_name": "✅JC Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "jacobcook:shop",
+        "vendor_name": "✅JC Reviews",
+        "vendor_tracking_id": "onamzchriscoo-20",
+        "video_image_id": "A1iSA5le5xL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1iSA5le5xL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1iSA5le5xL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27aaedf6-c10e-432a-bfa4-eeb2e9ba0d22/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdf2849b-f9f8-4a83-a822-db0920d8759b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdf2849b-f9f8-4a83-a822-db0920d8759b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdf2849b-f9f8-4a83-a822-db0920d8759b/e1d90764-76ce-4a75-9bb4-2aaa126bceba/0b8651805967426b81cda5e6ccf95fd2_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:24",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0113d5e3-876c-478e-a78f-b57d5c07cebf.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e8f5c1f46c541e781e052f396525a06",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2",
+        "title": "MSI KATANA 17 Gaming Laptop Quick Review!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/D13YZMsf2pL._CR0,1114,3340,3340_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/abu.sufian.sarkar",
+        "public_name": "Abu Sufian Sarkar",
+        "creator_type": "Influencer",
+        "vendor_code": "abu.sufian.sarkar:shop",
+        "vendor_name": "Abu Sufian Sarkar",
+        "vendor_tracking_id": "onamzabusufia-20",
+        "video_image_id": "61PuVi9Mf2L",
+        "video_image_url": "https://m.media-amazon.com/images/I/61PuVi9Mf2L._CR0,0,720,406_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61PuVi9Mf2L.jpg",
+        "video_image_width": "720",
+        "video_image_height": "1280",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ed8ead5c-fc3a-4c5b-9a47-ab1fce6bfb07/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67590bd3-190f-46af-9165-d23c621d5153/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67590bd3-190f-46af-9165-d23c621d5153/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/67590bd3-190f-46af-9165-d23c621d5153/8a628bf4-feb0-4583-b5e8-811c67ac6c56/0e8f5c1f46c541e781e052f396525a06_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d213b92e-cab9-4f4e-b035-5188bc8fc698.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.042cb67bc94f4983a6ae1a0a278f0c7f",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2,B0CT4BHS2M,B0D9NF4PWZ",
+        "title": "Check my HONEST opinion out about this MSI gaming laptop!!!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91azMfMfqwL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rafaelmeirelles8",
+        "public_name": "Rafael Meirelles",
+        "creator_type": "Influencer",
+        "vendor_code": "rafaelmeirelles8:shop",
+        "vendor_name": "Rafael Meirelles",
+        "vendor_tracking_id": "onamzrmrsales-20",
+        "video_image_id": "615HRHdTNtL",
+        "video_image_url": "https://m.media-amazon.com/images/I/615HRHdTNtL._CR0,0,1600,903_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/615HRHdTNtL.jpg",
+        "video_image_width": "1600",
+        "video_image_height": "1200",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/626339ec-b320-4aa0-8166-c3915f55169a/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d42521-0233-49ab-9ef5-116be89ec9c6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d42521-0233-49ab-9ef5-116be89ec9c6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a8d42521-0233-49ab-9ef5-116be89ec9c6/206f58e6-4743-4782-88a0-332f9cfaa34e/042cb67bc94f4983a6ae1a0a278f0c7f_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:28",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/0816a4b8-3983-40c3-a3c4-13a8133da1a8.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0bfc00cc29294556ad4b17b83276bf8e",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CXVGSY2H",
+        "title": "What I Wish I Knew About the MSI Katana A15",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "51DJafkgurL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51DJafkgurL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51DJafkgurL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1918",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e634611-4a8b-4264-aa92-e7cb41b48e26/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4076d3e-7678-4381-a94b-cb902e7375f6/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4076d3e-7678-4381-a94b-cb902e7375f6/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4076d3e-7678-4381-a94b-cb902e7375f6/44706df3-6624-469b-b562-713d1efd2c5f/0bfc00cc29294556ad4b17b83276bf8e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/49ca0e07-a430-48cd-8997-7dc1de5edf5e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.028607a01c9b44119f63ab7da0447603",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2,B0CT4BHS2M,B0D9NF4PWZ",
+        "title": "Honest Review - MSI Katana Gaming Laptop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71zCrd1vPmL._CR0,0,514,514_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jacobcook",
+        "public_name": "✅JC Reviews",
+        "creator_type": "Influencer",
+        "vendor_code": "jacobcook:shop",
+        "vendor_name": "✅JC Reviews",
+        "vendor_tracking_id": "onamzchriscoo-20",
+        "video_image_id": "5127QfNkVIL",
+        "video_image_url": "https://m.media-amazon.com/images/I/5127QfNkVIL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/5127QfNkVIL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9923536-103e-468e-b130-ee1a71cb4014/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e17525bd-1abd-4209-aeaf-02eb9df23998/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e17525bd-1abd-4209-aeaf-02eb9df23998/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e17525bd-1abd-4209-aeaf-02eb9df23998/ee2d882f-b7e0-4e22-9a5d-259c09ebcb79/028607a01c9b44119f63ab7da0447603_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:48",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/444db733-8047-449c-b48c-fdee6afed143.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.07fc4a5406184c4892346ff7d3eb5deb",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2",
+        "title": "MSI Katana 17 Product Video",
+        "public_name": "MSI Computer Corp.",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "MSI Computer Corp.",
+        "video_image_id": "51TpxuPwoZL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51TpxuPwoZL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51TpxuPwoZL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0b1e2a96-8868-407e-834f-b4006aa4d2b1/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b71469cf-3512-4712-9f41-c0818b8fc1cf/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b71469cf-3512-4712-9f41-c0818b8fc1cf/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b71469cf-3512-4712-9f41-c0818b8fc1cf/57fedd18-d271-45e1-84f3-88414b0b9d0c/07fc4a5406184c4892346ff7d3eb5deb_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7881524b-4e81-42b5-a5ce-9f1607ab8f81.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b30917de0ce40ad8bbbd8913b9a7089",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2,B0CT4BHS2M,B0D9NF4PWZ",
+        "title": "What do we LIKE about the Katana Gaming Laptop? REVIEW",
+        "profile_image_url": "https://m.media-amazon.com/images/I/719DPgKUnFL._CR0,0,1000,1000_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/yourdailydrive",
+        "public_name": "⭐ DonnyGadget ⭐",
+        "creator_type": "Influencer",
+        "vendor_code": "yourdailydrive:shop",
+        "vendor_name": "⭐ DonnyGadget ⭐",
+        "vendor_tracking_id": "onamzdom04362-20",
+        "video_image_id": "81D9F5Zrw6L",
+        "video_image_url": "https://m.media-amazon.com/images/I/81D9F5Zrw6L._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81D9F5Zrw6L.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1735b11c-7afe-4d42-8bb2-1787403495a4/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01b1ef06-80ad-4cb4-97d2-277fcc54ab7e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01b1ef06-80ad-4cb4-97d2-277fcc54ab7e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/01b1ef06-80ad-4cb4-97d2-277fcc54ab7e/649aa92e-2484-436a-b948-2b007285e86c/0b30917de0ce40ad8bbbd8913b9a7089_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:09",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/aea86495-786f-451b-9f87-9769cd2acb9b.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.096c0439dfef481db70fd15b184c0d86",
+        "product_asin": "B0CG7NVGQ2",
+        "parent_asin": "B0D92TT6ZP",
+        "related_products": "B0CG7NVGQ2",
+        "title": "Unstable fps. Windows 11. Bad delivery methods.",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHWEWJVRQG5G6S6AXZ7NJFSWKBTQ",
+        "public_name": "j",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "j",
+        "video_image_id": "51aXzvwak5L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51aXzvwak5L._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51aXzvwak5L.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d99004ad-e4a2-4fe5-b199-65954d71abf3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b225ab6-713f-4b2e-a6a0-4a5ad6c47cd5/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b225ab6-713f-4b2e-a6a0-4a5ad6c47cd5/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:22",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/88cf9799-af85-4b23-8128-8488b61ddacc.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Supercharged Process: The 13th Gen. Intel Core i7 processor delivers the ultimate immersive experience in gameplay, multi-task work and productivity.",
+      "Beyond Fast: The NVIDIA GeForce RTX 4060 powered by the Ada architecture unleashes the full glory of ray tracing, which simulates how light behaves in the real world.",
+      "FHD Display: The 17.3” 144Hz FHD display delivers smooth refresh rate for seamless and vibrant gameplay.",
+      "Simplistic Design: Enjoy the latest generation of Windows 11 Home for your everyday needs. *MSI recommends Windows 11 Pro for business use."
+    ],
+    "feature_bullets_count": 4,
+    "feature_bullets_flat": "Simplistic Design: Enjoy the latest generation of Windows 11 Home for your everyday needs. *MSI recommends Windows 11 Pro for business use. FHD Display: The 17.3” 144Hz FHD display delivers smooth refresh rate for seamless and vibrant gameplay. Beyond Fast: The NVIDIA GeForce RTX 4060 powered by the Ada architecture unleashes the full glory of ray tracing, which simulates how light behaves in the real world. Supercharged Process: The 13th Gen. Intel Core i7 processor delivers the ultimate immersive experience in gameplay, multi-task work and productivity.",
+    "top_reviews": [
+      {
+        "id": "R2ZB04BCYCCSC0",
+        "title": "Great laptop, battery life is 5-6 hours",
+        "body": "I bought this laptop a little over a month ago, and I use it every day, and it works wonderfully. I bought it for a little over $1000 at the end of January 2025. I'm a student who mostly plays modded minecraft. It's heavy and thick, but I enjoy that about it, and it's not the heaviest laptop among my friends. People really enjoy the light-up keyboard and I get lots of compliments. The choice of function keys is wonderful and I use them a lot. A lot of reviews claim that the battery life maxes at two hours, and I have no idea where that number is coming from- I regularly use my laptop for 5 or 6 hours unplugged before it dies. The charging cable is very heavy itself, but it's not too much of a pain to take along for longer work days or when I know I'll be doing something power-intensive. A lot of the pre-installed apps are annoying or useless, but I overall appreciate them. The fans have never gotten so loud that it was jarring to people around me, though I've certainly noticed them whirring while playing games in private. Ultimately, it's a great laptop that was very much worth the money for me. It's a gaming laptop with great memory, great graphics, and great storage. The battery lasts as long as I need it to, and it has a lovely shape and appearance. I'd recommend it to anyone looking for a gaming laptop. Read more",
+        "asin": "B0CG7NVGQ2",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this laptop a little over a month ago, and I use it every day, and it works wonderfully. I bought it for a little over $1000 at the end of January 2025. I&apos;m a student who mostly plays modded minecraft.<br/>It&apos;s heavy and thick, but I enjoy that about it, and it&apos;s not the heaviest laptop among my friends. People really enjoy the light-up keyboard and I get lots of compliments. The choice of function keys is wonderful and I use them a lot.<br/>A lot of reviews claim that the battery life maxes at two hours, and I have no idea where that number is coming from- I regularly use my laptop for 5 or 6 hours unplugged before it dies. The charging cable is very heavy itself, but it&apos;s not too much of a pain to take along for longer work days or when I know I&apos;ll be doing something power-intensive.<br/>A lot of the pre-installed apps are annoying or useless, but I overall appreciate them.<br/>The fans have never gotten so loud that it was jarring to people around me, though I&apos;ve certainly noticed them whirring while playing games in private.<br/>Ultimately, it&apos;s a great laptop that was very much worth the money for me. It&apos;s a gaming laptop with great memory, great graphics, and great storage. The battery lasts as long as I need it to, and it has a lovely shape and appearance. I&apos;d recommend it to anyone looking for a gaming laptop.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2ZB04BCYCCSC0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CG7NVGQ2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 7, 2025",
+          "utc": "2025-03-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ell",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHZCGTH64VFHD754DFD3GN5KFLAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHZCGTH64VFHD754DFD3GN5KFLAA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Ryzen 7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "R1E6COZYEWGPE",
+        "title": "Excelente producto",
+        "body": "Todo tal como se detalla en Amazon Read more",
+        "asin": "B0CG7NVGQ2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Todo tal como se detalla en Amazon<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1E6COZYEWGPE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CG7NVGQ2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 15, 2025",
+          "utc": "2025-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marco Antonio",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AELY2MAFFEEBGPVW7ML3727GHL5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AELY2MAFFEEBGPVW7ML3727GHL5Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Ryzen 7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "R36HXKX71SZXFT",
+        "title": "Good specs at a good price",
+        "body": "[Oct 2024] We had an old laptop that died recently and wouldn't be worth repairing, so while the October Prime Days event was on I looked for something that should be somewhat 'future proof' with good specs at a price less than $1000. I picked the MSI Katana A15 AI 15.6” 144Hz FHD Gaming Laptop with the Ryzen 7-9945HS and NVIDIA Geforce RTX 4060, 32Gb RAM, and 1TB SSD. It was on sale for $879 plus tax at the time, which was a really good price for the specs. It has all the ports we need for plugging in different devices, the keyboard feels good, and the screen is bright & crisp with a 144Hz refresh rate that keeps up with the busiest action scenes in games and movies. The screen is a bit more 'letter box' shape than I'd really like, but that's the only thing I can find to whine about. It's a bit heavy compared to some, but that isn't an issue for us. It runs all our small business office and accounting software silently, without the cooling system kicking in at all. The only time it cools itself is when playing graphic intensive games, and IMHO the fan noise isn't bad at all. Most of the time it sits on a multi fan cooling pad, but even without that turned on the laptop never gets particularly hot. All in all, it was a great deal, so if it's on sale for less than $900 again, snap it up. Even at around $1050 I think it's still a worthy contender. Read more",
+        "asin": "B0CG7NVGQ2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>[Oct 2024]<br/>We had an old laptop that died recently and wouldn&apos;t be worth repairing, so while the October Prime Days event was on I looked for something that should be somewhat &apos;future proof&apos; with good specs at a price less than $1000. I picked the MSI Katana A15 AI 15.6&#x201D; 144Hz FHD Gaming Laptop with the Ryzen 7-9945HS and NVIDIA Geforce RTX 4060, 32Gb RAM, and 1TB SSD.<br/>It was on sale for $879 plus tax at the time, which was a really good price for the specs.<br/>It has all the ports we need for plugging in different devices, the keyboard feels good, and the screen is bright &amp; crisp with a 144Hz refresh rate that keeps up with the busiest action scenes in games and movies. The screen is a bit more &apos;letter box&apos; shape than I&apos;d really like, but that&apos;s the only thing I can find to whine about. It&apos;s a bit heavy compared to some, but that isn&apos;t an issue for us.<br/>It runs all our small business office and accounting software silently, without the cooling system kicking in at all. The only time it cools itself is when playing graphic intensive games, and IMHO the fan noise isn&apos;t bad at all. Most of the time it sits on a multi fan cooling pad, but even without that turned on the laptop never gets particularly hot.<br/>All in all, it was a great deal, so if it&apos;s on sale for less than $900 again, snap it up. Even at around $1050 I think it&apos;s still a worthy contender.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R36HXKX71SZXFT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CG7NVGQ2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 28, 2024",
+          "utc": "2024-10-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Brit-in-Texas",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGVOBFUY5JJVTB5HIHG3GFOQGUXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGVOBFUY5JJVTB5HIHG3GFOQGUXQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/120865be-2cce-4df5-9666-5f0eb15cf6f0._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 18,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Ryzen 7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "R10GF7ZDT5RC8E",
+        "title": "Unstable fps. Windows 11. Bad delivery methods.",
+        "body": "The media could not be loaded. Before reading this review, keep in mind that the sample size is 1(ONE) laptop. I cannot say for certain that all laptops of these series are bad, but i can say that 100% of this series of laptops that i have purchased (1 btw) is complete dog poo. tl;dr -delivery is nightmare for working class stiff (unless WFH) -all this bloatware that comes pre-attached with windows 11, and nvidia drivers, as well as norton anti-virus (LOL) which you CANNOT shut off -frame rate in this copy was dog poo, (extremely unstable hitting lows of 30, highs of 200, average about 40fps) -absolutely chugging when it comes to, say, 100 tabs (don't look at me like that, there are people like me out there) =was unable to test durability because it was returned in the first week =did not test battery life, as was plugged in from the start and being sent back =did not test speakers or keyboard or touchpad because i like my physical addons +1tb ssd seems cool i guess. people pay good money for this component alone +physically, structure is flat and airflow seems pretty decent without any addons +screen seems pretty huge for a laptop  Overall 3/10 mediocre for gaming terrible for work bad for multitasking  If you want a computer that can do what this one does, buy an actual computer with parts you can change out. you're paying a huge premium to have this amount of tech be portable.  Unnecessary Rant: Why on earth does a 1,300$ laptop \"made\" \"FOR GAMING\" hit 30 fps in ye-olden games such as -dota 2 -league of legends (literally made with potato pc's in mind) -Team fortress 2  Admittedly ran Battlefield 2042 pretty well with minor hiccups, but i run every game at min settings??  sure, it hits 200 fps (ON OCCASION), but the monitor's refresh rate is 144??? so what's the point of going all the way up to 200 and then shooting down to 30????  The fps simply isn't stable, and jumps from 30 to 200, averaging maybe 40 from what i can tell? Last 7 year old msi laptop that was literally coming apart at the seams was performing better in these games, and it was gtx 1060. I bought this laptop to replace it, thinking i was buying cutting edge. the only thing it cut was my wallet.  Also prone to freezing when simply alt tabbing from games to work, and freezing when loading too many tabs on browser of your choice (admittedly, this was a limit test of hardware capabilities)  Delivery was a nightmare, though it was the better of two evils. Amazon delivery gave prediction from 0800-2200 of certain day, so I had to call out of work. I did not respond in the 5 minute window in which they told me delivery man was present (partially my fault i guess, but a 5 minute window from a 14 hour window???) next day, i took another day off from work to sit outside 40 mins in advance (when notification said delivery driver was 9 stops away). Amazon driver required my passcode to be entered into his device before he could give me the item. The other option was to leave it on doorstep and pray a porch pirate does not find it, which would be worse. Recommended to buy this stuff directly from a store, or utilize a third party drop off. Read more",
+        "asin": "B0CG7NVGQ2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R10GF7ZDT5RC8E\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                  <div id=\"review-video-id-R10GF7ZDT5RC8E\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R10GF7ZDT5RC8E\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d99004ad-e4a2-4fe5-b199-65954d71abf3/default.jobtemplate.hls.m3u8\" data-closed-captions=\"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/88cf9799-af85-4b23-8128-8488b61ddacc.vtt\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51aXzvwak5L._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"/>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>                </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/D1+mzPgo-wL.mp4\" class=\"video-url\"/><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51aXzvwak5L._SY256.jpg\" class=\"video-slate-img-url\"/>             <span>Before reading this review, keep in mind that the sample size is 1(ONE) laptop.<br/>I cannot say for certain that all laptops of these series are bad, but i can say that 100% of this series of laptops that i have purchased (1 btw) is complete dog poo.<br/>tl;dr<br/>-delivery is nightmare for working class stiff (unless WFH)<br/>-all this bloatware that comes pre-attached with windows 11, and nvidia drivers, as well as norton anti-virus (LOL) which you CANNOT shut off<br/>-frame rate in this copy was dog poo, (extremely unstable hitting lows of 30, highs of 200, average about 40fps)<br/>-absolutely chugging when it comes to, say, 100 tabs (don&apos;t look at me like that, there are people like me out there)<br/>=was unable to test durability because it was returned in the first week<br/>=did not test battery life, as was plugged in from the start and being sent back<br/>=did not test speakers or keyboard or touchpad because i like my physical addons<br/>+1tb ssd seems cool i guess. people pay good money for this component alone<br/>+physically, structure is flat and airflow seems pretty decent without any addons<br/>+screen seems pretty huge for a laptop<br/><br/>Overall 3/10<br/>mediocre for gaming<br/>terrible for work<br/>bad for multitasking<br/><br/>If you want a computer that can do what this one does, buy an actual computer with parts you can change out.<br/>you&apos;re paying a huge premium to have this amount of tech be portable.<br/><br/>Unnecessary Rant:<br/>Why on earth does a 1,300$ laptop &quot;made&quot; &quot;FOR GAMING&quot; hit 30 fps in ye-olden games such as<br/>-dota 2<br/>-league of legends (literally made with potato pc&apos;s in mind)<br/>-Team fortress 2<br/><br/>Admittedly ran Battlefield 2042 pretty well with minor hiccups, but i run every game at min settings??<br/><br/>sure, it hits 200 fps (ON OCCASION), but the monitor&apos;s refresh rate is 144??? so what&apos;s the point of going all the way up to 200 and then shooting down to 30????<br/><br/>The fps simply isn&apos;t stable, and jumps from 30 to 200, averaging maybe 40 from what i can tell?<br/>Last 7 year old msi laptop that was literally coming apart at the seams was performing better in these games, and it was gtx 1060. I bought this laptop to replace it, thinking i was buying cutting edge.<br/>the only thing it cut was my wallet.<br/><br/>Also prone to freezing when simply alt tabbing from games to work, and freezing when loading too many tabs on browser of your choice (admittedly, this was a limit test of hardware capabilities)<br/><br/>Delivery was a nightmare, though it was the better of two evils.<br/>Amazon delivery gave prediction from 0800-2200 of certain day, so I had to call out of work.<br/>I did not respond in the 5 minute window in which they told me delivery man was present (partially my fault i guess, but a 5 minute window from a 14 hour window???)<br/>next day, i took another day off from work to sit outside 40 mins in advance (when notification said delivery driver was 9 stops away).<br/>Amazon driver required my passcode to be entered into his device before he could give me the item.<br/>The other option was to leave it on doorstep and pray a porch pirate does not find it, which would be worse.<br/>Recommended to buy this stuff directly from a store, or utilize a third party drop off.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R10GF7ZDT5RC8E/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CG7NVGQ2",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on December 1, 2023",
+          "utc": "2023-12-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "j",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG76EEMMIWQM2DYXEB64ZOIB2E5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG76EEMMIWQM2DYXEB64ZOIB2E5A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/I/D1+mzPgo-wL.mp4",
+            "image": "https://m.media-amazon.com/images/I/51aXzvwak5L._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 55,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "13th Gen i7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "RV1M0P8B4DRRT",
+        "title": "Katana A15-AI-B8V",
+        "body": "Llego en tiempo y forma, es muy buena compra. Especialmente si la ocupas para, arquitectura, ingeniería o gaming. Un punto en contra es su peso, y que es 100% de plástico a diferencia de la ROG Strix 16\" y por el precio la Katana ya debería de tener aluminio.  Procesador: Ryzen 7 Gráfica: 4060 8GB VRAM Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Llego en tiempo y forma, es muy buena compra. Especialmente si la ocupas para, arquitectura, ingenier&#xED;a o gaming. Un punto en contra es su peso, y que es 100% de pl&#xE1;stico a diferencia de la ROG Strix 16&quot; y por el precio la Katana ya deber&#xED;a de tener aluminio.<br/><br/>Procesador: Ryzen 7<br/>Gr&#xE1;fica: 4060 8GB VRAM<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on October 2, 2024",
+          "utc": "2024-10-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Gerardo",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/1dc240fb-8e7b-432a-a8e8-4f22e4c0e919._CR1%2C0%2C1168%2C1168_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Ryzen 7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "RWBOVECCEMNH3",
+        "title": "Excelente compra !! Mi hijo quedó encantado!",
+        "body": "Tal cual la descripción, excelente la paquetería de Amazon llegó en perfecto estado tanto la caja como la laptop! Ninguna queja perfecta para gamers de alta demanda. Aclaro no es la más Top quizá pero en juegos de primera rinde muy bien según mi hijo! Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Tal cual la descripci&#xF3;n, excelente la paqueter&#xED;a de Amazon lleg&#xF3; en perfecto estado tanto la caja como la laptop! Ninguna queja perfecta para gamers de alta demanda. Aclaro no es la m&#xE1;s Top quiz&#xE1; pero en juegos de primera rinde muy bien seg&#xFA;n mi hijo!<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on February 10, 2025",
+          "utc": "2025-02-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alberto A. H.",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/b20bb325-5e3d-4596-9658-b3b88e6741af._CR0%2C0%2C379%2C379_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "13th Gen i7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "R2XOHRMFKEX0Z0",
+        "title": "Muy buena laptop para el costo",
+        "body": "Excelente compra, la compre cuando estaba en promoción el precio, me salió 26,300 pesos mexicanos de los cuales decía que 5,000 eran de la tarifa de importación, la pila dura como 3 horas a máxima potencia, el unico detalle malo que le he visto es que cuando conecto/desconecto el cargador como se pone negra la pantalla por un segundo. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Excelente compra, la compre cuando estaba en promoci&#xF3;n el precio, me sali&#xF3; 26,300 pesos mexicanos de los cuales dec&#xED;a que 5,000 eran de la tarifa de importaci&#xF3;n, la pila dura como 3 horas a m&#xE1;xima potencia, el unico detalle malo que le he visto es que cuando conecto/desconecto el cargador como se pone negra la pantalla por un segundo.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on December 7, 2023",
+          "utc": "2023-12-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Luis Valdez",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/f7bcf437-651c-43d6-ab43-2168d0f29c7a._CR0%2C26%2C280%2C280_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "13th Gen i7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "R1LOHIIVHCGUI6",
+        "title": "Buena Laptop calidad precio",
+        "body": "Muy buenas especificaciones. No he tenido ningún inconveniente en este primer mes de uso. Funciona súper rápido con programas como Revit Autocad y Twinmotion. El único detalle es que en algunas ocasiones siento que se sobrecalienta mas de lo que debería y la batería prácticamente no rinde mucho. Si está en oferta súper recomendable Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Muy buenas especificaciones. No he tenido ning&#xFA;n inconveniente en este primer mes de uso. Funciona s&#xFA;per r&#xE1;pido con programas como Revit Autocad y Twinmotion. El &#xFA;nico detalle es que en algunas ocasiones siento que se sobrecalienta mas de lo que deber&#xED;a y la bater&#xED;a pr&#xE1;cticamente no rinde mucho. Si est&#xE1; en oferta s&#xFA;per recomendable<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Mexico on August 26, 2024",
+          "utc": "2024-08-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "David Diaz"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Ryzen 7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      },
+      {
+        "id": "R2JBW23GN97OBP",
+        "title": "Excelente producto",
+        "body": "Llego con las especificaciones correctas y llego dos Días antes de lo prometido Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Llego con las especificaciones correctas y llego dos D&#xED;as antes de lo prometido<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on July 29, 2024",
+          "utc": "2024-07-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Neto"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "13th Gen i7"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Hard Disk Size": "1 TB"
+          },
+          {
+            "Graphics Description": "RTX 4060"
+          },
+          {
+            "Style": "15.6\" FHD"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "1wHtxbacc13cf%2FZsyQLJkvIfCqGBHP75XW29ByXTa5JyHEL22%2Bhh8ZoEVRkkMqO0F05rtPh1myKPFYAb4Ask7dSeRWavo4ueT0yDoUD%2FprzAP7s9cFNEYaIRTlCYNjr3lydKe%2BzaGCBscgaYtZW%2BWDKxfS%2B4TfOI9qcAqAHg6f71Behcwnxnry1f8ow5mMxc",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 8 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 1171.45,
+          "currency": "USD",
+          "raw": "$1,171.45"
+        },
+        "maximum_order_quantity": {
+          "value": 5
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true,
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Saturday, May 24",
+            "name": "FREE"
+          },
+          "fastest_delivery": {
+            "date": "Friday, May 23",
+            "name": "Or fastest delivery Friday, May 23. Order within 3 hrs 10 mins"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        }
+      },
+      "offer_id": "1wHtxbacc13cf/ZsyQLJkvIfCqGBHP75XW29ByXTa5JyHEL22+hh8ZoEVRkkMqO0F05rtPh1myKPFYAb4Ask7dSeRWavo4ueT0yDoUD/przAP7s9cFNEYaIRTlCYNjr3lydKe+zaGCBscgaYtZW+WDKxfS+4TfOI9qcAqAHg6f71Behcwnxnry1f8ow5mMxc",
+      "mixed_offers_count": 3,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "130.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "199.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 10 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1341.28,
+        "currency": "USD",
+        "raw": "$1,341.28"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 1341.28,
+        "currency": "USD",
+        "raw": "$1,341.28"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎17.3 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.4 GHz core_i7"
+      },
+      {
+        "name": "RAM",
+        "value": "‎32 GB DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎4800 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎1 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4060"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎RTX 4060"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11ad"
+      },
+      {
+        "name": "Number of USB 2.0 Ports",
+        "value": "‎1"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎MSI"
+      },
+      {
+        "name": "Series",
+        "value": "‎Katana 17 B13VFK-835US"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎KATANA1713835"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎9.68 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎15.67 x 10.75 x 0.99 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎15.67 x 10.75 x 0.99 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Black"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎10"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 SDRAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎32 GB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎SATA 3 GB/s"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎230 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Polymer batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CG7NVGQ2"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.2    4.2 out of 5 stars         356 ratings          4.2 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#1,708 in Computers & Accessories (See Top 100 in Computers & Accessories) #212 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "September 14, 2023"
+      },
+      {
+        "name": "Brand",
+        "value": "MSI"
+      },
+      {
+        "name": "Model Name",
+        "value": "Katana 17 B13VFK-835US"
+      },
+      {
+        "name": "Screen Size",
+        "value": "17.3 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "1 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i7"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "32 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "RTX 4060"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "NVIDIA GeForce RTX 4060"
+      }
+    ],
+    "specifications_flat": "Graphics Coprocessor: NVIDIA GeForce RTX 4060. Graphics Card Description: RTX 4060. Operating System: Windows 11 Home. Ram Memory Installed Size: 32 GB. CPU Model: Core i7. Hard Disk Size: 1 TB. Color: Black. Screen Size: 17.3 Inches. Model Name: Katana 17 B13VFK-835US. Brand: MSI. Date First Available: September 14, 2023. Best Sellers Rank: #1,708 in Computers & Accessories (See Top 100 in Computers & Accessories) #212 in Traditional Laptop Computers. Customer Reviews: 4.2    4.2 out of 5 stars         356 ratings          4.2 out of 5 stars. ASIN: B0CG7NVGQ2. Batteries: ‎1 Lithium Polymer batteries required. (included). Voltage: ‎230 Volts. Hard Drive Interface: ‎SATA 3 GB/s. Flash Memory Size: ‎32 GB. Computer Memory Type: ‎DDR5 SDRAM. Number of Processors: ‎10. Processor Brand: ‎Intel. Color: ‎Black. Item Dimensions  LxWxH: ‎15.67 x 10.75 x 0.99 inches. Product Dimensions: ‎15.67 x 10.75 x 0.99 inches. Item Weight: ‎9.68 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎KATANA1713835. Series: ‎Katana 17 B13VFK-835US. Brand: ‎MSI. Number of USB 3.0 Ports: ‎3. Number of USB 2.0 Ports: ‎1. Wireless Type: ‎802.11ad. Graphics Card Ram Size: ‎8 GB. Card Description: ‎RTX 4060. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4060. Hard Drive: ‎1 TB SSD. Memory Speed: ‎4800 MHz. RAM: ‎32 GB DDR5. Processor: ‎2.4 GHz core_i7. Max Screen Resolution: ‎1920 x 1080 pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎17.3 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 1708,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 212,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Black",
+    "weight": "‎9.68 pounds",
+    "first_available": {
+      "raw": "September 14, 2023",
+      "utc": "2023-09-14T00:00:00.000Z"
+    },
+    "dimensions": "‎15.67 x 10.75 x 0.99 inches",
+    "model_number": "‎KATANA1713835",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 1708, Category: Traditional Laptop Computers | Rank: 212",
+    "whats_in_the_box": [
+      "Laptop, Power Adapter"
+    ]
+  },
+  "brand_store": {
+    "id": "4B9191C5-F3E7-4101-993F-ABD067C141BB",
+    "link": "https://www.amazon.com/stores/MSI/page/4B9191C5-F3E7-4101-993F-ABD067C141BB"
+  },
+  "newer_model": {
+    "title": "msi Crosshair Gaming Laptop - w/Office & External DVD Drive, 16\" FHD+ IPS Display, GeForce RTX 4070, Intel 16-Core i7-14650HX, Backlit Keyboard, Wi-Fi, Win 11 Pro (64GB DDR5 RAM | 4TB SSD)",
+    "asin": "B0F2SL67PG",
+    "link": "https://www.amazon.com/msi-Crosshair-Gaming-Laptop-i7-14650HX-dp-B0F2SL67PG/dp/B0F2SL67PG/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/71Y708J6WJL._SR75,75_.jpg",
+    "rating": 4.5,
+    "ratings_total": 30,
+    "price": {
+      "symbol": "$",
+      "value": 1999.99,
+      "currency": "USD",
+      "raw": "$1,999.99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 1394.35,
+      "currency": "USD",
+      "raw": "$1,394.35"
+    },
+    "products": [
+      {
+        "asin": "B0CG7NVGQ2",
+        "title": "MSI Katana 17 Gaming Laptop: 13th Gen Intel Core i7, GeForce RTX 4060, 17.3\" 144Hz FHD Display, 32GB DDR5, 1TB NVMe SSD, USB-Type C, Cooler Boost 5, Win11 Home: Black B13VFK-835US",
+        "link": "https://www.amazon.com/dp/B0CG7NVGQ2",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81vnNsRDo6L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1171.45,
+          "currency": "USD",
+          "raw": "$1,171.45"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DLHBYRPS",
+    "link": "https://www.amazon.com/dp/B0DLHBYRPS/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=TzfW3&pd_rd_i=B0DLHBYRPS&pd_rd_w=LK2S4&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=d676d367-5a9b-4d71-86d8-fc33f2ef082d&psc=1",
+    "title": "Apple 2024 MacBook Pro Laptop with M4 chip with 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 16GB Unified Memory, 512GB SSD Storage; Space Black",
+    "rating": 5,
+    "ratings_total": 768,
+    "image": "https://m.media-amazon.com/images/I/61-oTP1X4rL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "MSI Thin 15 15.6” 144Hz FHD Gaming Laptop: Intel Core i7-12650H, NVIDIA Geforce RTX 4050, 16GB DDR5, 512GB NVMe SSD, Cooler B",
+      "asin": "B0CXV8YGLV",
+      "link": "https://www.amazon.com/MSI-Thin-144Hz-Gaming-Laptop/dp/B0CXV8YGLV/ref=pd_sim_d_sccl_2_1/138-9921436-6196322?pd_rd_w=C4yLS&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=PhbqR&pd_rd_r=5e213bb9-908c-4d6d-8b2b-08371d04d18b&pd_rd_i=B0CXV8YGLV&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71Fr-EEsp6L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 138,
+      "price": {
+        "symbol": "$",
+        "value": 894,
+        "currency": "USD",
+        "raw": "$894.00"
+      }
+    },
+    {
+      "title": "ASUS Vivobook Go 11.6” HD Slim Laptop, Intel Dual Core N4500, Intel Graphics, 4GB, 128GB, Windows 11 Home, SonicMaster, ErgoS",
+      "asin": "B0CRDDWTX3",
+      "link": "https://www.amazon.com/ASUS-Vivobook-Celeron-Graphics-L210KA-ES04/dp/B0CRDDWTX3/ref=pd_sim_d_sccl_2_2/138-9921436-6196322?pd_rd_w=C4yLS&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=PhbqR&pd_rd_r=5e213bb9-908c-4d6d-8b2b-08371d04d18b&pd_rd_i=B0CRDDWTX3&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51xxONbwsvL._AC_UL165_SR165,165_.jpg",
+      "rating": 4,
+      "ratings_total": 864,
+      "price": {
+        "symbol": "$",
+        "value": 228.99,
+        "currency": "USD",
+        "raw": "$228.99"
+      }
+    },
+    {
+      "title": "Acer Aspire Go 15 Slim Laptop | 15.6\" Full HD IPS 1080P Display | Intel Core i3-N305| Intel UHD Graphics | 8GB LPDDR5 | 128GB",
+      "asin": "B0CV5ZSR17",
+      "link": "https://www.amazon.com/Display-i3-N305-Graphics-Windows-AG15-31P-3947/dp/B0CV5ZSR17/ref=pd_sim_d_sccl_2_3/138-9921436-6196322?pd_rd_w=C4yLS&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=PhbqR&pd_rd_r=5e213bb9-908c-4d6d-8b2b-08371d04d18b&pd_rd_i=B0CV5ZSR17&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71wKJVtV-+L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 528,
+      "price": {
+        "symbol": "$",
+        "value": 284,
+        "currency": "USD",
+        "raw": "$284.00"
+      }
+    },
+    {
+      "title": "ASUS ROG Strix G16 Gaming Laptop, 16” Nebula Display 16:10 QHD 240Hz, GeForce RTX 4060, Intel® Core™ i9-14900HX, 16GB DDR5-56",
+      "asin": "B0CRCYJ8YV",
+      "link": "https://www.amazon.com/ASUS-Gaming-Laptop-Nebula-Display/dp/B0CRCYJ8YV/ref=pd_sim_d_sccl_2_4/138-9921436-6196322?pd_rd_w=C4yLS&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=PhbqR&pd_rd_r=5e213bb9-908c-4d6d-8b2b-08371d04d18b&pd_rd_i=B0CRCYJ8YV&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kOH3in8TL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "ratings_total": 221,
+      "price": {
+        "symbol": "$",
+        "value": 1449.4,
+        "currency": "USD",
+        "raw": "$1,449.40"
+      }
+    },
+    {
+      "title": "ASUS TUF Gaming F16 Gaming Laptop, 16” FHD+ 165Hz 16:10 Display, Intel® Core™ i7-13650HX, NVIDIA® GeForce RTX™ 4060, 16GB DDR",
+      "asin": "B0CRD9TV9V",
+      "link": "https://www.amazon.com/ASUS-TUF-Gaming-Laptop-165Hz/dp/B0CRD9TV9V/ref=pd_sim_d_sccl_2_5/138-9921436-6196322?pd_rd_w=C4yLS&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=PhbqR&pd_rd_r=5e213bb9-908c-4d6d-8b2b-08371d04d18b&pd_rd_i=B0CRD9TV9V&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61cOM7n4cXL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 42,
+      "price": {
+        "symbol": "$",
+        "value": 1099.99,
+        "currency": "USD",
+        "raw": "$1,099.99"
+      }
+    },
+    {
+      "title": "ASUS ROG Strix G16 (2024) Gaming Laptop, 16” ROG Nebula Display 16:10 QHD 240Hz, NVIDIA® GeForce RTX™ 4070, Intel® Core™ i9-1",
+      "asin": "B0CRCVJFQM",
+      "link": "https://www.amazon.com/ASUS-Gaming-Laptop-Nebula-Display/dp/B0CRCVJFQM/ref=pd_sim_d_sccl_2_6/138-9921436-6196322?pd_rd_w=C4yLS&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=PGDX9JHH8HMX07V2S8FN&pd_rd_wg=PhbqR&pd_rd_r=5e213bb9-908c-4d6d-8b2b-08371d04d18b&pd_rd_i=B0CRCVJFQM&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kOH3in8TL._AC_UL165_SR165,165_.jpg",
+      "rating": 4,
+      "ratings_total": 620,
+      "price": {
+        "symbol": "$",
+        "value": 1899.99,
+        "currency": "USD",
+        "raw": "$1,899.99"
+      }
+    }
+  ]
+}

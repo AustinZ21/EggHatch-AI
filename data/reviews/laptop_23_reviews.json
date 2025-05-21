@@ -1,0 +1,32 @@
+[
+  {
+    "review_id": "laptop_23_review_1",
+    "rating": 4,
+    "text": "Fantastic gaming laptop for the price. Getting amazing FPS in Call of Duty: Warzone and Valorant. The build quality of the Acer Predator G9-593-71EH Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1070 16 GB Memory 256 GB SSD (2 x 128 GB in Raid 0) 1 TB HDD 15.6\" Full HD (1920 x 1080) IPS Display with G-SYNC is solid, and the screen brightness is a joy to use. A definite 5 stars!",
+    "date": "2025-4-6"
+  },
+  {
+    "review_id": "laptop_23_review_2",
+    "rating": 3,
+    "text": "It's a decent gaming laptop for the money. Performance is good for most games like Fortnite, but it can struggle a bit with the newest AAA titles on ultra settings with the Acer Predator G9-593-71EH Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1070 16 GB Memory 256 GB SSD (2 x 128 GB in Raid 0) 1 TB HDD 15.6\" Full HD (1920 x 1080) IPS Display with G-SYNC. The screen brightness is okay, not great. Overall, it gets the job done.",
+    "date": "2025-5-1"
+  },
+  {
+    "review_id": "laptop_23_review_3",
+    "rating": 4,
+    "text": "Exceeded my expectations! Perfect for competitive gaming. The NVIDIA GTX 1070 in the Acer Predator G9-593-71EH Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1070 16 GB Memory 256 GB SSD (2 x 128 GB in Raid 0) 1 TB HDD 15.6\" Full HD (1920 x 1080) IPS Display with G-SYNC is a powerhouse. Battery life is decent for a gaming laptop too. Very satisfied with this purchase.",
+    "date": "2025-4-11"
+  },
+  {
+    "review_id": "laptop_23_review_4",
+    "rating": 3,
+    "text": "An average performer. The NVIDIA GTX 1070 is good, but I expected a bit more from the speakers on the Acer Predator G9-593-71EH Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1070 16 GB Memory 256 GB SSD (2 x 128 GB in Raid 0) 1 TB HDD 15.6\" Full HD (1920 x 1080) IPS Display with G-SYNC. It's a fair choice if you can get it on a good deal.",
+    "date": "2025-2-23"
+  },
+  {
+    "review_id": "laptop_23_review_5",
+    "rating": 2,
+    "text": "Quite disappointed with this laptop, the Acer Predator G9-593-71EH Intel Core i7 7th Gen 7700HQ (2.80 GHz) NVIDIA GeForce GTX 1070 16 GB Memory 256 GB SSD (2 x 128 GB in Raid 0) 1 TB HDD 15.6\" Full HD (1920 x 1080) IPS Display with G-SYNC. It performance throttles under load frequently when playing Fortnite, and the performance throttles significantly. The keyboard has been a letdown. Wouldn't recommend.",
+    "date": "2025-5-6"
+  }
+]

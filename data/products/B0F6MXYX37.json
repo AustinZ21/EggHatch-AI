@@ -1,0 +1,879 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5615,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F6MXYX37",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:48:02.746Z",
+    "processed_at": "2025-05-20T01:48:08.918Z",
+    "total_time_taken": 6.17,
+    "amazon_url": "https://www.amazon.com/dp/B0F6MXYX37?th=1&psc=1"
+  },
+  "product": {
+    "title": "Lenovo Legion Pro 5i Gen 9 Gaming Laptop, 16\" WQXGA(2560 x 1600) 240Hz, Intel 24-Core i9-14900HX, GeForce RTX 4070, 64 GB DDR5, 8 TB SSD, 4-Zone RGB Backlit, WiFi 6E, Win 11 Pro, Free Lifetime Office",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Lenovo,Legion,Pro,5i,Gen,9,Gaming,Laptop,16\",WQXGA(2560,x,1600),240Hz,Intel,24-Core,i9-14900HX,GeForce,RTX,4070,64,GB,DDR5,8,TB,SSD,4-Zone,RGB,Backlit,WiFi,6E,Win,11,Pro,Free,Lifetime,Office",
+    "keywords_list": [
+      "Lenovo",
+      "Legion",
+      "Gaming",
+      "Laptop",
+      "WQXGA(2560",
+      "1600)",
+      "240Hz",
+      "Intel",
+      "24-Core",
+      "i9-14900HX",
+      "GeForce",
+      "4070",
+      "DDR5",
+      "4-Zone",
+      "Backlit",
+      "WiFi",
+      "Free",
+      "Lifetime",
+      "Office"
+    ],
+    "is_collection": false,
+    "asin": "B0F6MXYX37",
+    "parent_asin": "B0F6NX78CC",
+    "link": "https://www.amazon.com/Lenovo-24-Core-i9-14900HX-GeForce-Lifetime/dp/B0F6MXYX37",
+    "brand": "‎Lenovo",
+    "protection_plans": [
+      {
+        "asin": "B07PBYRV3P",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 189.99,
+          "currency": "USD",
+          "raw": "$189.99"
+        }
+      },
+      {
+        "asin": "B07PBD89RB",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 279.99,
+          "currency": "USD",
+          "raw": "$279.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "64 GB RAM | 2 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB RAM | 2 TB SSD"
+          }
+        ],
+        "asin": "B0F6MVRRPX",
+        "link": "https://amazon.com/dp/B0F6MVRRPX?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "64 GB RAM | 8 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB RAM | 8 TB SSD"
+          }
+        ],
+        "asin": "B0F6MXYX37",
+        "link": "https://amazon.com/dp/B0F6MXYX37?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32 GB RAM",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32 GB RAM"
+          }
+        ],
+        "asin": "B09MJLC89S",
+        "link": "https://amazon.com/dp/B09MJLC89S?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16 GB RAM | 256 GB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16 GB RAM | 256 GB SSD"
+          }
+        ],
+        "asin": "B084MLKHLQ",
+        "link": "https://amazon.com/dp/B084MLKHLQ?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32 GB RAM | 2 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32 GB RAM | 2 TB SSD"
+          }
+        ],
+        "asin": "B0F6MTXGRG",
+        "link": "https://amazon.com/dp/B0F6MTXGRG?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64 GB RAM | 4 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB RAM | 4 TB SSD"
+          }
+        ],
+        "asin": "B0F6MX3HFZ",
+        "link": "https://amazon.com/dp/B0F6MX3HFZ?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0F6MVRRPX,B0F6MXYX37,B09MJLC89S,B084MLKHLQ,B0F6MTXGRG,B0F6MX3HFZ",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Statement:\nOriginal Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.\n\n\nGENERAL INFORMATION\n\nBrand: Lenovo\n\nModel Number: 83DF00AQUS\n\nSeries: Lenovo Legion Pro 5i Gen 9 Gaming Laptop- Intel 14th Gen Core i9- NVIDIA GeForce RTX 4070 8GB\n\nColor: Onyx Grey\n\nOperating System: Windows 11 Pro\n\n\nPROCESSOR\n\nCPU: 14th Gen Intel i9-14900HX processor\n\nNumber of Cores: 24\n\nNumber of Threads: 32\n\nE-Core Max Turbo Frequency: 4.1 GHz\n\nP-Core Max Turbo Frequency: 5.8 GHz\n\n\nGRAPHICS\n\nGraphics Type: Dedicated\n\nGPU: NVIDIA Geforce RTX 4070\n\nGraphics RAM: 8 GB GDDR6\n\n\nDISPLAY\n\nDisplay Size: 16 inches\n\nResolution: 2560 x 1600 (WQXGA)\n\nRefresh Rate: 240 Hz\n\nDisplay Screen Type: IPS, Anti-glare, 100% DCI-P3,HDR 400,Low Blue Light, High Gaming Performance \n\nBrightness: 500 nits\n\n\nMEMORY & STORAGE\n\nCapacity: 64 GB DDR5\n\nStorage: 8 TB SSD\n\n\nPORTS\n\n1 x Ethernet (RJ45)\n\n1x USB-C 3.2 Gen 2 (DisplayPort 1.4)\n\n1x USB-C 3.2 Gen 2 (DisplayPort 1.4 + Power Delivery 140W)\n\n2 x USB-A 3.2 Gen 1\n\n2 x USB-A 3.2 Gen 1(Always On USB 5V2A)\n\n1 x Electronic e-shutter switch\n\n1 x Headset (Headphone and Microphone Combo) Port\n\n1x Power input\n\n1 x HDMI 2.1\n\n\nWIRELESS\n\nWi-Fi 6E\n\nBluetooth 5.1 \n\n\nFEATURES\n\nKeyboard: 4-Zone RGB Backlit\n\nAudio Technology: 2x2W speaker system w/ Nahimic Audio\n\nCamera: 1080P FHD with Electronic Privacy Shutter and Microphone\n\n\nPHYSICAL SPECIFICATIONS\n\nLength: 14.3 inches\n\nWidth: 10.25 inches\n\nHeight: 0.88 -1.05 inches\n\nWeight: 5.51 lbs",
+    "sub_title": {
+      "text": "Visit the Lenovo Store",
+      "link": "https://www.amazon.com/stores/LENOVO/page/2C6395BA-C701-4025-9D7E-BAE1BD647EEE?lp_asin=B0F6MXYX37&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "has_coupon": true,
+    "coupon_text": "Apply 5% coupon",
+    "rating": 4.3,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 73,
+        "count": 107
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 14
+      },
+      "three_star": {
+        "percentage": 4,
+        "count": 5
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 4
+      },
+      "one_star": {
+        "percentage": 10,
+        "count": 14
+      }
+    },
+    "ratings_total": 147,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/711n1JdgL5L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/711n1JdgL5L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71P4JvOOPoL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71A41zZYI+L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71SZHlylhcL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71DJCTW0InL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61lUzetIopL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81d4BXYYrUL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51nFfcjUe+L._AC_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51hasBrNWLL._AC_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/711n1JdgL5L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71P4JvOOPoL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71A41zZYI+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71SZHlylhcL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71DJCTW0InL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61lUzetIopL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81d4BXYYrUL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51nFfcjUe+L._AC_.jpg,https://m.media-amazon.com/images/I/51hasBrNWLL._AC_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "High-Performance: The Lenovo legion pro 5i Gaming Laptop is engineered to deliver unparalleled gaming performance. Equipped with Intel i9-14900HX, Up to Turbo Boost 5.8 GHz, 24 cores, 32 threads. With its high core count and advanced architecture, it effortlessly handles demanding tasks, from gaming to content creation, ensuring smooth multitasking and responsive computing experiences",
+      "RTX 4070 Graphics & 16-inch WQXGA 240Hz Display : Equipped with an NVIDIA GeForce RTX 4070 8 GB GDDR6, this Legion Pro 5i Gen 9 delivers incredible gaming performance, real-time ray tracing, and AI-powered enhancements for lifelike visuals.The 16\" WQXGA (2560 x 1600) screen with a fast 240Hz refresh rate offers crystal-clear resolution, vibrant colors, and sharp detail, ideal for gamers and creatives. Includes a 4-zone RGB backlit keyboard, enhancing your gaming setup with customizable lighting",
+      "AI-Optimized Performance & Cooling: Stay cool under pressure with Legion ColdFront, featuring phase-change materials, hybrid heat pipes, and ultra-thin 3D blade fans. The Lenovo AI Engine+ dynamically optimizes FPS, thermals, and power efficiency for sustained peak performance during marathon sessions",
+      "Gamer Keyboard & Immersive Audio:Dominate with the Legion TrueStrike keyboard—featuring 1.5mm key travel, swappable keycaps, and a full-size layout for precision control. Customize your battlestation with Lenovo Spectrum RGB lighting and enjoy smooth navigation on the large Mylar touchpad.Nahimic by SteelSeries delivers cinematic 3D audio, enhancing every in-game sound for total immersion. Communicate clearly with teammates—hear every detail, react faster, and play smarter",
+      "Windows 11 Pro & Lifetime Office: Embrace the future of gaming with a laptop with Windows 11 Pro. Experience a seamless computing experience with a sleek and intuitive interface, improved gaming performance, and enhanced security features.Get your hands on Microsoft Office lifetime license for free, forever, enhancing your office life with greater ease and efficiency! Please DO NOT install Office 365, which invalidates the Office license"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Windows 11 Pro & Lifetime Office: Embrace the future of gaming with a laptop with Windows 11 Pro. Experience a seamless computing experience with a sleek and intuitive interface, improved gaming performance, and enhanced security features.Get your hands on Microsoft Office lifetime license for free, forever, enhancing your office life with greater ease and efficiency! Please DO NOT install Office 365, which invalidates the Office license. Gamer Keyboard & Immersive Audio:Dominate with the Legion TrueStrike keyboard—featuring 1.5mm key travel, swappable keycaps, and a full-size layout for precision control. Customize your battlestation with Lenovo Spectrum RGB lighting and enjoy smooth navigation on the large Mylar touchpad.Nahimic by SteelSeries delivers cinematic 3D audio, enhancing every in-game sound for total immersion. Communicate clearly with teammates—hear every detail, react faster, and play smarter. AI-Optimized Performance & Cooling: Stay cool under pressure with Legion ColdFront, featuring phase-change materials, hybrid heat pipes, and ultra-thin 3D blade fans. The Lenovo AI Engine+ dynamically optimizes FPS, thermals, and power efficiency for sustained peak performance during marathon sessions. RTX 4070 Graphics & 16-inch WQXGA 240Hz Display : Equipped with an NVIDIA GeForce RTX 4070 8 GB GDDR6, this Legion Pro 5i Gen 9 delivers incredible gaming performance, real-time ray tracing, and AI-powered enhancements for lifelike visuals.The 16\" WQXGA (2560 x 1600) screen with a fast 240Hz refresh rate offers crystal-clear resolution, vibrant colors, and sharp detail, ideal for gamers and creatives. Includes a 4-zone RGB backlit keyboard, enhancing your gaming setup with customizable lighting. High-Performance: The Lenovo legion pro 5i Gaming Laptop is engineered to deliver unparalleled gaming performance. Equipped with Intel i9-14900HX, Up to Turbo Boost 5.8 GHz, 24 cores, 32 threads. With its high core count and advanced architecture, it effortlessly handles demanding tasks, from gaming to content creation, ensuring smooth multitasking and responsive computing experiences.",
+    "top_reviews": [
+      {
+        "id": "R2RULZ8NWHFKK8",
+        "title": "Quiet, fast, and smooth-running laptop",
+        "body": "I've been using this laptop for just over a month now. I bought it primarily for gaming. I have no complaints so far! I'm loving this thing.  It runs super smoothly and is fast. Great quality graphics. I do use a cooling board underneath it, but even before I received that, the fan was already pretty quiet.  I will say, the battery-life definitely does not last long if you're gaming, but I expect that, and I don't leave the house with it so am able to keep it charged, so that's not a personal complaint for me, but definitely something for others to be wary of. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve been using this laptop for just over a month now. I bought it primarily for gaming. I have no complaints so far! I&apos;m loving this thing.<br/><br/>It runs super smoothly and is fast. Great quality graphics. I do use a cooling board underneath it, but even before I received that, the fan was already pretty quiet.<br/><br/>I will say, the battery-life definitely does not last long if you&apos;re gaming, but I expect that, and I don&apos;t leave the house with it so am able to keep it charged, so that&apos;s not a personal complaint for me, but definitely something for others to be wary of.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2RULZ8NWHFKK8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 10, 2023",
+          "utc": "2023-08-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "S Hayes",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFFSHFNM2XTW7SNA4SFLSEEWBA5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFFSHFNM2XTW7SNA4SFLSEEWBA5Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RF4X81889T2OS",
+        "title": "Impressed with the laptop and seller",
+        "body": "I was hesitant on purchasing such a high price item from Amazon. The laptop was expensive but laptops are.... and this was a better price then any store I went to. Glad I took the chance, the laptop works great. I had an issue with the charger not working after a few days, contacted seller and they refunded money to purchase a replacement charger... not the sellers fault at all. They could of easily told me to contact lenovo for warranty, but didn't... I appreciate the quick response from them and their professional courtesy. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I was hesitant on purchasing such a high price item from Amazon. The laptop was expensive but laptops are.... and this was a better price then any store I went to. Glad I took the chance, the laptop works great. I had an issue with the charger not working after a few days, contacted seller and they refunded money to purchase a replacement charger... not the sellers fault at all. They could of easily told me to contact lenovo for warranty, but didn&apos;t... I appreciate the quick response from them and their professional courtesy.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RF4X81889T2OS/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 8, 2022",
+          "utc": "2022-03-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shannon Lee",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGCAJ5Q3UOUEQW5KV2IC4VFBZQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEGCAJ5Q3UOUEQW5KV2IC4VFBZQQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 16,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R2NQCA0OZ0G73F",
+        "title": "My husband loves this",
+        "body": "I purchased this as a gift for my husband. Playing games on this laptop is so much fun. It is a high-performing laptop at a reasonable price. I am looking into getting one for myself. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I purchased this as a gift for my husband. Playing games on this laptop is so much fun. It is a high-performing laptop at a reasonable price. I am looking into getting one for myself.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2NQCA0OZ0G73F/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 7, 2023",
+          "utc": "2023-08-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tina Roseborough",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHIHVZQRUPZRBRYTGIDPNLCTNESQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHIHVZQRUPZRBRYTGIDPNLCTNESQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R2T91OAWHOFEI6",
+        "title": "Not for the unlucky.",
+        "body": "This computer sucks so bad. There were so many good reviews and so little bad ones I was like “Huh what’re the odds mine will suck too” surprise. Mine also sucks too. I’m now paying off a loan on a computer that can’t handle CAPCUT OR DOWNLOADING DRIVERS(?!) like is this real?! The laptop was fine at the beginning, it would do a random restart once or twice everyone once in a while. It now can’t do simple things without the fans sounding like a jet engine and it restarting itself. This is so absolutely frustrating on so many levels I legitimately cannot express it over text. $1,000 dollars for a computer that struggles with downloading stuff off the internet, how useful. I’m trying to fix it and I’ll update if I can fix it. I wish I could get a refund. I don’t know if I could because it’s “modified” I guess. My HP Pavilion that was $500 and several years old handles better than this computer. If you have bad luck, go get a computer from a trusted source without any modifications or you’ll be throwing your broke self into more debt for a useless piece of garbage. I use it SOLELY for video editing, there is literally nothing else on this computer. I have CapCut and the media needed for video editing. THAT’S IT and yet the computer can’t deliver what I want. I’m so disappointed. Since I’m already broke because $1,000 dollars isn’t just /something I have/ I can’t afford to go get it looked at and I’m stupid so of course I’m not gonna understand anything. I buy stuff so that it’s done for me because it’s not my level of expertise. Like said I’ll update when or IF I get justice. Like it working or a refund or something, but with the way things are going I’m thinking nothing is gonna happen and this will be just another experience to throw into the pile of things I cry myself to sleep thinking about.  EDIT 9/5/23 Still having trouble but recently had a breakthrough!!! So I bought fans for the laptop, surprise!! didn’t work and it still kept rebooting on me randomly so I just set it under my bed to rot before I would break it over my knee. So it sat there for a while and randomly a few nights ago I was telling my friend about it and I pulled it out and it was working completely fine, like, not a single problem at all and I was like this laptop is trying to make me look bad wtf. I was amazed though and so happy. So I pulled it out today to use it and still no problems, but then the battery got low so I plugged it in and there it goes rebooting. IT WAS IT BEING PLUGGED INTO THE CHARGER?!!?? I tested it a few times then and every-time without fail the MOMENT i would put that bad boy charger in the rebooting parade would commence. My laptop came with a fault that has something to do with the charger and power and stuff because it would reboot randomly at the very beginning and then it got worse overtime. So now that I have discovered that there is hope I will be going and getting it checked out in hopes of it being a cheap fix. I will be keeping the one star though because in the end it came to me broken and has caused me more grief than I would like to admit and my opinion of it being a gamble still stands as other people have also had theirs arrive broken and stuff. TLDR; It’s a good laptop but don’t take the risk of it showing up broken, it’s NOT worth it. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This computer sucks so bad. There were so many good reviews and so little bad ones I was like &#x201C;Huh what&#x2019;re the odds mine will suck too&#x201D; surprise. Mine also sucks too. I&#x2019;m now paying off a loan on a computer that can&#x2019;t handle CAPCUT OR DOWNLOADING DRIVERS(?!) like is this real?!<br/>The laptop was fine at the beginning, it would do a random restart once or twice everyone once in a while. It now can&#x2019;t do simple things without the fans sounding like a jet engine and it restarting itself. This is so absolutely frustrating on so many levels I legitimately cannot express it over text. $1,000 dollars for a computer that struggles with downloading stuff off the internet, how useful.<br/>I&#x2019;m trying to fix it and I&#x2019;ll update if I can fix it. I wish I could get a refund. I don&#x2019;t know if I could because it&#x2019;s &#x201C;modified&#x201D; I guess. My HP Pavilion that was $500 and several years old handles better than this computer.<br/>If you have bad luck, go get a computer from a trusted source without any modifications or you&#x2019;ll be throwing your broke self into more debt for a useless piece of garbage.<br/>I use it SOLELY for video editing, there is literally nothing else on this computer. I have CapCut and the media needed for video editing. THAT&#x2019;S IT and yet the computer can&#x2019;t deliver what I want. I&#x2019;m so disappointed.<br/>Since I&#x2019;m already broke because $1,000 dollars isn&#x2019;t just /something I have/ I can&#x2019;t afford to go get it looked at and I&#x2019;m stupid so of course I&#x2019;m not gonna understand anything. I buy stuff so that it&#x2019;s done for me because it&#x2019;s not my level of expertise.<br/>Like said I&#x2019;ll update when or IF I get justice. Like it working or a refund or something, but with the way things are going I&#x2019;m thinking nothing is gonna happen and this will be just another experience to throw into the pile of things I cry myself to sleep thinking about.<br/><br/>EDIT 9/5/23<br/>Still having trouble but recently had a breakthrough!!! So I bought fans for the laptop, surprise!! didn&#x2019;t work and it still kept rebooting on me randomly so I just set it under my bed to rot before I would break it over my knee. So it sat there for a while and randomly a few nights ago I was telling my friend about it and I pulled it out and it was working completely fine, like, not a single problem at all and I was like this laptop is trying to make me look bad wtf. I was amazed though and so happy. So I pulled it out today to use it and still no problems, but then the battery got low so I plugged it in and there it goes rebooting. IT WAS IT BEING PLUGGED INTO THE CHARGER?!!?? I tested it a few times then and every-time without fail the MOMENT i would put that bad boy charger in the rebooting parade would commence.<br/>My laptop came with a fault that has something to do with the charger and power and stuff because it would reboot randomly at the very beginning and then it got worse overtime.<br/>So now that I have discovered that there is hope I will be going and getting it checked out in hopes of it being a cheap fix.<br/>I will be keeping the one star though because in the end it came to me broken and has caused me more grief than I would like to admit and my opinion of it being a gamble still stands as other people have also had theirs arrive broken and stuff.<br/>TLDR; It&#x2019;s a good laptop but don&#x2019;t take the risk of it showing up broken, it&#x2019;s NOT worth it.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2T91OAWHOFEI6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on June 17, 2023",
+          "utc": "2023-06-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Erica Wagner",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGBGYTXRL5TSWEV4WPMHPFRNEOOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGBGYTXRL5TSWEV4WPMHPFRNEOOQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "ROCYBP6IGDK7",
+        "title": "Great starter laptop",
+        "body": "I bought this as a go between for gaming and light 3d modeling and programming. I can play any games I’ve tried such as halo, call of duty and such. Also has no problems running assemblies in fusion 360. Decent value when on sale. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this as a go between for gaming and light 3d modeling and programming. I can play any games I&#x2019;ve tried such as halo, call of duty and such. Also has no problems running assemblies in fusion 360. Decent value when on sale.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/ROCYBP6IGDK7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 28, 2023",
+          "utc": "2023-02-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alex Walker",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGZLPTUDHHGU5W4HC35MM6WT6WOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGZLPTUDHHGU5W4HC35MM6WT6WOQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R319KAHCY4J97R",
+        "title": "Good Laptop, Fast, and Reliable",
+        "body": "I have had the laptop for three weeks and use it primarily for digital art. Adobe products work quickly and with no crashing so far. Graphics are perfect for art and for games I have played. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have had the laptop for three weeks and use it primarily for digital art. Adobe products work quickly and with no crashing so far. Graphics are perfect for art and for games I have played.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R319KAHCY4J97R/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on July 10, 2023",
+          "utc": "2023-07-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kelsey",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEBSELNMDK5O7ROXZNQ6AIDXVGGA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEBSELNMDK5O7ROXZNQ6AIDXVGGA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/28499ed6-762c-4e37-904c-3d3c299dffe4._CR0%2C26%2C281%2C281_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RQR7IYS19PKXP",
+        "title": "I love this laptop !",
+        "body": "I absolutely love this laptop so far. It just came yesterday. It’s a big upgrade from my old desktop. I’m a music producer and I need a quick computer, that can handle a lot at once. And this laptop literally meets all of those expectations. Windows 11 reminds me of an apple device. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I absolutely love this laptop so far. It just came yesterday. It&#x2019;s a big upgrade from my old desktop. I&#x2019;m a music producer and I need a quick computer, that can handle a lot at once. And this laptop literally meets all of those expectations. Windows 11 reminds me of an apple device.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RQR7IYS19PKXP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on July 30, 2022",
+          "utc": "2022-07-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Angelique",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGUU7WGQO5FJSADKIVV6O2FJQC3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGUU7WGQO5FJSADKIVV6O2FJQC3A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R3J3GY8SPFI8TH",
+        "title": "Very Nice",
+        "body": "It came boxed and wrapped very well. It runs whisper quiet and has good speed. I saw where people complained about uploading onto it and it all going into OneDrive. All you have to do is uninstall OneDrive before you start putting things on the computer, no big deal. Read more",
+        "asin": "B0F6MXYX37",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It came boxed and wrapped very well. It runs whisper quiet and has good speed. I saw where people complained about uploading onto it and it all going into OneDrive. All you have to do is uninstall OneDrive before you start putting things on the computer, no big deal.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3J3GY8SPFI8TH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6MXYX37",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 2, 2022",
+          "utc": "2022-08-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Daniel",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHRPVXC5TXAPX6J7HVRTFC3KMUAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHRPVXC5TXAPX6J7HVRTFC3KMUAA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "32 GB RAM"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "189.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "279.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "82 days",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ELWL8B9U1SUC&asin=B0F6MXYX37&ref_=dp_merchant_link",
+          "id": "A1ELWL8B9U1SUC"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 2999.99,
+        "currency": "USD",
+        "raw": "$2,999.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎16 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎2560 x 1600 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎2560x1600 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎5.8 GHz core_i9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎8 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4070"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎6"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Lenovo"
+      },
+      {
+        "name": "Series",
+        "value": "‎Lenovo Legion Pro 5i"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎83DF00AQUS"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5.51 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.3 x 1 x 10.25 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.3 x 1 x 10.25 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Onyx Grey"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎24"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎PCIE x 4"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F6MXYX37"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.3    4.3 out of 5 stars         147 ratings          4.3 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#34,716 in Computers & Accessories (See Top 100 in Computers & Accessories) #5,508 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 28, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "Lenovo"
+      },
+      {
+        "name": "Model Name",
+        "value": "Lenovo Legion Pro 5i"
+      },
+      {
+        "name": "Screen Size",
+        "value": "16 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Onyx Grey"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "8 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "64 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad. Operating System: Windows 11 Pro. Ram Memory Installed Size: 64 GB. CPU Model: Core i9. Hard Disk Size: 8 TB. Color: Onyx Grey. Screen Size: 16 Inches. Model Name: Lenovo Legion Pro 5i. Brand: Lenovo. Date First Available: April 28, 2025. Best Sellers Rank: #34,716 in Computers & Accessories (See Top 100 in Computers & Accessories) #5,508 in Traditional Laptop Computers. Customer Reviews: 4.3    4.3 out of 5 stars         147 ratings          4.3 out of 5 stars. ASIN: B0F6MXYX37. Optical Drive Type: ‎No Optical Drive. Hard Drive Interface: ‎PCIE x 4. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎24. Processor Brand: ‎Intel. Color: ‎Onyx Grey. Item Dimensions  LxWxH: ‎14.3 x 1 x 10.25 inches. Product Dimensions: ‎14.3 x 1 x 10.25 inches. Item Weight: ‎5.51 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎83DF00AQUS. Series: ‎Lenovo Legion Pro 5i. Brand: ‎Lenovo. Number of USB 3.0 Ports: ‎6. Wireless Type: ‎Bluetooth, 802.11ax. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4070. Hard Drive: ‎8 TB SSD. RAM: ‎DDR5. Processor: ‎5.8 GHz core_i9. Max Screen Resolution: ‎2560x1600 Pixels. Screen Resolution: ‎2560 x 1600 pixels. Standing screen display size: ‎16 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 34716,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 5508,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Onyx Grey",
+    "weight": "‎5.51 pounds",
+    "first_available": {
+      "raw": "April 28, 2025",
+      "utc": "2025-04-28T00:00:00.000Z"
+    },
+    "dimensions": "‎14.3 x 1 x 10.25 inches",
+    "model_number": "‎83DF00AQUS",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 34716, Category: Traditional Laptop Computers | Rank: 5508",
+    "whats_in_the_box": [
+      "Lenovo Legion Pro 5i Gaming Laptop",
+      "Microsoft Office Pro Lifetime License",
+      "Windows 11 Pro"
+    ]
+  },
+  "brand_store": {
+    "id": "2C6395BA-C701-4025-9D7E-BAE1BD647EEE",
+    "link": "https://www.amazon.com/stores/LENOVO/page/2C6395BA-C701-4025-9D7E-BAE1BD647EEE"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 6949.38,
+      "currency": "USD",
+      "raw": "$6,949.38"
+    },
+    "products": [
+      {
+        "asin": "B0F6MXYX37",
+        "title": "Lenovo Legion Pro 5i Gen 9 Gaming Laptop, 16\" WQXGA(2560 x 1600) 240Hz, Intel 24-Core i9-14900HX, GeForce RTX 4070, 64 GB DDR5, 8 TB SSD, 4-Zone RGB Backlit, WiFi 6E, Win 11 Pro, Free Lifetime Office",
+        "link": "https://www.amazon.com/dp/B0F6MXYX37",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/711n1JdgL5L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 2999.99,
+          "currency": "USD",
+          "raw": "$2,999.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DLJ2B57F",
+    "link": "https://www.amazon.com/dp/B0DLJ2B57F/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=lbj8a&pd_rd_i=B0DLJ2B57F&pd_rd_w=Q6PNV&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=29b546a5-bbcf-45f8-864e-abece70d7438&psc=1",
+    "title": "Apple 2024 MacBook Pro Laptop with M4 Max, 14‑core CPU, 32‑core GPU: Built for Apple Intelligence, 14.2-inch Liquid Retina XDR Display, 36GB Unified Memory, 1TB SSD Storage; Silver",
+    "rating": 5,
+    "ratings_total": 768,
+    "image": "https://m.media-amazon.com/images/I/613RuHJEBQL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Lenovo Legion 7i Gaming Laptop - with Office Lifetime, 16\" IPS WQXGA 240Hz Display, Intel i7-14700HX(Up to 5.5 GHz), GeForce ",
+      "asin": "B0F2947V1V",
+      "link": "https://www.amazon.com/Lenovo-Legion-7i-Gaming-Laptop/dp/B0F2947V1V/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_1/141-4524618-4450758?pd_rd_w=ZBwPb&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=W8JC2&pd_rd_r=47932a32-4ecb-452a-ba0b-7bee44a5806b&pd_rd_i=B0F2947V1V&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71f8XA0pN1L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 10674,
+      "price": {
+        "symbol": "$",
+        "value": 1799,
+        "currency": "USD",
+        "raw": "$1,799.00"
+      }
+    },
+    {
+      "title": "Lenovo V15 Laptop, 15.6\" FHD Display, AMD Ryzen 5 5500U Hexa-core Processor (Beat i7-1065G7), 16GB RAM, 2TB SSD, RJ-45, Numer",
+      "asin": "B0CK9FGT57",
+      "link": "https://www.amazon.com/Lenovo-V15-Hexa-core-Processor-i7-1065G7/dp/B0CK9FGT57/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_2/141-4524618-4450758?pd_rd_w=ZBwPb&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=W8JC2&pd_rd_r=47932a32-4ecb-452a-ba0b-7bee44a5806b&pd_rd_i=B0CK9FGT57&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71dryUdTUdL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 692,
+      "price": {
+        "symbol": "$",
+        "value": 559,
+        "currency": "USD",
+        "raw": "$559.00"
+      }
+    },
+    {
+      "title": "Lenovo Legion 7i Gaming Laptop - w/Office Lifetime • Intel 20-Core i7-14700HX CPU • 16\" WQXGA 240Hz Display • RTX 4060 • Back",
+      "asin": "B0F1TR5527",
+      "link": "https://www.amazon.com/Lenovo-Legion-7i-Gaming-Laptop/dp/B0F1TR5527/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_3/141-4524618-4450758?pd_rd_w=ZBwPb&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=W8JC2&pd_rd_r=47932a32-4ecb-452a-ba0b-7bee44a5806b&pd_rd_i=B0F1TR5527&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71YRrSt969L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 4776,
+      "price": {
+        "symbol": "$",
+        "value": 2099.99,
+        "currency": "USD",
+        "raw": "$2,099.99"
+      }
+    },
+    {
+      "title": "Lenovo LOQ Gaming Laptop, 15.6\" FHD Display 144Hz, 32GB RAM, Intel Core i5-13420H, 8-core, 4.6GHz, 2TB Storage, NVIDIA GeForc",
+      "asin": "B0CSHLLJ17",
+      "link": "https://www.amazon.com/Lenovo-Display-i5-13420H-Bluetooth-Windows11/dp/B0CSHLLJ17/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_4/141-4524618-4450758?pd_rd_w=ZBwPb&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=W8JC2&pd_rd_r=47932a32-4ecb-452a-ba0b-7bee44a5806b&pd_rd_i=B0CSHLLJ17&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61O9ScOac-L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.2,
+      "ratings_total": 1482,
+      "price": {
+        "symbol": "$",
+        "value": 1259,
+        "currency": "USD",
+        "raw": "$1,259.00"
+      }
+    },
+    {
+      "title": "Lenovo Legion 7i 16 Inch Gaming Laptop, Intel i7-14700HX(Up to 5.5 GHz, Beat i9-13900HX), NVIDIA RTX 4060, 16\" LCD IPS WQXGA ",
+      "asin": "B0F23JDQSD",
+      "link": "https://www.amazon.com/Lenovo-Legion-i7-14700HX-i9-13900HX-Windows/dp/B0F23JDQSD/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_5/141-4524618-4450758?pd_rd_w=ZBwPb&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=W8JC2&pd_rd_r=47932a32-4ecb-452a-ba0b-7bee44a5806b&pd_rd_i=B0F23JDQSD&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71oaFzyYGoL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 1420,
+      "price": {
+        "symbol": "$",
+        "value": 1899.99,
+        "currency": "USD",
+        "raw": "$1,899.99"
+      }
+    },
+    {
+      "title": "Lenovo Legion Pro 7i Gaming Laptop - w/Office Lifetime • Intel 20-Core i7-14700HX CPU • RTX 4060 • 16\" WQXGA 240Hz Display • ",
+      "asin": "B0F43WGV4L",
+      "link": "https://www.amazon.com/Lenovo-Legion-7i-Gaming-Laptop/dp/B0F43WGV4L/ref=slsr_d_dpds_fsdp4star_fa_xcat_cheapdynam_d_sccl_2_6/141-4524618-4450758?pd_rd_w=ZBwPb&content-id=amzn1.sym.189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_p=189ba0e8-243a-408f-947d-77c5ac846d2e&pf_rd_r=E1SMFKVQTCJQ7NVQ7MZJ&pd_rd_wg=W8JC2&pd_rd_r=47932a32-4ecb-452a-ba0b-7bee44a5806b&pd_rd_i=B0F43WGV4L&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81QvF2nRUhL._AC_UL165_SR165,165_.jpg",
+      "price": {
+        "symbol": "$",
+        "value": 2299.99,
+        "currency": "USD",
+        "raw": "$2,299.99"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1395 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5569,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0B4JYRFKM",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:55:38.787Z",
+    "processed_at": "2025-05-20T01:55:44.717Z",
+    "total_time_taken": 5.93,
+    "amazon_url": "https://www.amazon.com/dp/B0B4JYRFKM?th=1&psc=1"
+  },
+  "product": {
+    "title": "Wireless Keyboard and Mouse, KOOTOP Cute Keyboard and Mouse, 2.4G Wireless Keyboard with Retro Round Keycap for PC, Mac, Laptop,Computer Windows (Milk Tea)",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Wireless,Keyboard,and,Mouse,KOOTOP,Cute,Keyboard,and,Mouse,2.4G,Wireless,Keyboard,with,Retro,Round,Keycap,for,PC,Mac,Laptop,Computer,Windows,(Milk,Tea)",
+    "keywords_list": [
+      "Wireless",
+      "Keyboard",
+      "Mouse",
+      "KOOTOP",
+      "Cute",
+      "Keyboard",
+      "Mouse",
+      "2.4G",
+      "Wireless",
+      "Keyboard",
+      "with",
+      "Retro",
+      "Round",
+      "Keycap",
+      "Laptop",
+      "Computer",
+      "Windows",
+      "(Milk",
+      "Tea)"
+    ],
+    "is_collection": false,
+    "asin": "B0B4JYRFKM",
+    "parent_asin": "B0CHVLCR4H",
+    "link": "https://www.amazon.com/Wireless-Keyboard-Dropout-Free-Connection-Compatible/dp/B0B4JYRFKM",
+    "brand": "Kootop",
+    "protection_plans": [
+      {
+        "asin": "B07Q46VN53",
+        "title": "3-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 5.99,
+          "currency": "USD",
+          "raw": "$5.99"
+        }
+      },
+      {
+        "asin": "B08L3TFCKJ",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 7.99,
+          "currency": "USD",
+          "raw": "$7.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "2 White",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "2 White"
+          }
+        ],
+        "asin": "B0B6FX56P1",
+        "link": "https://amazon.com/dp/B0B6FX56P1?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "S300 pink",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "S300 pink"
+          }
+        ],
+        "asin": "B0CKBF27SV",
+        "link": "https://amazon.com/dp/B0CKBF27SV?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Green",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Green"
+          }
+        ],
+        "asin": "B0BVTT1Z4G",
+        "link": "https://amazon.com/dp/B0BVTT1Z4G?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Black Green",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Black Green"
+          }
+        ],
+        "asin": "B0CWDT8M6M",
+        "link": "https://amazon.com/dp/B0CWDT8M6M?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Grey",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Grey"
+          }
+        ],
+        "asin": "B0CJ2K8H8P",
+        "link": "https://amazon.com/dp/B0CJ2K8H8P?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "3 Milk Tea",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "3 Milk Tea"
+          }
+        ],
+        "asin": "B0B4JYRFKM",
+        "link": "https://amazon.com/dp/B0B4JYRFKM?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "S300 purple",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "S300 purple"
+          }
+        ],
+        "asin": "B0CKBCM2X2",
+        "link": "https://amazon.com/dp/B0CKBCM2X2?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "S500 Coffee",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "S500 Coffee"
+          }
+        ],
+        "asin": "B0D2VKMP9S",
+        "link": "https://amazon.com/dp/B0D2VKMP9S?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0B6FX56P1,B0CKBF27SV,B0BVTT1Z4G,B0CWDT8M6M,B0CJ2K8H8P,B0B4JYRFKM,B0CKBCM2X2,B0D2VKMP9S",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computer Accessories & Peripherals",
+        "link": "https://www.amazon.com/Computer-Accessories-Supplies/b/ref=dp_bc_3?ie=UTF8&node=172456",
+        "category_id": "172456"
+      },
+      {
+        "name": "Keyboards, Mice & Accessories",
+        "link": "https://www.amazon.com/Computer-Keyboards-Mice-Accessories/b/ref=dp_bc_4?ie=UTF8&node=11548956011",
+        "category_id": "11548956011"
+      },
+      {
+        "name": "Keyboard & Mouse Combos",
+        "link": "https://www.amazon.com/Computer-Keyboard-Mouse-Combos/b/ref=dp_bc_5?ie=UTF8&node=1194464",
+        "category_id": "1194464"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computer Accessories & Peripherals > Keyboards, Mice & Accessories > Keyboard & Mouse Combos",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Brand: Kootop",
+      "link": "https://www.amazon.com/Kootop/b/ref=bl_dp_s_web_18570995011?ie=UTF8&node=18570995011&field-lbr_brands_browse-bin=Kootop"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "rating": 4.3,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 72,
+        "count": 1517
+      },
+      "four_star": {
+        "percentage": 10,
+        "count": 210
+      },
+      "three_star": {
+        "percentage": 6,
+        "count": 126
+      },
+      "two_star": {
+        "percentage": 4,
+        "count": 84
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 168
+      }
+    },
+    "ratings_total": 2108,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61T42vMOfJL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61T42vMOfJL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61GLB-aGOCL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61ilpycrmBL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61dJTK6qBzL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Mjbe2or0L._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Vj6NzklFL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71c+7QpXf5L._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71RdfDkCQpL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81rAJuaDkXL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61T42vMOfJL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61GLB-aGOCL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61ilpycrmBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61dJTK6qBzL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Mjbe2or0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Vj6NzklFL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71c+7QpXf5L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71RdfDkCQpL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81rAJuaDkXL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 170,
+        "width": 2000,
+        "height": 1170,
+        "thumbnail": "https://m.media-amazon.com/images/I/912x6+1FP3L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5065c593-6931-4eb4-acb0-d77e5f15acf1/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Watch this first... Good quality keyboard and mouse combo!"
+      },
+      {
+        "duration_seconds": 30,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/61OFyx4A2BL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34fb65e0-8bb7-4779-87ef-8f84ce207a56/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Love this keyboard and matching mouse"
+      },
+      {
+        "duration_seconds": 14,
+        "width": 640,
+        "height": 945,
+        "thumbnail": "https://m.media-amazon.com/images/I/61Y4D9hc+rL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e506b941-a983-4028-a0ec-12cfc630cf11/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "My Review on the milk and tea keyboard with wireless mouse."
+      },
+      {
+        "duration_seconds": 37,
+        "width": 270,
+        "height": 480,
+        "thumbnail": "https://m.media-amazon.com/images/I/71mgPP8j12L.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/873fd44a-e0fe-4112-9077-c3585eb43ad1/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Would buy again"
+      },
+      {
+        "duration_seconds": 15,
+        "width": 3840,
+        "height": 2160,
+        "thumbnail": "https://m.media-amazon.com/images/I/71HVOBT5lML.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09b43101-fceb-4aa6-b9ca-9ebca5b77d8c/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Colors and more colors"
+      },
+      {
+        "duration_seconds": 164,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51kReBViIuL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7f48ca1-4a67-46d6-ad6d-b9c9875a3d18/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+        "title": "colorful keyboard and mouse combo"
+      },
+      {
+        "duration_seconds": 108,
+        "width": 2160,
+        "height": 3840,
+        "thumbnail": "https://m.media-amazon.com/images/I/710utsc9qZL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/512729f3-33ea-4548-a25c-69e145e45610/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Cute Keyboard but Doesn’t Function Correctly/Defective"
+      },
+      {
+        "duration_seconds": 83,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/817rFseg-ML.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2ef71b3f-7d92-4271-952a-383796974e92/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Wireless Keyboard & Mouse (Retro inspired)"
+      },
+      {
+        "duration_seconds": 46,
+        "width": 640,
+        "height": 370,
+        "thumbnail": "https://m.media-amazon.com/images/I/51TEFi4oGtL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5df9b3d8-b57a-4cc6-b63d-bd4e2b70d71e/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Aesthetic Look keyboard with Mouse. #Founditonamazon #WorkFromHome"
+      },
+      {
+        "duration_seconds": 55,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51zD8JCKJeL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/440747f4-5d99-43b3-b8f5-f18c356cdc62/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Review of Wireless Keyboard Mouse Combo"
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5065c593-6931-4eb4-acb0-d77e5f15acf1/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34fb65e0-8bb7-4779-87ef-8f84ce207a56/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e506b941-a983-4028-a0ec-12cfc630cf11/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/873fd44a-e0fe-4112-9077-c3585eb43ad1/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09b43101-fceb-4aa6-b9ca-9ebca5b77d8c/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7f48ca1-4a67-46d6-ad6d-b9c9875a3d18/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/512729f3-33ea-4548-a25c-69e145e45610/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2ef71b3f-7d92-4271-952a-383796974e92/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5df9b3d8-b57a-4cc6-b63d-bd4e2b70d71e/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/440747f4-5d99-43b3-b8f5-f18c356cdc62/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.035b99d06d014c6e9c7a6b765cab881b",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM,B0B77DJC79",
+        "title": "Watch this first... Good quality keyboard and mouse combo!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/914ocaqPHwL._CR0,0,1170,1170_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fortworthcreatives",
+        "public_name": "✓ Axel Gaona",
+        "creator_type": "Influencer",
+        "vendor_code": "fortworthcreatives:shop",
+        "vendor_name": "✓ Axel Gaona",
+        "vendor_tracking_id": "onamzaxelgaon-20",
+        "video_image_id": "912x6+1FP3L",
+        "video_image_url": "https://m.media-amazon.com/images/I/912x6+1FP3L._CR0,0,2000,1129_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/912x6+1FP3L.jpg",
+        "video_image_width": "2000",
+        "video_image_height": "1170",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b1ff6fdc-c487-48e7-9416-742b64e8bee9/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5065c593-6931-4eb4-acb0-d77e5f15acf1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5065c593-6931-4eb4-acb0-d77e5f15acf1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5065c593-6931-4eb4-acb0-d77e5f15acf1/8efc29c6-e63d-42e3-a9e7-3e446cd5f75c/035b99d06d014c6e9c7a6b765cab881b_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:50",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/94fb7391-dc6f-47e3-a4dc-8b42ce8edeae.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09a5e93800c44bce9e6c335e14385f9f",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "Love this keyboard and matching mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/c0c901cb-9b15-4041-b031-854da3718c75._CR0%2C0%2C375%2C375_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AHXVJLSRQSQ3FK5IXFAIORBUWUJQ",
+        "public_name": "Arianna",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Arianna",
+        "video_image_id": "61OFyx4A2BL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61OFyx4A2BL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61OFyx4A2BL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/172ce332-bd07-4490-867e-83eb3e2d8390/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34fb65e0-8bb7-4779-87ef-8f84ce207a56/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/34fb65e0-8bb7-4779-87ef-8f84ce207a56/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:30",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/b85ded01-33cf-4742-ab67-636c0a1fa62a.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.07a4f343b2d041fbb871db2cf68ec5a9",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "My Review on the milk and tea keyboard with wireless mouse.",
+        "profile_image_url": "https://m.media-amazon.com/images/I/811wYcX4n+L._CR221,182,600,600_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-bd4af481",
+        "public_name": "TES",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-bd4af481:shop",
+        "vendor_name": "TES",
+        "vendor_tracking_id": "onamztonyasid-20",
+        "video_image_id": "61Y4D9hc+rL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61Y4D9hc+rL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61Y4D9hc+rL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "945",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4297b9be-bbe5-47cc-9052-a2a6ff8b7320/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e506b941-a983-4028-a0ec-12cfc630cf11/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e506b941-a983-4028-a0ec-12cfc630cf11/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e506b941-a983-4028-a0ec-12cfc630cf11/28c14b7d-f305-4b18-8c3b-dab89f31f9bb/07a4f343b2d041fbb871db2cf68ec5a9_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/545dc1eb-1f3f-4e81-9a57-f8a086764509.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0f30905dceb4435a80d9e8e43077cbeb",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "Would buy again",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFJ2QUVEMWZH7RBYVMT3UCXQQ6RQ",
+        "public_name": "Barbara Mullins",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Barbara Mullins",
+        "video_image_id": "71mgPP8j12L",
+        "video_image_url": "https://m.media-amazon.com/images/I/71mgPP8j12L._CR0,0,270,152_SR342,193_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71mgPP8j12L.png",
+        "video_image_width": "270",
+        "video_image_height": "480",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/02a8621f-5107-44c6-8b12-43429ba1268d/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/873fd44a-e0fe-4112-9077-c3585eb43ad1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/873fd44a-e0fe-4112-9077-c3585eb43ad1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:37",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/60646b5e-24ab-43a5-9ce5-9093dbca42e0.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.010d478b408944cf9b9c34da79c8e458",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "Colors and more colors",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/d641550c-7586-4002-acb4-d7a93eb4680a._CR0%2C0%2C500%2C500_SX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AFAKZW3QG5PGB6ILW42MWJWQW3CA",
+        "public_name": "Minnigabby",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Minnigabby",
+        "video_image_id": "71HVOBT5lML",
+        "video_image_url": "https://m.media-amazon.com/images/I/71HVOBT5lML._CR6,0,3828,2160_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71HVOBT5lML.jpg",
+        "video_image_width": "3840",
+        "video_image_height": "2160",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/42796b33-5cfb-4015-8afd-9173204909c3/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09b43101-fceb-4aa6-b9ca-9ebca5b77d8c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09b43101-fceb-4aa6-b9ca-9ebca5b77d8c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/7923689e-cb99-450c-a614-a0b3bf141aac.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.071a3a26c73449d2a50ba2f56b8414f8",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "colorful keyboard and mouse combo",
+        "public_name": "SHANYING INTERNET STORE",
+        "creator_type": "Seller",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "SHANYING INTERNET STORE",
+        "video_image_id": "51kReBViIuL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51kReBViIuL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51kReBViIuL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f82a187f-2e57-47c1-8c31-8eeeba8f85bd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7f48ca1-4a67-46d6-ad6d-b9c9875a3d18/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d7f48ca1-4a67-46d6-ad6d-b9c9875a3d18/73c3429d-827a-4b1c-bc1e-06dbc153550f/071a3a26c73449d2a50ba2f56b8414f8_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/268f9883-7c0d-4f22-84e5-e03bbf668cc1.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.068c17b1e054492ab0d380181f879e03",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "Cute Keyboard but Doesn’t Function Correctly/Defective",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHRLL5MJSVCY5ZMIV76S73PUQ4IQ",
+        "public_name": "Ash Fam",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Ash Fam",
+        "video_image_id": "710utsc9qZL",
+        "video_image_url": "https://m.media-amazon.com/images/I/710utsc9qZL._CR0,0,2160,1219_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/710utsc9qZL.jpg",
+        "video_image_width": "2160",
+        "video_image_height": "3840",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7eed9a49-dba7-4d1d-b91b-6d23c0cfe0ec/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/512729f3-33ea-4548-a25c-69e145e45610/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/512729f3-33ea-4548-a25c-69e145e45610/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:48",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a9f9fe3d-6662-4f05-a745-9fee74f09665.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0abaa1529bd546879cba7ce39239392e",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "Wireless Keyboard & Mouse (Retro inspired)",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81z-zWQV9vL._CR0,0,1401,1401_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-29fff00d",
+        "public_name": "Shopping with Kristen",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-29fff00d:shop",
+        "vendor_name": "Shopping with Kristen",
+        "vendor_tracking_id": "onamzkri0a6f0-20",
+        "video_image_id": "817rFseg-ML",
+        "video_image_url": "https://m.media-amazon.com/images/I/817rFseg-ML._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/817rFseg-ML.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ff4cfb5b-d4eb-4539-ae99-cdcde91b65d8/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2ef71b3f-7d92-4271-952a-383796974e92/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2ef71b3f-7d92-4271-952a-383796974e92/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2ef71b3f-7d92-4271-952a-383796974e92/973a29f6-c8bc-45aa-8252-94887fbe5767/0abaa1529bd546879cba7ce39239392e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8444d979-58de-4b85-b97a-bd87e7510e94.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.060d788e4454401e815aa04f8ed09507",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B4JYRFKM",
+        "title": "Aesthetic Look keyboard with Mouse. #Founditonamazon #WorkFromHome",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61-IOjYfebL._CR0,0,1080,1080_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/grusslingrhoda",
+        "public_name": "Mom Favorite finds",
+        "creator_type": "Influencer",
+        "vendor_code": "grusslingrhoda:shop",
+        "vendor_name": "Mom Favorite finds",
+        "vendor_tracking_id": "onamzrhodag.-20",
+        "video_image_id": "51TEFi4oGtL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51TEFi4oGtL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51TEFi4oGtL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "370",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/261ac64a-39f3-44c7-9e83-7f01896a7382/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5df9b3d8-b57a-4cc6-b63d-bd4e2b70d71e/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5df9b3d8-b57a-4cc6-b63d-bd4e2b70d71e/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:46",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/acd1e55a-10a3-424b-92c1-53a5be49bf5d.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ba1a99b1e3f418aa72dc98aeeb9b4aa",
+        "product_asin": "B0B4JYRFKM",
+        "parent_asin": "B0CHVLCR4H",
+        "related_products": "B0B6FX56P1",
+        "title": "Review of Wireless Keyboard Mouse Combo",
+        "profile_image_url": "https://m.media-amazon.com/images/I/916mdCFmvLL._CR0,0,2034,2034_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/influencer-f86a9573",
+        "public_name": "Jonathan Belle",
+        "creator_type": "Influencer",
+        "vendor_code": "influencer-f86a9573:shop",
+        "vendor_name": "Jonathan Belle",
+        "vendor_tracking_id": "onamzjon06c60-20",
+        "video_image_id": "51zD8JCKJeL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51zD8JCKJeL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51zD8JCKJeL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3342302c-f7fc-44f2-a725-5eba7c5ef2ce/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/440747f4-5d99-43b3-b8f5-f18c356cdc62/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/440747f4-5d99-43b3-b8f5-f18c356cdc62/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/440747f4-5d99-43b3-b8f5-f18c356cdc62/8e970da8-7b40-4d47-8ca4-41a3820e0a4e/0ba1a99b1e3f418aa72dc98aeeb9b4aa_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:55",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5c2ac0e7-dd31-4d12-b3cf-6044bdb78d64.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "2.4GHz Wireless Technology]plug and play, 35 feet working range, 2-in-1 nano receiver, no need to install other software, no delays or Drop the line, Make your desk surface more neat and tidy, Keyboard or mouse can be used separately, just insert a single USB Receiver to use your Wireless Keyboard Mouse Combos",
+      "12 Multimedia Hot Keys This cute wireless keyboard and mouse layout with numeric keypad. 12 multimedia hotkeys combined with FN provide a shortcut to your music, emails, movies, web, ect. Note: the 12 Multimedia shortcuts are not compatible with Mac systems",
+      "RETRO ROUND KEYCAPS keyboard and mouse wireless with vintage typewriter-inspired rounded keycaps, gives you the most comfortable typing experience and adds some much needed spunk to your desk",
+      "Silent Wireless Mouse & Long Battery Life This cute mouse provides whisper-quiet clicking, don't worry about disturbing others, or causing unnecessary distracting noises. The brown wireless keyboard and mouse, to further conserve battery life, energy-saving sleep mode kicks in automatically after 8 minutes of no use, click any key or button of to wake-up within seconds",
+      "Wide Compatibility & Great Service typewriter keyboard wireless and mouse combo compatible with Windows 2000 / ME / XP / 7 / 8 / 10, VISTA and Mac. Wireless keyboard brown, suitable for desktops, Chrome-book, PC, Laptop, Computer,Smart TVs and more. If you encounter any problems during use, please contact us, we will provide a satisfactory solutions"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Wide Compatibility & Great Service typewriter keyboard wireless and mouse combo compatible with Windows 2000 / ME / XP / 7 / 8 / 10, VISTA and Mac. Wireless keyboard brown, suitable for desktops, Chrome-book, PC, Laptop, Computer,Smart TVs and more. If you encounter any problems during use, please contact us, we will provide a satisfactory solutions. Silent Wireless Mouse & Long Battery Life This cute mouse provides whisper-quiet clicking, don't worry about disturbing others, or causing unnecessary distracting noises. The brown wireless keyboard and mouse, to further conserve battery life, energy-saving sleep mode kicks in automatically after 8 minutes of no use, click any key or button of to wake-up within seconds. RETRO ROUND KEYCAPS keyboard and mouse wireless with vintage typewriter-inspired rounded keycaps, gives you the most comfortable typing experience and adds some much needed spunk to your desk. 12 Multimedia Hot Keys This cute wireless keyboard and mouse layout with numeric keypad. 12 multimedia hotkeys combined with FN provide a shortcut to your music, emails, movies, web, ect. Note: the 12 Multimedia shortcuts are not compatible with Mac systems. 2.4GHz Wireless Technology]plug and play, 35 feet working range, 2-in-1 nano receiver, no need to install other software, no delays or Drop the line, Make your desk surface more neat and tidy, Keyboard or mouse can be used separately, just insert a single USB Receiver to use your Wireless Keyboard Mouse Combos.",
+    "top_reviews": [
+      {
+        "id": "R18HN8Q3TAK750",
+        "title": "You get what you pay",
+        "body": "The color is so cute ! Adds the perfect touch of girly and sophisticated! It is super easy to connect to your monitor and includes batteries! Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The color is so cute ! Adds the perfect touch of girly and sophisticated! It is super easy to connect to your monitor and includes batteries!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R18HN8Q3TAK750/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 15, 2025",
+          "utc": "2025-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nitzy lopez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFBAQ4RE5FNPXJEZUCA3GFO7G53Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFBAQ4RE5FNPXJEZUCA3GFO7G53Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "3 Milk Tea"
+          }
+        ]
+      },
+      {
+        "id": "R7YN4536ULSGR",
+        "title": "I love this keyboard",
+        "body": "I love this keyboard and the mouse. The color is so nice and I recommend. Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I love this keyboard and the mouse. The color is so nice and I recommend.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R7YN4536ULSGR/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 10, 2025",
+          "utc": "2025-05-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nicollette moss",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHNVRZ3JUU5VFYX3PNWQBYQWC6A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHNVRZ3JUU5VFYX3PNWQBYQWC6A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "2 White"
+          }
+        ]
+      },
+      {
+        "id": "R38K3TTJ220RB9",
+        "title": "Lindo y buena calidad",
+        "body": "Muy lindo y la teclas se siente muy bien, para nada tienen una sensacion de que sea barato, de muy buena calidad. Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Muy lindo y la teclas se siente muy bien, para nada tienen una sensacion de que sea barato, de muy buena calidad.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R38K3TTJ220RB9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 1, 2025",
+          "utc": "2025-05-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "valentina gonzalez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHP3TFB7NWXBCRIIWOP4GTDDEGXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHP3TFB7NWXBCRIIWOP4GTDDEGXA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "3 Milk Tea"
+          }
+        ]
+      },
+      {
+        "id": "R2ZBBW6OOKJ8KG",
+        "title": "5/5",
+        "body": "Love it exactly what I was looking for Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Love it exactly what I was looking for<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2ZBBW6OOKJ8KG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 3, 2025",
+          "utc": "2025-05-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Criso",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGCPIWUZFMYOLCGJEJAO7PHU3WYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGCPIWUZFMYOLCGJEJAO7PHU3WYQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "2 White"
+          }
+        ]
+      },
+      {
+        "id": "R4QZYHCHU8X85",
+        "title": "Space bar is a different sound than the other keys.",
+        "body": "The only thing I don’t like about it is the mouse will disconnect and you have to click it to use it to wake it back up and the space bar is a much different sound than the rest of the keys. So if you are getting it for the typing sound, I would keep shopping because the space bar sound is much different. Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The only thing I don&#x2019;t like about it is the mouse will disconnect and you have to click it to use it to wake it back up and the space bar is a much different sound than the rest of the keys. So if you are getting it for the typing sound, I would keep shopping because the space bar sound is much different.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R4QZYHCHU8X85/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 24, 2025",
+          "utc": "2025-03-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHRHVIWC45BLWCZZXZ5XIN2OW3BA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHRHVIWC45BLWCZZXZ5XIN2OW3BA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "S500 Coffee"
+          }
+        ]
+      },
+      {
+        "id": "R1SAFTUDSPO9MD",
+        "title": "🌟THIS KEYBOARD IS FANTASTIC🌟 10/10 - Great Gift for WFH !",
+        "body": "The media could not be loaded. This review is for the Green Wireless Keyboard and Mouse, KOOTOP Cute Green Colorful Keyboard and Mouse, 2.4G Wireless Keyboard with Retro Round Keycap for PC, Mac, Laptop,Tablet,Computer Windows (Green) ……….…… ……….…… ……….……  To summarize this item in one word - FANTASTIC!  The Look - The design is very welcoming & user friendly. In comparison to a common work keyboard (LOGI K360) it is a similar layout. The KOOTOP keyboard is about 2-inches longer that a common work keyboard & is about 1/2-inch thicker. The base of the keyboard has a smooth, glossy finish which is very easy to clean. The keys are a smooth matte finish & the key labels are stickers on the keys. The key shape is a nontraditional, typewriter kind of shape. If you don’t have long nails, these keys are nicely designed to fit your finger without being too close to each other. Certain keys do not have written indicators (tab, shift, delete, enter) however it is clearly translated what those keys are meant for. The mouse has a matte finish on the bottom & a smooth glossy finish on top. There are 4 buttons on the mouse: left click, right click, the scrolling wheel, & a side trigger (preferable for PC gaming). It is about the same size as a common work mouse & fits very comfortable in your hand.  The Function - The KOOTOP keyboard works as well as a standard keyboard. The keys all have immediate responses & are very easy to press on. Despite the gaps between the keys, I do not struggle with hitting the right key/falling into the gaps. I wear acrylic nails, so while I see multiple people speaking to the quietness of the keyboard I unfortunately cannot relate. For us gel tipped superstars, the key tapping can be a little louder than those with shorter nails but it’s not that abrasive, high pitched, scratching sound you get from hitting a key on a Mac/LOGI keyboard. I’ve included a video for reference. The mouse is a low, pleasant click & is also very responsive in click & scroll. The mouse won’t work unless you click to wake it. Both operate on one double-A (AA) battery each & batteries are provided.  The Feel - This might sound a little extra, but this keyboard genuinely makes me want to sit down & type. The color wave & the sound make this keyboard a very inviting tool - especially for work. The color options give a choice for every aesthetic & vibe (that being said, GIVE MORE COLOR OPTIONS!). I can’t think of anyone who wouldn’t benefit from the experience of this keyboard.  Tldr; Buy it, love it, thank me later ✨ Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R1SAFTUDSPO9MD\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                  <div id=\"review-video-id-R1SAFTUDSPO9MD\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R1SAFTUDSPO9MD\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ed09b69c-2902-4b57-aa41-25ffc515da2f/embedded.cc.default.vertical.jobtemplate.hls.m3u8\" data-closed-captions=\"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cd1fe123-fe34-4bab-a620-c6f40ffebe9e.vtt\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/61jKb7eRSeL._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"/>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>                </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/F1dj0T7okLL.mp4\" class=\"video-url\"/><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/61jKb7eRSeL._SY256.jpg\" class=\"video-slate-img-url\"/>             <span>This review is for the Green Wireless Keyboard and Mouse, KOOTOP Cute Green Colorful Keyboard and Mouse, 2.4G Wireless Keyboard with Retro Round Keycap for PC, Mac, Laptop,Tablet,Computer Windows (Green)<br/>&#x2026;&#x2026;&#x2026;.&#x2026;&#x2026; &#x2026;&#x2026;&#x2026;.&#x2026;&#x2026; &#x2026;&#x2026;&#x2026;.&#x2026;&#x2026;<br/><br/>To summarize this item in one word - FANTASTIC!<br/><br/>The Look - The design is very welcoming &amp; user friendly. In comparison to a common work keyboard (LOGI K360) it is a similar layout. The KOOTOP keyboard is about 2-inches longer that a common work keyboard &amp; is about 1/2-inch thicker. The base of the keyboard has a smooth, glossy finish which is very easy to clean. The keys are a smooth matte finish &amp; the key labels are stickers on the keys. The key shape is a nontraditional, typewriter kind of shape. If you don&#x2019;t have long nails, these keys are nicely designed to fit your finger without being too close to each other. Certain keys do not have written indicators (tab, shift, delete, enter) however it is clearly translated what those keys are meant for. The mouse has a matte finish on the bottom &amp; a smooth glossy finish on top. There are 4 buttons on the mouse: left click, right click, the scrolling wheel, &amp; a side trigger (preferable for PC gaming). It is about the same size as a common work mouse &amp; fits very comfortable in your hand.<br/><br/>The Function - The KOOTOP keyboard works as well as a standard keyboard. The keys all have immediate responses &amp; are very easy to press on. Despite the gaps between the keys, I do not struggle with hitting the right key/falling into the gaps. I wear acrylic nails, so while I see multiple people speaking to the quietness of the keyboard I unfortunately cannot relate. For us gel tipped superstars, the key tapping can be a little louder than those with shorter nails but it&#x2019;s not that abrasive, high pitched, scratching sound you get from hitting a key on a Mac/LOGI keyboard. I&#x2019;ve included a video for reference. The mouse is a low, pleasant click &amp; is also very responsive in click &amp; scroll. The mouse won&#x2019;t work unless you click to wake it. Both operate on one double-A (AA) battery each &amp; batteries are provided.<br/><br/>The Feel - This might sound a little extra, but this keyboard genuinely makes me want to sit down &amp; type. The color wave &amp; the sound make this keyboard a very inviting tool - especially for work. The color options give a choice for every aesthetic &amp; vibe (that being said, GIVE MORE COLOR OPTIONS!). I can&#x2019;t think of anyone who wouldn&#x2019;t benefit from the experience of this keyboard.<br/><br/>Tldr; Buy it, love it, thank me later &#x2728;<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1SAFTUDSPO9MD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 18, 2023",
+          "utc": "2023-12-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ali Cruz",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHT7V5TN5SQHAQHJTJ72HWDQCISQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHT7V5TN5SQHAQHJTJ72HWDQCISQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/I/F1dj0T7okLL.mp4",
+            "image": "https://m.media-amazon.com/images/I/61jKb7eRSeL._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 94,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Green"
+          }
+        ]
+      },
+      {
+        "id": "R2MC3B16ET0A6M",
+        "title": "LOVE IT!",
+        "body": "I love this keyboard. The color, the typing on it, the size, and the mouse. Super cute and affordable. Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I love this keyboard. The color, the typing on it, the size, and the mouse. Super cute and affordable.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2MC3B16ET0A6M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 12, 2025",
+          "utc": "2025-04-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Destiny",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEWTMLUVLGK6GIKKZZ5FSFVPC4RQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEWTMLUVLGK6GIKKZZ5FSFVPC4RQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/7f38fd79-2c54-4b52-9072-fde312cacd56._CR33%2C0%2C433%2C433_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "S500 Coffee"
+          }
+        ]
+      },
+      {
+        "id": "R1NCKQPU0427VN",
+        "title": "Really cute",
+        "body": "Awesome and SUPER cute, but the USB connector thingy that goes into the computer broke, and now the whole thing is useless. I wish I could get that one part without having to replace the whole thing. Other than that though, I suggest you get it! I never had to change the batteries after a good 7 months of use (weirdly enough), and the connection was very good. Read more",
+        "asin": "B0B4JYRFKM",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Awesome and SUPER cute, but the USB connector thingy that goes into the computer broke, and now the whole thing is useless. I wish I could get that one part without having to replace the whole thing. Other than that though, I suggest you get it! I never had to change the batteries after a good 7 months of use (weirdly enough), and the connection was very good.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1NCKQPU0427VN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0B4JYRFKM",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 17, 2025",
+          "utc": "2025-03-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "clara ♡",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFPYJN5NLPXPSWPFKBOEFBMRK7MQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFPYJN5NLPXPSWPFKBOEFBMRK7MQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/4a7ad7c7-a828-4d8d-a871-1d924f64773f._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "3 Milk Tea"
+          }
+        ]
+      },
+      {
+        "id": "R1FL2SW0XL0FEH",
+        "title": "Quality not worth the price.",
+        "body": "The entire combo did not work at all. Mouse did not even bother connecting to my device and keyboard had a mind of it's own where it duplicated what I pressed; at times it didn't even pick up that a certain key was pressed. Two stars given because the sound of the keycap feedback was nice. Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The entire combo did not work at all. Mouse did not even bother connecting to my device and keyboard had a mind of it&apos;s own where it duplicated what I pressed; at times it didn&apos;t even pick up that a certain key was pressed.<br/>Two stars given because the sound of the keycap feedback was nice.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in Australia on November 27, 2024",
+          "utc": "2024-11-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Winnie"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "au",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "S300 pink"
+          }
+        ]
+      },
+      {
+        "id": "R56YV3D30YZX4",
+        "title": "Idéntico al render de la publicación",
+        "body": "The media could not be loaded. A penas tengo un par de días con el teclado y me gustó muchísimo (el mouse no lo he usado, mi objetivo era solo el teclado) No es ruidoso, pero es agradable teclear en el. Lo recomiendo hasta el momento Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R56YV3D30YZX4\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R56YV3D30YZX4\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R56YV3D30YZX4\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1ae8cdf4-c544-42a9-b024-8e3b766285b5/default.vertical.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51CiUVcdwKL._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"/>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/E1QMaMdArrL.mp4\" class=\"video-url\"/><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51CiUVcdwKL._SY256.jpg\" class=\"video-slate-img-url\"/>           <span class=\"cr-original-review-content\">A penas tengo un par de d&#xED;as con el teclado y me gust&#xF3; much&#xED;simo (el mouse no lo he usado, mi objetivo era solo el teclado)<br/>No es ruidoso, pero es agradable teclear en el. Lo recomiendo hasta el momento<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on July 2, 2024",
+          "utc": "2024-07-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Susana Alcaraz"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/I/E1QMaMdArrL.mp4",
+            "image": "https://m.media-amazon.com/images/I/51CiUVcdwKL._SY256.jpg"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "2 White"
+          }
+        ]
+      },
+      {
+        "id": "RFRF7YD0BL55W",
+        "title": "Buen producto",
+        "body": "Su sonido es agradable (para los que les gusta que se escuchen las teclas) y se ve muy bonito Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Su sonido es agradable (para los que les gusta que se escuchen las teclas) y se ve muy bonito<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Mexico on May 15, 2024",
+          "utc": "2024-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "DafneRG"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "2 White"
+          }
+        ]
+      },
+      {
+        "id": "R224KG582CDMXF",
+        "title": "No lo compren esta chafisima, menos de 2 meses de uso y ya no sirve",
+        "body": "al inicio estaba encantada, pero es pésima compra, lleva menos de 2 meses y ya no sirve, pude haber comprado algo de mejor calidad con lo que me costó este, no gasten su dinero y mejor inviértanle en un teclado mejor que este es una pésima opción Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">al inicio estaba encantada, pero es p&#xE9;sima compra, lleva menos de 2 meses y ya no sirve, pude haber comprado algo de mejor calidad con lo que me cost&#xF3; este, no gasten su dinero y mejor invi&#xE9;rtanle en un teclado mejor que este es una p&#xE9;sima opci&#xF3;n<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in Mexico on October 7, 2024",
+          "utc": "2024-10-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Samantha"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "2 White"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "3-Year Protection Plan",
+          "duration_months": 36,
+          "price": {
+            "billing_type": "one_time",
+            "value": "5.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "7.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, May 23",
+          "name": "Or fastest delivery Friday, May 23. Order within 3 hrs 4 mins"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "GAMING MALL",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2MEMEJZ6IRDWO&asin=B0B4JYRFKM&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A2MEMEJZ6IRDWO"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 39.99,
+        "currency": "USD",
+        "raw": "$39.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Package Dimensions",
+        "value": "17.56 x 8.94 x 1.73 inches"
+      },
+      {
+        "name": "Item Weight",
+        "value": "2.18 pounds"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0B4JYRFKM"
+      },
+      {
+        "name": "Item model number",
+        "value": "Kootop"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.3    4.3 out of 5 stars         2,108 ratings          4.3 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#99 in Computer Keyboard & Mouse Combos"
+      },
+      {
+        "name": "Date First Available",
+        "value": "June 20, 2022"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Kootop"
+      },
+      {
+        "name": "Brand",
+        "value": "Kootop"
+      },
+      {
+        "name": "Color",
+        "value": "3 Milk Tea"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "Usb"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Round Key"
+      },
+      {
+        "name": "Compatible Devices",
+        "value": "Personal Computer, Laptop, Smart TV"
+      }
+    ],
+    "specifications_flat": "Compatible Devices: Personal Computer, Laptop, Smart TV. Special Feature: Round Key. Connectivity Technology: Usb. Color: 3 Milk Tea. Brand: Kootop. Manufacturer: Kootop. Date First Available: June 20, 2022. Best Sellers Rank: #99 in Computer Keyboard & Mouse Combos. Customer Reviews: 4.3    4.3 out of 5 stars         2,108 ratings          4.3 out of 5 stars. Item model number: Kootop. ASIN: B0B4JYRFKM. Item Weight: 2.18 pounds. Package Dimensions: 17.56 x 8.94 x 1.73 inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computer Keyboard & Mouse Combos",
+        "rank": 99,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/1194464/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "3 Milk Tea",
+    "manufacturer": "Kootop",
+    "weight": "2.18 pounds",
+    "first_available": {
+      "raw": "June 20, 2022",
+      "utc": "2022-06-20T00:00:00.000Z"
+    },
+    "model_number": "Kootop",
+    "bestsellers_rank_flat": "Category: Computer Keyboard & Mouse Combos | Rank: 99"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 57.46,
+      "currency": "USD",
+      "raw": "$57.46"
+    },
+    "products": [
+      {
+        "asin": "B0B4JYRFKM",
+        "title": "Wireless Keyboard and Mouse, KOOTOP Cute Keyboard and Mouse, 2.4G Wireless Keyboard with Retro Round Keycap for PC, Mac, Laptop,Computer Windows (Milk Tea)",
+        "link": "https://www.amazon.com/dp/B0B4JYRFKM",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61T42vMOfJL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B0BKKJC593",
+        "link": "https://www.amazon.com/dp/B0BKKJC593",
+        "title": "MOFII Wireless Computer Keyboard and Mouse Combo, Typewriter Full Size Keyboard with Number Pad and 2 in 1 USB Connected Mouse for PC Computer Laptop Desktop Windows (Milk Tea)",
+        "image": "https://m.media-amazon.com/images/I/71FqziMi-hL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 856,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B09DD9F13J",
+        "link": "https://www.amazon.com/dp/B09DD9F13J",
+        "title": "MOFII-TzBBL Mini Wireless Keyboard Mouse Set Round Keycap Multi-Colour Cute Lovely for Girls 84 Key (Multicolor-Chocolate)……",
+        "image": "https://m.media-amazon.com/images/I/61LOjPgqmvL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1052,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B0CN9N1953",
+        "link": "https://www.amazon.com/dp/B0CN9N1953",
+        "title": "Wireless Keyboard and Mouse Combo, MOFII Full-Size Retro Round Keyboard and Mouse, 2.4 GHz Wireless, Plug and Play, 8 Multimedia & Shortcut Keysfor Mac, Windows, Laptop/Desktop/PC (Creamy)",
+        "image": "https://m.media-amazon.com/images/I/71e-z-K7MkL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 142,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 35.99,
+          "currency": "USD",
+          "raw": "$35.99"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B0DFCPFR68",
+        "link": "https://www.amazon.com/dp/B0DFCPFR68",
+        "title": "Wireless Keyboard and Mouse, MOFII Cute Keyboard and Mouse with OTG Adapter, 2.4G Wireless Colorful Keyboard for PC, Mac, Laptop,Tablet,Computer Windows (Brown and White)",
+        "image": "https://m.media-amazon.com/images/I/61nS+Cp5orL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 455,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 23.99,
+          "currency": "USD",
+          "raw": "$23.99"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B0CH9HQZ3K",
+        "link": "https://www.amazon.com/dp/B0CH9HQZ3K",
+        "title": "MOFII Wireless Keyboard and Mouse Combo, 2.4G Full-Size Retro Typewriter Computer Keyboard and 3 Level DPI Adjustable Wireless Mouse for Windows, Mac OS Desktop/Laptop/PC-Milk Tea Colorful",
+        "image": "https://m.media-amazon.com/images/I/61b7jLS7D9L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2091,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B0B6G3H6ZD",
+        "link": "https://www.amazon.com/dp/B0B6G3H6ZD",
+        "title": "MOFII Wireless Keyboard and Mouse Combo, Milk Tea Colorful Round Key Typewriter Keyboards, 2.4G Full Size Keyboard and Cute Wireless Mice, USB Receiver Plug and Play, for Laptop, PC, Windows",
+        "image": "https://m.media-amazon.com/images/I/61rVgv6WHaL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2436,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 30.59,
+          "currency": "USD",
+          "raw": "$30.59"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B0DFNKRZXR",
+        "link": "https://www.amazon.com/dp/B0DFNKRZXR",
+        "title": "Wireless Keyboard and Mouse Combo, MOFII Full-Size Retro Round Keyboard and Mouse, 2.4 GHz Wireless, Plug and Play, 8 Multimedia & Shortcut Keysfor Mac, Windows, Laptop/Desktop/PC (Purple)",
+        "image": "https://m.media-amazon.com/images/I/718Zn7JGlHL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 142,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 37.99,
+          "currency": "USD",
+          "raw": "$37.99"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B0D3Q79J1V",
+        "link": "https://www.amazon.com/dp/B0D3Q79J1V",
+        "title": "MOFII Wireless Keyboard and Mouse Combo - Pale Coffee Full Sized Plug and Play Colorful Computer Keyboards - 104 Keys Round Keycap USB 2.4G Cute Keyboard for Windows/Laptop/Mac/Desktop/PC",
+        "image": "https://m.media-amazon.com/images/I/61RyYFa78XL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 146,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B09PYG7CG2",
+        "link": "https://www.amazon.com/dp/B09PYG7CG2",
+        "title": "Mofii Wireless Keyboard and Mouse Combo,2.4G USB Multi-Color Cute Full Size Keyboard and Optical Mice Set for Computer Desktop PC Laptop (Chocolate-Mixed)…",
+        "image": "https://m.media-amazon.com/images/I/61Gpf5lVyqL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1052,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 38.69,
+          "currency": "USD",
+          "raw": "$38.69"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B097R4L2JF",
+        "link": "https://www.amazon.com/dp/B097R4L2JF",
+        "title": "FOPETT Keyboard and Mouse Sets Wireless,Reliable 2.4 GHz Connectivity for PC,Laptop,Smart TV and More (Milk Tea Color)",
+        "image": "https://m.media-amazon.com/images/I/613z63OJKgL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2733,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 39.99,
+          "currency": "USD",
+          "raw": "$39.99"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B0CRF4NV3Z",
+        "link": "https://www.amazon.com/dp/B0CRF4NV3Z",
+        "title": "FOPETT Wireless Keyboard and Mouse Cute Mouse and Keyboard 2.4G Wireless Keyboards with Colorful 68 Keys Typewriter Retro Round Keycap for PC, Laptop,Tablet,Computer Windows - Milk Tea Colorful",
+        "image": "https://m.media-amazon.com/images/I/61REe1X+ioL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 760,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B0CRF3CN9J",
+        "link": "https://www.amazon.com/dp/B0CRF3CN9J",
+        "title": "FOPETT Wireless Keyboard and Mouse Cute Mouse and Keyboard 2.4G Wireless Keyboards with Colorful 68 Keys Typewriter Retro Round Keycap for PC, Laptop,Tablet,Computer Windows - Pink Colorful",
+        "image": "https://m.media-amazon.com/images/I/61fPnC2+H-L._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 760,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      }
+    ],
+    "title": "Discover similar items"
+  },
+  "similar_to_consider": {
+    "asin": "B0787CVBWP",
+    "link": "https://www.amazon.com/dp/B0787CVBWP/ref=vp_d_pb_TIER3_trans_lp_B0B4JYRFKM_pd?_encoding=UTF8&pf_rd_p=f2b81459-15a8-49ed-af53-684ffd48c8c9&pf_rd_r=Z819HVZ6BMRRRB7M6HFJ&pd_rd_wg=fl7y4&pd_rd_i=B0787CVBWP&pd_rd_w=3tIex&content-id=amzn1.sym.f2b81459-15a8-49ed-af53-684ffd48c8c9&pd_rd_r=b5a7181a-7756-499f-bd8f-a1a5f436ca1d&psc=1",
+    "title": "Amazon Basics 2.4GHz Wireless Computer Keyboard and Mouse Combo, Quiet and Compact US Layout (QWERTY), Black",
+    "rating": 4,
+    "ratings_total": 5093,
+    "image": "https://m.media-amazon.com/images/I/61aVba5RFJL._SS100_.jpg",
+    "is_prime": true
+  }
+}

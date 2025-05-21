@@ -1,0 +1,843 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5585,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DN5RWNNC",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:53:11.159Z",
+    "processed_at": "2025-05-20T01:53:17.398Z",
+    "total_time_taken": 6.24,
+    "amazon_url": "https://www.amazon.com/dp/B0DN5RWNNC?th=1&psc=1"
+  },
+  "product": {
+    "title": "HP Victus 15.6 inch FHD 144Hz Gaming Laptop Intel Core i5-13420H NVIDIA GeForce RTX 4050 6GB - 16GB DDR4 512GB SSD Mica Silver (2024)",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "HP,Victus,15.6,inch,FHD,144Hz,Gaming,Laptop,Intel,Core,i5-13420H,NVIDIA,GeForce,RTX,4050,6GB,16GB,DDR4,512GB,SSD,Mica,Silver,(2024)",
+    "keywords_list": [
+      "Victus",
+      "15.6",
+      "inch",
+      "144Hz",
+      "Gaming",
+      "Laptop",
+      "Intel",
+      "Core",
+      "i5-13420H",
+      "NVIDIA",
+      "GeForce",
+      "4050",
+      "16GB",
+      "DDR4",
+      "512GB",
+      "Mica",
+      "Silver",
+      "(2024)"
+    ],
+    "is_collection": false,
+    "asin": "B0DN5RWNNC",
+    "link": "https://www.amazon.com/HP-Victus-Gaming-i5-13420H-GeForce/dp/B0DN5RWNNC",
+    "brand": "‎HP",
+    "protection_plans": [
+      {
+        "asin": "B07PC1MG12",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 73.99,
+          "currency": "USD",
+          "raw": "$73.99"
+        }
+      },
+      {
+        "asin": "B07P6YXWQ7",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 124.99,
+          "currency": "USD",
+          "raw": "$124.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "The HP Victus 15 inch Gaming Laptop starts you on a gaming adventure with powerful Intel Core processor and discrete NVIDIA GeForce RTX graphics, all packaged in a sleek gaming laptop. The updated thermal design lets you enjoy the FHD display with 144Hz refresh rate for max power gaming and after-hours streaming. Open up your game with a full gaming keyboard with the OMEN Gaming Hub key and a much bigger touchpad.",
+    "sub_title": {
+      "text": "Visit the HP Store",
+      "link": "https://www.amazon.com/stores/HP/page/5BA42671-3E42-4AEB-B9E4-272F10DD0121?lp_asin=B0DN5RWNNC&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 72,
+        "count": 49
+      },
+      "four_star": {
+        "percentage": 17,
+        "count": 11
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 3
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 6,
+        "count": 4
+      }
+    },
+    "ratings_total": 69,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81obPsMhewL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81obPsMhewL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41FBlmyGmUL._AC_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41ao74AqWhL._AC_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/31g1c9mbDtL._AC_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/21O11BRtMeL._AC_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/31pK-y6rJ7L._AC_SL1000_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/41GMJmM66bL._AC_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/81obPsMhewL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/41FBlmyGmUL._AC_.jpg,https://m.media-amazon.com/images/I/41ao74AqWhL._AC_.jpg,https://m.media-amazon.com/images/I/31g1c9mbDtL._AC_.jpg,https://m.media-amazon.com/images/I/21O11BRtMeL._AC_.jpg,https://m.media-amazon.com/images/I/31pK-y6rJ7L._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/41GMJmM66bL._AC_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 35,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61dVED40M9L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e85e4899-408a-4a46-8235-38b28e2a13a2/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "How good is the HP Victus? MUST WATCH before buying!"
+      },
+      {
+        "duration_seconds": 14,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/61AnrfbNAKL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a05200b9-8742-4ef0-a7f6-3418926bfb48/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Very Nice"
+      }
+    ],
+    "videos_count": 2,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e85e4899-408a-4a46-8235-38b28e2a13a2/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a05200b9-8742-4ef0-a7f6-3418926bfb48/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0e6b6d8df9cb4931be62594a78ab062b",
+        "product_asin": "B0DN5RWNNC",
+        "parent_asin": "B0DN5RWNNC",
+        "title": "How good is the HP Victus? MUST WATCH before buying!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81x8LBpTaGL._CR0,0,1179,1179_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/macaabu",
+        "public_name": "Oliver's Review Corner",
+        "creator_type": "Influencer",
+        "vendor_code": "macaabu:shop",
+        "vendor_name": "Oliver's Review Corner",
+        "vendor_tracking_id": "onamzmarijabu-20",
+        "video_image_id": "61dVED40M9L",
+        "video_image_url": "https://m.media-amazon.com/images/I/61dVED40M9L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61dVED40M9L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d957f3f0-81cf-4573-8d1a-4c78c58c7bcb/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e85e4899-408a-4a46-8235-38b28e2a13a2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e85e4899-408a-4a46-8235-38b28e2a13a2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:35",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/581d5e91-377f-4dea-a492-e791f6d56416.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e0c65155855454dbf36518781c9f915",
+        "product_asin": "B0DN5RWNNC",
+        "parent_asin": "B0DN5RWNNC",
+        "title": "Very Nice",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/1370d925-2464-4efa-9d96-d3c330218985._CR0%2C51%2C230%2C230_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AGSCZKYXRQZ2BQB5XVOHCVDT3SKQ",
+        "public_name": "J35U5 SAV3S",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "J35U5 SAV3S",
+        "video_image_id": "61AnrfbNAKL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61AnrfbNAKL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61AnrfbNAKL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a39a1acd-81fa-4e1e-9949-fea0785a0685/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a05200b9-8742-4ef0-a7f6-3418926bfb48/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a05200b9-8742-4ef0-a7f6-3418926bfb48/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ab899e9e-77d1-4c65-a80b-fbc33cbaae42.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "HP Victus 15.6\" Gaming Laptop with FHD, 144Hz refresh rate, IPS micro-edge anti-glare display",
+      "NVIDIA GeForce RTX 4050 6GB GDDR6",
+      "16 GB DDR4 RAM, 512 GB PCIe Gen4 NVMe M.2 solid-state drive",
+      "Windows 11 Home, 13th Generation Intel Core i5-13420H Processor, NVIDIA GeForce RTX 4050 Laptop GPU (6 GB GDDR6 dedicated)",
+      "16 GB DDR4 RAM, 512 GB PCIe Gen4 NVMe M.2 solid-state drive"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "16 GB DDR4 RAM, 512 GB PCIe Gen4 NVMe M.2 solid-state drive. Windows 11 Home, 13th Generation Intel Core i5-13420H Processor, NVIDIA GeForce RTX 4050 Laptop GPU (6 GB GDDR6 dedicated). 16 GB DDR4 RAM, 512 GB PCIe Gen4 NVMe M.2 solid-state drive. NVIDIA GeForce RTX 4050 6GB GDDR6. HP Victus 15.6\" Gaming Laptop with FHD, 144Hz refresh rate, IPS micro-edge anti-glare display.",
+    "top_reviews": [
+      {
+        "id": "R29IR2GCCEEPB8",
+        "title": "Great laptop",
+        "body": "Very nice for the price I love it Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very nice for the price I love it<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R29IR2GCCEEPB8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 16, 2025",
+          "utc": "2025-04-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "LaQuita Dean",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFB3EEP7AKJTTL22A5MLPSSJKWMA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFB3EEP7AKJTTL22A5MLPSSJKWMA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/a18a3db8-72c7-4e58-b65b-d068a9f2ccb6._CR0%2C26%2C281%2C281_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2RZMP48OQLXBM",
+        "title": "Very Fast! Good quality!",
+        "body": "I am in Latam, saying that, the only problem I have is for Amazon not letting me choose my keyboard design. Away from that, its perfect! The shipping and everything is super good! Love the computer! Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I am in Latam, saying that, the only problem I have is for Amazon not letting me choose my keyboard design. Away from that, its perfect! The shipping and everything is super good! Love the computer!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2RZMP48OQLXBM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 6, 2025",
+          "utc": "2025-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Juan Chanis",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHY2QSLS7RXK7Z4XVAT7XFTWQ6WQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHY2QSLS7RXK7Z4XVAT7XFTWQ6WQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RQY47SKVX4BCI",
+        "title": "Really good laptop. But....",
+        "body": "Now this laptop has gotten a little bit of, I don't want to say controversy, but mixed feelings upon its release. Now, a lot of people are saying that this laptop could be replaced in the HP Pavilion. Why come out with a brand new laptop when you already have the Pavilion and the HP omen? So really, the question is what is the purpose of this laptop? It's about the same size as far as thickness as what I can tell so far as the HP omen. It has to me a nicer aesthetic than the HP Pavilion gaming laptop. I feel that that laptop is obviously a more budget category laptop, but for the price. The price of this laptop is actually reasonable and it has a lot of different budget price points. So this is a big range of variants that this laptop comes in. Now this is the i5 model. When I put in my order this is all that was available. I reviewed a number of laptops with that exact CPU GPU setup, and I'm going to pull those benchmarks up on the screen right now, and I am guessing with a very firm, to me, confident, educated guess that this laptop will fall in that same range, especially compared to the HP omen. I feel like the HP omen and this laptop are going to perform very closely. So it really comes down to build aesthetic and build quality that you're interested in getting more like more than thinking the HP Victus versus the HP omen from a performance standpoint. That's my thoughts right off the bat. All right. Now that I have carried on about the specs and differences between all the different variations of the HP laptops currently available, let's check out the build quality. First and foremost, I'm going to check out the edges. We have a nice aggressive edge along the top cover that leads into this corner, which is a pretty aggressive turn here. It's not mellow, has a little bit of sharpness, but it is well rounded, so it's not like a dagger of an edge, but it is more of an aggressive top cover as far as this edge is concerned. Looking at the bottom cover, how it is settled into the side panel of the laptop. They've done a very nice job of this. There's no catchy edges there. It's put together very well. Bottom cover sits nicely in the side panels, taking a look at the bottom cover of a nice large vent running along the bottom cover of the laptop. Looks like we'll get some good ventilation here, and we'll check out the thermals once we do the full review. Coming up on the channel here in the following weeks? Speakers on the bottom of the chassis. Let's flip it back over and check out the top cover. Top cover is plastic bottom covers. Plastic side panels are plastic. And let's check out the keyboard deck. Keyboard deck seems to be plastic as well, so we have a full plastic build compared to the HP omen, which has an aluminum keyboard deck and aluminum side panels. So that's going to be where you're going to get a little bit of an upgrade going with the HP omen, where the HP Pavilion also is an all plastic build similar to the Victus. Got a pretty big bezel here. Now, we've talked a lot about that. That's going to be for thermal control. So the screen doesn't get overheated. And then we have a nice long vent along the top of the keyboard deck here. Vents on neither of the side panels, but we do have a vent here along the back of the chassis. So I'm curious how this will cool, especially with Intel. Intel has been really stepping it up with the cooling performance. I know Ryzen is getting a ton of attention for their overall performance and multitasking of their latest 5000 series CPUs, but I still think Intel has a strong hold on cooling and thermals above Ryzen. That's something I've seen in my tests this year, as I've been starting to get more Intel laptops into the studio running benchmarks, I'm seeing that thermal performance is really killer on the Intel CPUs. A nice large, quiet glass track. A nice, large, quiet trackpad. This is definitely an upgrade from the HP Pavilion gaming laptop. This is more reminiscent of the HP omen, so I think what we're seeing here is a more budget friendly version of the HP omen. If I'm not mistaken, this laptop tops out at around $1,200 with the Ryzen seven 5800 and RTX 3060 GPU, whereas if you get that same variation in the HP omen, it can be upwards of 15 to $1600 for that variation. So basically, you're getting a more budget friendly version of the HP omen. No aluminum top cover. I'm not sure about the color gamut range on the screen. If the color gamut range is lower than 99% sRGB, we'll know our budget savings took place with the keyboard deck and the lower screen quality and buy lower screen quality. I just mean lower sRGB and possibly brightness. All right, let's go ahead and take a look at this screen. Flex. Looks like we have quite a bit of screen flex here. This is not something I'm personally super concerned about, but I know some of you do get concerned when you see some screen flex. What I get more concerned about is kind of this screen bounce. I think that's just kind of annoying. But let's see what happens when we go and type on the still that out go and type on the keyboard. A little bit of wobble if I like, you know, I'm kind of like moving my keyboard a little bit, but not much. But definitely notice that there is some wobble there which could could be annoying to you. Opening and closing the screen with one hand totally fine has a nice firm hinge. This does have one hinge which is different from the HP omen. However, it does have a little bit of flex there at the bottom for that singular hinge. So you have two connection points here on the side and then the singular bar holding the screen across. Now let's go ahead and take a deeper look at the keyboard. We saw the trackpad I do like it. It's quiet. It's large. It'd be great for creators. The keyboard is fantastic. This is one of my absolute favorite keyboards right now on the market. It's soft touch, it's quiet, and it's nice and snappy. It's got a great medium to long key travel, but it's more in the medium range. It's just such a smooth keyboard. Let's go ahead and close things down and check out the ports real quick. On the left side we have the RJ 45 HDMI port, USB type A, and USB type C. That is a Thunderbolt. Because this is an Intel laptop, we also have a mic headphone jack combo and an SD card slot. And on the other side panel we have two USB Type A's, so a good amount of ports. I like that they've kept the SD card slot. Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Now this laptop has gotten a little bit of, I don&apos;t want to say controversy, but mixed feelings upon its release. Now, a lot of people are saying that this laptop could be replaced in the HP Pavilion. Why come out with a brand new laptop when you already have the Pavilion and the HP omen? So really, the question is what is the purpose of this laptop? It&apos;s about the same size as far as thickness as what I can tell so far as the HP omen. It has to me a nicer aesthetic than the HP Pavilion gaming laptop. I feel that that laptop is obviously a more budget category laptop, but for the price. The price of this laptop is actually reasonable and it has a lot of different budget price points. So this is a big range of variants that this laptop comes in. Now this is the i5 model. When I put in my order this is all that was available. I reviewed a number of laptops with that exact CPU GPU setup, and I&apos;m going to pull those benchmarks up on the screen right now, and I am guessing with a very firm, to me, confident, educated guess that this laptop will fall in that same range, especially compared to the HP omen. I feel like the HP omen and this laptop are going to perform very closely. So it really comes down to build aesthetic and build quality that you&apos;re interested in getting more like more than thinking the HP Victus versus the HP omen from a performance standpoint. That&apos;s my thoughts right off the bat. All right. Now that I have carried on about the specs and differences between all the different variations of the HP laptops currently available, let&apos;s check out the build quality. First and foremost, I&apos;m going to check out the edges.<br/>We have a nice aggressive edge along the top cover that leads into this corner, which is a pretty aggressive turn here. It&apos;s not mellow, has a little bit of sharpness, but it is well rounded, so it&apos;s not like a dagger of an edge, but it is more of an aggressive top cover as far as this edge is concerned. Looking at the bottom cover, how it is settled into the side panel of the laptop. They&apos;ve done a very nice job of this. There&apos;s no catchy edges there. It&apos;s put together very well. Bottom cover sits nicely in the side panels, taking a look at the bottom cover of a nice large vent running along the bottom cover of the laptop. Looks like we&apos;ll get some good ventilation here, and we&apos;ll check out the thermals once we do the full review. Coming up on the channel here in the following weeks? Speakers on the bottom of the chassis. Let&apos;s flip it back over and check out the top cover. Top cover is plastic bottom covers. Plastic side panels are plastic. And let&apos;s check out the keyboard deck. Keyboard deck seems to be plastic as well, so we have a full plastic build compared to the HP omen, which has an aluminum keyboard deck and aluminum side panels. So that&apos;s going to be where you&apos;re going to get a little bit of an upgrade going with the HP omen, where the HP Pavilion also is an all plastic build similar to the Victus.<br/>Got a pretty big bezel here. Now, we&apos;ve talked a lot about that. That&apos;s going to be for thermal control. So the screen doesn&apos;t get overheated. And then we have a nice long vent along the top of the keyboard deck here. Vents on neither of the side panels, but we do have a vent here along the back of the chassis. So I&apos;m curious how this will cool, especially with Intel. Intel has been really stepping it up with the cooling performance. I know Ryzen is getting a ton of attention for their overall performance and multitasking of their latest 5000 series CPUs, but I still think Intel has a strong hold on cooling and thermals above Ryzen. That&apos;s something I&apos;ve seen in my tests this year, as I&apos;ve been starting to get more Intel laptops into the studio running benchmarks, I&apos;m seeing that thermal performance is really killer on the Intel CPUs. A nice large, quiet glass track. A nice, large, quiet trackpad. This is definitely an upgrade from the HP Pavilion gaming laptop. This is more reminiscent of the HP omen, so I think what we&apos;re seeing here is a more budget friendly version of the HP omen. If I&apos;m not mistaken, this laptop tops out at around $1,200 with the Ryzen seven 5800 and RTX 3060 GPU, whereas if you get that same variation in the HP omen, it can be upwards of 15 to $1600 for that variation.<br/>So basically, you&apos;re getting a more budget friendly version of the HP omen. No aluminum top cover. I&apos;m not sure about the color gamut range on the screen. If the color gamut range is lower than 99% sRGB, we&apos;ll know our budget savings took place with the keyboard deck and the lower screen quality and buy lower screen quality. I just mean lower sRGB and possibly brightness. All right, let&apos;s go ahead and take a look at this screen. Flex. Looks like we have quite a bit of screen flex here. This is not something I&apos;m personally super concerned about, but I know some of you do get concerned when you see some screen flex. What I get more concerned about is kind of this screen bounce. I think that&apos;s just kind of annoying. But let&apos;s see what happens when we go and type on the still that out go and type on the keyboard. A little bit of wobble if I like, you know, I&apos;m kind of like moving my keyboard a little bit, but not much. But definitely notice that there is some wobble there which could could be annoying to you. Opening and closing the screen with one hand totally fine has a nice firm hinge. This does have one hinge which is different from the HP omen.<br/>However, it does have a little bit of flex there at the bottom for that singular hinge. So you have two connection points here on the side and then the singular bar holding the screen across. Now let&apos;s go ahead and take a deeper look at the keyboard. We saw the trackpad I do like it. It&apos;s quiet. It&apos;s large. It&apos;d be great for creators. The keyboard is fantastic. This is one of my absolute favorite keyboards right now on the market. It&apos;s soft touch, it&apos;s quiet, and it&apos;s nice and snappy. It&apos;s got a great medium to long key travel, but it&apos;s more in the medium range. It&apos;s just such a smooth keyboard. Let&apos;s go ahead and close things down and check out the ports real quick. On the left side we have the RJ 45 HDMI port, USB type A, and USB type C. That is a Thunderbolt. Because this is an Intel laptop, we also have a mic headphone jack combo and an SD card slot. And on the other side panel we have two USB Type A&apos;s, so a good amount of ports. I like that they&apos;ve kept the SD card slot.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RQY47SKVX4BCI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 24, 2024",
+          "utc": "2024-12-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Aram Badasyan",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGCOV4VUFMPIPYQGVNPE6U6VWMJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGCOV4VUFMPIPYQGVNPE6U6VWMJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 36,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2QYC1MBCI0FG9",
+        "title": "First impressions",
+        "body": "So far , no complaints! Very fast , very powerful and brand new ! If issues arise i'll come back and remove stars . Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>So far , no complaints! Very fast , very powerful and brand new ! If issues arise i&apos;ll come back and remove stars .<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2QYC1MBCI0FG9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 15, 2025",
+          "utc": "2025-03-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sim chris",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFFAS3BKGJLI75OJ7LCFCZ4YRVBQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFFAS3BKGJLI75OJ7LCFCZ4YRVBQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2VE8KIU5N15XF",
+        "title": "Great",
+        "body": "Runs & looks great. Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Runs &amp; looks great.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2VE8KIU5N15XF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 18, 2025",
+          "utc": "2025-04-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jason Adams",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGMANGC3NECL6NNEKZHH2RFBCPA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEGMANGC3NECL6NNEKZHH2RFBCPA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2TNIAPI6UWZY4",
+        "title": "It runs perfectly",
+        "body": "Excellent computer!! They were there to help with stopping and entering!!! Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Excellent computer!! They were there to help with stopping and entering!!!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2TNIAPI6UWZY4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 7, 2025",
+          "utc": "2025-03-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Donald Wallace",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJI4RU6GB7HVTZFML4N2UY4LLMA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFJI4RU6GB7HVTZFML4N2UY4LLMA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3G3QFSX8T7UEV",
+        "title": "I highly recommend the seller.",
+        "body": "He meets the description, my son is very happy, he says his games are excellent, I highly recommend it. Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>He meets the description, my son is very happy, he says his games are excellent, I highly recommend it.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3G3QFSX8T7UEV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 17, 2025",
+          "utc": "2025-05-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alexis",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFFFQEZA6FL4RKQIWNTJCDUQGPIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFFFQEZA6FL4RKQIWNTJCDUQGPIA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R36MC4B9IGA37",
+        "title": "Very bad",
+        "body": "Very bad Read more",
+        "asin": "B0DN5RWNNC",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very bad<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R36MC4B9IGA37/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DN5RWNNC",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on May 15, 2025",
+          "utc": "2025-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Azzam",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFSOVCUU3TZ3D7LEYFJHAT7GJGDA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFSOVCUU3TZ3D7LEYFJHAT7GJGDA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1GFWQVHKOG4QD",
+        "title": "Perfect",
+        "body": "Perfection Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Perfection<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on March 27, 2025",
+          "utc": "2025-03-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Emmanuel Acquah"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true
+      },
+      {
+        "id": "R3A2Z534KPXGZS",
+        "title": "Lo fácil que fue la compra y la entrega segura",
+        "body": "Estupenda computadora, muy suve su te teclado con luz y mi hijo facinado con los juegos. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Estupenda computadora, muy suve su te teclado con luz y mi hijo facinado con los juegos.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 30, 2025",
+          "utc": "2025-04-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Elena Beatriz Ceja"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R2BJNDKEI75PAC",
+        "title": "Excelente!!",
+        "body": "La pedí para mi hijo que le encanta jugar, en la laptop y dice que haya ahorita ha corrido sin problemas todos los juegos que le ha puesto, aún los que consumen muchos recursos. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">La ped&#xED; para mi hijo que le encanta jugar, en la laptop y dice que haya ahorita ha corrido sin problemas todos los juegos que le ha puesto, a&#xFA;n los que consumen muchos recursos.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 15, 2025",
+          "utc": "2025-04-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "francisco s."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true
+      },
+      {
+        "id": "R2W5TM11Q3ND9B",
+        "title": "Good product",
+        "body": "Great ❤️ Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great &#x2764;&#xFE0F;<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on March 10, 2025",
+          "utc": "2025-03-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dilshan"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true
+      },
+      {
+        "id": "R4ODHARSDNIS3",
+        "title": "Good product!",
+        "body": "fast and sealed item Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>fast and sealed item<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on February 27, 2025",
+          "utc": "2025-02-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Vince"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "new_offers_count": 33,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "73.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "124.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Cardinal Pro Electronics",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JS2199GQLB8L&asin=B0DN5RWNNC&ref_=dp_merchant_link",
+          "id": "A3JS2199GQLB8L"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 699,
+        "currency": "USD",
+        "raw": "$699.00"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080"
+      },
+      {
+        "name": "Processor",
+        "value": "‎1.9 GHz core_i5"
+      },
+      {
+        "name": "RAM",
+        "value": "‎16 GB DDR4"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎3200 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎6 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎HP"
+      },
+      {
+        "name": "Series",
+        "value": "‎15-fa1082wm"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎15-fa1082wm"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5.13 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎11.6 x 9.4 x 0.83 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎11.6 x 9.4 x 0.83 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Silver"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎8"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR4 SDRAM"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎240 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 12V batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DN5RWNNC"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         69 ratings          4.5 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#1,103 in Computers & Accessories (See Top 100 in Computers & Accessories) #134 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "November 15, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "HP"
+      },
+      {
+        "name": "Model Name",
+        "value": "15-fa1082wm"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Silver"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i5"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "FHD 144Hz Display, IPS Micro-Edge Anti-Glare Display, Updated Thermal Design"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: FHD 144Hz Display, IPS Micro-Edge Anti-Glare Display, Updated Thermal Design. Operating System: Windows 11 Home. Ram Memory Installed Size: 16 GB. CPU Model: Core i5. Hard Disk Size: 512 GB. Color: Silver. Screen Size: 15.6 Inches. Model Name: 15-fa1082wm. Brand: HP. Date First Available: November 15, 2024. Best Sellers Rank: #1,103 in Computers & Accessories (See Top 100 in Computers & Accessories) #134 in Traditional Laptop Computers. Customer Reviews: 4.5    4.5 out of 5 stars         69 ratings          4.5 out of 5 stars. ASIN: B0DN5RWNNC. Batteries: ‎1 12V batteries required. (included). Voltage: ‎240 Volts. Computer Memory Type: ‎DDR4 SDRAM. Number of Processors: ‎8. Processor Brand: ‎Intel. Color: ‎Silver. Item Dimensions  LxWxH: ‎11.6 x 9.4 x 0.83 inches. Product Dimensions: ‎11.6 x 9.4 x 0.83 inches. Item Weight: ‎5.13 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎15-fa1082wm. Series: ‎15-fa1082wm. Brand: ‎HP. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎Bluetooth, 802.11ax. Graphics Card Ram Size: ‎6 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Hard Drive: ‎512 GB SSD. Memory Speed: ‎3200 MHz. RAM: ‎16 GB DDR4. Processor: ‎1.9 GHz core_i5. Max Screen Resolution: ‎1920x1080. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 1103,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 134,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Silver",
+    "weight": "‎5.13 pounds",
+    "first_available": {
+      "raw": "November 15, 2024",
+      "utc": "2024-11-15T00:00:00.000Z"
+    },
+    "dimensions": "‎11.6 x 9.4 x 0.83 inches",
+    "model_number": "‎15-fa1082wm",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 1103, Category: Traditional Laptop Computers | Rank: 134",
+    "whats_in_the_box": [
+      "Laptop, AC adapter, Documentation"
+    ]
+  },
+  "brand_store": {
+    "id": "5BA42671-3E42-4AEB-B9E4-272F10DD0121",
+    "link": "https://www.amazon.com/stores/HP/page/5BA42671-3E42-4AEB-B9E4-272F10DD0121"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 755.98,
+      "currency": "USD",
+      "raw": "$755.98"
+    },
+    "products": [
+      {
+        "asin": "B0DN5RWNNC",
+        "title": "HP Victus 15.6 inch FHD 144Hz Gaming Laptop Intel Core i5-13420H NVIDIA GeForce RTX 4050 6GB - 16GB DDR4 512GB SSD Mica Silver (2024)",
+        "link": "https://www.amazon.com/dp/B0DN5RWNNC",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81obPsMhewL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 688,
+          "currency": "USD",
+          "raw": "$688.00"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0CZ59B6MH",
+    "link": "https://www.amazon.com/dp/B0CZ59B6MH/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=VBMRYJ44WP2GNYFZF2JM&pd_rd_wg=zfsTD&pd_rd_i=B0CZ59B6MH&pd_rd_w=SqcGY&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=598cd3cc-179f-4c2f-afd1-0a2ff9bdc4d0&psc=1",
+    "title": "Dell Inspiron 5645 Laptop - 16.0 16:10 FHD+ (1920 x 1200) Display, AMD Ryzen 7-8840U, 16GB DDR5 RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, Onsite & Migrate Services - Midnight Blue",
+    "rating": 4,
+    "ratings_total": 124,
+    "image": "https://m.media-amazon.com/images/I/818WO3r8jhL._SS100_.jpg",
+    "is_prime": true
+  }
+}

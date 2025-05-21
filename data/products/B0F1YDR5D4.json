@@ -1,0 +1,705 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5603,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F1YDR5D4",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:50:15.045Z",
+    "processed_at": "2025-05-20T01:50:21.381Z",
+    "total_time_taken": 6.34,
+    "amazon_url": "https://www.amazon.com/dp/B0F1YDR5D4?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS TUF F15 Gaming Laptop, 15.6\" 144Hz FHD, Intel 10-Core i7-13620H(Up to 4.90 GHz), GeForce RTX 4070, 64 GB RAM, 2 TB SSD, Backlit Keyboard, Wi-Fi 6, Win11 Pro & MS Office Pro Lifetime License",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,TUF,F15,Gaming,Laptop,15.6\",144Hz,FHD,Intel,10-Core,i7-13620H(Up,to,4.90,GHz),GeForce,RTX,4070,64,GB,RAM,2,TB,SSD,Backlit,Keyboard,Wi-Fi,6,Win11,Pro,&,MS,Office,Pro,Lifetime,License",
+    "keywords_list": [
+      "ASUS",
+      "Gaming",
+      "Laptop",
+      "15.6\"",
+      "144Hz",
+      "Intel",
+      "10-Core",
+      "i7-13620H(Up",
+      "4.90",
+      "GHz)",
+      "GeForce",
+      "4070",
+      "Backlit",
+      "Keyboard",
+      "Wi-Fi",
+      "Win11",
+      "Office",
+      "Lifetime",
+      "License"
+    ],
+    "is_collection": false,
+    "asin": "B0F1YDR5D4",
+    "parent_asin": "B0F43BSD42",
+    "link": "https://www.amazon.com/ASUS-TUF-Gaming-Laptop-i7-13620H/dp/B0F1YDR5D4",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07P97VH1R",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 229.99,
+          "currency": "USD",
+          "raw": "$229.99"
+        }
+      },
+      {
+        "asin": "B07PC4X6C8",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 145.99,
+          "currency": "USD",
+          "raw": "$145.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "16GB RAM | 512GB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16GB RAM | 512GB SSD"
+          }
+        ],
+        "asin": "B07KBBKQ8X",
+        "link": "https://amazon.com/dp/B07KBBKQ8X?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB RAM | 1TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB RAM | 1TB SSD"
+          }
+        ],
+        "asin": "B0F1YCD9Z3",
+        "link": "https://amazon.com/dp/B0F1YCD9Z3?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 1TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB RAM | 1TB SSD"
+          }
+        ],
+        "asin": "B0F1YD853Z",
+        "link": "https://amazon.com/dp/B0F1YD853Z?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 4TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB RAM | 4TB SSD"
+          }
+        ],
+        "asin": "B0F1YCKQZN",
+        "link": "https://amazon.com/dp/B0F1YCKQZN?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "64GB RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64GB RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0F1YDR5D4",
+        "link": "https://amazon.com/dp/B0F1YDR5D4?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB RAM | 2TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32GB RAM | 2TB SSD"
+          }
+        ],
+        "asin": "B0F1YPKD3H",
+        "link": "https://amazon.com/dp/B0F1YPKD3H?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B07KBBKQ8X,B0F1YCD9Z3,B0F1YD853Z,B0F1YCKQZN,B0F1YDR5D4,B0F1YPKD3H",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Statement:\n\nOriginal Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.\n\n\n\nMicrosoft Office: Microsoft Office Pro is pre-installed. Open Excel, go to \"Account\" and activate the included version instead of the limited 365 trial. Upon opening any Office software for the first time, you will be prompted with a message similar to the following: \"\"Try premium Office apps for free with Microsoft 365.\" To continue, you must select the option \"No thanks\" or \"Decline.\"\n\n\n\n\n\nASUS 15.6\" TUF Gaming Laptop\n\n\n\nThe latest Intel 13th Gen Core i7 processor with GeForce RTX4070 graphics also equipped with a large 15.6\" FHD 144hz display. Personalize your laptop with RGB keyboard.\n\nFeatures\n\nBrand: ASUS \n\nColor: Mecha Grey \n\nOperating System: Windows 11 Pro \n\nBacklit Keyboard: Yes \n\nProcessor Model: Intel 13th Generation Core i7-13620H (10-cores, 16-threads, up to 4.9 GHz max boost) \n\nGraphics: NVIDIA GeForce RTX 4070\n\nAdvanced Graphics Rendering Technique(s): DLSS 3 (Deep Learning Super Sampling), Ray tracing. \n\nGraphics Type: Dedicated\n\nScreen Size: 15.6 Inches \n\nRefresh Rate: 144Hz\n\nScreen Type: IPS\n\nMaximum Resolution: 1920 x 1080 (Full HD) \n\nMemory: 64 GB \n\nType of Memory (RAM): DDR5 \n\nHard Drive: Up to 2TB PCI-e SSD \n\nWireless Networking: Wi-Fi 6 AX\n\nWireless Connectivity: Bluetooth, WiFi \n\nFront-Facing Camera: 720P \n\nBattery Life (up to): 8 hours \n\nOptical Drive Type: None\n\nDimension: 13.97 x 9.92 x 0.89, 4.85 pounds \n\nPorts: \n\n1 x HDMI 2.1, 2 x Thunderbolt 4 \n\n 2 x USB-A 3.2, 2 x USB-C 3.2 \n\nBattery Life (up to) : 8 hours \n\nWarranty Description: 1 year manufacturer",
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?is_byline_deeplink=true&deeplink=F1539FFA-EB19-4A77-B1A0-0912DF865598&redirect_store_id=02389710-881F-4F25-89E8-F92DEEA14D5A&lp_asin=B0F1YDR5D4&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply 5% coupon",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 76,
+        "count": 83
+      },
+      "four_star": {
+        "percentage": 11,
+        "count": 12
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 5
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 3
+      },
+      "one_star": {
+        "percentage": 5,
+        "count": 5
+      }
+    },
+    "ratings_total": 110,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81xcpNTchBL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81xcpNTchBL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61d-t9mHRiL._AC_SL1220_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61d9LT0IEiL._AC_SL1220_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61rPKoDJ4wL._AC_SL1081_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61YSq4ZvDsL._AC_SL1102_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51tUNcCSdkL._AC_SL1219_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51UHOA5zaAL._AC_SL1219_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/81xcpNTchBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61d-t9mHRiL._AC_SL1220_.jpg,https://m.media-amazon.com/images/I/61d9LT0IEiL._AC_SL1220_.jpg,https://m.media-amazon.com/images/I/61rPKoDJ4wL._AC_SL1081_.jpg,https://m.media-amazon.com/images/I/61YSq4ZvDsL._AC_SL1102_.jpg,https://m.media-amazon.com/images/I/51tUNcCSdkL._AC_SL1219_.jpg,https://m.media-amazon.com/images/I/51UHOA5zaAL._AC_SL1219_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "13th Gen intel i7-13620H Processor: Power your games with the latest intel i7-13620H CPU.This ASUS TUF Gaming Laptop is Equipped with intel i7-13620H, Up to Turbo Boost 4.9 GHz, 10 cores, 16 threads).The high-performance configuration allows you enjoy impressive creating, playing games for the best experience.",
+      "NVIDIA RTX 4070 Graphics: NVIDIA GeForce RTX 4070 8GB GDDR6 with ROG Boost at 80W (105W with Dynamic Boost 2.0) for an ultrafast GPU to fuel your games. High-end version of the game is also easy to control, high-definition display brings you an immersive experience.15.6\" FHD 144Hz Screen features adaptive sync to minimize screen tearing, while playing your favorite games",
+      "Perfect Storage: 64 GB DDR5 RAM combines large capacity and high bandwidth to run multiple applications and files quickly, without waiting for fast response, and easily run high-configuration games. 2 TB SSD can store massive game and work data, speeding up program startup and game loading speed",
+      "Microsoft Office Pro Lifetime License: asus tuf include Microsoft Office Lifetime License. Free Microsoft Office - Lifetime License can enhance your creativity.If you find that your Office is not activated when you use it, please contact the store account manager to send a new Office key. Thank you",
+      "Technology connection: the latest Wi-Fi 6 and Bluetooth technology. The rich and diverse port configuration is a highlight, with USB Type-C ports supporting USB 3.2 Gen 2, Thunderbolt 4, two USB 3.2 Gen 2 Type-A ports, HDMI 2.1 port with HDCP support, and Ethernet (RJ-45) port"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Technology connection: the latest Wi-Fi 6 and Bluetooth technology. The rich and diverse port configuration is a highlight, with USB Type-C ports supporting USB 3.2 Gen 2, Thunderbolt 4, two USB 3.2 Gen 2 Type-A ports, HDMI 2.1 port with HDCP support, and Ethernet (RJ-45) port. Microsoft Office Pro Lifetime License: asus tuf include Microsoft Office Lifetime License. Free Microsoft Office - Lifetime License can enhance your creativity.If you find that your Office is not activated when you use it, please contact the store account manager to send a new Office key. Thank you. Perfect Storage: 64 GB DDR5 RAM combines large capacity and high bandwidth to run multiple applications and files quickly, without waiting for fast response, and easily run high-configuration games. 2 TB SSD can store massive game and work data, speeding up program startup and game loading speed. NVIDIA RTX 4070 Graphics: NVIDIA GeForce RTX 4070 8GB GDDR6 with ROG Boost at 80W (105W with Dynamic Boost 2.0) for an ultrafast GPU to fuel your games. High-end version of the game is also easy to control, high-definition display brings you an immersive experience.15.6\" FHD 144Hz Screen features adaptive sync to minimize screen tearing, while playing your favorite games. 13th Gen intel i7-13620H Processor: Power your games with the latest intel i7-13620H CPU.This ASUS TUF Gaming Laptop is Equipped with intel i7-13620H, Up to Turbo Boost 4.9 GHz, 10 cores, 16 threads).The high-performance configuration allows you enjoy impressive creating, playing games for the best experience.",
+    "top_reviews": [
+      {
+        "id": "R246FLQW3P1QLL",
+        "title": "Fantastic so far!",
+        "body": "I've only had the computer for a couple of days, but wow! It has the stereotypical red and black \"gamer\" look. Would I prefer something a little more neutral? Yeah but at this price point(I got this when it was on sale for $1,099 and then Honey took off another $90 or so), beggers can't be choosers.  If you have the extra cash, you could get a better design in something like Razer, but why would you? For the exact same specs and great graphics card, the Razer Blade Pro 17 inch model goes for $2,300, with the lowest I've seen down to $1,800 with the only difference is an extra 2TB HDD while cutting your SSD in half to 256GB. I see this as more as a disadvantage, however. 2TB of HDD is pretty cheap nowadays and SSD is worth a LOT more. It definitely isn't worth a $700-$1,200 difference.  Unless if you're simply a brand snob, this is obviously the superior choice with a large 144Hz display that looks magnificent, crushing speeds that are only bested if you want to spend a lot more, and a rugged design that as a father I greatly appreciate.  Pros: -Wicked fast. I routinely get above 60 fps on max settings for most games. -Great 144Hz display -Military grade certified ruggedness, little to no give when you put pressure on the top and bottom of the frame or the keyboard. This thing is built to last. -Having an SSD instead of an HDD or hybrid memory adds to it's longevity and the overall ruggedness of the device. I've repaired several laptops in the past where the device is jarred or dropped from a few inches from the ground and the hard drive is shot. Everything on the computer is likely lost at this point. You don't have that problem here with an SSD. -Light for a 17 inch device. -Feels great. Brushed finish makes you think the materials are better quality than MTD plastic. -THAT PRICE. Most rigs from HP and Dell with these specs start off around $1300-$1400. Quite a bit more if you want \"gamer\" brands like Razer or MSI.  Cons: -\"Gamer\" look with a lot of red. You can turn off the red keyboard backlights, but that means no keyboard backlights at all. -Not the most premium materials with no metal or aluminum in frame. -THICC. It's not terrible but even without the red, it's easy to tell it's a gaming laptop at a glance. -Not the best keyboard layout. The directional keys are a lower and further to the right than I'd prefer and for some strange reason they elongated the other Control key to replace where it normally resides. It throws me off in a few of my games. It also halves the width of the 0 key, which does affect me when I work or do schoolwork. -The mouse is something you can tell they had to settle with to cut costs. It's plastic instead of glass and I'm fairly sure it lacks Windows Precision. This is an understandable cost cutting method several gaming companies use as they know most gamers are going to prefer a nicer external mouse rather than the pad. I personally am glad they did it, but I felt it needed to be mentioned.  I can't comment on battery life yet as I haven't tested it, but from most reviews I've seen it's not great. This is meant to be an at home gaming rig. If you take it out for classes or for work, expect to need your charger.  So overall I think it does AMAZING for what it's targeted demographic calls for. It's meant for a younger audience being first exposed into PC gaming or for gamers who want great performance but don't want to spend an arm and a leg for brand namesake. Parents can be reassured that this thing is built like a tank while giving you the necessary speeds needed for any game with a great frame rate. My kids aren't old enough to use it but as you parents know kids can and will get to ANYTHING and my four year old has already accidentally knocked it over without a scratch.  I would recommend this laptop to anyone unless they in all seriousness want the best of the best no matter the cost.  Update 7/14/2019 It's been several months and this machine is still kicking ass and taking names! The only concern I've seen so far is that very occasionally I'll see the hard drive spike up to 100 percent in Task Manager even though nothing is running and I've maybe used 100GB up. This is usually indicative that the hard drive is going out. So I'll keep everyone up to date if it becomes an issue. Read more",
+        "asin": "B0F1YDR5D4",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve only had the computer for a couple of days, but wow! It has the stereotypical red and black &quot;gamer&quot; look. Would I prefer something a little more neutral? Yeah but at this price point(I got this when it was on sale for $1,099 and then Honey took off another $90 or so), beggers can&apos;t be choosers.<br/><br/>If you have the extra cash, you could get a better design in something like Razer, but why would you? For the exact same specs and great graphics card, the Razer Blade Pro 17 inch model goes for $2,300, with the lowest I&apos;ve seen down to $1,800 with the only difference is an extra 2TB HDD while cutting your SSD in half to 256GB. I see this as more as a disadvantage, however. 2TB of HDD is pretty cheap nowadays and SSD is worth a LOT more. It definitely isn&apos;t worth a $700-$1,200 difference.<br/><br/>Unless if you&apos;re simply a brand snob, this is obviously the superior choice with a large 144Hz display that looks magnificent, crushing speeds that are only bested if you want to spend a lot more, and a rugged design that as a father I greatly appreciate.<br/><br/>Pros:<br/>-Wicked fast. I routinely get above 60 fps on max settings for most games.<br/>-Great 144Hz display<br/>-Military grade certified ruggedness, little to no give when you put pressure on the top and bottom of the frame or the keyboard. This thing is built to last.<br/>-Having an SSD instead of an HDD or hybrid memory adds to it&apos;s longevity and the overall ruggedness of the device. I&apos;ve repaired several laptops in the past where the device is jarred or dropped from a few inches from the ground and the hard drive is shot. Everything on the computer is likely lost at this point. You don&apos;t have that problem here with an SSD.<br/>-Light for a 17 inch device.<br/>-Feels great. Brushed finish makes you think the materials are better quality than MTD plastic.<br/>-THAT PRICE. Most rigs from HP and Dell with these specs start off around $1300-$1400. Quite a bit more if you want &quot;gamer&quot; brands like Razer or MSI.<br/><br/>Cons:<br/>-&quot;Gamer&quot; look with a lot of red. You can turn off the red keyboard backlights, but that means no keyboard backlights at all.<br/>-Not the most premium materials with no metal or aluminum in frame.<br/>-THICC. It&apos;s not terrible but even without the red, it&apos;s easy to tell it&apos;s a gaming laptop at a glance.<br/>-Not the best keyboard layout. The directional keys are a lower and further to the right than I&apos;d prefer and for some strange reason they elongated the other Control key to replace where it normally resides. It throws me off in a few of my games. It also halves the width of the 0 key, which does affect me when I work or do schoolwork.<br/>-The mouse is something you can tell they had to settle with to cut costs. It&apos;s plastic instead of glass and I&apos;m fairly sure it lacks Windows Precision. This is an understandable cost cutting method several gaming companies use as they know most gamers are going to prefer a nicer external mouse rather than the pad. I personally am glad they did it, but I felt it needed to be mentioned.<br/><br/>I can&apos;t comment on battery life yet as I haven&apos;t tested it, but from most reviews I&apos;ve seen it&apos;s not great. This is meant to be an at home gaming rig. If you take it out for classes or for work, expect to need your charger.<br/><br/>So overall I think it does AMAZING for what it&apos;s targeted demographic calls for. It&apos;s meant for a younger audience being first exposed into PC gaming or for gamers who want great performance but don&apos;t want to spend an arm and a leg for brand namesake. Parents can be reassured that this thing is built like a tank while giving you the necessary speeds needed for any game with a great frame rate. My kids aren&apos;t old enough to use it but as you parents know kids can and will get to ANYTHING and my four year old has already accidentally knocked it over without a scratch.<br/><br/>I would recommend this laptop to anyone unless they in all seriousness want the best of the best no matter the cost.<br/><br/>Update 7/14/2019<br/>It&apos;s been several months and this machine is still kicking ass and taking names!<br/>The only concern I&apos;ve seen so far is that very occasionally I&apos;ll see the hard drive spike up to 100 percent in Task Manager even though nothing is running and I&apos;ve maybe used 100GB up. This is usually indicative that the hard drive is going out. So I&apos;ll keep everyone up to date if it becomes an issue.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R246FLQW3P1QLL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F1YDR5D4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 22, 2019",
+          "utc": "2019-02-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nathan K.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHOVU4HLDOWXL42XN5VLQYEPVO4A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHOVU4HLDOWXL42XN5VLQYEPVO4A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R2ZEMX4IYJLG18",
+        "title": "Overall, it’s great!",
+        "body": "In my opinion, this laptop is definitely worth the money. I’ve had it for a little over a year now and I’ve been using it almost every day.  PROS: -Great, humongous screen size -Powerful enough for most anything you’ll need. It probably can’t play the highest AAA games, but it handles everything I’ve thrown at it. -Battery life for me is totally fine. It can handle several hours of something low to medium intensity. E.g. playing a low key game, or watching YouTube while editing a video. -Pretty fast thanks to the SSD. Things load up really quickly for the most part.  CONS: -For some reason, the keyboard feels a little non-standard. My fingers have a hard time hitting a desired key unless I look down for a sec. Not a huge deal, but kind of weird. -Only 500gb of storage might be tough for some people. -Trackpad feels bad, but I usually use a mouse anyway, so that negates the problem.  In Conclusion: This huge beast of a laptop has been able to handle everything I throw at it. Yes it’s large, but it’s got a 17 inch screen so you knew it would be! I’m very happy overall! Read more",
+        "asin": "B0F1YDR5D4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>In my opinion, this laptop is definitely worth the money. I&#x2019;ve had it for a little over a year now and I&#x2019;ve been using it almost every day.<br/><br/>PROS:<br/>-Great, humongous screen size<br/>-Powerful enough for most anything you&#x2019;ll need. It probably can&#x2019;t play the highest AAA games, but it handles everything I&#x2019;ve thrown at it.<br/>-Battery life for me is totally fine. It can handle several hours of something low to medium intensity. E.g. playing a low key game, or watching YouTube while editing a video.<br/>-Pretty fast thanks to the SSD. Things load up really quickly for the most part.<br/><br/>CONS:<br/>-For some reason, the keyboard feels a little non-standard. My fingers have a hard time hitting a desired key unless I look down for a sec. Not a huge deal, but kind of weird.<br/>-Only 500gb of storage might be tough for some people.<br/>-Trackpad feels bad, but I usually use a mouse anyway, so that negates the problem.<br/><br/>In Conclusion:<br/>This huge beast of a laptop has been able to handle everything I throw at it. Yes it&#x2019;s large, but it&#x2019;s got a 17 inch screen so you knew it would be! I&#x2019;m very happy overall!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2ZEMX4IYJLG18/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F1YDR5D4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 29, 2020",
+          "utc": "2020-06-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Matthew B.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGAKF63CKSSTI43CY2LLBXNCFXJA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGAKF63CKSSTI43CY2LLBXNCFXJA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R5ZGMYNVWEM90",
+        "title": "Built like the Death Star",
+        "body": "I almost bought two of these, one for me, and one for my husband. I'm glad I didn't. Okay, I gave this 5 stars because my husband has a crush on it. He hasn't been able to take his eyes off of it since I gave it to him. But this thing is built like the Death Star. It's big, clunky, thick, and it means business. Don't get me wrong, all of those qualities are not terrible, they just aren't qualities I am looking for in a laptop. I realize that most gaming laptops are probably designed for men. Hence, the robust masculine qualities of this bad boy, but I am a female. I don't want a gaming computer built like Arnold Schwarzenegger, I prefer Brad Pitt, something that still has muscle but is sleeker and sexier. I don't want to feel threatened every time I take it out of its case. I give it 5 stars because it is a damn good computer. Interestingly, my husband isn't a gamer. Read more",
+        "asin": "B0F1YDR5D4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I almost bought two of these, one for me, and one for my husband. I&apos;m glad I didn&apos;t. Okay, I gave this 5 stars because my husband has a crush on it. He hasn&apos;t been able to take his eyes off of it since I gave it to him. But this thing is built like the Death Star. It&apos;s big, clunky, thick, and it means business. Don&apos;t get me wrong, all of those qualities are not terrible, they just aren&apos;t qualities I am looking for in a laptop. I realize that most gaming laptops are probably designed for men. Hence, the robust masculine qualities of this bad boy, but I am a female. I don&apos;t want a gaming computer built like Arnold Schwarzenegger, I prefer Brad Pitt, something that still has muscle but is sleeker and sexier. I don&apos;t want to feel threatened every time I take it out of its case. I give it 5 stars because it is a damn good computer. Interestingly, my husband isn&apos;t a gamer.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R5ZGMYNVWEM90/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F1YDR5D4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 24, 2019",
+          "utc": "2019-05-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Heather",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH3ZGRTJWE3EK3XXQZUNVCRYMKOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH3ZGRTJWE3EK3XXQZUNVCRYMKOA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R2J15O7YZAB6Z7",
+        "title": "Excelente equipo.",
+        "body": "Es un equipo muy rápido con muy buena calidad de acabados, el marco más delgado permite tener un gran pantalla en un menor espacio, el SSD hace que sea infinitamente más rápido que un equipo de DD convencional, por el precio es un opción inmejorable. Mi única queja es con el tacto del pad sobre todo porque pareciera que está flojo cuando uno da un toque rápido Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Es un equipo muy r&#xE1;pido con muy buena calidad de acabados, el marco m&#xE1;s delgado permite tener un gran pantalla en un menor espacio, el SSD hace que sea infinitamente m&#xE1;s r&#xE1;pido que un equipo de DD convencional, por el precio es un opci&#xF3;n inmejorable.<br/>Mi &#xFA;nica queja es con el tacto del pad sobre todo porque pareciera que est&#xE1; flojo cuando uno da un toque r&#xE1;pido<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 15, 2019",
+          "utc": "2019-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "JORGE"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R3FA9OUUHPNP1X",
+        "title": "Good computer just missing one thing....",
+        "body": "Is supposed.to have the aroura multi coloured keyboard but has just red... Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Is supposed.to have the aroura multi coloured keyboard but has just red...<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in Australia on August 30, 2019",
+          "utc": "2019-08-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shawn, Aldinga Beach, S.A. Australia"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "au",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RV3LY3VKJIDR5",
+        "title": "Buena relación precio/calidad",
+        "body": "Excelente producto, llego antes de lo esperado, en perfectas condiciones y con una carta de agradecimiento del vendedor. La calidad de materiales es muy buena, sorprende que se ve pequeña para una laptop de 17\" y es bastante compacta y ligera. Se siente como una laptop de gama alta a un precio bastante razonable. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Excelente producto, llego antes de lo esperado, en perfectas condiciones y con una carta de agradecimiento del vendedor. La calidad de materiales es muy buena, sorprende que se ve peque&#xF1;a para una laptop de 17&quot; y es bastante compacta y ligera. Se siente como una laptop de gama alta a un precio bastante razonable.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on February 26, 2019",
+          "utc": "2019-02-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Cliente de Amazon"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RQ60RAL49SO09",
+        "title": "Una PC excelente",
+        "body": "El funcionamiento es rápido y cuenta con mucha memoria de forma tal que se pueden disfrutar más los juegos Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">El funcionamiento es r&#xE1;pido y cuenta con mucha memoria de forma tal que se pueden disfrutar m&#xE1;s los juegos<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 16, 2021",
+          "utc": "2021-01-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Hector Octavio"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "229.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "145.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "82 days",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ELWL8B9U1SUC&asin=B0F1YDR5D4&ref_=dp_merchant_link",
+          "id": "A1ELWL8B9U1SUC"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1899.99,
+        "currency": "USD",
+        "raw": "$1,899.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.4 GHz core_i7"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎2 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4070"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎4"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎ASUS TUF Gaming Laptop"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎ASUS TUF Gaming Laptop"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.85 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎13.97 x 0.89 x 9.92 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎13.97 x 0.89 x 9.92 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Mecha Grey"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎10"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F1YDR5D4"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         110 ratings          4.5 out of 5 stars"
+      },
+      {
+        "name": "Date First Available",
+        "value": "March 19, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "ASUS TUF Gaming Laptop"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Mecha Grey"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "2 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i7"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "64 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Backlit Keyboard. Operating System: Windows 11 Pro. Ram Memory Installed Size: 64 GB. CPU Model: Core i7. Hard Disk Size: 2 TB. Color: Mecha Grey. Screen Size: 15.6 Inches. Model Name: ASUS TUF Gaming Laptop. Brand: ASUS. Date First Available: March 19, 2025. Customer Reviews: 4.5    4.5 out of 5 stars         110 ratings          4.5 out of 5 stars. ASIN: B0F1YDR5D4. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎10. Processor Brand: ‎Intel. Color: ‎Mecha Grey. Item Dimensions  LxWxH: ‎13.97 x 0.89 x 9.92 inches. Product Dimensions: ‎13.97 x 0.89 x 9.92 inches. Item Weight: ‎4.85 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎ASUS TUF Gaming Laptop. Series: ‎ASUS TUF Gaming Laptop. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎4. Wireless Type: ‎802.11ax. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4070. Hard Drive: ‎2 TB SSD. RAM: ‎DDR5. Processor: ‎2.4 GHz core_i7. Max Screen Resolution: ‎1920x1080 Pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "color": "‎Mecha Grey",
+    "weight": "‎4.85 pounds",
+    "first_available": {
+      "raw": "March 19, 2025",
+      "utc": "2025-03-19T00:00:00.000Z"
+    },
+    "dimensions": "‎13.97 x 0.89 x 9.92 inches",
+    "model_number": "‎ASUS TUF Gaming Laptop",
+    "whats_in_the_box": [
+      "Laptop,Accessories"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 3569.38,
+      "currency": "USD",
+      "raw": "$3,569.38"
+    },
+    "products": [
+      {
+        "asin": "B0F1YDR5D4",
+        "title": "ASUS TUF F15 Gaming Laptop, 15.6\" 144Hz FHD, Intel 10-Core i7-13620H(Up to 4.90 GHz), GeForce RTX 4070, 64 GB RAM, 2 TB SSD, Backlit Keyboard, Wi-Fi 6, Win11 Pro & MS Office Pro Lifetime License",
+        "link": "https://www.amazon.com/dp/B0F1YDR5D4",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81xcpNTchBL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 1899.99,
+          "currency": "USD",
+          "raw": "$1,899.99"
+        }
+      }
+    ]
+  }
+}

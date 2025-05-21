@@ -1,0 +1,1210 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5621,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CRDF25TQ",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:47:11.049Z",
+    "processed_at": "2025-05-20T01:47:16.845Z",
+    "total_time_taken": 5.8,
+    "amazon_url": "https://www.amazon.com/dp/B0CRDF25TQ?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS TUF Gaming A15 Gaming Laptop, 15.6” FHD 144Hz Display, NVIDIA® GeForce RTX™ 2050, AMD Ryzen™ 5 7535HS, 8GB DDR5, 512GB PCIe® Gen4 NVMe™ SSD, Wi-Fi 6, Windows 11, FA506NF-ES51",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,TUF,Gaming,A15,Gaming,Laptop,15.6”,FHD,144Hz,Display,NVIDIA®,GeForce,RTX™,2050,AMD,Ryzen™,5,7535HS,8GB,DDR5,512GB,PCIe®,Gen4,NVMe™,SSD,Wi-Fi,6,Windows,11,FA506NF-ES51",
+    "keywords_list": [
+      "ASUS",
+      "Gaming",
+      "Gaming",
+      "Laptop",
+      "15.6”",
+      "144Hz",
+      "Display",
+      "NVIDIA®",
+      "GeForce",
+      "RTX™",
+      "2050",
+      "Ryzen™",
+      "7535HS",
+      "DDR5",
+      "512GB",
+      "PCIe®",
+      "Gen4",
+      "NVMe™",
+      "Wi-Fi",
+      "Windows",
+      "FA506NF-ES51"
+    ],
+    "is_collection": false,
+    "asin": "B0CRDF25TQ",
+    "parent_asin": "B0D4QY765G",
+    "link": "https://www.amazon.com/ASUS-Display-NVIDIA%C2%AE-GeForce-FA506NF-ES51/dp/B0CRDF25TQ",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07PC1MG12",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 73.99,
+          "currency": "USD",
+          "raw": "$73.99"
+        }
+      },
+      {
+        "asin": "B07P6YXWQ7",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 124.99,
+          "currency": "USD",
+          "raw": "$124.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": true,
+        "title": "R5 | RTX 2050",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "R5 | RTX 2050"
+          }
+        ],
+        "asin": "B0CRDF25TQ",
+        "link": "https://amazon.com/dp/B0CRDF25TQ?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "R5 | RTX 3050",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "R5 | RTX 3050"
+          }
+        ],
+        "asin": "B0CRDB8G1G",
+        "link": "https://amazon.com/dp/B0CRDB8G1G?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0CRDF25TQ,B0CRDB8G1G",
+    "proposition_65_warning": true,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "The ASUS TUF Gaming A15 is a powerful gaming laptop designed to deliver high performance and reliability. With a Windows 11 operating system, an AMD Ryzen 7000 Series CPU, and an NVIDIA® GeForce RTX 20 Series Laptop GPU, it is ready for anything. The DDR5-5600MHz memory and PCIe® Gen4 storage make multitasking faster and loading times quicker. Its FHD 144Hz display with Adaptive Sync technology provides ultra-smooth and lifelike gameplay. The TUF is equipped with a pair of 84-blade Arc Flow Fans™ to improve cooling performance without extra noise. The laptop has undergone rigorous MIL-STD-810H tests to ensure reliability, making it military-grade tough.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b551b59f-b706-4e56-a4b4-6ee84c466a22.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/02389710-881F-4F25-89E8-F92DEEA14D5A",
+          "id": "02389710-881F-4F25-89E8-F92DEEA14D5A"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b551b59f-b706-4e56-a4b4-6ee84c466a22.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3d8a4e5c-bccd-4e24-a925-3d231f68b383.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1048655e-f638-43a6-8e9b-b44a1a838e24.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/81603ffb-e61c-46e5-8d7f-98e029fe6d00.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bfe5d4af-c18b-446d-9d23-4952246762e4.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d6986c8d-f552-4c34-9981-b570f7506ec4.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?is_byline_deeplink=true&deeplink=9FE6FA16-F70F-4905-88E3-63344313BFA9&redirect_store_id=02389710-881F-4F25-89E8-F92DEEA14D5A&lp_asin=B0CRDF25TQ&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.3,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 69,
+        "count": 149
+      },
+      "four_star": {
+        "percentage": 15,
+        "count": 32
+      },
+      "three_star": {
+        "percentage": 6,
+        "count": 13
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 6
+      },
+      "one_star": {
+        "percentage": 7,
+        "count": 15
+      }
+    },
+    "ratings_total": 217,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/81kxce-AlLL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/81kxce-AlLL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61jkTDoKABL._AC_SL1200_.jpg",
+        "variant": "FRNT"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/611S5Rr01qL._AC_SL1200_.jpg",
+        "variant": "SIDE"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61pfm7s8zeL._AC_SL1200_.jpg",
+        "variant": "BACK"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61jmmUog-uL._AC_SL1200_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71RQr+1JTjL._AC_SL1200_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71clDY1hYmL._AC_SL1200_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61kVr5oTyjL._AC_SL1200_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81FcKK-C-6L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/81kxce-AlLL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61jkTDoKABL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/611S5Rr01qL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61pfm7s8zeL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61jmmUog-uL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71RQr+1JTjL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71clDY1hYmL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61kVr5oTyjL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/81FcKK-C-6L._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 83,
+        "width": 1850,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/91UkQvS8x9L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0e48baaa-f5de-4e27-a44b-6fca8774fa24/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "QUICK & Easy Look At This Gaming Latop"
+      },
+      {
+        "duration_seconds": 83,
+        "width": 1600,
+        "height": 1200,
+        "thumbnail": "https://m.media-amazon.com/images/I/71dmX-PVtzL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4946542d-88a8-492c-84b2-0bb0fa1f32ea/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Is it worth it for the price? My HONEST opinion!"
+      },
+      {
+        "duration_seconds": 63,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51Hj86XnfoL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de3b2b83-bc9d-49b0-bef1-f57d380d8d6f/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "TUF Gaming A15 - Product Video"
+      },
+      {
+        "duration_seconds": 16,
+        "width": 4000,
+        "height": 2250,
+        "thumbnail": "https://m.media-amazon.com/images/I/D1vzTSuXcdL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e4871fd7-cad2-42c7-9f0c-c38fce179a48/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "ASUS TUF Gaming A15 (2024) Gaming Laptop, 15.6 FHD 144H"
+      },
+      {
+        "duration_seconds": 23,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/61HpebI1NEL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/65f6d7b3-492d-41cf-a6fd-e9cbe1d3699b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Need improvement but overall good"
+      },
+      {
+        "duration_seconds": 102,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/915whHws+9L.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b9e510c-0e3c-4709-89a0-2ac23938edeb/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "ASUS TUF Gaming F15 - Quick Demo and Review"
+      },
+      {
+        "duration_seconds": 18,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61488-8ea5L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0bd2682-2991-490d-b690-01d353f05a7f/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Homeschooling Must Have "
+      },
+      {
+        "duration_seconds": 33,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1EKCLeIfQL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6479060-d107-43a8-9f86-6255c5f5dcd8/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Short Review: Is the ASUS TUF Gaming A15 Even WORTH It?"
+      },
+      {
+        "duration_seconds": 75,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/91ZMS9xJfyL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f43fc594-7c07-4cb2-90d7-9a849ff4eb88/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "ASUS TUF A15 Gaming Laptop (2024)"
+      },
+      {
+        "duration_seconds": 121,
+        "width": 1200,
+        "height": 682,
+        "thumbnail": "https://m.media-amazon.com/images/I/51Ii5PeiJML.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dcb0acb-1420-4e4c-ad78-819d00c59909/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Asus Tuf Laptop all you need to know"
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0e48baaa-f5de-4e27-a44b-6fca8774fa24/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4946542d-88a8-492c-84b2-0bb0fa1f32ea/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de3b2b83-bc9d-49b0-bef1-f57d380d8d6f/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e4871fd7-cad2-42c7-9f0c-c38fce179a48/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/65f6d7b3-492d-41cf-a6fd-e9cbe1d3699b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b9e510c-0e3c-4709-89a0-2ac23938edeb/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0bd2682-2991-490d-b690-01d353f05a7f/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6479060-d107-43a8-9f86-6255c5f5dcd8/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f43fc594-7c07-4cb2-90d7-9a849ff4eb88/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dcb0acb-1420-4e4c-ad78-819d00c59909/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.03ddc474d96b48d1bf2634d9ef0004c5",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "QUICK & Easy Look At This Gaming Latop",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61Xy4eyUSmL._CR0,0,1043,1043_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/mywealthyhabitscameron",
+        "public_name": "✅️Trendroid Reviews⭐️⭐️⭐️⭐️⭐️",
+        "creator_type": "Influencer",
+        "vendor_code": "mywealthyhabitscameron:shop",
+        "vendor_name": "✅️Trendroid Reviews⭐️⭐️⭐️⭐️⭐️",
+        "vendor_tracking_id": "onamzcame0b60-20",
+        "video_image_id": "91UkQvS8x9L",
+        "video_image_url": "https://m.media-amazon.com/images/I/91UkQvS8x9L._CR0,0,1850,1044_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91UkQvS8x9L.jpg",
+        "video_image_width": "1850",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/35164034-1a08-411b-b8a5-3edb67e33a3b/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0e48baaa-f5de-4e27-a44b-6fca8774fa24/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0e48baaa-f5de-4e27-a44b-6fca8774fa24/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0e48baaa-f5de-4e27-a44b-6fca8774fa24/c9e907de-4136-419e-9752-ae3f59cf0d1a/03ddc474d96b48d1bf2634d9ef0004c5_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d9d6a8c8-3b67-43c8-811a-a9d8deca73f1.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.01bb10308649474bbfbbb0e5aa252681",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "Is it worth it for the price? My HONEST opinion!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91azMfMfqwL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/rafaelmeirelles8",
+        "public_name": "Rafael Meirelles",
+        "creator_type": "Influencer",
+        "vendor_code": "rafaelmeirelles8:shop",
+        "vendor_name": "Rafael Meirelles",
+        "vendor_tracking_id": "onamzrmrsales-20",
+        "video_image_id": "71dmX-PVtzL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71dmX-PVtzL._CR0,0,1600,903_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71dmX-PVtzL.jpg",
+        "video_image_width": "1600",
+        "video_image_height": "1200",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74d31d99-b0c4-4442-bb47-cdb8554d8e55/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4946542d-88a8-492c-84b2-0bb0fa1f32ea/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4946542d-88a8-492c-84b2-0bb0fa1f32ea/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4946542d-88a8-492c-84b2-0bb0fa1f32ea/36ae58d2-6dc1-4fae-b5b1-7ec2c62cfa75/01bb10308649474bbfbbb0e5aa252681_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9937da8f-398e-4373-872c-6c5baf1a1aa4.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0363ad5f71a8485a8f96df739af02ba2",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDB8G1G,B0CRDF25TQ",
+        "title": "TUF Gaming A15 - Product Video",
+        "public_name": "ASUS Computers",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "ASUS Computers",
+        "video_image_id": "51Hj86XnfoL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Hj86XnfoL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Hj86XnfoL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/24cd603b-ef37-4a5c-8d21-32d15961d7b2/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de3b2b83-bc9d-49b0-bef1-f57d380d8d6f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de3b2b83-bc9d-49b0-bef1-f57d380d8d6f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/de3b2b83-bc9d-49b0-bef1-f57d380d8d6f/f2c3a24e-b089-49f0-be5a-b43ff5ed4893/0363ad5f71a8485a8f96df739af02ba2_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/dab19d54-4d34-46bb-890a-906d824c2797.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.01007fd5161940788a9b11530885fa55",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "ASUS TUF Gaming A15 (2024) Gaming Laptop, 15.6 FHD 144H",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1I5Y5tD2XL._CR0,0,2688,2688_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/yermakanastasiia",
+        "public_name": "⭐️⭐️⭐️⭐️⭐️ Review",
+        "creator_type": "Influencer",
+        "vendor_code": "yermakanastasiia:shop",
+        "vendor_name": "⭐️⭐️⭐️⭐️⭐️ Review",
+        "vendor_tracking_id": "onamzana0271a-20",
+        "video_image_id": "D1vzTSuXcdL",
+        "video_image_url": "https://m.media-amazon.com/images/I/D1vzTSuXcdL._CR6,0,3987,2250_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/D1vzTSuXcdL.png",
+        "video_image_width": "4000",
+        "video_image_height": "2250",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1fb15222-af0e-4e82-81e7-980883046919/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e4871fd7-cad2-42c7-9f0c-c38fce179a48/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e4871fd7-cad2-42c7-9f0c-c38fce179a48/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e4871fd7-cad2-42c7-9f0c-c38fce179a48/69576fb1-237b-49de-9c6c-8126963c3479/01007fd5161940788a9b11530885fa55_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:16",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ff74e7db-4199-48b3-8996-f0294bdae3c2.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0938b9445fc64c31a2d9140cda987759",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "Need improvement but overall good",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHNVSH7TS46SV3XVSS5XPWSAFWYQ",
+        "public_name": "Lazaro Carrillo",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Lazaro Carrillo",
+        "video_image_id": "61HpebI1NEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61HpebI1NEL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61HpebI1NEL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8cdc0fc0-c8bb-4499-a46a-0dc7171f5d6c/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/65f6d7b3-492d-41cf-a6fd-e9cbe1d3699b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/65f6d7b3-492d-41cf-a6fd-e9cbe1d3699b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:23",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f37d5f4f-8556-4815-a9e2-5be4fba12ab3.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.07c81477a3824f858a6158403990cc07",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "ASUS TUF Gaming F15 - Quick Demo and Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/718t+q8o7uL._CR0,0,1073,1073_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/agnieszk4n",
+        "public_name": "Agnes",
+        "creator_type": "Influencer",
+        "vendor_code": "agnieszk4n:shop",
+        "vendor_name": "Agnes",
+        "vendor_tracking_id": "onamzagnes09-20",
+        "video_image_id": "915whHws+9L",
+        "video_image_url": "https://m.media-amazon.com/images/I/915whHws+9L._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/915whHws+9L.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a3d09473-9ec3-4d9d-bf11-bdee4b48a8f3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b9e510c-0e3c-4709-89a0-2ac23938edeb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b9e510c-0e3c-4709-89a0-2ac23938edeb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b9e510c-0e3c-4709-89a0-2ac23938edeb/61d56cd1-4b76-45f3-8b02-771e2ac49df0/07c81477a3824f858a6158403990cc07_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:42",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/34c138b5-dd0e-4a82-a56c-d9625dcdc85d.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0098c00b45b440a3b5fa99fce022454d",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "Homeschooling Must Have ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81dJ4rIxkiL._CR0,2,956,956_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/athomewiththesumners",
+        "public_name": "Brittany",
+        "creator_type": "Influencer",
+        "vendor_code": "athomewiththesumners:shop",
+        "vendor_name": "Brittany",
+        "vendor_tracking_id": "onamzbri0bc6c-20",
+        "video_image_id": "61488-8ea5L",
+        "video_image_url": "https://m.media-amazon.com/images/I/61488-8ea5L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61488-8ea5L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/776c4e44-4de3-4233-ab1e-c04c1c538326/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0bd2682-2991-490d-b690-01d353f05a7f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0bd2682-2991-490d-b690-01d353f05a7f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f0bd2682-2991-490d-b690-01d353f05a7f/51a9c2c9-c158-4843-8bbe-c4c226e3071a/0098c00b45b440a3b5fa99fce022454d_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:18",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d37b2340-759e-468f-9ea7-50e655f0dfdf.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.08719296096b432ab50038cde48a1029",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDB8G1G",
+        "title": "Short Review: Is the ASUS TUF Gaming A15 Even WORTH It?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "A1EKCLeIfQL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1EKCLeIfQL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1EKCLeIfQL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27a77183-9f1d-4e96-9bbc-006d0896040a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6479060-d107-43a8-9f86-6255c5f5dcd8/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6479060-d107-43a8-9f86-6255c5f5dcd8/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6479060-d107-43a8-9f86-6255c5f5dcd8/d7027f80-43f7-4f23-b53b-75e507b59d94/08719296096b432ab50038cde48a1029_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/f920855f-1bd4-45b4-b787-a65e102af064.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.080a1de980684381bc61d744ccffce13",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDB8G1G",
+        "title": "ASUS TUF A15 Gaming Laptop (2024)",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/technopanda_1677223281809_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/technopanda",
+        "public_name": "Techno Panda Picks",
+        "creator_type": "Influencer",
+        "vendor_code": "technopanda:shop",
+        "vendor_name": "Techno Panda Picks",
+        "vendor_tracking_id": "onamztechnopa-20",
+        "video_image_id": "91ZMS9xJfyL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91ZMS9xJfyL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91ZMS9xJfyL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba74f02a-040b-4be6-a764-74df45c57da8/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f43fc594-7c07-4cb2-90d7-9a849ff4eb88/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f43fc594-7c07-4cb2-90d7-9a849ff4eb88/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f43fc594-7c07-4cb2-90d7-9a849ff4eb88/7d116184-b727-4dab-87f5-b1ab10047fcb/080a1de980684381bc61d744ccffce13_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/962a79f1-d156-4240-9ec7-5d34f69fb3d9.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.00aa9f4a0b2e4898902a259edff933ad",
+        "product_asin": "B0CRDF25TQ",
+        "parent_asin": "B0D4QY765G",
+        "related_products": "B0CRDF25TQ",
+        "title": "Asus Tuf Laptop all you need to know",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51KdZOg6VHL._CR0,0,390,390_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/carlbroadbent",
+        "public_name": "🏆 Top Rated - Review Lab  ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "carlbroadbent:shop",
+        "vendor_name": "🏆 Top Rated - Review Lab  ✅",
+        "vendor_tracking_id": "onamzcbaffili-20",
+        "video_image_id": "51Ii5PeiJML",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Ii5PeiJML._CR0,0,1200,677_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Ii5PeiJML.jpg",
+        "video_image_width": "1200",
+        "video_image_height": "682",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6087cc0d-1570-4eed-bf4c-0a9c497aa714/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dcb0acb-1420-4e4c-ad78-819d00c59909/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dcb0acb-1420-4e4c-ad78-819d00c59909/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dcb0acb-1420-4e4c-ad78-819d00c59909/29f11d7c-853c-4b59-9a10-5231b9449e8e/00aa9f4a0b2e4898902a259edff933ad_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:01",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ed8d677f-4a37-4e98-bf3a-0101a6a392cb.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "READY FOR ANYTHING - Jump right into the action with Windows 11, an AMD Ryzen 5 7535HS processor, and NVIDIA GeForce RTX 2050 Laptop GPU (up to 70W TGP with Dynamic Boost).",
+      "SWIFT MEMORY AND STORAGE – Multitask faster with 8GB of DDR5-5600MHz memory and speed up loading times with 512GB of PCIe 4.0.",
+      "NEVER MISS A MOMENT – Keep up with the pros thanks to the fast FHD 144Hz display. Adaptive-Sync technology reduces lag, minimizes stuttering, and eliminates visual tearing for ultra-smooth and lifelike gameplay.",
+      "BLOW AWAY THE COMPETITION – The TUF is equipped to handle its high-power CPU with a pair of 84-blade Arc Flow Fans which improves cooling performance without extra noise.",
+      "MILITARY GRADE TOUGHNESS – In order to earn the TUF Gaming name, these laptops must successfully survive a rigorous battery of MIL-STD-810H* tests. Test devices are exposed to drops, vibration, humidity, and extreme temperatures to ensure reliability."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "MILITARY GRADE TOUGHNESS – In order to earn the TUF Gaming name, these laptops must successfully survive a rigorous battery of MIL-STD-810H* tests. Test devices are exposed to drops, vibration, humidity, and extreme temperatures to ensure reliability. BLOW AWAY THE COMPETITION – The TUF is equipped to handle its high-power CPU with a pair of 84-blade Arc Flow Fans which improves cooling performance without extra noise. NEVER MISS A MOMENT – Keep up with the pros thanks to the fast FHD 144Hz display. Adaptive-Sync technology reduces lag, minimizes stuttering, and eliminates visual tearing for ultra-smooth and lifelike gameplay. SWIFT MEMORY AND STORAGE – Multitask faster with 8GB of DDR5-5600MHz memory and speed up loading times with 512GB of PCIe 4.0. READY FOR ANYTHING - Jump right into the action with Windows 11, an AMD Ryzen 5 7535HS processor, and NVIDIA GeForce RTX 2050 Laptop GPU (up to 70W TGP with Dynamic Boost).",
+    "top_reviews": [
+      {
+        "id": "R2UDVK2THFXBE7",
+        "title": "Duuuuuuude very nice laptop",
+        "body": "Doing great so far, i obviously had to upgrade the ram/memory whatever you wanna call it lol i play rust and it functions well graphics are amazing to me, price is decent for a starter laptop for gaming easy to navigate its actually a really impressive pc, but upgrade the memory capacity and its even better, color is great keyboard lights are cool idk what else to say im old so dont take much to impress me with new tech but id recommend this pc to any one its fast as heck and quite battery is still lacking but i think thats most laptops lol but overall i really dig it and if you know rust then you know it dont take much to crash your pc so thats a huge win for this pc i put in 2 16gb memory sticks for 36 gb it runs flawlessly. Happy gaming! Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Doing great so far, i obviously had to upgrade the ram/memory whatever you wanna call it lol i play rust and it functions well graphics are amazing to me, price is decent for a starter laptop for gaming easy to navigate its actually a really impressive pc, but upgrade the memory capacity and its even better, color is great keyboard lights are cool idk what else to say im old so dont take much to impress me with new tech but id recommend this pc to any one its fast as heck and quite battery is still lacking but i think thats most laptops lol but overall i really dig it and if you know rust then you know it dont take much to crash your pc so thats a huge win for this pc i put in 2 16gb memory sticks for 36 gb it runs flawlessly. Happy gaming!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2UDVK2THFXBE7/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 24, 2025",
+          "utc": "2025-03-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Misfit13",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG5B3LHC3I6H4SZOYPGU7Q7BSPEQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG5B3LHC3I6H4SZOYPGU7Q7BSPEQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 7,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "R2SCZPNDY9OXYE",
+        "title": "Dream top",
+        "body": "The laptop came earlier than expected and I was so happy. It was so easy to setup and runs my games smoothly, it's TUF(Tough) and it shows. This is good quality laptop with good quality audio and brightness! I bought it because I've been wanting a gaming laptop again after my last one broke and this one was definitely worth the money, every dollar I spent on this was well spent and I look forward to doing business with ASUS again in the future. It's safe to say that I'm very pleased with my purchase and will do it again Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The laptop came earlier than expected and I was so happy. It was so easy to setup and runs my games smoothly, it&apos;s TUF(Tough) and it shows. This is good quality laptop with good quality audio and brightness!<br/>I bought it because I&apos;ve been wanting a gaming laptop again after my last one broke and this one was definitely worth the money, every dollar I spent on this was well spent and I look forward to doing business with ASUS again in the future.<br/>It&apos;s safe to say that I&apos;m very pleased with my purchase and will do it again<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2SCZPNDY9OXYE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 20, 2025",
+          "utc": "2025-03-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shopperpie",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHGSERCGJMON7DELYEVL4N5L4DXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHGSERCGJMON7DELYEVL4N5L4DXQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/bfde4217-8d53-4f5e-984a-0d3a00332322._CR1%2C0%2C498%2C498_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "R2LBW8I2AA871T",
+        "title": "Nice gaming laptop",
+        "body": "Very nice laptop I just dont like this backlight bleed the last Asus laptop I had did not have this.battery is ok I leave it plugged in.i like that you can upgrade ram.loads up quick. Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Very nice laptop I just dont like this backlight bleed the last Asus laptop I had did not have this.battery is ok I leave it plugged in.i like that you can upgrade ram.loads up quick.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2LBW8I2AA871T/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on May 13, 2025",
+          "utc": "2025-05-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Rafael",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGX7NP7SGASGGLIWKA2AFNY6K2VA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGX7NP7SGASGGLIWKA2AFNY6K2VA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "R2ZWRLING7TG85",
+        "title": "In ASUS I trust",
+        "body": "I have become an ASUS user since 2017 when I bought an FX53VD (the ancestor of TUF series) and now, 8 years later, I buy a new TUF. I really like the solid structural design and the robust technical performance of ASUS gaming laptops, after all my senior ASUS laptop has worked 8 years and is still running well now.  By the way, I would like to mention that I use this laptop for daily office work only (I don’t play video games). The reason for buying a thick-and-heavy gaming laptop is that since say 2020, the frequency of CPUs has been insanely increased by the manufacturers while the chassis of light-and-thin laptops remains the same substantially: those useless laptops heat up very easily and the cooling fans sound like helicopters. With an ASUS gaming laptop, you can rarely hear the cooling fans running when you only do normal office work, and that is perfect for me who is sensitive to noises. One last tip: uninstall the Armoury Crate (a programmr developed by ASUS to control the power and cooling fans) and install G-Helper instead! Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have become an ASUS user since 2017 when I bought an FX53VD (the ancestor of TUF series) and now, 8 years later, I buy a new TUF. I really like the solid structural design and the robust technical performance of ASUS gaming laptops, after all my senior ASUS laptop has worked 8 years and is still running well now.<br/><br/>By the way, I would like to mention that I use this laptop for daily office work only (I don&#x2019;t play video games). The reason for buying a thick-and-heavy gaming laptop is that since say 2020, the frequency of CPUs has been insanely increased by the manufacturers while the chassis of light-and-thin laptops remains the same substantially: those useless laptops heat up very easily and the cooling fans sound like helicopters. With an ASUS gaming laptop, you can rarely hear the cooling fans running when you only do normal office work, and that is perfect for me who is sensitive to noises. One last tip: uninstall the Armoury Crate (a programmr developed by ASUS to control the power and cooling fans) and install G-Helper instead!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2ZWRLING7TG85/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 3, 2025",
+          "utc": "2025-04-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Yifan Yang",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHFNTP6PDIYYUR6WAFHF3ECLDGOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHFNTP6PDIYYUR6WAFHF3ECLDGOA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 14,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "REXVNXWWW5NKE",
+        "title": "Great product, great price",
+        "body": "Great gaming laptop for its price. Definitely a great option for your teens or adult gamers. No issues and great performances 👍 Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great gaming laptop for its price. Definitely a great option for your teens or adult gamers.<br/>No issues and great performances &#x1F44D;<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/REXVNXWWW5NKE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 15, 2025",
+          "utc": "2025-04-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Maritza",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGTFOWPKFEI7QCHYLYJ42ACSSA3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGTFOWPKFEI7QCHYLYJ42ACSSA3A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "R3TIVX9DF90KXH",
+        "title": "Medium to low performance at best. Almost non-existent battery life.",
+        "body": "EDIT 2/5/2025**7-8 months into owning this laptop and I am getting blue screen. The prices of this is far to high considering all the issues thus far** I don't know why this is part of the TUF gaming series. This is laptop is built with some of the cheapest materials you could possibly put on a laptop. The GPU performance and the battery life on this is almost non-existent a full charge will maybe get you 45 minutes worth of gameplay. For this price range I was expecting something a bit better. This laptop should be priced around the $300 mark. It just lacks in absolutely every regard. You would be better off buying a non-gaming laptop in this price range. It would probably perform as well if not better. Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>EDIT 2/5/2025**7-8 months into owning this laptop and I am getting blue screen. The prices of this is far to high considering all the issues thus far**<br/>I don&apos;t know why this is part of the TUF gaming series. This is laptop is built with some of the cheapest materials you could possibly put on a laptop. The GPU performance and the battery life on this is almost non-existent a full charge will maybe get you 45 minutes worth of gameplay. For this price range I was expecting something a bit better. This laptop should be priced around the $300 mark. It just lacks in absolutely every regard. You would be better off buying a non-gaming laptop in this price range. It would probably perform as well if not better.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3TIVX9DF90KXH/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on October 30, 2024",
+          "utc": "2024-10-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "John",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFANVTSK54MXQQLFQF2OBO7CXCUQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFANVTSK54MXQQLFQF2OBO7CXCUQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 16,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "R1XM9QCBE5LDFF",
+        "title": "Excellent gaming laptop",
+        "body": "I've only owned this for a few days, haven't done a bunch of gaming on it, but it does run fortnite smoothly. My friend who is a huge gaming nerd helped me pick it out Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve only owned this for a few days, haven&apos;t done a bunch of gaming on it, but it does run fortnite smoothly. My friend who is a huge gaming nerd helped me pick it out<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1XM9QCBE5LDFF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 6, 2025",
+          "utc": "2025-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jeffery Lebowski",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHSKMTFDQGFO2BRGPXWMSQ7QGSCA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHSKMTFDQGFO2BRGPXWMSQ7QGSCA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/930bec72-54e8-498f-9afd-3247b371030a._CR0%2C0%2C376%2C376_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      },
+      {
+        "id": "R2VY6PI7BGPJ6P",
+        "title": "I absolutely love my laptop.",
+        "body": "After using my laptop for a few months, I can say that this laptop is a great quality choice for gaming. It runs great for most games, loads fast, has multiple ways of monitoring performance, and is overall an amazing choice if you’re on a bit of a budget for a PC gaming. It’s resistant to overheating due to the multiple fans in the system which will turn on automatically when it needs to, but you can also adjust the mode of the fans with just a button. The sound quality is like any other laptop, but just a bit better.  Additionally, as a college student, I’m always on my laptop for school work/documents/videos, and I never have any issues using my laptop for everyday tasks like writing papers/e-mails. It runs great and almost never lags, even with all the different apps and things I have downloaded.  Overall, I 100% recommend if you’re looking for a laptop to get into gaming with and it’s in your budget! Read more",
+        "asin": "B0CRDF25TQ",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>After using my laptop for a few months, I can say that this laptop is a great quality choice for gaming. It runs great for most games, loads fast, has multiple ways of monitoring performance, and is overall an amazing choice if you&#x2019;re on a bit of a budget for a PC gaming. It&#x2019;s resistant to overheating due to the multiple fans in the system which will turn on automatically when it needs to, but you can also adjust the mode of the fans with just a button. The sound quality is like any other laptop, but just a bit better.<br/><br/>Additionally, as a college student, I&#x2019;m always on my laptop for school work/documents/videos, and I never have any issues using my laptop for everyday tasks like writing papers/e-mails. It runs great and almost never lags, even with all the different apps and things I have downloaded.<br/><br/>Overall, I 100% recommend if you&#x2019;re looking for a laptop to get into gaming with and it&#x2019;s in your budget!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2VY6PI7BGPJ6P/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CRDF25TQ",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 3, 2024",
+          "utc": "2024-12-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ashley",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGWETKYT7SCBKESQ4LRKTHG4FOMA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGWETKYT7SCBKESQ4LRKTHG4FOMA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 10,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "R5"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "%2BFrdpfnV1lGxofX1ee8kULiwo9jcMiT2TrizCMkxIfDa1oEubG40hUNs6hacbhzl5mHxpSNEgUGR5vYm3kxfUhLBKSQsG8hR3lGMj1cPHqNkx%2FJ4Nv7NfBdAKTiNEvri5NAvDMc4sSaJnFWoz6LrT%2FZbKrzzI%2BuQDBz1xm%2FzktJA9kEsZ2bJm3bIOTm4GeFJ",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 18 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "product_condition": "Screen is like new with no visible scratches. Item will come in original packaging.",
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 593.99,
+          "currency": "USD",
+          "raw": "$593.99"
+        },
+        "maximum_order_quantity": {
+          "value": 5
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true,
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Tuesday, May 27",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        }
+      },
+      "offer_id": "+FrdpfnV1lGxofX1ee8kULiwo9jcMiT2TrizCMkxIfDa1oEubG40hUNs6hacbhzl5mHxpSNEgUGR5vYm3kxfUhLBKSQsG8hR3lGMj1cPHqNkx/J4Nv7NfBdAKTiNEvri5NAvDMc4sSaJnFWoz6LrT/ZbKrzzI+uQDBz1xm/zktJA9kEsZ2bJm3bIOTm4GeFJ",
+      "mixed_offers_count": 8,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "73.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "124.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Tuesday, May 27",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 693.74,
+        "currency": "USD",
+        "raw": "$693.74"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 693.74,
+        "currency": "USD",
+        "raw": "$693.74"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.5 GHz ryzen_5"
+      },
+      {
+        "name": "RAM",
+        "value": "‎4 DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎5600 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎4 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎TUF Gaming A15"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎FA506NF-ES51"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎7.9 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.13 x 0.9 x 10.08 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.13 x 0.9 x 10.08 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Graphite Black"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎6"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 SDRAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎SATA 6 GB/s"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Drive"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎240 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CRDF25TQ"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.3    4.3 out of 5 stars         217 ratings          4.3 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#464 in Computers & Accessories (See Top 100 in Computers & Accessories) #54 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "January 3, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "TUF Gaming A15"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Graphite Black"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Ryzen 5"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "8 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      },
+      {
+        "name": "CPU Speed",
+        "value": "4.5 GHz"
+      }
+    ],
+    "specifications_flat": "CPU Speed: 4.5 GHz. Graphics Card Description: Dedicated. Operating System: Windows 11 Home. Ram Memory Installed Size: 8 GB. CPU Model: Ryzen 5. Hard Disk Size: 512 GB. Color: Graphite Black. Screen Size: 15.6 Inches. Model Name: TUF Gaming A15. Brand: ASUS. Date First Available: January 3, 2024. Best Sellers Rank: #464 in Computers & Accessories (See Top 100 in Computers & Accessories) #54 in Traditional Laptop Computers. Customer Reviews: 4.3    4.3 out of 5 stars         217 ratings          4.3 out of 5 stars. ASIN: B0CRDF25TQ. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎240 Volts. Optical Drive Type: ‎No Drive. Hard Drive Interface: ‎SATA 6 GB/s. Flash Memory Size: ‎8 GB. Computer Memory Type: ‎DDR5 SDRAM. Number of Processors: ‎6. Processor Brand: ‎AMD. Color: ‎Graphite Black. Item Dimensions  LxWxH: ‎14.13 x 0.9 x 10.08 inches. Product Dimensions: ‎14.13 x 0.9 x 10.08 inches. Item Weight: ‎7.9 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎FA506NF-ES51. Series: ‎TUF Gaming A15. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎802.11ax. Graphics Card Ram Size: ‎4 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Hard Drive: ‎512 GB SSD. Memory Speed: ‎5600 MHz. RAM: ‎4 DDR5. Processor: ‎4.5 GHz ryzen_5. Max Screen Resolution: ‎1920 x 1080 pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 464,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 54,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Graphite Black",
+    "weight": "‎7.9 pounds",
+    "first_available": {
+      "raw": "January 3, 2024",
+      "utc": "2024-01-03T00:00:00.000Z"
+    },
+    "dimensions": "‎14.13 x 0.9 x 10.08 inches",
+    "model_number": "‎FA506NF-ES51",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 464, Category: Traditional Laptop Computers | Rank: 54",
+    "whats_in_the_box": [
+      "FA506NF-ES51"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 726.67,
+      "currency": "USD",
+      "raw": "$726.67"
+    },
+    "products": [
+      {
+        "asin": "B0CRDF25TQ",
+        "title": "ASUS TUF Gaming A15 Gaming Laptop, 15.6” FHD 144Hz Display, NVIDIA® GeForce RTX™ 2050, AMD Ryzen™ 5 7535HS, 8GB DDR5, 512GB PCIe® Gen4 NVMe™ SSD, Wi-Fi 6, Windows 11, FA506NF-ES51",
+        "link": "https://www.amazon.com/dp/B0CRDF25TQ",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81kxce-AlLL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 527.99,
+          "currency": "USD",
+          "raw": "$527.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0CZ59B6MH",
+    "link": "https://www.amazon.com/dp/B0CZ59B6MH/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=F63JNHVEY15TM9PA3V2R&pd_rd_wg=QyNPu&pd_rd_i=B0CZ59B6MH&pd_rd_w=Pi7My&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=01be3ffd-e604-43c2-b01f-5e43db3daff9&psc=1",
+    "title": "Dell Inspiron 5645 Laptop - 16.0 16:10 FHD+ (1920 x 1200) Display, AMD Ryzen 7-8840U, 16GB DDR5 RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, Onsite & Migrate Services - Midnight Blue",
+    "rating": 4,
+    "ratings_total": 124,
+    "image": "https://m.media-amazon.com/images/I/818WO3r8jhL._SS100_.jpg",
+    "is_prime": true
+  }
+}

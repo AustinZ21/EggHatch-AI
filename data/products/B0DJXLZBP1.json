@@ -1,0 +1,1108 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5571,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DJXLZBP1",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:55:20.365Z",
+    "processed_at": "2025-05-20T01:55:28.050Z",
+    "total_time_taken": 7.68,
+    "amazon_url": "https://www.amazon.com/dp/B0DJXLZBP1?th=1&psc=1"
+  },
+  "product": {
+    "title": "LEWENTECH Gaming Mouse 6 Adjustable DPI Up to 7200 Wired PC Gaming Mouse 8 Programmable Buttons 13 Adjustable RGB LED Modes 1.5 M Drag-Free Paracord Ergonomic Mouse Windows/PC/Mac/Laptop (White)",
+    "search_alias": {
+      "title": "Video Games",
+      "value": "videogames"
+    },
+    "keywords": "LEWENTECH,Gaming,Mouse,6,Adjustable,DPI,Up,to,7200,Wired,PC,Gaming,Mouse,8,Programmable,Buttons,13,Adjustable,RGB,LED,Modes,1.5,M,Drag-Free,Paracord,Ergonomic,Mouse,Windows/PC/Mac/Laptop,(White)",
+    "keywords_list": [
+      "LEWENTECH",
+      "Gaming",
+      "Mouse",
+      "Adjustable",
+      "7200",
+      "Wired",
+      "Gaming",
+      "Mouse",
+      "Programmable",
+      "Buttons",
+      "Adjustable",
+      "Modes",
+      "Drag-Free",
+      "Paracord",
+      "Ergonomic",
+      "Mouse",
+      "Windows/PC/Mac/Laptop",
+      "(White)"
+    ],
+    "is_collection": false,
+    "asin": "B0DJXLZBP1",
+    "parent_asin": "B0DMP5H63H",
+    "link": "https://www.amazon.com/LEWENTECH-Adjustable-PC-Programmable-Drag-Free-Ergonomic/dp/B0DJXLZBP1",
+    "brand": "LEWENTECH",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "Black",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Black"
+          }
+        ],
+        "asin": "B0DJXWNWHJ",
+        "link": "https://amazon.com/dp/B0DJXWNWHJ?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "White",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "White"
+          }
+        ],
+        "asin": "B0DJXLZBP1",
+        "link": "https://amazon.com/dp/B0DJXLZBP1?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0DJXWNWHJ,B0DJXLZBP1",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/ref=dp_bc_1?ie=UTF8&node=468642",
+        "category_id": "468642"
+      },
+      {
+        "name": "PC",
+        "link": "https://www.amazon.com/PC-Games/b/ref=dp_bc_2?ie=UTF8&node=229575",
+        "category_id": "229575"
+      },
+      {
+        "name": "Accessories",
+        "link": "https://www.amazon.com/PC-Accessories/b/ref=dp_bc_3?ie=UTF8&node=318813011",
+        "category_id": "318813011"
+      },
+      {
+        "name": "Gaming Mice",
+        "link": "https://www.amazon.com/PC-Gaming-Mice/b/ref=dp_bc_4?ie=UTF8&node=402052011",
+        "category_id": "402052011"
+      }
+    ],
+    "categories_flat": "Video Games > PC > Accessories > Gaming Mice",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "brand_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a2bbefb-da4c-4289-9e3b-0b17b6d70565.__CR0,0,315,145_PT0_SX315_V1___.png",
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e0a6f9b7-ca28-43cd-8e3e-e1628286e72a.__CR0,0,1464,625_PT0_SX1464_V1___.png",
+        "description": "About LEWENTECH",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e0a6f9b7-ca28-43cd-8e3e-e1628286e72a.__CR0,0,1464,625_PT0_SX1464_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7b60a05f-b61a-4733-ba77-5b1e8b2a854d.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46560472-3c26-4a38-8781-dc2efe44b1b4.__CR0,0,362,453_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc951f15-3c38-42f6-9870-699d407ee176.__CR0,0,362,453_PT0_SX362_V1___.png"
+        ]
+      },
+      "third_party": true,
+      "company_logo": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a2bbefb-da4c-4289-9e3b-0b17b6d70565.__CR0,0,315,145_PT0_SX315_V1___.png",
+      "company_description_text": "About LEWENTECH LEWENTECH is a quality Gaming Accessories brand,To make it easier for you to get game experience using a wired gaming mouse, LEWENTECH began to produce the gaming mouse, We take strict control of every procedure, from product selection to manufacture, between quality inspection and logistics, made with superior quality material!It’s not just a mouse, it’s a gaming enthusiast solution!Create a cozy gaming environment with LEWENTECH"
+    },
+    "sub_title": {
+      "text": "Brand: LEWENTECH",
+      "link": "https://www.amazon.com/LEWENTECH/b/ref=bl_dp_s_web_21499966011?ie=UTF8&node=21499966011&field-lbr_brands_browse-bin=LEWENTECH"
+    },
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 79
+      },
+      "four_star": {
+        "percentage": 8,
+        "count": 8
+      },
+      "three_star": {
+        "percentage": 9,
+        "count": 9
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 2
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 4
+      }
+    },
+    "ratings_total": 103,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61hb9509E-L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61hb9509E-L._SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71rZmYYYlpL._SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71lie26j9WL._SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/718xUC8PRzL._SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71CEfekXivL._SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81C-ri+LIJL._SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71qp62e3cjL._SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81vEQIDqQpL._SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71S7rTSMuzL._SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61hb9509E-L._SL1500_.jpg,https://m.media-amazon.com/images/I/71rZmYYYlpL._SL1500_.jpg,https://m.media-amazon.com/images/I/71lie26j9WL._SL1500_.jpg,https://m.media-amazon.com/images/I/718xUC8PRzL._SL1500_.jpg,https://m.media-amazon.com/images/I/71CEfekXivL._SL1500_.jpg,https://m.media-amazon.com/images/I/81C-ri+LIJL._SL1500_.jpg,https://m.media-amazon.com/images/I/71qp62e3cjL._SL1500_.jpg,https://m.media-amazon.com/images/I/81vEQIDqQpL._SL1500_.jpg,https://m.media-amazon.com/images/I/71S7rTSMuzL._SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 7,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/51fB3o6T0kL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae78b2d3-3c50-4e26-a4c2-2d7d313a6d09/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Gaming mouse"
+      },
+      {
+        "duration_seconds": 15,
+        "width": 360,
+        "height": 480,
+        "thumbnail": "https://m.media-amazon.com/images/I/21kARHdVtgL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0d649db3-7f36-4ffa-b373-17f9b8906169/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Comfortable and great gaming"
+      },
+      {
+        "duration_seconds": 15,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/61ZPZqyZwcL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18d344d3-bf12-4cf7-8498-ca0a9d6d85aa/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Love it!"
+      },
+      {
+        "duration_seconds": 67,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/51PrdxT+80L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f48bafc-c1c1-438a-bd92-29a8658c8db9/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Super cool"
+      },
+      {
+        "duration_seconds": 5,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/61MB9Phm2cL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/244d0204-c5a2-467d-a77d-f95bdf91f25b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "For PC gaming, it's average."
+      },
+      {
+        "duration_seconds": 173,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/41yJFwyoffL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be481c8-ad5e-4cd9-b003-c7a32759660c/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "New updated gaming mouse"
+      },
+      {
+        "duration_seconds": 21,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/619s9sse5BL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c82ee42d-040a-4f3a-86f5-7a68b9bbb929/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Smooth, Responsive, and Looks Awesome!"
+      },
+      {
+        "duration_seconds": 134,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/71Sd-xZ0kSL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cafb6935-078a-4b2b-b650-8056c24bf4ce/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Great gaming mouse"
+      },
+      {
+        "duration_seconds": 26,
+        "width": 756,
+        "height": 960,
+        "thumbnail": "https://m.media-amazon.com/images/I/41tyQLdJC3L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20cfa282-11d8-4c49-ae41-af56c4c24542/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Gamers mouse"
+      }
+    ],
+    "videos_count": 9,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae78b2d3-3c50-4e26-a4c2-2d7d313a6d09/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0d649db3-7f36-4ffa-b373-17f9b8906169/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18d344d3-bf12-4cf7-8498-ca0a9d6d85aa/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f48bafc-c1c1-438a-bd92-29a8658c8db9/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/244d0204-c5a2-467d-a77d-f95bdf91f25b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be481c8-ad5e-4cd9-b003-c7a32759660c/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c82ee42d-040a-4f3a-86f5-7a68b9bbb929/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cafb6935-078a-4b2b-b650-8056c24bf4ce/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20cfa282-11d8-4c49-ae41-af56c4c24542/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0be6419ac4214a3796677a3f5edad29b",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Gaming mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/9475f476-21b7-440f-8ec2-550a1138a443._CR0%2C0%2C500%2C500_SX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AGACYTTIPGHGVGEIY5U757XQ4ICQ",
+        "public_name": "terri stevens",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "terri stevens",
+        "video_image_id": "51fB3o6T0kL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51fB3o6T0kL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51fB3o6T0kL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d6c42bcd-b654-4ce2-8879-4fd168105a01/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae78b2d3-3c50-4e26-a4c2-2d7d313a6d09/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ae78b2d3-3c50-4e26-a4c2-2d7d313a6d09/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:07",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/be56c4e0-4e78-4418-9b81-cb00187fca2c.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.00950e1ff8794e1db34a9b440e07ab19",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Comfortable and great gaming",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/a8e4406f-2f5d-44d3-8d51-6c53aeeec10b._CR0%2C0%2C400%2C400_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AGRD5QATDP7URWI2UTN2SXVIUX4A",
+        "public_name": "Shannon",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Shannon",
+        "video_image_id": "21kARHdVtgL",
+        "video_image_url": "https://m.media-amazon.com/images/I/21kARHdVtgL._CR0,0,360,203_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/21kARHdVtgL.jpg",
+        "video_image_width": "360",
+        "video_image_height": "480",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ef425a70-9457-4e5f-b186-2539f1680ff7/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0d649db3-7f36-4ffa-b373-17f9b8906169/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0d649db3-7f36-4ffa-b373-17f9b8906169/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c2a03a7e-b521-4fbb-a375-baf470cbee2a.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.08b2db0cb422444ead6b3d638c0998a0",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Love it!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFPAUG2PFHFO7P7VC77ERAJZSSVA",
+        "public_name": "Mrs D",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Mrs D",
+        "video_image_id": "61ZPZqyZwcL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61ZPZqyZwcL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61ZPZqyZwcL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6373f39d-fb46-4def-8284-ecd0a4fc2a99/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18d344d3-bf12-4cf7-8498-ca0a9d6d85aa/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/18d344d3-bf12-4cf7-8498-ca0a9d6d85aa/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/866f0eb1-38c8-49d2-8e28-9b4c7c7980fd.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0123c44d6ed44c41bacce86e8024df55",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Super cool",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/0ebd60f4-6c58-4643-b1e4-30d96a26d9dd._CR0%2C0%2C500%2C500_SX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AH64JCSDGPCPWS6WWJ2VQGPKB7TA",
+        "public_name": "Elissa B.",
+        "creator_type": "Customer",
+        "vendor_code": "UGCPR",
+        "vendor_name": "Elissa B.",
+        "video_image_id": "51PrdxT+80L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51PrdxT+80L._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51PrdxT+80L.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2097a846-c5ed-4541-8c0b-e1884e9eb957/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f48bafc-c1c1-438a-bd92-29a8658c8db9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f48bafc-c1c1-438a-bd92-29a8658c8db9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:07",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6fba5d32-a0c2-4411-81f5-c3e51e58af80.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.08d6974b4e324d24a6d513a419f72a91",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "For PC gaming, it's average.",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/6c241e25-1885-4b04-bf9e-bdcddf79c488._CR0%2C47%2C238%2C238_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AEGUTOZR4AFYBXDJUIXJM6OTE2BQ",
+        "public_name": "Luna",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Luna",
+        "video_image_id": "61MB9Phm2cL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61MB9Phm2cL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61MB9Phm2cL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7510a304-7f40-456c-928b-79aeb5b334a4/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/244d0204-c5a2-467d-a77d-f95bdf91f25b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/244d0204-c5a2-467d-a77d-f95bdf91f25b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:05",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cfa2c447-d9cc-4452-acbb-f0c03d62e8b8.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.06778c7eca4b4c1f9fb64820741ae99c",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "New updated gaming mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71gnVVvDgPL._CR0,0,1500,1500_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/kgortva",
+        "public_name": "Katie",
+        "creator_type": "Influencer",
+        "vendor_code": "kgortva:shop",
+        "vendor_name": "Katie",
+        "vendor_tracking_id": "onamzkati0c35-20",
+        "video_image_id": "41yJFwyoffL",
+        "video_image_url": "https://m.media-amazon.com/images/I/41yJFwyoffL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41yJFwyoffL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/98cbfc3f-8066-4ff4-ae0b-7b98beba8815/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be481c8-ad5e-4cd9-b003-c7a32759660c/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3be481c8-ad5e-4cd9-b003-c7a32759660c/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:53",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/51555b36-f3c2-4414-b329-99917359cad4.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b57cecf010340eeba2b606fa5638d6f",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Smooth, Responsive, and Looks Awesome!",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/5cb7d701-168f-4687-a7d7-b19e1c78bb68._CR0%2C26%2C281%2C281_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AEHEALSLZYRRP7DUGWBKOTLT6Q5A",
+        "public_name": "Chree King",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Chree King",
+        "video_image_id": "619s9sse5BL",
+        "video_image_url": "https://m.media-amazon.com/images/I/619s9sse5BL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/619s9sse5BL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/23745abc-fbbf-41b7-b3bd-6167d538eeda/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c82ee42d-040a-4f3a-86f5-7a68b9bbb929/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c82ee42d-040a-4f3a-86f5-7a68b9bbb929/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/1eb24aec-6492-45e4-a859-0f09d8f225bc.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e4ce73583374fb29c9b29b0315129f2",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Great gaming mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/81sBo4SD3SL._CR173,0,749,749_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/cuanto.ganas.usa",
+        "public_name": "Ronald",
+        "creator_type": "Influencer",
+        "vendor_code": "cuanto.ganas.usa:shop",
+        "vendor_name": "Ronald",
+        "vendor_tracking_id": "onamzronal03e-20",
+        "video_image_id": "71Sd-xZ0kSL",
+        "video_image_url": "https://m.media-amazon.com/images/I/71Sd-xZ0kSL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/71Sd-xZ0kSL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c8c5fb48-8a97-4784-bbdd-71a5362a5edb/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cafb6935-078a-4b2b-b650-8056c24bf4ce/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cafb6935-078a-4b2b-b650-8056c24bf4ce/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cafb6935-078a-4b2b-b650-8056c24bf4ce/a02737fc-3a56-4a01-849a-70c4ed4b0d60/0e4ce73583374fb29c9b29b0315129f2_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:14",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/856c2142-8682-4aee-a221-b01dd3b2ad58.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.05d37b8e6615474e9120f8991f4dee06",
+        "product_asin": "B0DJXLZBP1",
+        "parent_asin": "B0DMP5H63H",
+        "related_products": "B0DJXLZBP1",
+        "title": "Gamers mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AE4WNSDJZ2YHH33KRHDWSFWWCHHQ",
+        "public_name": "Matthew",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Matthew",
+        "video_image_id": "41tyQLdJC3L",
+        "video_image_url": "https://m.media-amazon.com/images/I/41tyQLdJC3L._CR0,0,756,427_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/41tyQLdJC3L.jpg",
+        "video_image_width": "756",
+        "video_image_height": "960",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3ba79393-aa9b-41c5-a2c7-6d59a5e7bf61/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20cfa282-11d8-4c49-ae41-af56c4c24542/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/20cfa282-11d8-4c49-ae41-af56c4c24542/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:26",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4310313c-72a5-4ff1-b9d7-659abaf1445d.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Intelligent Sensitive 6 DPI Levels : LEWENTECH Wired Gaming Mouse Geared with 6 Redefinable DPI Levels (default as: 1200/1800/2400/3600/4800/7200), According user's preference setup different DPI and Rolling Rate suitable for games, office and many occasions.",
+      "8 Buttons Including Fire Button : PC gaming mice have 8 buttons, whatever game or work you are engaging can set for more functions like rapid fire, macro etc. Software is initial setup. Side buttons are default as forward, backward for efficiency surfing, this usb mouse offers ultimate customization for gaming or productivity tasks, giving you the advantage of quick, efficient commands (Non-programmable).",
+      "13 Different RGB Lighting Modes : PC gaming mouse has 13 adjustable RGB lights, Rainbow Strip with Changeable RGB Colors, You can switch the lighting mode by clicking the button, can be a single color, RGB, or off (The light turns off when the button is pressed fourteenth time), The RGB lights is more vibrant than basic light up mice, Muti-colors lights greatly match your style, provide you fancy gaming environment and highlight your game atmosphere.",
+      "LEWENTECH PC Gaming Mouse : PC Wired gaming mouse The braided wire is used to form a 1.5 M long wire and 3 million clicks for extra durability, double click key in the thumb area adopts polygon non-slip texture, and the blind operation accuracy is increased by 60%, Ergonomic Design Perfectly fits under your palm, gives gamers the most comfortable gaming experienece and makes you feel free from fatigue.",
+      "PTFE Mouse Feet : Made from the highest grade of PTFE, the mouse feet on the front, rear, and sensor ring allows it to glide smoothly across any surface.",
+      "Wide Compatibility : As a plug-and-play wired mouse, easy to use and work with Windows XP / Vista / Win7 / Win8 / Win10 / Mac OS etc, You can feel the solid construction of all buttons, If you have any questions, please feel free to contact us and LEWENTECH will answer your questions within 24 hours!"
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "Wide Compatibility : As a plug-and-play wired mouse, easy to use and work with Windows XP / Vista / Win7 / Win8 / Win10 / Mac OS etc, You can feel the solid construction of all buttons, If you have any questions, please feel free to contact us and LEWENTECH will answer your questions within 24 hours!. PTFE Mouse Feet : Made from the highest grade of PTFE, the mouse feet on the front, rear, and sensor ring allows it to glide smoothly across any surface. LEWENTECH PC Gaming Mouse : PC Wired gaming mouse The braided wire is used to form a 1.5 M long wire and 3 million clicks for extra durability, double click key in the thumb area adopts polygon non-slip texture, and the blind operation accuracy is increased by 60%, Ergonomic Design Perfectly fits under your palm, gives gamers the most comfortable gaming experienece and makes you feel free from fatigue. 13 Different RGB Lighting Modes : PC gaming mouse has 13 adjustable RGB lights, Rainbow Strip with Changeable RGB Colors, You can switch the lighting mode by clicking the button, can be a single color, RGB, or off (The light turns off when the button is pressed fourteenth time), The RGB lights is more vibrant than basic light up mice, Muti-colors lights greatly match your style, provide you fancy gaming environment and highlight your game atmosphere. 8 Buttons Including Fire Button : PC gaming mice have 8 buttons, whatever game or work you are engaging can set for more functions like rapid fire, macro etc. Software is initial setup. Side buttons are default as forward, backward for efficiency surfing, this usb mouse offers ultimate customization for gaming or productivity tasks, giving you the advantage of quick, efficient commands (Non-programmable). Intelligent Sensitive 6 DPI Levels : LEWENTECH Wired Gaming Mouse Geared with 6 Redefinable DPI Levels (default as: 1200/1800/2400/3600/4800/7200), According user's preference setup different DPI and Rolling Rate suitable for games, office and many occasions.",
+    "top_reviews": [
+      {
+        "id": "RYWHFT4DSI7BC",
+        "title": "Super affordable & durable.",
+        "body": "So I can't tell you too much about how it works for gaming as I bought this for my son who lost his gaming privileges after I ordered it. So now mom has a fun pretty mouse for my laptop. The lights are so fun and there's so many different combinations to choose from. It's very comfortable to use and very affordable with amazing quality. The braided cable makes it's last longer and there's a button to adjust the sensitivity. One day I hope to to see him using it to game but that's still TBD at this point. Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>So I can&apos;t tell you too much about how it works for gaming as I bought this for my son who lost his gaming privileges after I ordered it. So now mom has a fun pretty mouse for my laptop. The lights are so fun and there&apos;s so many different combinations to choose from. It&apos;s very comfortable to use and very affordable with amazing quality. The braided cable makes it&apos;s last longer and there&apos;s a button to adjust the sensitivity. One day I hope to to see him using it to game but that&apos;s still TBD at this point.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RYWHFT4DSI7BC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 6, 2025",
+          "utc": "2025-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tara",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AESSW4ITZDH3OBI2HLFGHRLT6EWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AESSW4ITZDH3OBI2HLFGHRLT6EWQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "White"
+          }
+        ]
+      },
+      {
+        "id": "R23MN6ATUK7SK8",
+        "title": "Best budget mouse I’ve used",
+        "body": "Amazing response from it straight out of the box, able to keep up with the quick movements from most shooter games I play, plus it’s very light and comfortable in your hand for long periods of time. Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Amazing response from it straight out of the box, able to keep up with the quick movements from most shooter games I play, plus it&#x2019;s very light and comfortable in your hand for long periods of time.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R23MN6ATUK7SK8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 24, 2025",
+          "utc": "2025-04-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tosha Stanfield",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGXM732I3PRDI5WNI272IDDEYK2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGXM732I3PRDI5WNI272IDDEYK2A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "White"
+          }
+        ]
+      },
+      {
+        "id": "R2OE7U8UFJ7KQ8",
+        "title": "Bad A mouse.",
+        "body": "This is a bad A mouse. My coworkers are jealous. It’s so sleek, smooth, and the colors are vibrant and beautiful 😍 it glides amazingly and the touch is on point. This is awesome for gaming and computer work. This white mouse compliments my pink gaming chair and keyboard at work. This fits my hand perfectly and doesn’t irritate my writes, high quality and highly recommend! Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is a bad A mouse. My coworkers are jealous. It&#x2019;s so sleek, smooth, and the colors are vibrant and beautiful &#x1F60D; it glides amazingly and the touch is on point. This is awesome for gaming and computer work. This white mouse compliments my pink gaming chair and keyboard at work. This fits my hand perfectly and doesn&#x2019;t irritate my writes, high quality and highly recommend!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2OE7U8UFJ7KQ8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 8, 2025",
+          "utc": "2025-04-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mica Rose",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFVKAPHX433W5F5QF55AM2DVSTKA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFVKAPHX433W5F5QF55AM2DVSTKA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "White"
+          }
+        ]
+      },
+      {
+        "id": "R10T10HSIF1AJK",
+        "title": "My son loves",
+        "body": "Got this gaming mouse for my son. He said it was a must have! He's a serious gamer. He said was super easy to link it with his gaming computer. No delay in game play. Makes everything super simple Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Got this gaming mouse for my son. He said it was a must have! He&apos;s a serious gamer. He said was super easy to link it with his gaming computer. No delay in game play. Makes everything super simple<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R10T10HSIF1AJK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 14, 2025",
+          "utc": "2025-04-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Queen B",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGKLZERQMBQ4V7BPX6SZKVLOUQWQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGKLZERQMBQ4V7BPX6SZKVLOUQWQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/00492603-d1ca-4dac-a94c-4f3edd2161a5._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "White"
+          }
+        ]
+      },
+      {
+        "id": "R2LRQ5VAT2M511",
+        "title": "Works, but not for everyone.",
+        "body": "The mouse itself works fine, but the forward and back buttons on the side protrude further out than I expected. Being left handed, I was having issues with my wedding ring hitting those buttons constantly. Also the lights DO NOT GO OUT. There is not an off setting for the lights, and that is quite annoying at night-time when not in use. The turbo button seems to work ok, though i've only used it once, to keep from repeated clicking. I'm not sure if it was the game limitation or the mouse, but it seemed to go more three round burst, then rest and repeat. Instead of pew pew pew pew pew, it was more like pew pew pew, wait a second, pew pew pew. Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The mouse itself works fine, but the forward and back buttons on the side protrude further out than I expected. Being left handed, I was having issues with my wedding ring hitting those buttons constantly. Also the lights DO NOT GO OUT. There is not an off setting for the lights, and that is quite annoying at night-time when not in use. The turbo button seems to work ok, though i&apos;ve only used it once, to keep from repeated clicking. I&apos;m not sure if it was the game limitation or the mouse, but it seemed to go more three round burst, then rest and repeat. Instead of pew pew pew pew pew, it was more like pew pew pew, wait a second, pew pew pew.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2LRQ5VAT2M511/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on May 4, 2025",
+          "utc": "2025-05-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Stephen R.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGS5XFPCXOA7Y3JIQXC34JACIYZA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGS5XFPCXOA7Y3JIQXC34JACIYZA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Black"
+          }
+        ]
+      },
+      {
+        "id": "R3329SY2T9MAE8",
+        "title": "Love it. Easy to use for beginner gamers as well.",
+        "body": "Neat mouse. Not as small as the others so it fits perfectly in your hand while gaming. The mouse has a very smooth and sleek design for a right handed gamer. It changes colors (as in the video) to 13 different LED modes. Really easy to use as it glides smoothly across the surface of my desk. Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Neat mouse. Not as small as the others so it fits perfectly in your hand while gaming. The mouse has a very smooth and sleek design for a right handed gamer. It changes colors (as in the video) to 13 different LED modes. Really easy to use as it glides smoothly across the surface of my desk.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3329SY2T9MAE8/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 28, 2025",
+          "utc": "2025-03-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Crystal L. Long",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFSPPDAEMW35KIGRVAMJ7P6E526A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFSPPDAEMW35KIGRVAMJ7P6E526A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "White"
+          }
+        ]
+      },
+      {
+        "id": "R2U5LHW4HL02Q4",
+        "title": "Budget mouse, no complaints.",
+        "body": "I've got larger hands so I need a larger mouse, this one came in just a little small for my taste but it works just fine. It's a little light, I generally prefer mouses with rubberized buttons but overall, I would get this one again. Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve got larger hands so I need a larger mouse, this one came in just a little small for my taste but it works just fine. It&apos;s a little light, I generally prefer mouses with rubberized buttons but overall, I would get this one again.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2U5LHW4HL02Q4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on December 12, 2024",
+          "utc": "2024-12-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mike",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHJQOFI7X5VW2H5F5SYU4RIQ2OA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHJQOFI7X5VW2H5F5SYU4RIQ2OA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Black"
+          }
+        ]
+      },
+      {
+        "id": "R2FHWRRQQ109OO",
+        "title": "Great match!",
+        "body": "I wanted a white mouse to match my white desk setup. This is the perfect fit! Feels great in the hand. No lag. Works great! What more can you ask of a mouse?! Read more",
+        "asin": "B0DJXLZBP1",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I wanted a white mouse to match my white desk setup. This is the perfect fit! Feels great in the hand. No lag. Works great! What more can you ask of a mouse?!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2FHWRRQQ109OO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DJXLZBP1",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 9, 2025",
+          "utc": "2025-04-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nicole R.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGXENZRHG2CX7BKUOGCHLMJPF3RQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGXENZRHG2CX7BKUOGCHLMJPF3RQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "White"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 4 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Atlumen Smart US",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AMQ5T60L4I76B&asin=B0DJXLZBP1&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "AMQ5T60L4I76B"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "$15.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 19.99,
+        "currency": "USD",
+        "raw": "$19.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "ASIN",
+        "value": "B0DJXLZBP1"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         103 ratings          4.5 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#3,894 in Video Games (See Top 100 in Video Games) #234 in PC Gaming Mice"
+      },
+      {
+        "name": "Package Dimensions",
+        "value": "7.56 x 5.39 x 1.89 inches; 6.74 ounces"
+      },
+      {
+        "name": "Item Weight",
+        "value": "6.7 ounces"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "Shenzhen Newidea Technology Co., Limited"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "China"
+      },
+      {
+        "name": "Date First Available",
+        "value": "October 12, 2024"
+      }
+    ],
+    "specifications_flat": "Date First Available: October 12, 2024. Country of Origin: China. Manufacturer: Shenzhen Newidea Technology Co., Limited. Item Weight: 6.7 ounces. Package Dimensions: 7.56 x 5.39 x 1.89 inches; 6.74 ounces. Best Sellers Rank: #3,894 in Video Games (See Top 100 in Video Games) #234 in PC Gaming Mice. Customer Reviews: 4.5    4.5 out of 5 stars         103 ratings          4.5 out of 5 stars. ASIN: B0DJXLZBP1.",
+    "bestsellers_rank": [
+      {
+        "category": "Video Games",
+        "rank": 3894,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/ref=pd_zg_ts_videogames"
+      },
+      {
+        "category": "PC Gaming Mice",
+        "rank": 234,
+        "link": "https://www.amazon.com/gp/bestsellers/videogames/402052011/ref=pd_zg_hrsr_videogames"
+      }
+    ],
+    "manufacturer": "Shenzhen Newidea Technology Co., Limited",
+    "weight": "6.7 ounces",
+    "first_available": {
+      "raw": "October 12, 2024",
+      "utc": "2024-10-12T00:00:00.000Z"
+    },
+    "bestsellers_rank_flat": "Category: Video Games | Rank: 3894, Category: PC Gaming Mice | Rank: 234"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 35.95,
+      "currency": "USD",
+      "raw": "$35.95"
+    },
+    "products": [
+      {
+        "asin": "B0DJXLZBP1",
+        "title": "LEWENTECH Gaming Mouse 6 Adjustable DPI Up to 7200 Wired PC Gaming Mouse 8 Programmable Buttons 13 Adjustable RGB LED Modes 1.5 M Drag-Free Paracord Ergonomic Mouse Windows/PC/Mac/Laptop (White)",
+        "link": "https://www.amazon.com/dp/B0DJXLZBP1",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61hb9509E-L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 15.99,
+          "currency": "USD",
+          "raw": "$15.99"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B007T1CTF2",
+        "link": "https://www.amazon.com/dp/B007T1CTF2",
+        "title": "Logitech Wireless Mouse M325 with Designed-for-Web Scrolling - Vivid Violet (910-003120)",
+        "image": "https://m.media-amazon.com/images/I/81gKjCN62dL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1815,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 21.98,
+          "currency": "USD",
+          "raw": "$21.98"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B07BWPQBL7",
+        "link": "https://www.amazon.com/dp/B07BWPQBL7",
+        "title": "Logitech Wireless Mini Mouse M187 Ultra Portable,1000 DPI Optical Tracking, 3-Buttons, PC/Mac/Laptop - Palace Blue",
+        "image": "https://m.media-amazon.com/images/I/61TAY-pyU2L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 4375,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 13.99,
+          "currency": "USD",
+          "raw": "$13.99"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B07W5JKLW8",
+        "link": "https://www.amazon.com/dp/B07W5JKLW8",
+        "title": "Logitech M325S Mouse, Wireless Black/Grey, W127381003 (Black/Grey)",
+        "image": "https://m.media-amazon.com/images/I/71nY1gqSGqL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 81,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 20.4,
+          "currency": "USD",
+          "raw": "$20.40"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B08SJ5Z8JL",
+        "link": "https://www.amazon.com/dp/B08SJ5Z8JL",
+        "title": "Redragon M612 Predator RGB Gaming Mouse, 8000 DPI Wired Optical Mouse with 11 Programmable Buttons & 5 Backlit Modes, Software Supports DIY Keybinds Rapid Fire Button",
+        "image": "https://m.media-amazon.com/images/I/61vF4LdktpL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 7275,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 19.99,
+          "currency": "USD",
+          "raw": "$19.99"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B07CPYDJ6F",
+        "link": "https://www.amazon.com/dp/B07CPYDJ6F",
+        "title": "Perixx11568 Perimice-717 Wireless Trackball Mouse, Build-in 1.34 Inch Trackball with Pointing Feature, 5 Programmable Buttons, 2 DPI Level, Black",
+        "image": "https://m.media-amazon.com/images/I/61e-V4YtvsL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 1929,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 27.99,
+          "currency": "USD",
+          "raw": "$27.99"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B0CYZTJQVD",
+        "link": "https://www.amazon.com/dp/B0CYZTJQVD",
+        "title": "seenda Wireless Mouse with Jiggler - Light Up USB C Mouse, USB&Type C Receiver, Build-in Jiggler Mover Compatible with MacBook,iPad,Windows Tablet/Laptop/Computer, White&Grey",
+        "image": "https://m.media-amazon.com/images/I/51V-sESYNKL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 556,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B0DLNF53FV",
+        "link": "https://www.amazon.com/dp/B0DLNF53FV",
+        "title": "TECKNET Rechargeable Jiggler Wireless Mouse (BT5.0/3.0 & 2.4G) 4800 DPI Silent USB A & Bluetooth Mouse 6 Buttons, Wide Compatibility - Grey",
+        "image": "https://m.media-amazon.com/images/I/61lp2sVp0PL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2319,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 20.99,
+          "currency": "USD",
+          "raw": "$20.99"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B0DLNB862G",
+        "link": "https://www.amazon.com/dp/B0DLNB862G",
+        "title": "TECKNET Rechargeable Jiggler Wireless Mouse (BT5.0/3.0 & 2.4G) 4800 DPI Silent USB A & Bluetooth Mouse 6 Buttons, Wide Compatibility - White",
+        "image": "https://m.media-amazon.com/images/I/61HCMmrk9gL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2319,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 20.99,
+          "currency": "USD",
+          "raw": "$20.99"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B0DQ4Q2QZY",
+        "link": "https://www.amazon.com/dp/B0DQ4Q2QZY",
+        "title": "E-YOOSO Wireless Mouse, 2.4G USB Computer Mouse with 5 Levels 4000 DPI, 18 Months Battery Life, Ergonomic Grips, 6 Buttons Large Optical Mouse for Laptop, Mac, PC, Chromebook, Notebook (White Gray)",
+        "image": "https://m.media-amazon.com/images/I/519iXO1SROL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 267,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 12.59,
+          "currency": "USD",
+          "raw": "$12.59"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B09CQ29Q6J",
+        "link": "https://www.amazon.com/dp/B09CQ29Q6J",
+        "title": "JOYACCESS Multi-Device Bluetooth Mouse, J Wireless Gaming Mouse (Tri-Mode:BT 5.0/3.0+2.4 G), Wireless Silent Ergonomic Mouse for Laptop/Computer/MacBook/Windows/MacOS/Android - Black Grey",
+        "image": "https://m.media-amazon.com/images/I/71VcKdq3ydL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1938,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 13.99,
+          "currency": "USD",
+          "raw": "$13.99"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B0D5Q888JP",
+        "link": "https://www.amazon.com/dp/B0D5Q888JP",
+        "title": "Uciefy V19 Wireless Mouse, 2.4GHz Rechargeable Mouse LED with Battery Indicator, Magnetic Computer Mice with USB Receiver & Type-C Adapter for Laptop/PC/Mac/Chromebook-Orange",
+        "image": "https://m.media-amazon.com/images/I/61Lw178VqvL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 290,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 15.99,
+          "currency": "USD",
+          "raw": "$15.99"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B09TJT5YJN",
+        "link": "https://www.amazon.com/dp/B09TJT5YJN",
+        "title": "Happy Fit 2.4G Wireless Mouse Portable Mobile Optical Mouse with USB Receiver, 5 Adjustable DPI Levels, 6 Buttons for Notebook, PC, Laptop, Computer, MacBook - Black - New (Single)",
+        "image": "https://m.media-amazon.com/images/I/51xaf3C+HuL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 36,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 9.79,
+          "currency": "USD",
+          "raw": "$9.79"
+        }
+      }
+    ],
+    "title": "Discover similar items"
+  }
+}

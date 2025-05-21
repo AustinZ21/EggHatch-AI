@@ -1,0 +1,1190 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5577,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B08CVDSC56",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:54:22.755Z",
+    "processed_at": "2025-05-20T01:54:35.256Z",
+    "total_time_taken": 12.5,
+    "amazon_url": "https://www.amazon.com/dp/B08CVDSC56?th=1&psc=1"
+  },
+  "product": {
+    "title": "Lenovo 530 Full Size Wireless Computer Mouse for PC, Laptop, Computer with Windows - 2.4 GHz Nano USB Receiver - Ambidextrous Design - 12 Months Battery Life - Cherry Red",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Lenovo,530,Full,Size,Wireless,Computer,Mouse,for,PC,Laptop,Computer,with,Windows,2.4,GHz,Nano,USB,Receiver,Ambidextrous,Design,12,Months,Battery,Life,Cherry,Red",
+    "keywords_list": [
+      "Lenovo",
+      "Full",
+      "Size",
+      "Wireless",
+      "Computer",
+      "Mouse",
+      "Laptop",
+      "Computer",
+      "with",
+      "Windows",
+      "Nano",
+      "Receiver",
+      "Ambidextrous",
+      "Design",
+      "Months",
+      "Battery",
+      "Life",
+      "Cherry"
+    ],
+    "is_collection": false,
+    "asin": "B08CVDSC56",
+    "parent_asin": "B0DNKPTDDY",
+    "link": "https://www.amazon.com/Lenovo-Wireless-Mouse-Cherry-Battery/dp/B08CVDSC56",
+    "brand": "‎Lenovo",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "Graphite Grey",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Graphite Grey"
+          }
+        ],
+        "asin": "B08D6VD9TR",
+        "link": "https://amazon.com/dp/B08D6VD9TR?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "Cherry Red",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Cherry Red"
+          }
+        ],
+        "asin": "B08CVDSC56",
+        "link": "https://amazon.com/dp/B08CVDSC56?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Abyss Blue",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Abyss Blue"
+          }
+        ],
+        "asin": "B08CVDX1SH",
+        "link": "https://amazon.com/dp/B08CVDX1SH?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Almond",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Almond"
+          }
+        ],
+        "asin": "B08LW47C2W",
+        "link": "https://amazon.com/dp/B08LW47C2W?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Raven Black",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Raven Black"
+          }
+        ],
+        "asin": "B0BXZ48KSQ",
+        "link": "https://amazon.com/dp/B0BXZ48KSQ?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Platinum Grey",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "Platinum Grey"
+          }
+        ],
+        "asin": "B08CVDHCGL",
+        "link": "https://amazon.com/dp/B08CVDHCGL?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B08D6VD9TR,B08CVDSC56,B08CVDX1SH,B08LW47C2W,B0BXZ48KSQ,B08CVDHCGL",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computer Accessories & Peripherals",
+        "link": "https://www.amazon.com/Computer-Accessories-Supplies/b/ref=dp_bc_3?ie=UTF8&node=172456",
+        "category_id": "172456"
+      },
+      {
+        "name": "Keyboards, Mice & Accessories",
+        "link": "https://www.amazon.com/Computer-Keyboards-Mice-Accessories/b/ref=dp_bc_4?ie=UTF8&node=11548956011",
+        "category_id": "11548956011"
+      },
+      {
+        "name": "Mice",
+        "link": "https://www.amazon.com/Mice-Keyboards-Computer-Add-Ons-Computers/b/ref=dp_bc_5?ie=UTF8&node=11036491",
+        "category_id": "11036491"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computer Accessories & Peripherals > Keyboards, Mice & Accessories > Mice",
+    "description": "In a world where reliability and convenience are paramount, the Lenovo 530 Wireless Mouse emerges as your ultimate go-to solution. Whether you're on the move or stationed at your workspace, this mouse guarantees effortless packing, seamless connectivity, and uncompromising quality. Experience the essence of plug-and-play simplicity with the Lenovo 530 Wireless Mouse. No need for cumbersome setups or intricate installations – just pack, plug in, and unleash its power. Embrace the cordless convenience that 2.4 GHz wireless technology, coupled with the nano USB receiver, brings to your fingertips. No wires, no limits – just unparalleled freedom. When comfort meets innovation, you get the Lenovo 530 Wireless Mouse. Discover the joy of all-day comfort that comes with its unique and expertly contoured design. Your hand will find its natural resting place effortlessly, thanks to the ergonomic prowess of this mouse. The durable soft touch finish adds a touch of sophistication, ensuring both comfort and style in one package. The Lenovo 530 Wireless Mouse stands as the pinnacle of reliability and functionality. Designed to be your preferred choice, it effortlessly adapts to your needs, ensuring smooth navigation and uninterrupted performance. With its sleek exterior and sophisticated features, this mouse becomes an extension of your productivity.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Lenovo Store",
+      "link": "https://www.amazon.com/stores/LENOVO/page/2C6395BA-C701-4025-9D7E-BAE1BD647EEE?lp_asin=B08CVDSC56&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 77,
+        "count": 5090
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 793
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 330
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 132
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 264
+      }
+    },
+    "ratings_total": 6611,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/51IDxBBGxuL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/51IDxBBGxuL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71e5IHx0VuL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/613bnqcq5uL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61dJrjLdwrL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61wSxBRgmOL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61aI79AjvKL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61xYRwuJ-AL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/51IDxBBGxuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71e5IHx0VuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/613bnqcq5uL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61dJrjLdwrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61wSxBRgmOL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61aI79AjvKL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61xYRwuJ-AL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 47,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61ZXdVk5cdL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e79da4c1-47bc-4f02-9b50-89a92c485e00/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Hybrid office workers thoughts on easy to use computer mouse. "
+      },
+      {
+        "duration_seconds": 46,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61AdZK+D5nL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2faf807d-04ab-45fa-b7a7-edf98a6d4f32/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Product Overview Video"
+      },
+      {
+        "duration_seconds": 32,
+        "width": 1170,
+        "height": 662,
+        "thumbnail": "https://m.media-amazon.com/images/I/61DTYa4AsVL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c609507-aa02-4af6-a0d0-ae327a16da0f/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Honest review! Check this out!"
+      }
+    ],
+    "videos_count": 3,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e79da4c1-47bc-4f02-9b50-89a92c485e00/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2faf807d-04ab-45fa-b7a7-edf98a6d4f32/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c609507-aa02-4af6-a0d0-ae327a16da0f/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.09a2105f30ed461cb8832cf29194c6ba",
+        "product_asin": "B08CVDSC56",
+        "parent_asin": "B0DNKPTDDY",
+        "related_products": "B08D6VD9TR",
+        "title": "Hybrid office workers thoughts on easy to use computer mouse. ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91L-6F21rSL._CR0,0,2758,2758_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/louieandgus28",
+        "public_name": "Fallon’s Must Haves",
+        "creator_type": "Influencer",
+        "vendor_code": "louieandgus28:shop",
+        "vendor_name": "Fallon’s Must Haves",
+        "vendor_tracking_id": "onamzfall0866-20",
+        "video_image_id": "61ZXdVk5cdL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61ZXdVk5cdL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61ZXdVk5cdL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30e69243-bf31-4044-a15f-a78f2835cf51/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e79da4c1-47bc-4f02-9b50-89a92c485e00/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e79da4c1-47bc-4f02-9b50-89a92c485e00/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e79da4c1-47bc-4f02-9b50-89a92c485e00/a7f7f73e-3000-4741-9bb4-01e7fa9bd8db/09a2105f30ed461cb8832cf29194c6ba_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fd8e83ec-9ee1-4e68-b022-3d4596bde3e8.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.046ddba41e7f4b79be998af87e4d190e",
+        "product_asin": "B08CVDSC56",
+        "parent_asin": "B0DNKPTDDY",
+        "related_products": "B08CVDSC56",
+        "title": "Product Overview Video",
+        "public_name": "Amazon Product Imaging",
+        "creator_type": "Seller",
+        "vendor_code": "Z7AX4",
+        "vendor_name": "Amazon Product Imaging",
+        "video_image_id": "61AdZK+D5nL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61AdZK+D5nL._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61AdZK+D5nL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e2f9091-ad64-404f-b9be-ebaf173ce172/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2faf807d-04ab-45fa-b7a7-edf98a6d4f32/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2faf807d-04ab-45fa-b7a7-edf98a6d4f32/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2faf807d-04ab-45fa-b7a7-edf98a6d4f32/ac765400-1ed5-4a7f-b237-f2c831d84633/046ddba41e7f4b79be998af87e4d190e_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:46",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/97f182e1-70a6-4b5d-ada7-3a72be95b19d.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0d3d2f0e515e42c6ba2d61a3361ad029",
+        "product_asin": "B08CVDSC56",
+        "parent_asin": "B0DNKPTDDY",
+        "related_products": "B08D6VD9TR",
+        "title": "Honest review! Check this out!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91xHKD7oxOL._CR124,300,712,711_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/jared_pickard",
+        "public_name": "Jared Pickard",
+        "creator_type": "Influencer",
+        "vendor_code": "jared_pickard:shop",
+        "vendor_name": "Jared Pickard",
+        "vendor_tracking_id": "onamzjaredjpi-20",
+        "video_image_id": "61DTYa4AsVL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61DTYa4AsVL._CR0,0,1170,660_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61DTYa4AsVL.jpg",
+        "video_image_width": "1170",
+        "video_image_height": "662",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4855f666-612a-4339-9d47-334d295bd029/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c609507-aa02-4af6-a0d0-ae327a16da0f/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c609507-aa02-4af6-a0d0-ae327a16da0f/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:32",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/ff9ea0aa-1354-49a7-94f6-2de80d108f61.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Reliable Wireless Connectivity: The Lenovo 530 Wireless Mouse offers a dependable connection no matter where you are. Its advanced nano USB receiver utilizes robust 2.4 GHz wireless technology, ensuring seamless performance without the hassle of cords. Stay productive and focused without the constraints of wired setups.",
+      "Precision Tracking at Your Fingertips: Elevate your user experience with the 1200 DPI resolution optical sensor featured in this wireless mouse. Experience responsive and clear tracking that enhances your navigation, whether you're browsing the web, creating presentations, or engaging in detailed design work. Precision is now at your fingertips.",
+      "Durability That Lasts: With the Lenovo 530 Wireless Mouse, longevity is a guarantee. Boasting a remarkable lifespan of up to 8 million clicks for both left and right buttons, this mouse is built to withstand the rigors of daily use. Enjoy reliable performance for years to come, making it an ideal companion for your computing tasks.",
+      "Ergonomic Comfort for Extended Use: Experience unparalleled comfort during long work sessions with the unique and contoured design of the Lenovo 530 Wireless Mouse. Crafted for maximum ergonomics, this mouse fits perfectly in your hand, ensuring all-day comfort. The durable soft touch finish adds a premium feel to your interactions, making productivity a breeze.",
+      "Versatility and Portability: Whether you're left-handed or right-handed, the Lenovo 530 Wireless Mouse accommodates your preference. Its ambidextrous design ensures functionality and comfort for all users. Weighing just 65g (2.29 oz), it's the ultimate travel companion. Slip it into your laptop bag or pocket and enjoy its lightweight portability wherever you go. Plus, with an impressive battery life of up to 12 months (actual duration may vary based on usage), you can confidently use it without worrying about frequent recharges. Choose the Lenovo 530 Wireless Mouse for unparalleled performance, comfort, and convenience."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Versatility and Portability: Whether you're left-handed or right-handed, the Lenovo 530 Wireless Mouse accommodates your preference. Its ambidextrous design ensures functionality and comfort for all users. Weighing just 65g (2.29 oz), it's the ultimate travel companion. Slip it into your laptop bag or pocket and enjoy its lightweight portability wherever you go. Plus, with an impressive battery life of up to 12 months (actual duration may vary based on usage), you can confidently use it without worrying about frequent recharges. Choose the Lenovo 530 Wireless Mouse for unparalleled performance, comfort, and convenience. Ergonomic Comfort for Extended Use: Experience unparalleled comfort during long work sessions with the unique and contoured design of the Lenovo 530 Wireless Mouse. Crafted for maximum ergonomics, this mouse fits perfectly in your hand, ensuring all-day comfort. The durable soft touch finish adds a premium feel to your interactions, making productivity a breeze. Durability That Lasts: With the Lenovo 530 Wireless Mouse, longevity is a guarantee. Boasting a remarkable lifespan of up to 8 million clicks for both left and right buttons, this mouse is built to withstand the rigors of daily use. Enjoy reliable performance for years to come, making it an ideal companion for your computing tasks. Precision Tracking at Your Fingertips: Elevate your user experience with the 1200 DPI resolution optical sensor featured in this wireless mouse. Experience responsive and clear tracking that enhances your navigation, whether you're browsing the web, creating presentations, or engaging in detailed design work. Precision is now at your fingertips. Reliable Wireless Connectivity: The Lenovo 530 Wireless Mouse offers a dependable connection no matter where you are. Its advanced nano USB receiver utilizes robust 2.4 GHz wireless technology, ensuring seamless performance without the hassle of cords. Stay productive and focused without the constraints of wired setups.",
+    "top_reviews": [
+      {
+        "id": "R1ZFJC4Z9CZXSU",
+        "title": "Simple, reliable, and super lightweight",
+        "body": "The media could not be loaded. The Lenovo 530 Wireless Mouse is exactly what I needed — a sleek, no-fuss mouse that just works. It connected instantly to my laptop via the USB receiver, and the response is smooth and accurate. I love how lightweight it is, perfect for carrying around in my bag without adding bulk.  The design is minimalist and comfortable, even for long work sessions. The battery life has been great so far — I’ve been using it daily for weeks without needing a change.  Great value for the price. If you’re looking for a basic wireless mouse that gets the job done, this is a solid choice. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R1ZFJC4Z9CZXSU\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                  <div id=\"review-video-id-R1ZFJC4Z9CZXSU\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R1ZFJC4Z9CZXSU\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb3c0305-f5ef-44b8-bcb4-eacd462b930b/embedded.cc.default.vertical.jobtemplate.hls.m3u8\" data-closed-captions=\"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/dc022c90-3485-42de-8a91-dd2824af7780.vtt\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/31opDz1SwOL._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"/>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>                </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/B1bqPWY59JL.mp4\" class=\"video-url\"/><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/31opDz1SwOL._SY256.jpg\" class=\"video-slate-img-url\"/>             <span>The Lenovo 530 Wireless Mouse is exactly what I needed &#x2014; a sleek, no-fuss mouse that just works. It connected instantly to my laptop via the USB receiver, and the response is smooth and accurate. I love how lightweight it is, perfect for carrying around in my bag without adding bulk.<br/><br/>The design is minimalist and comfortable, even for long work sessions. The battery life has been great so far &#x2014; I&#x2019;ve been using it daily for weeks without needing a change.<br/><br/>Great value for the price. If you&#x2019;re looking for a basic wireless mouse that gets the job done, this is a solid choice.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1ZFJC4Z9CZXSU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 19, 2025",
+          "utc": "2025-04-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alexa Gomez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFQ6TY4WOK3T77ATTDQMQUDVRS2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFQ6TY4WOK3T77ATTDQMQUDVRS2A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/I/B1bqPWY59JL.mp4",
+            "image": "https://m.media-amazon.com/images/I/31opDz1SwOL._SY256.jpg"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Graphite Grey"
+          }
+        ]
+      },
+      {
+        "id": "R1P9I2AI7OV4HY",
+        "title": "Good size. Works on many surfaces.",
+        "body": "Good size and weight. It felt a bit small at first, but I recently migrated to wireless over my old wired mouse. It only took one or two days before I adjusted to the size. This is not a tiny portable laptop mouse, which I can't stand. I am well over 6ft tall (almost 2m) and my hands are not built for tiny objects. works on multiple surfaces: mousepad, white vinyl desktop, pant leg, T-shirt, and bedsheet. If I had one complaint, sometimes the battery is loosed inside when I accidentally knock it off my desk. But it is easy to snap back in place, and it's my fault for being careless. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Good size and weight. It felt a bit small at first, but I recently migrated to wireless over my old wired mouse. It only took one or two days before I adjusted to the size.<br/>This is not a tiny portable laptop mouse, which I can&apos;t stand. I am well over 6ft tall (almost 2m) and my hands are not built for tiny objects.<br/>works on multiple surfaces: mousepad, white vinyl desktop, pant leg, T-shirt, and bedsheet.<br/>If I had one complaint, sometimes the battery is loosed inside when I accidentally knock it off my desk. But it is easy to snap back in place, and it&apos;s my fault for being careless.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1P9I2AI7OV4HY/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 26, 2025",
+          "utc": "2025-04-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Korubii",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AG6H4HCVDIPQ6TIAI2ILRD3MER5Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AG6H4HCVDIPQ6TIAI2ILRD3MER5Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Abyss Blue"
+          }
+        ]
+      },
+      {
+        "id": "R1HN590JCRXIRJ",
+        "title": "Unassuming yet well functioning",
+        "body": "The responsiveness of this mouse is good and the ergonomics and the scroll wheel work just fine for my average sized hands. I can’t yet speak to how long the battery lasts. The almond color matched perfectly with my 8BitDo C64 keyboard. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The responsiveness of this mouse is good and the ergonomics and the scroll wheel work just fine for my average sized hands. I can&#x2019;t yet speak to how long the battery lasts. The almond color matched perfectly with my 8BitDo C64 keyboard.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1HN590JCRXIRJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 21, 2025",
+          "utc": "2025-02-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Erin",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFP2XSTOC2CNWGKJH7RBMHRPARYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFP2XSTOC2CNWGKJH7RBMHRPARYQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Almond"
+          }
+        ]
+      },
+      {
+        "id": "R12BNN7818RJCM",
+        "title": "Very Good for a Budget Wireless Option",
+        "body": "I needed a 2nd mouse beyond my daily driver which is an older model full-size Logitech MX. This Lenovo is a solid budget option that works fine with good average build. It's definitely a big step up from a wired mouse that might come with a PC or a keyboard combo. The dongle wireless connection works perfectly and avoids any problems you might have with bluetooth connections. Subtracting a star because it's full-size but not as full-size or ergonomic as my Logitech MX which does cost 4 times as much. Being able to store the dongle inside of the mouse more travel is a nice feature. Overall, you'll be happy with this as a budget mouse that just works without bells and whistles (no extra buttons, rechargeable battery, super ergo, etc) Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I needed a 2nd mouse beyond my daily driver which is an older model full-size Logitech MX. This Lenovo is a solid budget option that works fine with good average build. It&apos;s definitely a big step up from a wired mouse that might come with a PC or a keyboard combo. The dongle wireless connection works perfectly and avoids any problems you might have with bluetooth connections. Subtracting a star because it&apos;s full-size but not as full-size or ergonomic as my Logitech MX which does cost 4 times as much. Being able to store the dongle inside of the mouse more travel is a nice feature. Overall, you&apos;ll be happy with this as a budget mouse that just works without bells and whistles (no extra buttons, rechargeable battery, super ergo, etc)<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R12BNN7818RJCM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on April 24, 2024",
+          "utc": "2024-04-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "brooklynarchitect",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHQSVDM7AET7SLS5H5UFACU7SPTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHQSVDM7AET7SLS5H5UFACU7SPTA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 2,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Graphite Grey"
+          }
+        ]
+      },
+      {
+        "id": "R1NUXLGUF2GK8C",
+        "title": "Given the price point the 530 is tough to beat, AA powered.",
+        "body": "Over the course of three years I have bough about six Lenovo 530s for different use cases because they just work (provided you never lose the USB receiver of course). Effective range is several feet (going to guess six), work well on non mousepad surfaces (including leather), top cover pops off revealing slot of USB receiver and is held in place by small magnets so no screws to lose, have a manual shut off switch, and are AA powered. The only feature I could ask for would be to turn the laser off automatically after say 30 min of inactivity in addition to the manual cutoff but that's nice to have not a requirement. I've gone through a number of wireless mice (Logitech, Microsoft, Redragon, other Lenovo models) and given the price point the 530 is tough to beat. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Over the course of three years I have bough about six Lenovo 530s for different use cases because they just work (provided you never lose the USB receiver of course). Effective range is several feet (going to guess six), work well on non mousepad surfaces (including leather), top cover pops off revealing slot of USB receiver and is held in place by small magnets so no screws to lose, have a manual shut off switch, and are AA powered. The only feature I could ask for would be to turn the laser off automatically after say 30 min of inactivity in addition to the manual cutoff but that&apos;s nice to have not a requirement. I&apos;ve gone through a number of wireless mice (Logitech, Microsoft, Redragon, other Lenovo models) and given the price point the 530 is tough to beat.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1NUXLGUF2GK8C/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 24, 2025",
+          "utc": "2025-01-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Anon",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGJFJZK7TZCEIHF7QDWID7H632TQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGJFJZK7TZCEIHF7QDWID7H632TQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Abyss Blue"
+          }
+        ]
+      },
+      {
+        "id": "R1ZU0JTAAAM4DD",
+        "title": "Good for the price",
+        "body": "Nice mouse and a lot better than the Logitech brand, buttons not super sensitive and it doesn't activate the right button when you click on the left one. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Nice mouse and a lot better than the Logitech brand, buttons not super sensitive and it doesn&apos;t activate the right button when you click on the left one.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1ZU0JTAAAM4DD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2025",
+          "utc": "2025-03-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "vick",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHM4HZNL5UQU2VASXGKCTTKWDXYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHM4HZNL5UQU2VASXGKCTTKWDXYQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Abyss Blue"
+          }
+        ]
+      },
+      {
+        "id": "R1E1BLG6OHWN0S",
+        "title": "* * update :( - Very comfortable, responsive, very quiet (tho not completely silent)",
+        "body": "* * update 3 months later: I was so ready to throw this across the room so many times that I've have already reverted back to using my old mouse again. All of a sudden this mouse has decided it doesn't want to work without taking a break every few minutes or so. It just decides to stop tracking. In the middle of using it, all of a sudden it no longer tracks. I turn it over and the red tracking light is out. In order to get it to work again, I need to flip the switch off, then back on. That does it and it works great again for maybe another 5-10 minutes before doing it again. I've tried new batteries, using it on different surfaces/mouse pads . . . nothing seems to work. I've had this 3 months now so it's outside the return window. I hate to donate something that doesn't work, so for now, I've just thrown it in the back of the junk drawer. When I get around to cleaning that drawer out, it'll likely end up in landfill. Too bad, because when it does work, I love it.  Original review: I've been having trouble with my bluetooth mouse lately. It takes a while to connect, and drops connection every time my laptop goes to sleep. I figured it's time to revert back to a USB mouse that, even though it does take up a USB port, at least is consistently reliable. This one does not fail. Responsiveness is perfect, and the left and right buttons don't take much to activate. I especially love the flattened shape of the mouse. The footprint of it is the size of a standard, full sized mouse, but the overall shape is flatter. This means that my hand and fingers curve over it flatter rather than curled. To me, it just feels more natural and comfortable. I am a 5'4\" woman, but my 6'2\" husband has tried it too. He said it initially felt a bit odd. He said it felt like his entire hand covered it, but after using it for several days, he asked me to order one for him too. If you're gaming, heavy into graphic arts or needing a mouse with a lot of options, this may not be for you. But, for ordinary office and personal use, we are very happy with this. The price is fantastic and the fact that it even comes with a battery is unheard of. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>* * update 3 months later: I was so ready to throw this across the room so many times that I&apos;ve have already reverted back to using my old mouse again.<br/>All of a sudden this mouse has decided it doesn&apos;t want to work without taking a break every few minutes or so.<br/>It just decides to stop tracking. In the middle of using it, all of a sudden it no longer tracks.<br/>I turn it over and the red tracking light is out.<br/>In order to get it to work again, I need to flip the switch off, then back on.<br/>That does it and it works great again for maybe another 5-10 minutes before doing it again.<br/>I&apos;ve tried new batteries, using it on different surfaces/mouse pads . . . nothing seems to work.<br/>I&apos;ve had this 3 months now so it&apos;s outside the return window.<br/>I hate to donate something that doesn&apos;t work, so for now, I&apos;ve just thrown it in the back of the junk drawer. When I get around to cleaning that drawer out, it&apos;ll likely end up in landfill.<br/>Too bad, because when it does work, I love it.<br/><br/>Original review: I&apos;ve been having trouble with my bluetooth mouse lately. It takes a while to connect, and drops connection every time my laptop goes to sleep.<br/>I figured it&apos;s time to revert back to a USB mouse that, even though it does take up a USB port, at least is consistently reliable.<br/>This one does not fail. Responsiveness is perfect, and the left and right buttons don&apos;t take much to activate.<br/>I especially love the flattened shape of the mouse. The footprint of it is the size of a standard, full sized mouse, but the overall shape is flatter. This means that my hand and fingers curve over it flatter rather than curled. To me, it just feels more natural and comfortable.<br/>I am a 5&apos;4&quot; woman, but my 6&apos;2&quot; husband has tried it too. He said it initially felt a bit odd. He said it felt like his entire hand covered it, but after using it for several days, he asked me to order one for him too.<br/>If you&apos;re gaming, heavy into graphic arts or needing a mouse with a lot of options, this may not be for you. But, for ordinary office and personal use, we are very happy with this.<br/>The price is fantastic and the fact that it even comes with a battery is unheard of.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1E1BLG6OHWN0S/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 28, 2023",
+          "utc": "2023-09-28T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "B",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGH4YIW3THVSFYUMVXMJC57W5G7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGH4YIW3THVSFYUMVXMJC57W5G7A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 14,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Graphite Grey"
+          }
+        ]
+      },
+      {
+        "id": "R20QIU28E65AFU",
+        "title": "Basic wireless mouse",
+        "body": "Cheap, but functional mouse when required for laptop usage. It's light and durable. I carry it in my backpack and it's always connected immediately via bluetooth. Battery life is great, I'd say six months on a single AA battery. Read more",
+        "asin": "B08CVDSC56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Cheap, but functional mouse when required for laptop usage. It&apos;s light and durable. I carry it in my backpack and it&apos;s always connected immediately via bluetooth. Battery life is great, I&apos;d say six months on a single AA battery.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R20QIU28E65AFU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B08CVDSC56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 17, 2024",
+          "utc": "2024-10-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mike",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFXZJEFBNIRPYL6OXMTPR72IO5CA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFXZJEFBNIRPYL6OXMTPR72IO5CA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "Raven Black"
+          }
+        ]
+      },
+      {
+        "id": "R149Q0F0RYL4D2",
+        "title": "Mouse USB inalámbrico Lenovo 530",
+        "body": "Me agrada que el conector USB se puede guardar dentro del mouse. Hasta el momento ha funcionado muy bien. Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Me agrada que el conector USB se puede guardar dentro del mouse. Hasta el momento ha funcionado muy bien.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 1, 2024",
+          "utc": "2024-05-01T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "D.C."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "Raven Black"
+          }
+        ]
+      },
+      {
+        "id": "R1DL2P8ZBULZCC",
+        "title": "جميل وشغال تمام قوي",
+        "body": "تعديل : الماوس مش شغال بعد 3 شهور بتواصل مع شركة امازون علشان الضمان قالوا تواصل مع لينوفو هما الضمان وللاسف كل ما يبعتوا عنوان او رقم فون مش بوصل حاجة ؛ وخدمة العملاء تقولى انا بحاول اساعدك انا مش خدمة عملاء لينوفوا ؛ طيب دلوقتي خلاص كدا الماوس باظ ؛ كنت جبت بقي اى موس بـ 50 جنيه بدل المصاريف دي على الفاضي  تم التوصيل تاني يوم الطلب علطول مغلف والمحتوي الداخلى سليم كان الماوس معاه حجارة  شغال وجميل قوي الصراحه  شكراً امازون Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">&#x62A;&#x639;&#x62F;&#x64A;&#x644; : &#x627;&#x644;&#x645;&#x627;&#x648;&#x633; &#x645;&#x634; &#x634;&#x63A;&#x627;&#x644; &#x628;&#x639;&#x62F; 3 &#x634;&#x647;&#x648;&#x631;<br/>&#x628;&#x62A;&#x648;&#x627;&#x635;&#x644; &#x645;&#x639; &#x634;&#x631;&#x643;&#x629; &#x627;&#x645;&#x627;&#x632;&#x648;&#x646; &#x639;&#x644;&#x634;&#x627;&#x646; &#x627;&#x644;&#x636;&#x645;&#x627;&#x646;<br/>&#x642;&#x627;&#x644;&#x648;&#x627; &#x62A;&#x648;&#x627;&#x635;&#x644; &#x645;&#x639; &#x644;&#x64A;&#x646;&#x648;&#x641;&#x648; &#x647;&#x645;&#x627; &#x627;&#x644;&#x636;&#x645;&#x627;&#x646;<br/>&#x648;&#x644;&#x644;&#x627;&#x633;&#x641; &#x643;&#x644; &#x645;&#x627; &#x64A;&#x628;&#x639;&#x62A;&#x648;&#x627; &#x639;&#x646;&#x648;&#x627;&#x646; &#x627;&#x648; &#x631;&#x642;&#x645; &#x641;&#x648;&#x646; &#x645;&#x634; &#x628;&#x648;&#x635;&#x644; &#x62D;&#x627;&#x62C;&#x629; &#x61B; &#x648;&#x62E;&#x62F;&#x645;&#x629; &#x627;&#x644;&#x639;&#x645;&#x644;&#x627;&#x621; &#x62A;&#x642;&#x648;&#x644;&#x649; &#x627;&#x646;&#x627; &#x628;&#x62D;&#x627;&#x648;&#x644; &#x627;&#x633;&#x627;&#x639;&#x62F;&#x643; &#x627;&#x646;&#x627; &#x645;&#x634; &#x62E;&#x62F;&#x645;&#x629; &#x639;&#x645;&#x644;&#x627;&#x621; &#x644;&#x64A;&#x646;&#x648;&#x641;&#x648;&#x627; &#x61B; &#x637;&#x64A;&#x628; &#x62F;&#x644;&#x648;&#x642;&#x62A;&#x64A; &#x62E;&#x644;&#x627;&#x635; &#x643;&#x62F;&#x627; &#x627;&#x644;&#x645;&#x627;&#x648;&#x633; &#x628;&#x627;&#x638; &#x61B; &#x643;&#x646;&#x62A; &#x62C;&#x628;&#x62A; &#x628;&#x642;&#x64A; &#x627;&#x649; &#x645;&#x648;&#x633; &#x628;&#x640; 50 &#x62C;&#x646;&#x64A;&#x647; &#x628;&#x62F;&#x644; &#x627;&#x644;&#x645;&#x635;&#x627;&#x631;&#x64A;&#x641; &#x62F;&#x64A; &#x639;&#x644;&#x649; &#x627;&#x644;&#x641;&#x627;&#x636;&#x64A;<br/><br/>&#x62A;&#x645; &#x627;&#x644;&#x62A;&#x648;&#x635;&#x64A;&#x644; &#x62A;&#x627;&#x646;&#x64A; &#x64A;&#x648;&#x645; &#x627;&#x644;&#x637;&#x644;&#x628; &#x639;&#x644;&#x637;&#x648;&#x644;<br/>&#x645;&#x63A;&#x644;&#x641; &#x648;&#x627;&#x644;&#x645;&#x62D;&#x62A;&#x648;&#x64A; &#x627;&#x644;&#x62F;&#x627;&#x62E;&#x644;&#x649; &#x633;&#x644;&#x64A;&#x645;<br/>&#x643;&#x627;&#x646; &#x627;&#x644;&#x645;&#x627;&#x648;&#x633; &#x645;&#x639;&#x627;&#x647; &#x62D;&#x62C;&#x627;&#x631;&#x629;<br/><br/>&#x634;&#x63A;&#x627;&#x644; &#x648;&#x62C;&#x645;&#x64A;&#x644; &#x642;&#x648;&#x64A; &#x627;&#x644;&#x635;&#x631;&#x627;&#x62D;&#x647;<br/><br/>&#x634;&#x643;&#x631;&#x627;&#x64B; &#x627;&#x645;&#x627;&#x632;&#x648;&#x646;<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Egypt on September 13, 2022",
+          "utc": "2022-09-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ramy El-Sheikh"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "Platinum Grey"
+          }
+        ]
+      },
+      {
+        "id": "R1E72ZY1DFG9YG",
+        "title": "nice wireless mouse from lenovo",
+        "body": "its nice wireless mouse of lenovo. slightly high priced comapered to others but its good and very smooth in use. light wieght and elegant in look. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>its nice wireless mouse of lenovo. slightly high priced comapered to others but its good and very smooth in use. light wieght and elegant in look.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in India on January 17, 2025",
+          "utc": "2025-01-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dhirendra"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "in",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "Almond"
+          }
+        ]
+      },
+      {
+        "id": "R1I7ETFLZZ2NDD",
+        "title": "wrong colour",
+        "body": "ordered red, received grey :( very quiet tho, a good comfy size in my palm, & love that it came w a battery... just wish it matched the rest of my hardware :( Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>ordered red, received grey :(<br/>very quiet tho, a good comfy size in my palm, &amp; love that it came w a battery... just wish it matched the rest of my hardware :(<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in Canada on March 16, 2024",
+          "utc": "2024-03-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "alex 🫖",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/b3ae2e84-119d-4c31-ae33-b705b2cc8d5a._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "Cherry Red"
+          }
+        ]
+      },
+      {
+        "id": "R1Q3H2FTECPRCN",
+        "title": "Worth the slightly extra cost",
+        "body": "Sunday, 5 May 2024 Just received this Lenovo mouse. I bought it to replace a Logitech mouse that I purchased from Amazon about 5 months ago and had to throw in the garbage. The Logitech mouse failed after 5 months of fairly moderate use. I choose this Lenovo mouse because of Lenovo's reputation for designing and manufacturing quality products. This mouse is ambidextrous and as a left-handed person I greatly appreciate this feature. The colour is a bit unusual, what Lenovo calls Abyss Blue. Great desktop colour. The mouse is a classic, simple design. It is full-sized and sits well in the hand. I am not able to vouch for its durability. The Lenovo keyboard I also just purchased (again, to replace a poorly-designed and manufactured Logitech product) is rated at 10 million keystrokes! We'll see about the mouse. Time will tell. Best regards, Michael Ennis Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Sunday, 5 May 2024 Just received this Lenovo mouse. I bought it to replace a Logitech mouse that I purchased from Amazon about 5 months ago and had to throw in the garbage. The Logitech mouse failed after 5 months of fairly moderate use. I choose this Lenovo mouse because of Lenovo&apos;s reputation for designing and manufacturing quality products. This mouse is ambidextrous and as a left-handed person I greatly appreciate this feature. The colour is a bit unusual, what Lenovo calls Abyss Blue. Great desktop colour. The mouse is a classic, simple design. It is full-sized and sits well in the hand. I am not able to vouch for its durability. The Lenovo keyboard I also just purchased (again, to replace a poorly-designed and manufactured Logitech product) is rated at 10 million keystrokes! We&apos;ll see about the mouse. Time will tell. Best regards, Michael Ennis<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on May 6, 2024",
+          "utc": "2024-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Michael Ennis"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "Abyss Blue"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "Or Prime members get FREE delivery Wednesday, May 21. Order within 3 hrs 5 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 17.99,
+        "currency": "USD",
+        "raw": "$17.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Average Battery Life (in hours)",
+        "value": "‎12  months"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Lenovo"
+      },
+      {
+        "name": "Series",
+        "value": "‎530 Wireless Mouse"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎530MOUSE"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 8.1, Windows 8, Windows 7, Windows 11, Windows 10"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎2.24 ounces"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎4.17 x 2.48 x 0.1 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎4.17 x 2.48 x 0.1 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Cherry Red"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎Battery Powered"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 AA batteries required. (included)"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Lenovo"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B08CVDSC56"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎China"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎July 23, 2020"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.5    4.5 out of 5 stars         6,611 ratings          4.5 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#969 in Computer Mice"
+      },
+      {
+        "name": "Brand",
+        "value": "Lenovo"
+      },
+      {
+        "name": "Color",
+        "value": "Cherry Red"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "USB"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Wireless, Lightweight"
+      },
+      {
+        "name": "Movement Detection Technology",
+        "value": "Optical"
+      }
+    ],
+    "specifications_flat": "Movement Detection Technology: Optical. Special Feature: Wireless, Lightweight. Connectivity Technology: USB. Color: Cherry Red. Brand: Lenovo. Best Sellers Rank: #969 in Computer Mice. Customer Reviews: 4.5    4.5 out of 5 stars         6,611 ratings          4.5 out of 5 stars. Date First Available: ‎July 23, 2020. Country of Origin: ‎China. ASIN: ‎B08CVDSC56. Manufacturer: ‎Lenovo. Batteries: ‎1 AA batteries required. (included). Power Source: ‎Battery Powered. Color: ‎Cherry Red. Item Dimensions  LxWxH: ‎4.17 x 2.48 x 0.1 inches. Product Dimensions: ‎4.17 x 2.48 x 0.1 inches. Item Weight: ‎2.24 ounces. Operating System: ‎Windows 8.1, Windows 8, Windows 7, Windows 11, Windows 10. Hardware Platform: ‎PC. Item model number: ‎530MOUSE. Series: ‎530 Wireless Mouse. Brand: ‎Lenovo. Average Battery Life (in hours): ‎12  months.",
+    "bestsellers_rank": [
+      {
+        "category": "Computer Mice",
+        "rank": 969,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/11036491/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎Cherry Red",
+    "manufacturer": "‎Lenovo",
+    "weight": "‎2.24 ounces",
+    "first_available": {
+      "raw": "‎July 23, 2020",
+      "utc": "2020-07-23T00:00:00.000Z"
+    },
+    "dimensions": "‎4.17 x 2.48 x 0.1 inches",
+    "model_number": "‎530MOUSE",
+    "bestsellers_rank_flat": "Category: Computer Mice | Rank: 969",
+    "whats_in_the_box": [
+      "USB receiver, 1 AA battery"
+    ]
+  },
+  "brand_store": {
+    "id": "2C6395BA-C701-4025-9D7E-BAE1BD647EEE",
+    "link": "https://www.amazon.com/stores/LENOVO/page/2C6395BA-C701-4025-9D7E-BAE1BD647EEE"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 432.98,
+      "currency": "USD",
+      "raw": "$432.98"
+    },
+    "products": [
+      {
+        "asin": "B08CVDSC56",
+        "title": "Lenovo 530 Full Size Wireless Computer Mouse for PC, Laptop, Computer with Windows - 2.4 GHz Nano USB Receiver - Ambidextrous Design - 12 Months Battery Life - Cherry Red",
+        "link": "https://www.amazon.com/dp/B08CVDSC56",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51IDxBBGxuL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B0DT4NF47F",
+        "link": "https://www.amazon.com/dp/B0DT4NF47F",
+        "title": "acer Computer Mouse Wireless, 2.4G Slim USB Wireless Mice with USB-A Receiver, 1600 DPI Optical, Laptop Mouse with Plug and Play for Right/Left Handed Users (for Chromebooks, Windows PC & Mac) White",
+        "image": "https://m.media-amazon.com/images/I/614s1r9tuaL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2419,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 15.83,
+          "currency": "USD",
+          "raw": "$15.83"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B0DT4MX8NQ",
+        "link": "https://www.amazon.com/dp/B0DT4MX8NQ",
+        "title": "acer Computer Mouse Wireless, 2.4G Slim USB Wireless Mice with USB-A Receiver, 1600 DPI Optical, Laptop Mouse with Plug and Play for Right/Left Handed Users (for Chromebooks, Windows PC & Mac) Black",
+        "image": "https://m.media-amazon.com/images/I/611K-2F+H0L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2419,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 15.73,
+          "currency": "USD",
+          "raw": "$15.73"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B01K92Z3OQ",
+        "link": "https://www.amazon.com/dp/B01K92Z3OQ",
+        "title": "Logitech M170 Wireless Mouse for PC, Mac, Laptop, 2.4 GHz with USB Mini Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous - Blue",
+        "image": "https://m.media-amazon.com/images/I/51SI+wzjpNL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 58954,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 12.99,
+          "currency": "USD",
+          "raw": "$12.99"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B0BPP8DRKL",
+        "link": "https://www.amazon.com/dp/B0BPP8DRKL",
+        "title": "Logitech M170 Wireless Mouse for PC, Mac, Laptop, 2.4 GHz with USB Mini Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous - Blue Grey",
+        "image": "https://m.media-amazon.com/images/I/61VG-eH738L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 58954,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 12.99,
+          "currency": "USD",
+          "raw": "$12.99"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B01A9GXMW2",
+        "link": "https://www.amazon.com/dp/B01A9GXMW2",
+        "title": "Logitech Wireless Mouse M170 Grey-k",
+        "image": "https://m.media-amazon.com/images/I/51+Sgx8e0iL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 3694,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 29.9,
+          "currency": "USD",
+          "raw": "$29.90"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B076JPBFVN",
+        "link": "https://www.amazon.com/dp/B076JPBFVN",
+        "title": "Logitech M170 Wireless Mouse for PC, Mac, Laptop, 2.4 GHz with USB Mini Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous - Red",
+        "image": "https://m.media-amazon.com/images/I/51GYogMzx-L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 58954,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 12.4,
+          "currency": "USD",
+          "raw": "$12.40"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B074L9L5KZ",
+        "link": "https://www.amazon.com/dp/B074L9L5KZ",
+        "title": "Logitech M170 Wireless Mouse for PC, Mac, Laptop, 2.4 GHz with USB Mini Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous - Black",
+        "image": "https://m.media-amazon.com/images/I/51SbS-fbKpL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 58954,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 12.99,
+          "currency": "USD",
+          "raw": "$12.99"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B074RD84F9",
+        "link": "https://www.amazon.com/dp/B074RD84F9",
+        "title": "Logitech Wireless Mouse M310 - Peacock Blue (Renewed)",
+        "image": "https://m.media-amazon.com/images/I/71m4doxXZwL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 103,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B0BPP8M5JW",
+        "link": "https://www.amazon.com/dp/B0BPP8M5JW",
+        "title": "Logitech M170 Wireless Mouse for PC, Mac, Laptop, 2.4 GHz with USB Mini Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous - Rose",
+        "image": "https://m.media-amazon.com/images/I/51Of6dw3M9L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 58954,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 14.49,
+          "currency": "USD",
+          "raw": "$14.49"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B08CVDHCGL",
+        "link": "https://www.amazon.com/dp/B08CVDHCGL",
+        "title": "Lenovo 530 Full Size Wireless Computer Mouse for PC, Laptop, Computer with Windows - 2.4 GHz Nano USB Receiver - Ambidextrous Design - 12 Months Battery Life - Platinum Grey",
+        "image": "https://m.media-amazon.com/images/I/51jes7nXBBL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 6611,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B0BXZ48KSQ",
+        "link": "https://www.amazon.com/dp/B0BXZ48KSQ",
+        "title": "Lenovo 530 Wireless Mouse – Full Size Computer Mouse for PC, Laptop, Windows Computer - 2.4 GHz Nano USB Receiver - Ambidextrous Design - 12 Months Battery Life – Cordless",
+        "image": "https://m.media-amazon.com/images/I/51mdRonO0YL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 6611,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 15.99,
+          "currency": "USD",
+          "raw": "$15.99"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B0CSPM3FSD",
+        "link": "https://www.amazon.com/dp/B0CSPM3FSD",
+        "title": "Lenovo Wireless Mouse (WL150) - 2.4G Nano USB-A Ambidextrous Ergonomic Mouse – 3-Million Clicks, 1,000 DPI – Portable Compact Cordless Design - Computer & Laptop Accessories",
+        "image": "https://m.media-amazon.com/images/I/51m597HXQAL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 522,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 14.99,
+          "currency": "USD",
+          "raw": "$14.99"
+        }
+      }
+    ],
+    "title": "Discover similar items"
+  },
+  "similar_to_consider": {
+    "asin": "B0D9N62T62",
+    "link": "https://www.amazon.com/dp/B0D9N62T62/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=nEMNq&pd_rd_i=B0D9N62T62&pd_rd_w=j7LXf&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=7e6e076f-42cf-43dc-9359-279deade0f7e&psc=1",
+    "title": "Logitech M196 Bluetooth Wireless Mouse, Compact and Portable Mouse for Laptops, Tablets and More, 12-Month Battery, Smooth Tracking, Compatible with PC and Mac, Windows and macOS - Rose",
+    "rating": 4.5,
+    "ratings_total": 1324,
+    "image": "https://m.media-amazon.com/images/I/51pHCXgJOWL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Amazon Basics 2.4 Ghz Wireless Optical Computer Mouse with USB Nano Receiver, Blue",
+      "asin": "B01MYU6XSB",
+      "link": "https://www.amazon.com/AmazonBasics-Wireless-Computer-Mouse-Receiver/dp/B01MYU6XSB/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_1/134-6490008-0170969?pd_rd_w=w7WK3&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=3sm8S&pd_rd_r=918d44cc-ee90-4c44-9752-1972d8a58f60&pd_rd_i=B01MYU6XSB&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61CozJ2pT9L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 60272,
+      "price": {
+        "symbol": "$",
+        "value": 11.49,
+        "currency": "USD",
+        "raw": "$11.49"
+      }
+    },
+    {
+      "title": "Logitech M340 Wireless Mouse with Limited Edition Prints, USB Receiver and Silent Clicks, Portable Wireless Mouse for Laptop,",
+      "asin": "B0CJTFZPQJ",
+      "link": "https://www.amazon.com/Logitech-Wireless-Limited-Receiver-Portable/dp/B0CJTFZPQJ/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_2/134-6490008-0170969?pd_rd_w=w7WK3&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=3sm8S&pd_rd_r=918d44cc-ee90-4c44-9752-1972d8a58f60&pd_rd_i=B0CJTFZPQJ&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/612MpjJOHFL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.6,
+      "ratings_total": 502,
+      "price": {
+        "symbol": "$",
+        "value": 22.7,
+        "currency": "USD",
+        "raw": "$22.70"
+      }
+    },
+    {
+      "title": "Amazon Basics Computer Mouse Wireless, Ergonomic, 2.4 GHz Optical, DPI Adjustable, Compatible With PC, Mac, Laptop, Black",
+      "asin": "B0787D6SGQ",
+      "link": "https://www.amazon.com/AmazonBasics-Ergonomic-Wireless-Mouse-adjustable/dp/B0787D6SGQ/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_3/134-6490008-0170969?pd_rd_w=w7WK3&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=3sm8S&pd_rd_r=918d44cc-ee90-4c44-9752-1972d8a58f60&pd_rd_i=B0787D6SGQ&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51TlYuAqbsL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 26847,
+      "price": {
+        "symbol": "$",
+        "value": 12.14,
+        "currency": "USD",
+        "raw": "$12.14"
+      }
+    },
+    {
+      "title": "Lenovo 300 Wireless Mouse – Computer Mouse for PC, Laptop with Windows – Ambidextrous Design – 2.4 GHz Nano USB Receiver – 12",
+      "asin": "B0BXYPGKX6",
+      "link": "https://www.amazon.com/Lenovo-300-Wireless-Mouse-Ambidextrous/dp/B0BXYPGKX6/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_4/134-6490008-0170969?pd_rd_w=w7WK3&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=3sm8S&pd_rd_r=918d44cc-ee90-4c44-9752-1972d8a58f60&pd_rd_i=B0BXYPGKX6&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/5154mpGektL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 374,
+      "price": {
+        "symbol": "$",
+        "value": 7.78,
+        "currency": "USD",
+        "raw": "$7.78"
+      }
+    },
+    {
+      "title": "Amazon Basics 2.4 GHz Optical Wireless Mouse for Laptop and Computer, USB Nano Receiver, Red",
+      "asin": "B01NADN0Q1",
+      "link": "https://www.amazon.com/AmazonBasics-Wireless-Computer-Mouse-Receiver/dp/B01NADN0Q1/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_5/134-6490008-0170969?pd_rd_w=w7WK3&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=3sm8S&pd_rd_r=918d44cc-ee90-4c44-9752-1972d8a58f60&pd_rd_i=B01NADN0Q1&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61TepVypbSL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.5,
+      "ratings_total": 7872,
+      "price": {
+        "symbol": "$",
+        "value": 12.57,
+        "currency": "USD",
+        "raw": "$12.57"
+      }
+    },
+    {
+      "title": "Logitech - Design Collection Limited Edition Wireless Compact Mouse with Colorful Designs - Golden Garden",
+      "asin": "B099T9J1YN",
+      "link": "https://www.amazon.com/Logitech-Collection-Limited-Wireless-Colorful/dp/B099T9J1YN/ref=pb_allspark_dp_sims_pao_desktop_session_based_d_sccl_2_6/134-6490008-0170969?pd_rd_w=w7WK3&content-id=amzn1.sym.bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_p=bb57ff9c-59bb-4b04-a98f-485dda19cac2&pf_rd_r=6Z1RKK3CX7AS3KHMEN8M&pd_rd_wg=3sm8S&pd_rd_r=918d44cc-ee90-4c44-9752-1972d8a58f60&pd_rd_i=B099T9J1YN&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/41WP+wXyN+L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.7,
+      "ratings_total": 2678,
+      "price": {
+        "symbol": "$",
+        "value": 15.99,
+        "currency": "USD",
+        "raw": "$15.99"
+      }
+    }
+  ]
+}

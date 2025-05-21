@@ -1,0 +1,1458 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5573,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B01LZEYP8B",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:55:02.280Z",
+    "processed_at": "2025-05-20T01:55:09.243Z",
+    "total_time_taken": 6.96,
+    "amazon_url": "https://www.amazon.com/dp/B01LZEYP8B?th=1&psc=1"
+  },
+  "product": {
+    "title": "Verbatim Wired Optical Computer Mini USB-A Mouse - Plug & Play Corded Small Travel Mouse with Retractable Cable – Pink 98618",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Verbatim,Wired,Optical,Computer,Mini,USB-A,Mouse,Plug,&,Play,Corded,Small,Travel,Mouse,with,Retractable,Cable,–,Pink,98618",
+    "keywords_list": [
+      "Verbatim",
+      "Wired",
+      "Optical",
+      "Computer",
+      "Mini",
+      "USB-A",
+      "Mouse",
+      "Plug",
+      "Play",
+      "Corded",
+      "Small",
+      "Travel",
+      "Mouse",
+      "with",
+      "Retractable",
+      "Cable",
+      "Pink",
+      "98618"
+    ],
+    "is_collection": false,
+    "asin": "B01LZEYP8B",
+    "parent_asin": "B0BLKNHVBC",
+    "link": "https://www.amazon.com/Verbatim-Travel-Optical-Mouse-Commuter/dp/B01LZEYP8B",
+    "brand": "‎Verbatim",
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "BLUE USB-A",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "BLUE"
+          },
+          {
+            "name": "style",
+            "value": "USB-A"
+          }
+        ],
+        "asin": "B01LZF08JK",
+        "link": "https://amazon.com/dp/B01LZF08JK?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "PINK USB-A",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "PINK"
+          },
+          {
+            "name": "style",
+            "value": "USB-A"
+          }
+        ],
+        "asin": "B01LZEYP8B",
+        "link": "https://amazon.com/dp/B01LZEYP8B?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "PURPLE USB-A",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "PURPLE"
+          },
+          {
+            "name": "style",
+            "value": "USB-A"
+          }
+        ],
+        "asin": "B01LYFWK5G",
+        "link": "https://amazon.com/dp/B01LYFWK5G?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RED USB-A",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "RED"
+          },
+          {
+            "name": "style",
+            "value": "USB-A"
+          }
+        ],
+        "asin": "B01LXGLO5B",
+        "link": "https://amazon.com/dp/B01LXGLO5B?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RED USB-C",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "RED"
+          },
+          {
+            "name": "style",
+            "value": "USB-C"
+          }
+        ],
+        "asin": "B0BHJS28XP",
+        "link": "https://amazon.com/dp/B0BHJS28XP?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "BLACK USB-A",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "BLACK"
+          },
+          {
+            "name": "style",
+            "value": "USB-A"
+          }
+        ],
+        "asin": "B01LY3FYZL",
+        "link": "https://amazon.com/dp/B01LY3FYZL?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "BLACK USB-C",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "BLACK"
+          },
+          {
+            "name": "style",
+            "value": "USB-C"
+          }
+        ],
+        "asin": "B0BHJQ9D88",
+        "link": "https://amazon.com/dp/B0BHJQ9D88?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "BLUE USB-C",
+        "dimensions": [
+          {
+            "name": "color",
+            "value": "BLUE"
+          },
+          {
+            "name": "style",
+            "value": "USB-C"
+          }
+        ],
+        "asin": "B0BHJLGMZT",
+        "link": "https://amazon.com/dp/B0BHJLGMZT?th=1"
+      }
+    ],
+    "variant_asins_flat": "B01LZF08JK,B01LZEYP8B,B01LYFWK5G,B01LXGLO5B,B0BHJS28XP,B01LY3FYZL,B0BHJQ9D88,B0BHJLGMZT",
+    "proposition_65_warning": true,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computer Accessories & Peripherals",
+        "link": "https://www.amazon.com/Computer-Accessories-Supplies/b/ref=dp_bc_3?ie=UTF8&node=172456",
+        "category_id": "172456"
+      },
+      {
+        "name": "Keyboards, Mice & Accessories",
+        "link": "https://www.amazon.com/Computer-Keyboards-Mice-Accessories/b/ref=dp_bc_4?ie=UTF8&node=11548956011",
+        "category_id": "11548956011"
+      },
+      {
+        "name": "Mice",
+        "link": "https://www.amazon.com/Mice-Keyboards-Computer-Add-Ons-Computers/b/ref=dp_bc_5?ie=UTF8&node=11036491",
+        "category_id": "11036491"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computer Accessories & Peripherals > Keyboards, Mice & Accessories > Mice",
+    "description": "Go Mini! The Verbatim Mini Travel Optical Mouse works great on the go. The ultra-compact design takes up very little space and is perfect for notebook users. The optical travel mouse features a convenient retractable USB cable no need to wrap the cord around the mouse or deal with tangles. On a plane, train or in a car, plug this mini mouse into your USB port and start dragging and dropping files. This portable mouse works on any computer with a USB port. Package Includes: Mini Travel Optical Mouse.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cff2ccb-921c-4769-a53a-37b9d07a694f.__CR0,0,2928,1250_PT0_SX1464_V1___.png",
+        "brand_store": {
+          "link": "/stores/page/2CA82963-D0E2-498A-8415-F3671686E111",
+          "id": "2CA82963-D0E2-498A-8415-F3671686E111"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cff2ccb-921c-4769-a53a-37b9d07a694f.__CR0,0,2928,1250_PT0_SX1464_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b5946498-1ca1-4a5f-b2bb-7ed93ed477bc.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a115cde-978a-4bcd-8380-33fd895c4213.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/67074f56-158f-45ac-9e18-e03fb9825ba2.__CR0,0,724,906_PT0_SX362_V1___.png",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50872a53-21fc-448d-bc15-33cb2f9b39ab.__CR0,0,724,906_PT0_SX362_V1___.png"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Verbatim Store",
+      "link": "https://www.amazon.com/stores/Verbatim/page/2CA82963-D0E2-498A-8415-F3671686E111?is_byline_deeplink=true&deeplink=414BC213-0066-4164-9E98-FC30CCE65E38&redirect_store_id=2CA82963-D0E2-498A-8415-F3671686E111&lp_asin=B01LZEYP8B&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 65,
+        "count": 3839
+      },
+      "four_star": {
+        "percentage": 14,
+        "count": 826
+      },
+      "three_star": {
+        "percentage": 8,
+        "count": 472
+      },
+      "two_star": {
+        "percentage": 5,
+        "count": 295
+      },
+      "one_star": {
+        "percentage": 8,
+        "count": 472
+      }
+    },
+    "ratings_total": 5907,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61-B9jp7PrL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61-B9jp7PrL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81cpPCoVPvL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61HaPizPm9L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61ELGiXOVPL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61MIpgjkqaL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/713YxulmdUL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61H-yXiazRL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71QDDlJMqOL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61XcBUs32kL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61-B9jp7PrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81cpPCoVPvL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61HaPizPm9L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61ELGiXOVPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61MIpgjkqaL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/713YxulmdUL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61H-yXiazRL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71QDDlJMqOL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61XcBUs32kL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 44,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61wqwopyDqL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e91915e-663b-4313-baff-3661aab49443/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "#thisorthat Coimath gaming mouse vs Verbatim travel mouse"
+      },
+      {
+        "duration_seconds": 33,
+        "width": 891,
+        "height": 500,
+        "thumbnail": "https://m.media-amazon.com/images/I/914xCrgA+hL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/110c0c3e-6e89-427a-8b30-bba3fa0364fe/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Everything to know about this Vertbatim Mini Mouse"
+      },
+      {
+        "duration_seconds": 47,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61nxGR-tNBL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ffeb9890-6cad-4ece-a334-15fad36f8ec7/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "#thisorthat Magic mouse vs Verbatim travel mouse"
+      },
+      {
+        "duration_seconds": 52,
+        "width": 3672,
+        "height": 2066,
+        "thumbnail": "https://m.media-amazon.com/images/I/91IiT3K9PwL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fefd77fe-04cc-4a67-9a56-1cfae61ddfd4/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "My favorite mouse! Verbatim Wired Mini USB-A Mouse"
+      },
+      {
+        "duration_seconds": 38,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/617eb2CNjtL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d67e71d6-f5a8-499d-baef-891b1da8da2b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "#thisorthat Lodvie wireless vs Verbatim wired travel mouse"
+      },
+      {
+        "duration_seconds": 54,
+        "width": 3072,
+        "height": 2264,
+        "thumbnail": "https://m.media-amazon.com/images/I/91ZEgFExbCL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba22954b-f5f6-4da7-93f9-d0ed69226fad/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "#thisorthat wireless computer mouse or retractable computer mouse"
+      },
+      {
+        "duration_seconds": 54,
+        "width": 1920,
+        "height": 1079,
+        "thumbnail": "https://m.media-amazon.com/images/I/81o-sSiaUrL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c67f346a-e984-43ce-9ad2-e06a3d63cf8a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Precision in Your Palm Unleashing Seamless Control Mouse"
+      },
+      {
+        "duration_seconds": 41,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61G4Lz8z1VL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77bd34e4-d4a5-4f7f-b60a-4d774b712ebb/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "#thisorthat Delux wireless mouse vs Verbatim Travel mouse "
+      },
+      {
+        "duration_seconds": 31,
+        "width": 2800,
+        "height": 1575,
+        "thumbnail": "https://m.media-amazon.com/images/I/81OUsYUkBEL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0abe0a1-d03b-443f-8486-f07cc1714c1d/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+        "title": "Mini Travel Optical Mouse with retractable cable"
+      },
+      {
+        "duration_seconds": 56,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61xKY7vAuNL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e317908-6da8-402f-86f5-e0355212cfd1/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "#thisorthat Verbatim travel mouse vs Normdecos wireless mouse "
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e91915e-663b-4313-baff-3661aab49443/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/110c0c3e-6e89-427a-8b30-bba3fa0364fe/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ffeb9890-6cad-4ece-a334-15fad36f8ec7/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fefd77fe-04cc-4a67-9a56-1cfae61ddfd4/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d67e71d6-f5a8-499d-baef-891b1da8da2b/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba22954b-f5f6-4da7-93f9-d0ed69226fad/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c67f346a-e984-43ce-9ad2-e06a3d63cf8a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77bd34e4-d4a5-4f7f-b60a-4d774b712ebb/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0abe0a1-d03b-443f-8486-f07cc1714c1d/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e317908-6da8-402f-86f5-e0355212cfd1/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.06054bc8bf62427eb3f2066d9914cf35",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B01LZF08JK,B0C6JXQ87Q",
+        "title": "#thisorthat Coimath gaming mouse vs Verbatim travel mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61YEOablFJL._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thegunsnob",
+        "public_name": "✅ TheGunSnob",
+        "creator_type": "Influencer",
+        "vendor_code": "thegunsnob:shop",
+        "vendor_name": "✅ TheGunSnob",
+        "vendor_tracking_id": "onamzthegunsn-20",
+        "video_image_id": "61wqwopyDqL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61wqwopyDqL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61wqwopyDqL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8bb3308a-c18b-4e57-b61d-836f5768cd0d/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e91915e-663b-4313-baff-3661aab49443/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e91915e-663b-4313-baff-3661aab49443/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e91915e-663b-4313-baff-3661aab49443/1376a296-9d09-4476-ad48-ced8390f3008/06054bc8bf62427eb3f2066d9914cf35_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:44",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/437b7d26-6ff4-4544-a8ea-325f72b04627.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.07e291af76694e8b9c46a5fe7bd09e88",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B0BHJQ9D88",
+        "title": "Everything to know about this Vertbatim Mini Mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/C1To4C8ClHL._CR646,154,823,823_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hiderrick_",
+        "public_name": "Derrick Monis",
+        "creator_type": "Influencer",
+        "vendor_code": "hiderrick_:shop",
+        "vendor_name": "Derrick Monis",
+        "vendor_tracking_id": "onamzderrimon-20",
+        "video_image_id": "914xCrgA+hL",
+        "video_image_url": "https://m.media-amazon.com/images/I/914xCrgA+hL._CR2,0,886,500_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/914xCrgA+hL.png",
+        "video_image_width": "891",
+        "video_image_height": "500",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d6924827-2175-4b0b-84cd-6f1c8656d95c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/110c0c3e-6e89-427a-8b30-bba3fa0364fe/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/110c0c3e-6e89-427a-8b30-bba3fa0364fe/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/110c0c3e-6e89-427a-8b30-bba3fa0364fe/3aff0041-ec9f-48a0-9d6b-aaccb50107ee/07e291af76694e8b9c46a5fe7bd09e88_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/451cc36f-3566-427f-9c72-3491bf27bf7e.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0a1af53d353f4a7ebc21a9bbcdf65cc1",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B08PL57CBR,B01LZF08JK",
+        "title": "#thisorthat Magic mouse vs Verbatim travel mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61YEOablFJL._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thegunsnob",
+        "public_name": "✅ TheGunSnob",
+        "creator_type": "Influencer",
+        "vendor_code": "thegunsnob:shop",
+        "vendor_name": "✅ TheGunSnob",
+        "vendor_tracking_id": "onamzthegunsn-20",
+        "video_image_id": "61nxGR-tNBL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61nxGR-tNBL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61nxGR-tNBL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0723be7d-d3fe-4404-8b53-6d9e6b8b1d22/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ffeb9890-6cad-4ece-a334-15fad36f8ec7/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ffeb9890-6cad-4ece-a334-15fad36f8ec7/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ffeb9890-6cad-4ece-a334-15fad36f8ec7/91f10506-2b70-4aed-845f-30da70efde14/0a1af53d353f4a7ebc21a9bbcdf65cc1_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/31c16da5-c3b4-4f3c-b8b8-051a8de34abd.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0879a9353067484195e783725d35ae4b",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B01LY3FYZL",
+        "title": "My favorite mouse! Verbatim Wired Mini USB-A Mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/51zICosPeSL._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/theartkit",
+        "public_name": "💜 The Art Kit 💜",
+        "creator_type": "Influencer",
+        "vendor_code": "theartkit:shop",
+        "vendor_name": "💜 The Art Kit 💜",
+        "vendor_tracking_id": "onamztheartki-20",
+        "video_image_id": "91IiT3K9PwL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91IiT3K9PwL._CR6,0,3661,2066_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91IiT3K9PwL.jpg",
+        "video_image_width": "3672",
+        "video_image_height": "2066",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/41fad983-46a5-45de-9c99-c14cd8a23936/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fefd77fe-04cc-4a67-9a56-1cfae61ddfd4/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fefd77fe-04cc-4a67-9a56-1cfae61ddfd4/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fefd77fe-04cc-4a67-9a56-1cfae61ddfd4/e59e7ca8-a6c3-4d20-99df-9f9a9784c03e/0879a9353067484195e783725d35ae4b_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:52",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d6184131-b052-43fb-a8ce-50afee8b029d.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ddbc0e675ce442780243db69efcbb72",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B0C84Y4FRP,B01LZF08JK",
+        "title": "#thisorthat Lodvie wireless vs Verbatim wired travel mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61YEOablFJL._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thegunsnob",
+        "public_name": "✅ TheGunSnob",
+        "creator_type": "Influencer",
+        "vendor_code": "thegunsnob:shop",
+        "vendor_name": "✅ TheGunSnob",
+        "vendor_tracking_id": "onamzthegunsn-20",
+        "video_image_id": "617eb2CNjtL",
+        "video_image_url": "https://m.media-amazon.com/images/I/617eb2CNjtL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/617eb2CNjtL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3f986d10-2d51-47a0-8741-5a04915f27ee/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d67e71d6-f5a8-499d-baef-891b1da8da2b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d67e71d6-f5a8-499d-baef-891b1da8da2b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d67e71d6-f5a8-499d-baef-891b1da8da2b/fe8dc67b-3fb3-435f-b0ed-0bbf4e670e05/0ddbc0e675ce442780243db69efcbb72_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/101af5c5-1e3a-4c17-8ba9-ce495f943bee.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ebf49cf7f694a1e9466ca9fa04c731a",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B09JSH81HZ,B01LXGLO5B,B0C4YQ6W6H",
+        "title": "#thisorthat wireless computer mouse or retractable computer mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1rx2etqhoL._CR51,660,1528,1528_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/ofedward",
+        "public_name": "Eddie Tucker",
+        "creator_type": "Influencer",
+        "vendor_code": "ofedward:shop",
+        "vendor_name": "Eddie Tucker",
+        "vendor_tracking_id": "onamzedwardtu-20",
+        "video_image_id": "91ZEgFExbCL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91ZEgFExbCL._CR0,0,3072,1734_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91ZEgFExbCL.jpg",
+        "video_image_width": "3072",
+        "video_image_height": "2264",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9b1fce1f-95dc-4c2e-b8b7-4d98f6b120d3/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba22954b-f5f6-4da7-93f9-d0ed69226fad/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba22954b-f5f6-4da7-93f9-d0ed69226fad/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ba22954b-f5f6-4da7-93f9-d0ed69226fad/2b522e7e-957f-478a-b017-5829995215a3/0ebf49cf7f694a1e9466ca9fa04c731a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:54",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/43903d81-818a-4bb7-a27d-0c3dcc9ccef1.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.02f19ef1cdc1410aafa045e91ae7dcc3",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B01FXDVNU4,B003NSBLOK,B01LZF08JK,B07WJKT2MH,B09T78HB28",
+        "title": "Precision in Your Palm Unleashing Seamless Control Mouse",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91ecVBtVBZL._CR454,40,329,329_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thetuckerlyfe",
+        "public_name": "Leigh Tucker",
+        "creator_type": "Influencer",
+        "vendor_code": "thetuckerlyfe:shop",
+        "vendor_name": "Leigh Tucker",
+        "vendor_tracking_id": "onamzleigha05-20",
+        "video_image_id": "81o-sSiaUrL",
+        "video_image_url": "https://m.media-amazon.com/images/I/81o-sSiaUrL._CR4,0,1912,1079_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81o-sSiaUrL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1079",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4230fce9-e0fe-4166-b8fb-62e0ca83084a/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c67f346a-e984-43ce-9ad2-e06a3d63cf8a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c67f346a-e984-43ce-9ad2-e06a3d63cf8a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c67f346a-e984-43ce-9ad2-e06a3d63cf8a/d37d6258-9378-4762-8325-53d3eecd3a3f/02f19ef1cdc1410aafa045e91ae7dcc3_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:54",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fd3808b6-1ed7-4e8c-915e-af3710005abd.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b40bd13e226455abc910201808a5eae",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B01LZF08JK,B09NVBBPRF",
+        "title": "#thisorthat Delux wireless mouse vs Verbatim Travel mouse ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61YEOablFJL._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thegunsnob",
+        "public_name": "✅ TheGunSnob",
+        "creator_type": "Influencer",
+        "vendor_code": "thegunsnob:shop",
+        "vendor_name": "✅ TheGunSnob",
+        "vendor_tracking_id": "onamzthegunsn-20",
+        "video_image_id": "61G4Lz8z1VL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61G4Lz8z1VL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61G4Lz8z1VL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d01d3e43-c7e9-4d20-ae69-e69cad0e0bb7/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77bd34e4-d4a5-4f7f-b60a-4d774b712ebb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77bd34e4-d4a5-4f7f-b60a-4d774b712ebb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77bd34e4-d4a5-4f7f-b60a-4d774b712ebb/5c6f7511-bb48-49ad-9b02-b8d844a42a21/0b40bd13e226455abc910201808a5eae_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:41",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2616c25b-7ad9-4001-b024-4bff564362e9.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0fe0c96da14c4a81a69d1f5aeb8c5e4a",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B01LY3FYZL,B01LZF08JK,B01LYFWK5G,B01LZEYP8B,B01LXGLO5B",
+        "title": "Mini Travel Optical Mouse with retractable cable",
+        "public_name": "Verbatim",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Verbatim",
+        "video_image_id": "81OUsYUkBEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/81OUsYUkBEL._CR5,0,2791,1575_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/81OUsYUkBEL.jpg",
+        "video_image_width": "2800",
+        "video_image_height": "1575",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/39b65f15-cbbb-4723-9a14-ede4312f6961/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0abe0a1-d03b-443f-8486-f07cc1714c1d/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0abe0a1-d03b-443f-8486-f07cc1714c1d/691805c2-571d-4294-a412-30e3432f0e95/0fe0c96da14c4a81a69d1f5aeb8c5e4a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:31",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/c7b2c5d7-ead7-4829-a386-1e627f7b1320.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0b17b08c2b1849a2b95d02949dc0dc92",
+        "product_asin": "B01LZEYP8B",
+        "parent_asin": "B0BLKNHVBC",
+        "related_products": "B01LZF08JK,B0C7LJFLK1,B0CCNW5X5T",
+        "title": "#thisorthat Verbatim travel mouse vs Normdecos wireless mouse ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61YEOablFJL._CR0,0,788,788_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/thegunsnob",
+        "public_name": "✅ TheGunSnob",
+        "creator_type": "Influencer",
+        "vendor_code": "thegunsnob:shop",
+        "vendor_name": "✅ TheGunSnob",
+        "vendor_tracking_id": "onamzthegunsn-20",
+        "video_image_id": "61xKY7vAuNL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61xKY7vAuNL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61xKY7vAuNL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/82613eac-322f-4b3b-9928-a08200505006/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e317908-6da8-402f-86f5-e0355212cfd1/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e317908-6da8-402f-86f5-e0355212cfd1/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7e317908-6da8-402f-86f5-e0355212cfd1/254dadd9-a846-4d8f-ab1d-eb8b92e80b30/0b17b08c2b1849a2b95d02949dc0dc92_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:56",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/15f72105-852c-48b0-877d-9ee74c948c6c.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "The Verbatim Optical Travel Mouse is the perfect computer accessory while on the go. The ultra-portable design takes up little space and is perfect for notebook users; mouse measures L x D x H (in): 1.7 x 3.0 x 1.1",
+      "27-inch retractable cable; no need to wrap the cord around the mouse or deal with tangles; to retract the cable pull both ends simultaneously all the way out to trigger the retractor",
+      "Simple, plug-and-play USB-A corded connection; Compatible with Windows, MacOS, Chrome OS, Linux Kernel 2.6 and higher",
+      "High-resolution optical technology for smooth and precise tracking",
+      "Verbatim has been a trusted brand since 1969 and guarantees this product with a 1-year Limited Warranty"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Verbatim has been a trusted brand since 1969 and guarantees this product with a 1-year Limited Warranty. High-resolution optical technology for smooth and precise tracking. Simple, plug-and-play USB-A corded connection; Compatible with Windows, MacOS, Chrome OS, Linux Kernel 2.6 and higher. 27-inch retractable cable; no need to wrap the cord around the mouse or deal with tangles; to retract the cable pull both ends simultaneously all the way out to trigger the retractor. The Verbatim Optical Travel Mouse is the perfect computer accessory while on the go. The ultra-portable design takes up little space and is perfect for notebook users; mouse measures L x D x H (in): 1.7 x 3.0 x 1.1.",
+    "top_reviews": [
+      {
+        "id": "R1O9LUEQ3WR033",
+        "title": "Great for Small Hands",
+        "body": "Update: This lasted about 6 months with daily use (and a toddler that drops things). Now it works if I get the USB angled just right. For the price point, I'd still recommend it or buy it again.  Original: I got this to replace a different small mouse that my preschooler uses for his online class. PROS: • It works great with his small hands. It's even easy for me to use. • The retractable cord makes it nice and portable. • It functions as it should. • Great price at less than $5! (As far as gaming goes, my son's classes are play-based learning, and this mouse works well with multiple, rapid clicks. We haven't tested it beyond that.) CONS: • The small size might not be comfortable for those with bigger hands. • The retractable cord might not last too long if kids play roughly with it.  Overall: I recommend this mouse, because it is inexpensive, portable, and functional. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Update: This lasted about 6 months with daily use (and a toddler that drops things). Now it works if I get the USB angled just right. For the price point, I&apos;d still recommend it or buy it again.<br/><br/>Original: I got this to replace a different small mouse that my preschooler uses for his online class.<br/>PROS:<br/>&#x2022; It works great with his small hands. It&apos;s even easy for me to use.<br/>&#x2022; The retractable cord makes it nice and portable.<br/>&#x2022; It functions as it should.<br/>&#x2022; Great price at less than $5!<br/>(As far as gaming goes, my son&apos;s classes are play-based learning, and this mouse works well with multiple, rapid clicks. We haven&apos;t tested it beyond that.)<br/>CONS:<br/>&#x2022; The small size might not be comfortable for those with bigger hands.<br/>&#x2022; The retractable cord might not last too long if kids play roughly with it.<br/><br/>Overall: I recommend this mouse, because it is inexpensive, portable, and functional.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1O9LUEQ3WR033/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 17, 2022",
+          "utc": "2022-01-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "A R",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHHZEUKHI7WUKADBNSJZYO2XK7FA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHHZEUKHI7WUKADBNSJZYO2XK7FA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "BLUE"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R38HBC0VDZ4EP",
+        "title": "Small, no batteries needed - perfect for travel bag",
+        "body": "I got this to go in my laptop bag. I used to have a similar tiny mouse years ago, but it has since gone to where tech devices go to pass away peacefully. Anyway, used this during my vacation and it worked great. Love that it doesn't need batteries. The retractable cord pulls out to be plenty long enough for me to work without noticing any limitations of length. The color is bright and easy to recognize in a bag. Plugged it into my laptop and it started working. I wanted it to be able to do some photo editing while on the go. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I got this to go in my laptop bag. I used to have a similar tiny mouse years ago, but it has since gone to where tech devices go to pass away peacefully. Anyway, used this during my vacation and it worked great. Love that it doesn&apos;t need batteries. The retractable cord pulls out to be plenty long enough for me to work without noticing any limitations of length. The color is bright and easy to recognize in a bag. Plugged it into my laptop and it started working. I wanted it to be able to do some photo editing while on the go.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R38HBC0VDZ4EP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 9, 2024",
+          "utc": "2024-08-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tina",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFJTLOOR6MLLMF6NUHCWGGXLMN6Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFJTLOOR6MLLMF6NUHCWGGXLMN6Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "PINK"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R3O03CM6CMDKG6",
+        "title": "Good but retractable might not last long.",
+        "body": "Product worked well up until days before the window for replacement closed. The retractable portion quit working. I'm pleased that I was able to get a replacement but does cause any delay in use as I had to deal with the loose cord which was what I needed to avoid. All in all, hopefully the new one does better because for the price point this thing is tiny and worked well. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Product worked well up until days before the window for replacement closed. The retractable portion quit working. I&apos;m pleased that I was able to get a replacement but does cause any delay in use as I had to deal with the loose cord which was what I needed to avoid. All in all, hopefully the new one does better because for the price point this thing is tiny and worked well.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3O03CM6CMDKG6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 5, 2025",
+          "utc": "2025-03-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "H",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AF7F2MHWS3QRP4P7FRNJ7MO5LVAA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF7F2MHWS3QRP4P7FRNJ7MO5LVAA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "BLACK"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R1WFB3VJTZTF13",
+        "title": "In this case, smaller is better.",
+        "body": "These work very well, especially on airplanes and other places where space is limited. I use my computer on airplanes, and these are a perfect size for the seat back tray in front of me. I have a lot of things on my office work desk, and these are much better than the standard big bulky ones. Also, they connect directly to a USB port on my computers and there is no battery to run down. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>These work very well, especially on airplanes and other places where space is limited. I use my computer on airplanes, and these are a perfect size for the seat back tray in front of me. I have a lot of things on my office work desk, and these are much better than the standard big bulky ones. Also, they connect directly to a USB port on my computers and there is no battery to run down.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1WFB3VJTZTF13/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 3, 2025",
+          "utc": "2025-04-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Michael E. Neer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHRG6OLENOVU5GDVNAC5ZLUI2MXA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHRG6OLENOVU5GDVNAC5ZLUI2MXA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "BLACK"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R2BQ8L1S3FTPGF",
+        "title": "OMG it's TINY!",
+        "body": "If you have large hands this is NOT the mouse for you. I love it because well I am only 4'9 so I have tiny hands and it's fine for me for a portable mouse, but when I say something feels super small in my hands, because well I have hands the size of a 6 year old, then it's SMALL. I guess what I am saying is guys and gals with normal adult hands may not feel comfortable using this?  The retractable cord is nice, but I will warn you the first time I pulled it, it got really tangled, so be careful to allow it to pull from both ends. I got it fixed and now it works just fine. The initial pull is a little tricky though. It seems to have a good DPI speed, which is important to me. I usually use my gaming mouse cranked up to \"it's obviously on crack\" level.  Overall I would recommend this to anyone who is looking for something small, portable and won't get lost as it plugs into your USB port. I have had several wireless mice for my laptop, I went through three in less than two months. Either I lose the mouse altogether, or I lose some little part of it that it needs to work. This one is foolproof if you have a hard time keeping up with where you put things. I just leave it plugged in all the time as my laptop normally just stays downstairs on the kitchen table or in the living room. And because it's retractable you can just leave it plugged into your laptop even if you are carrying it around. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>If you have large hands this is NOT the mouse for you. I love it because well I am only 4&apos;9 so I have tiny hands and it&apos;s fine for me for a portable mouse, but when I say something feels super small in my hands, because well I have hands the size of a 6 year old, then it&apos;s SMALL. I guess what I am saying is guys and gals with normal adult hands may not feel comfortable using this?<br/><br/>The retractable cord is nice, but I will warn you the first time I pulled it, it got really tangled, so be careful to allow it to pull from both ends. I got it fixed and now it works just fine. The initial pull is a little tricky though. It seems to have a good DPI speed, which is important to me. I usually use my gaming mouse cranked up to &quot;it&apos;s obviously on crack&quot; level.<br/><br/>Overall I would recommend this to anyone who is looking for something small, portable and won&apos;t get lost as it plugs into your USB port. I have had several wireless mice for my laptop, I went through three in less than two months. Either I lose the mouse altogether, or I lose some little part of it that it needs to work. This one is foolproof if you have a hard time keeping up with where you put things. I just leave it plugged in all the time as my laptop normally just stays downstairs on the kitchen table or in the living room. And because it&apos;s retractable you can just leave it plugged into your laptop even if you are carrying it around.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2BQ8L1S3FTPGF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 8, 2023",
+          "utc": "2023-03-08T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "R. A. Black",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFDK6D7GY7BWLG2A2JCF6Q5YYUSA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFDK6D7GY7BWLG2A2JCF6Q5YYUSA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/83402cc9-670a-4ebd-8ea0-ca949784174d._CR109%2C0%2C281%2C281_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 11,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "BLACK"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R1DTC51DB26VI",
+        "title": "Cute but not working",
+        "body": "Cute. Not working. Tried to connect to different devices, MacBook and windows machines, different USB c ports. Actually I need it for my travel MacBook, but I tried different computers to make sure if it is working or not. No way. Laser light not lighting, mouse not recognized by computer, NOT WORKING. Replacement received next day, but it didn't help, because 2nd mouse also not lighting not working. To return it back, for some reason instead of the store where I previously returned Amazon items in my town, it offered some options in 7+ miles from my house, I am not going to drive so far to get a refund for such a cheap item. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Cute. Not working. Tried to connect to different devices, MacBook and windows machines, different USB c ports. Actually I need it for my travel MacBook, but I tried different computers to make sure if it is working or not. No way. Laser light not lighting, mouse not recognized by computer, NOT WORKING.<br/>Replacement received next day, but it didn&apos;t help, because 2nd mouse also not lighting not working. To return it back, for some reason instead of the store where I previously returned Amazon items in my town, it offered some options in 7+ miles from my house, I am not going to drive so far to get a refund for such a cheap item.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1DTC51DB26VI/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on April 26, 2025",
+          "utc": "2025-04-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Olga Serebryannaya",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHAFAR3LDQGVRUOTLXDVSGPUJKIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHAFAR3LDQGVRUOTLXDVSGPUJKIA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "RED"
+          },
+          {
+            "Style": "USB-C"
+          }
+        ]
+      },
+      {
+        "id": "R1QZ395XQDRZXF",
+        "title": "Great compact size, doesn't last",
+        "body": "I got this to replace another travel-sized mouse I've been using daily for about 10 yrs. I prefer the small ones, the full size ones make my hand tired. This one is a good compact size, comforable to use, feels substantial, and the cord is long enough and retractable (on a wheel, not into the mouse). It has textured sides for a firm grip, although the grooves gather gunk quickly and it's tedious to clean. It's a fun color - I got the blue - and was a great price. Unfortunatly, after just a couple months of daily use, the scroll wheel stopped working. It also has always had issues with highlighting - it will only highlight text in one direction, oddly, and is persnickety about retaining the highlighting after the mouse button is released, causing repeated effort to do one task. It's nearly new, yet I can only use it for basic point and click functions as it quickly deteriorates. If you're just going to use this once in a while, maybe it will be fine for longer, but as your regular daily mouse, maybe not the best choice. Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I got this to replace another travel-sized mouse I&apos;ve been using daily for about 10 yrs. I prefer the small ones, the full size ones make my hand tired. This one is a good compact size, comforable to use, feels substantial, and the cord is long enough and retractable (on a wheel, not into the mouse). It has textured sides for a firm grip, although the grooves gather gunk quickly and it&apos;s tedious to clean. It&apos;s a fun color - I got the blue - and was a great price. Unfortunatly, after just a couple months of daily use, the scroll wheel stopped working. It also has always had issues with highlighting - it will only highlight text in one direction, oddly, and is persnickety about retaining the highlighting after the mouse button is released, causing repeated effort to do one task. It&apos;s nearly new, yet I can only use it for basic point and click functions as it quickly deteriorates. If you&apos;re just going to use this once in a while, maybe it will be fine for longer, but as your regular daily mouse, maybe not the best choice.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1QZ395XQDRZXF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on April 25, 2025",
+          "utc": "2025-04-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Gallega",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHIJ5KZBJJR7JD6NL3UOH7RBD7RA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHIJ5KZBJJR7JD6NL3UOH7RBD7RA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "BLUE"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R1U1S8QBZE3M4L",
+        "title": "Small is better!",
+        "body": "This is a smaller mouse that is easy to use and carries well in my laptop case! I love the size ! Read more",
+        "asin": "B01LZEYP8B",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is a smaller mouse that is easy to use and carries well in my laptop case! I love the size !<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1U1S8QBZE3M4L/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B01LZEYP8B",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 2, 2025",
+          "utc": "2025-03-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mrs. Dale Hall",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGPEJSWX27J6H2EYQUNSKIQF542Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGPEJSWX27J6H2EYQUNSKIQF542Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Color": "BLUE"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R14F50TCY5DW4O",
+        "title": "It disconnects once my iPad sleeps",
+        "body": "Overall it’s a good buy Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Overall it&#x2019;s a good buy<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in Saudi Arabia on March 25, 2024",
+          "utc": "2024-03-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Adekoya Kehinde"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "BLACK"
+          },
+          {
+            "Style": "USB-C"
+          }
+        ]
+      },
+      {
+        "id": "R1X3IPI8NZ2ROX",
+        "title": "Me gusta",
+        "body": "The media could not be loaded. Es de buena calidad, resistente, es pequeño y retráctil, tiene muy buena aceptación con tablet y los clics son rápidos y precisos. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R1X3IPI8NZ2ROX\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                      <div id=\"review-video-id-R1X3IPI8NZ2ROX\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R1X3IPI8NZ2ROX\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/41304528-162b-47b2-a4f3-8fd7da33604e/default.vertical.jobtemplate.hls.m3u8\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51l30iX5+XL._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"/>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>            </div><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/D1bVxQRS1HL.mp4\" class=\"video-url\"/><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51l30iX5+XL._SY256.jpg\" class=\"video-slate-img-url\"/>           <span class=\"cr-original-review-content\">Es de buena calidad, resistente, es peque&#xF1;o y retr&#xE1;ctil, tiene muy buena aceptaci&#xF3;n con tablet y los clics son r&#xE1;pidos y precisos.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on January 12, 2024",
+          "utc": "2024-01-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Samantha"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "videos": [
+          {
+            "video": "https://m.media-amazon.com/images/I/D1bVxQRS1HL.mp4",
+            "image": "https://m.media-amazon.com/images/I/51l30iX5+XL._SY256.jpg"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "BLACK"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R2B3H0VUS4MG75",
+        "title": "Verbatim mini mouse",
+        "body": "The Verbatim USB coded mini travel optical wired mouse is compact with nice design. Great product and highly recommend for use. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Verbatim USB coded mini travel optical wired mouse is compact with nice design. Great product and highly recommend for use.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Singapore on April 4, 2022",
+          "utc": "2022-04-04T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Betty"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "RED"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R2F0LF557G9B6W",
+        "title": "Good",
+        "body": "Acceptable quality Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Acceptable quality<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United Arab Emirates on October 30, 2024",
+          "utc": "2024-10-30T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "wh"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "RED"
+          },
+          {
+            "Style": "USB-A"
+          }
+        ]
+      },
+      {
+        "id": "R2N69QZDJJK769",
+        "title": "Great little device",
+        "body": "I bought this item for my tablet/laptop/phone. It performs brilliantly, P&P connectivity, without the need for an adapter to USB-A. Visually striking, well designed and comfortable in the hand, it's a great product which I have no hesitation in recommending. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this item for my tablet/laptop/phone. It performs brilliantly, P&amp;P connectivity, without the need for an adapter to USB-A. Visually striking, well designed and comfortable in the hand, it&apos;s a great product which I have no hesitation in recommending.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Australia on June 17, 2023",
+          "utc": "2023-06-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Bernard O'Sullivan"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "au",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Color": "RED"
+          },
+          {
+            "Style": "USB-C"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 4 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 8.99,
+        "currency": "USD",
+        "raw": "$8.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Average Battery Life (in hours)",
+        "value": "‎1 minutes"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Verbatim"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎98618"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows, Mac"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎1.6 ounces"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎1.1 x 3.03 x 1.69 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎1.1 x 3.03 x 1.69 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎PINK"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎Corded Electric"
+      },
+      {
+        "name": "Manufacturer",
+        "value": "‎Verbatim Americas, LLC"
+      },
+      {
+        "name": "ASIN",
+        "value": "‎B01LZEYP8B"
+      },
+      {
+        "name": "Country of Origin",
+        "value": "‎China"
+      },
+      {
+        "name": "Is Discontinued By Manufacturer",
+        "value": "‎No"
+      },
+      {
+        "name": "Date First Available",
+        "value": "‎October 1, 2016"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.2    4.2 out of 5 stars         5,907 ratings          4.2 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#795 in Computer Mice"
+      },
+      {
+        "name": "Brand",
+        "value": "Verbatim"
+      },
+      {
+        "name": "Color",
+        "value": "PINK"
+      },
+      {
+        "name": "Connectivity Technology",
+        "value": "USB"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Portable"
+      },
+      {
+        "name": "Movement Detection Technology",
+        "value": "Optical"
+      }
+    ],
+    "specifications_flat": "Movement Detection Technology: Optical. Special Feature: Portable. Connectivity Technology: USB. Color: PINK. Brand: Verbatim. Best Sellers Rank: #795 in Computer Mice. Customer Reviews: 4.2    4.2 out of 5 stars         5,907 ratings          4.2 out of 5 stars. Date First Available: ‎October 1, 2016. Is Discontinued By Manufacturer: ‎No. Country of Origin: ‎China. ASIN: ‎B01LZEYP8B. Manufacturer: ‎Verbatim Americas, LLC. Power Source: ‎Corded Electric. Color: ‎PINK. Item Dimensions  LxWxH: ‎1.1 x 3.03 x 1.69 inches. Product Dimensions: ‎1.1 x 3.03 x 1.69 inches. Item Weight: ‎1.6 ounces. Operating System: ‎Windows, Mac. Hardware Platform: ‎PC. Item model number: ‎98618. Brand: ‎Verbatim. Average Battery Life (in hours): ‎1 minutes.",
+    "bestsellers_rank": [
+      {
+        "category": "Computer Mice",
+        "rank": 795,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/11036491/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎PINK",
+    "manufacturer": "‎Verbatim Americas, LLC",
+    "weight": "‎1.6 ounces",
+    "first_available": {
+      "raw": "‎October 1, 2016",
+      "utc": "2016-10-01T00:00:00.000Z"
+    },
+    "dimensions": "‎1.1 x 3.03 x 1.69 inches",
+    "model_number": "‎98618",
+    "bestsellers_rank_flat": "Category: Computer Mice | Rank: 795",
+    "whats_in_the_box": [
+      "1x Mini Travel Optical Mouse"
+    ]
+  },
+  "brand_store": {
+    "id": "2CA82963-D0E2-498A-8415-F3671686E111",
+    "link": "https://www.amazon.com/stores/Verbatim/page/2CA82963-D0E2-498A-8415-F3671686E111"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 16.96,
+      "currency": "USD",
+      "raw": "$16.96"
+    },
+    "products": [
+      {
+        "asin": "B01LZEYP8B",
+        "title": "Verbatim Wired Optical Computer Mini USB-A Mouse - Plug & Play Corded Small Travel Mouse with Retractable Cable – Pink 98618",
+        "link": "https://www.amazon.com/dp/B01LZEYP8B",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61-B9jp7PrL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 8.99,
+          "currency": "USD",
+          "raw": "$8.99"
+        }
+      }
+    ]
+  },
+  "shop_by_look": {
+    "items": [
+      {
+        "position": 1,
+        "asin": "B0764PPBSX",
+        "link": "https://www.amazon.com/dp/B0764PPBSX",
+        "title": "Verbatim Wireless Notebook Optical Mouse, Commuter Series – Purple,Matte Purple",
+        "image": "https://m.media-amazon.com/images/I/71syuUW0x9L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1152,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      },
+      {
+        "position": 2,
+        "asin": "B004DI7DGO",
+        "link": "https://www.amazon.com/dp/B004DI7DGO",
+        "title": "Verbatim 2.4G Wireless Mini Travel Optical Mouse with Nano Receiver for Mac and PC - Blue",
+        "image": "https://m.media-amazon.com/images/I/61OmpZuPAwL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 982,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 13.99,
+          "currency": "USD",
+          "raw": "$13.99"
+        }
+      },
+      {
+        "position": 3,
+        "asin": "B07453TY17",
+        "link": "https://www.amazon.com/dp/B07453TY17",
+        "title": "Verbatim Wireless Notebook Optical Mouse, Commuter Series – Matte Red",
+        "image": "https://m.media-amazon.com/images/I/61Zesk7TtcS._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1152,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 8.49,
+          "currency": "USD",
+          "raw": "$8.49"
+        }
+      },
+      {
+        "position": 4,
+        "asin": "B074536KL1",
+        "link": "https://www.amazon.com/dp/B074536KL1",
+        "title": "Verbatim Wireless Notebook Optical Mouse, Commuter Series – Matte White",
+        "image": "https://m.media-amazon.com/images/I/41OyJhxuC7L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1152,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 7.43,
+          "currency": "USD",
+          "raw": "$7.43"
+        }
+      },
+      {
+        "position": 5,
+        "asin": "B07B3DKQBF",
+        "link": "https://www.amazon.com/dp/B07B3DKQBF",
+        "title": "Adesso Retractable Mini Mouse iMouse S8B with Built-in Scroll Wheel, Adjustable DPI, Multi-Color LED Backlight, and Enhanced Optical Sensor (Red)",
+        "image": "https://m.media-amazon.com/images/I/61cWQMxBA-L._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 35,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      },
+      {
+        "position": 6,
+        "asin": "B0D22JZCGK",
+        "link": "https://www.amazon.com/dp/B0D22JZCGK",
+        "title": "TECKNET Wireless Mouse for Laptop, 2.4G Ergonomic Portable Mouse, Plug & Play, Compact Design, Small Computer Mouse, Cordless Mice for Laptop, PC, Mac - Green",
+        "image": "https://m.media-amazon.com/images/I/51Ze8YZeC1L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 6503,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 11.99,
+          "currency": "USD",
+          "raw": "$11.99"
+        }
+      },
+      {
+        "position": 7,
+        "asin": "B07QXS8YCS",
+        "link": "https://www.amazon.com/dp/B07QXS8YCS",
+        "title": "Macally Wireless Rechargeable Mouse, 3-Button, 3x Adjustable DPI, 400mAh Battery, RF Connectivity, Dark Gray",
+        "image": "https://m.media-amazon.com/images/I/61i3wUX5IlL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 241,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99"
+        }
+      },
+      {
+        "position": 8,
+        "asin": "B0881SCTFW",
+        "link": "https://www.amazon.com/dp/B0881SCTFW",
+        "title": "Lightweight Gaming Mouse,26 kinds RGB Backlit Mice,PixArt 3325 12000 DPI Mouse,Ultralight Honeycomb Shell Ultraweave Cable Mouse and Anti-key Can Be Set for PC Gamers and Xbox and PS4 Users",
+        "image": "https://m.media-amazon.com/images/I/61ns7CqfXrL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 37,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 15.99,
+          "currency": "USD",
+          "raw": "$15.99"
+        }
+      },
+      {
+        "position": 9,
+        "asin": "B09J1ZJT49",
+        "link": "https://www.amazon.com/dp/B09J1ZJT49",
+        "title": "JOYACCESS Bluetooth Mouse, 2.4G Wireless Bluetooth Mouse Dual Mode(Bluetooth 5.0/3.0+USB), Computer Mice for Laptop/Computer MacBook/Windows/MacOS/Android -Iron Gray",
+        "image": "https://m.media-amazon.com/images/I/51FQG4Ehx3L._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 1938,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 13.99,
+          "currency": "USD",
+          "raw": "$13.99"
+        }
+      },
+      {
+        "position": 10,
+        "asin": "B0CC54X9KP",
+        "link": "https://www.amazon.com/dp/B0CC54X9KP",
+        "title": "RAPIQUE Bluetooth Wireless Mouse - (BT1/BT2+USB Receiver) Tri-Device Compatibility for PC, Laptop, Computer, MacBook, Tablet (Black and Yellow)",
+        "image": "https://m.media-amazon.com/images/I/61PW8VdJiCL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 2343,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 17.99,
+          "currency": "USD",
+          "raw": "$17.99"
+        }
+      },
+      {
+        "position": 11,
+        "asin": "B0DHP3N5SQ",
+        "link": "https://www.amazon.com/dp/B0DHP3N5SQ",
+        "title": "Wireless Mouse, 2.4G Slim Mini Cordless Computer Mouse, Ergonomic Grips, 5-Level Adjustable 4000 DPI,Small Portable Optical Computer Mice for Laptop, PC, Mac, iPad,24-Month Battery Life (Black)",
+        "image": "https://m.media-amazon.com/images/I/61DYBrHf9sL._AC_UL400_.jpg",
+        "rating": 4.5,
+        "ratings_total": 170,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 9.99,
+          "currency": "USD",
+          "raw": "$9.99"
+        }
+      },
+      {
+        "position": 12,
+        "asin": "B01MEG9BVI",
+        "link": "https://www.amazon.com/dp/B01MEG9BVI",
+        "title": "weixingu Foldable Wireless Mouse 2.4GHz for The PC Computer Mouse Foldable Folding Mice USB 2.0 Receiver for PC Laptop Blue",
+        "image": "https://m.media-amazon.com/images/I/61fjcNzBaeL._AC_UL400_.jpg",
+        "rating": 4,
+        "ratings_total": 92,
+        "is_prime": true,
+        "price": {
+          "symbol": "$",
+          "value": 9.89,
+          "currency": "USD",
+          "raw": "$9.89"
+        }
+      }
+    ],
+    "title": "Discover similar items"
+  },
+  "similar_to_consider": {
+    "asin": "B005EJH6RW",
+    "link": "https://www.amazon.com/dp/B005EJH6RW/ref=vp_d_pb_TIER2_cs_lp_B01LZEYP8B_pd?_encoding=UTF8&pf_rd_p=f2b81459-15a8-49ed-af53-684ffd48c8c9&pf_rd_r=D40GQZ7CZSEK9X8B6XX8&pd_rd_wg=sbKCR&pd_rd_i=B005EJH6RW&pd_rd_w=21IjI&content-id=amzn1.sym.f2b81459-15a8-49ed-af53-684ffd48c8c9&pd_rd_r=ea66dffa-dd33-43e2-8756-665792fd8714&psc=1",
+    "title": "Amazon Basics 3-Button USB Wired Mouse with Scrolling and Tracking - Standard, Black",
+    "rating": 4.5,
+    "ratings_total": 87055,
+    "image": "https://m.media-amazon.com/images/I/61Mzk2NljxL._SS100_.jpg",
+    "is_prime": true
+  }
+}

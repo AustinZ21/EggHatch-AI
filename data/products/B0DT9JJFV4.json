@@ -1,0 +1,640 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5591,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DT9JJFV4",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:52:20.776Z",
+    "processed_at": "2025-05-20T01:52:25.525Z",
+    "total_time_taken": 4.75,
+    "amazon_url": "https://www.amazon.com/dp/B0DT9JJFV4?th=1&psc=1"
+  },
+  "product": {
+    "title": "Gaming Laptop 15.6\" FHD,Intel N95 Turbo Boost 3.4GHz,16GB DDR4 + 512GB SSD,RGB Backlit Keyboard & Fingerprint Unlock,Windows 11 Pro Laptop Computer for Immersive Performance",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Gaming,Laptop,15.6\",FHD,Intel,N95,Turbo,Boost,3.4GHz,16GB,DDR4,+,512GB,SSD,RGB,Backlit,Keyboard,&,Fingerprint,Unlock,Windows,11,Pro,Laptop,Computer,for,Immersive,Performance",
+    "keywords_list": [
+      "Gaming",
+      "Laptop",
+      "15.6\"",
+      "Intel",
+      "Turbo",
+      "Boost",
+      "3.4GHz",
+      "16GB",
+      "DDR4",
+      "512GB",
+      "Backlit",
+      "Keyboard",
+      "Fingerprint",
+      "Unlock",
+      "Windows",
+      "Laptop",
+      "Computer",
+      "Immersive",
+      "Performance"
+    ],
+    "is_collection": false,
+    "asin": "B0DT9JJFV4",
+    "parent_asin": "B0F92F2PLX",
+    "link": "https://www.amazon.com/NEOBIHIER-Keyboard-Fingerprint-Immersive-Performance/dp/B0DT9JJFV4",
+    "brand": "NEOBIHIER",
+    "protection_plans": [
+      {
+        "asin": "B07PBD7V32",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 47.99,
+          "currency": "USD",
+          "raw": "$47.99"
+        }
+      },
+      {
+        "asin": "B07PC1HYF2",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Brand: NEOBIHIER",
+      "link": "https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=NEOBIHIER"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 1.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 17,
+        "count": 1
+      },
+      "four_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 83,
+        "count": 4
+      }
+    },
+    "ratings_total": 6,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61b7yWEPXEL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61b7yWEPXEL._AC_SL1200_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71eOxJbH4IL._AC_SL1200_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61xN-a1VQwL._AC_SL1200_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71AchQgtCNL._AC_SL1200_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61fx2fOeS6L._AC_SL1200_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Z45oFq7PL._AC_SL1200_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/61b7yWEPXEL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71eOxJbH4IL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61xN-a1VQwL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71AchQgtCNL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/61fx2fOeS6L._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71Z45oFq7PL._AC_SL1200_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Powerful Gaming Laptop Performance: Experience laptop gaming excellence with Intel's 1.7-3.4GHz N95 processor, delivering desktop-grade power for intense gaming laptop sessions. This windows laptop handles AAA games and creative software effortlessly while maintaining energy efficiency.",
+      "Multitasking Laptop Computer Mastery: 16GB DDR4 3200MHz RAM transforms this laptop computer into a multitasking powerhouse. Switch between gaming laptops-level applications, 20+ browser tabs, and streaming software with zero lag - perfect for computer laptop users needing workstation-grade performance.",
+      "Gaming Laptop Storage Solution: 512GB SSD gives gaming laptops users instant game launches and rapid file transfers. This computer laptop achieves 15s cold boot times with Windows 11 optimization, providing 3x faster data access than traditional HDD laptops.",
+      "Ultimate Windows Laptop Endurance: 6000mAh battery sustains 8-hour gaming laptop marathons or 12-hour productivity sessions. This windows laptop implements smart power allocation, prioritizing GPU during gaming laptop use while conserving energy for office tasks.",
+      "Secure Computer Laptop Ecosystem: Fingerprint-enabled laptop computer security pairs with military-grade encryption. The 15.6\" FHD display (1920x1080) with anti-glare coating ensures comfortable gaming laptop viewing, complemented by RGB backlit keyboard optimized for computer laptop night use."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Secure Computer Laptop Ecosystem: Fingerprint-enabled laptop computer security pairs with military-grade encryption. The 15.6\" FHD display (1920x1080) with anti-glare coating ensures comfortable gaming laptop viewing, complemented by RGB backlit keyboard optimized for computer laptop night use. Ultimate Windows Laptop Endurance: 6000mAh battery sustains 8-hour gaming laptop marathons or 12-hour productivity sessions. This windows laptop implements smart power allocation, prioritizing GPU during gaming laptop use while conserving energy for office tasks. Gaming Laptop Storage Solution: 512GB SSD gives gaming laptops users instant game launches and rapid file transfers. This computer laptop achieves 15s cold boot times with Windows 11 optimization, providing 3x faster data access than traditional HDD laptops. Multitasking Laptop Computer Mastery: 16GB DDR4 3200MHz RAM transforms this laptop computer into a multitasking powerhouse. Switch between gaming laptops-level applications, 20+ browser tabs, and streaming software with zero lag - perfect for computer laptop users needing workstation-grade performance. Powerful Gaming Laptop Performance: Experience laptop gaming excellence with Intel's 1.7-3.4GHz N95 processor, delivering desktop-grade power for intense gaming laptop sessions. This windows laptop handles AAA games and creative software effortlessly while maintaining energy efficiency.",
+    "top_reviews": [
+      {
+        "id": "RWCPX722GVEAG",
+        "title": "Hard drive size misrepresented",
+        "body": "357 GB of the 512 GB are unalocated and unusable. Returning this asap. Read more",
+        "asin": "B0DT9JJFV4",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>357 GB of the 512 GB are unalocated and unusable. Returning this asap.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RWCPX722GVEAG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT9JJFV4",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on May 14, 2025",
+          "utc": "2025-05-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "MMM",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AF7QKBONG2GPURZDFMSKEEJ2BROA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AF7QKBONG2GPURZDFMSKEEJ2BROA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      },
+      {
+        "id": "R2Z5UBUYQJ1NQD",
+        "title": "Don't spend your money",
+        "body": "Not worth the money 7 fps on games Read more",
+        "asin": "B0DT9JJFV4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Not worth the money 7 fps on games<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2Z5UBUYQJ1NQD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT9JJFV4",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on May 17, 2025",
+          "utc": "2025-05-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Curtis",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHF4KIFJBW57T4YA65BBCZQAILGQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHF4KIFJBW57T4YA65BBCZQAILGQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      },
+      {
+        "id": "R1HRHBMMKGW9UP",
+        "title": "Great Value for a Gaming Laptop",
+        "body": "This windows laptop offers amazing performance for its price. It boots up quickly, loads programs fast, and even handles games without any lag. The backlit keyboard and excellent screen make it perfect for work and play. Truly one of the best gaming laptops in its category! Read more",
+        "asin": "B0DT9JJFV4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This windows laptop offers amazing performance for its price. It boots up quickly, loads programs fast, and even handles games without any lag. The backlit keyboard and excellent screen make it perfect for work and play. Truly one of the best gaming laptops in its category!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1HRHBMMKGW9UP/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT9JJFV4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2025",
+          "utc": "2025-03-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Alexa",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGVVX3AJU7Q5VH77N3OS6USNRCLA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGVVX3AJU7Q5VH77N3OS6USNRCLA"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      },
+      {
+        "id": "R21W0PY4Y7NSGJ",
+        "title": "Fantastic Gaming Laptop for Work and Entertainment",
+        "body": "This gaming laptop exceeded my expectations! It’s lightweight, fast, and perfect for both office tasks and gaming. The backlit keyboard and fingerprint scanner make it feel premium, and the screen quality is excellent. I’m so happy with this purchase — one of the best gaming laptops I’ve ever owned! Read more",
+        "asin": "B0DT9JJFV4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This gaming laptop exceeded my expectations! It&#x2019;s lightweight, fast, and perfect for both office tasks and gaming. The backlit keyboard and fingerprint scanner make it feel premium, and the screen quality is excellent. I&#x2019;m so happy with this purchase &#x2014; one of the best gaming laptops I&#x2019;ve ever owned!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R21W0PY4Y7NSGJ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT9JJFV4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2025",
+          "utc": "2025-03-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Beatriz",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMUX6BZCLUYO7PYEAONB5XADMIA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEMUX6BZCLUYO7PYEAONB5XADMIA"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      },
+      {
+        "id": "R264KW25L2CEC2",
+        "title": "Great gaming laptop",
+        "body": "This laptop has been an excellent purchase for my daughter! With its stunning 15.6 inch Full HD IPS Display, powerful N97 processor, and slim and light design, it's perfect for your schoolwork and multimedia activities. Its fast and smooth performance, along with decent battery life, make it ideal for working for hours without problems. In short, this laptop is a worthwhile investment for any student, it definitely deserves five stars! Read more",
+        "asin": "B0DT9JJFV4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop has been an excellent purchase for my daughter! With its stunning 15.6 inch Full HD IPS Display, powerful N97 processor, and slim and light design, it&apos;s perfect for your schoolwork and multimedia activities. Its fast and smooth performance, along with decent battery life, make it ideal for working for hours without problems. In short, this laptop is a worthwhile investment for any student, it definitely deserves five stars!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R264KW25L2CEC2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT9JJFV4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 11, 2025",
+          "utc": "2025-04-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jackson Katherine",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEQENNEB73AZKXM4KM4VNEB4KHOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEQENNEB73AZKXM4KM4VNEB4KHOQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      },
+      {
+        "id": "RI40FPYN64SGU",
+        "title": "Reliable and Powerful Gaming Laptop",
+        "body": "I needed a laptop computer for work, but I also wanted something that could handle games — and this one does both perfectly. It’s fast, the display is crystal clear, and it runs all my programs without a hitch. If you’re looking for versatile gaming laptops, this is the one! Read more",
+        "asin": "B0DT9JJFV4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I needed a laptop computer for work, but I also wanted something that could handle games &#x2014; and this one does both perfectly. It&#x2019;s fast, the display is crystal clear, and it runs all my programs without a hitch. If you&#x2019;re looking for versatile gaming laptops, this is the one!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RI40FPYN64SGU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT9JJFV4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 11, 2025",
+          "utc": "2025-03-11T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dan",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFG6WBV2SXLZPFD26RP6KS3JOOIQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFG6WBV2SXLZPFD26RP6KS3JOOIQ"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "47.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "79.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 7 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Peach Garden-Shop",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1AZCBI61YXQ9I&asin=B0DT9JJFV4&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A1AZCBI61YXQ9I"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 299.99,
+        "currency": "USD",
+        "raw": "$299.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 456.99,
+        "currency": "USD",
+        "raw": "$456.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎1.7 GHz Intel_Mobile_CPU"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR4"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎Intel UHD Graphics"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎2"
+      },
+      {
+        "name": "Brand",
+        "value": "‎NEOBIHIER"
+      },
+      {
+        "name": "Series",
+        "value": "‎156N95"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎156N95"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5.7 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.17 x 0.78 x 9.8 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.17 x 0.78 x 9.8 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎1"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎16 GB"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎BD-R"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 12V batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DT9JJFV4"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "1.7    1.7 out of 5 stars         6 ratings          1.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#4,625 in Computers & Accessories (See Top 100 in Computers & Accessories) #553 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "January 17, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "NEOBIHIER"
+      },
+      {
+        "name": "Model Name",
+        "value": "156N95"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Mobile CPU"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "Intel UHD Graphics"
+      }
+    ],
+    "specifications_flat": "Graphics Coprocessor: Intel UHD Graphics. Graphics Card Description: Integrated. Operating System: Windows 11 Pro. Ram Memory Installed Size: 16 GB. CPU Model: Intel Mobile CPU. Hard Disk Size: 512 GB. Color: Gray. Screen Size: 15.6 Inches. Model Name: 156N95. Brand: NEOBIHIER. Date First Available: January 17, 2025. Best Sellers Rank: #4,625 in Computers & Accessories (See Top 100 in Computers & Accessories) #553 in Traditional Laptop Computers. Customer Reviews: 1.7    1.7 out of 5 stars         6 ratings          1.7 out of 5 stars. ASIN: B0DT9JJFV4. Batteries: ‎1 12V batteries required. (included). Optical Drive Type: ‎BD-R. Flash Memory Size: ‎16 GB. Number of Processors: ‎1. Processor Brand: ‎Intel. Color: ‎Gray. Item Dimensions  LxWxH: ‎14.17 x 0.78 x 9.8 inches. Product Dimensions: ‎14.17 x 0.78 x 9.8 inches. Item Weight: ‎5.7 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎156N95. Series: ‎156N95. Brand: ‎NEOBIHIER. Number of USB 3.0 Ports: ‎2. Card Description: ‎Integrated. Chipset Brand: ‎Intel. Graphics Coprocessor: ‎Intel UHD Graphics. Hard Drive: ‎512 GB SSD. RAM: ‎DDR4. Processor: ‎1.7 GHz Intel_Mobile_CPU. Max Screen Resolution: ‎1920x1080 Pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 4625,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 553,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Gray",
+    "weight": "‎5.7 pounds",
+    "first_available": {
+      "raw": "January 17, 2025",
+      "utc": "2025-01-17T00:00:00.000Z"
+    },
+    "dimensions": "‎14.17 x 0.78 x 9.8 inches",
+    "model_number": "‎156N95",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 4625, Category: Traditional Laptop Computers | Rank: 553",
+    "whats_in_the_box": [
+      "Laptop"
+    ]
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 338.97,
+      "currency": "USD",
+      "raw": "$338.97"
+    },
+    "products": [
+      {
+        "asin": "B0DT9JJFV4",
+        "title": "NEOBIHIER Gaming Laptop 15.6\" FHD,Intel N95 Turbo Boost 3.4GHz,16GB DDR4 + 512GB SSD,RGB Backlit Keyboard & Fingerprint Unlock,Windows 11 Pro Laptop Computer for Immersive Performance",
+        "link": "https://www.amazon.com/dp/B0DT9JJFV4",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61b7yWEPXEL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 299.99,
+          "currency": "USD",
+          "raw": "$299.99"
+        }
+      }
+    ]
+  }
+}

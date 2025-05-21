@@ -1,0 +1,789 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5581,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F7XPKW88",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:53:48.022Z",
+    "processed_at": "2025-05-20T01:53:57.591Z",
+    "total_time_taken": 9.57,
+    "amazon_url": "https://www.amazon.com/dp/B0F7XPKW88?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS ROG Strix G18 (2025) Gaming Laptop, 18\" 2.5K 240Hz 16:10 Display Laptop, NVIDIA GeForce RTX 5080, Intel Core Ultra 9 275HX, 64GB DDR5 RAM, 2TB M.2 PCIe SSD, WiFi 7, Win11 Pro - Eclipse Gray",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,ROG,Strix,G18,(2025),Gaming,Laptop,18\",2.5K,240Hz,16:10,Display,Laptop,NVIDIA,GeForce,RTX,5080,Intel,Core,Ultra,9,275HX,64GB,DDR5,RAM,2TB,M.2,PCIe,SSD,WiFi,7,Win11,Pro,Eclipse,Gray",
+    "keywords_list": [
+      "ASUS",
+      "Strix",
+      "(2025)",
+      "Gaming",
+      "Laptop",
+      "2.5K",
+      "240Hz",
+      "16:10",
+      "Display",
+      "Laptop",
+      "NVIDIA",
+      "GeForce",
+      "5080",
+      "Intel",
+      "Core",
+      "Ultra",
+      "275HX",
+      "64GB",
+      "DDR5",
+      "PCIe",
+      "WiFi",
+      "Win11",
+      "Eclipse",
+      "Gray"
+    ],
+    "is_collection": false,
+    "asin": "B0F7XPKW88",
+    "parent_asin": "B0DQLD2BMW",
+    "link": "https://www.amazon.com/ASUS-Strix-Gaming-Laptop-240Hz/dp/B0F7XPKW88",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07P83ZYTG",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 239.99,
+          "currency": "USD",
+          "raw": "$239.99"
+        }
+      },
+      {
+        "asin": "B07PBD1PMP",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 359.99,
+          "currency": "USD",
+          "raw": "$359.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "RTX 4080 64GB RAM | 2TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4080"
+          },
+          {
+            "name": "style",
+            "value": "64GB RAM | 2TB Storage"
+          }
+        ],
+        "asin": "B0DQD531TB",
+        "link": "https://amazon.com/dp/B0DQD531TB?th=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "64GB RAM | 2TB Storage RTX 5080",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "64GB RAM | 2TB Storage"
+          },
+          {
+            "name": "style",
+            "value": "RTX 5080"
+          }
+        ],
+        "asin": "B0F7XPKW88",
+        "link": "https://amazon.com/dp/B0F7XPKW88?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 4TB Storage RTX 5080",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "64GB RAM | 4TB Storage"
+          },
+          {
+            "name": "style",
+            "value": "RTX 5080"
+          }
+        ],
+        "asin": "B0F7XPJDQC",
+        "link": "https://amazon.com/dp/B0F7XPJDQC?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4070 16GB RAM | 2TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "16GB RAM | 2TB Storage"
+          }
+        ],
+        "asin": "B0D9NGFG1L",
+        "link": "https://amazon.com/dp/B0D9NGFG1L?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4080 32GB RAM | 2TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4080"
+          },
+          {
+            "name": "style",
+            "value": "32GB RAM | 2TB Storage"
+          }
+        ],
+        "asin": "B0DQD13Y83",
+        "link": "https://amazon.com/dp/B0DQD13Y83?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB | 4TB PCIe SSD | 4800H 64GB RAM | 4TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "64GB | 4TB PCIe SSD | 4800H"
+          },
+          {
+            "name": "style",
+            "value": "64GB RAM | 4TB Storage"
+          }
+        ],
+        "asin": "B0BSCV5QYW",
+        "link": "https://amazon.com/dp/B0BSCV5QYW?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4070 32GB RAM | 2TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "32GB RAM | 2TB Storage"
+          }
+        ],
+        "asin": "B0D9NH8K86",
+        "link": "https://amazon.com/dp/B0D9NH8K86?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4070 16GB RAM | 1TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "16GB RAM | 1TB Storage"
+          }
+        ],
+        "asin": "B0D9NHFYXM",
+        "link": "https://amazon.com/dp/B0D9NHFYXM?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64GB RAM | 8TB Storage RTX 5080",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "64GB RAM | 8TB Storage"
+          },
+          {
+            "name": "style",
+            "value": "RTX 5080"
+          }
+        ],
+        "asin": "B0F7XQ214S",
+        "link": "https://amazon.com/dp/B0F7XQ214S?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4070 32GB RAM | 1TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "32GB RAM | 1TB Storage"
+          }
+        ],
+        "asin": "B0D9NF4J49",
+        "link": "https://amazon.com/dp/B0D9NF4J49?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4080 64GB RAM | 4TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4080"
+          },
+          {
+            "name": "style",
+            "value": "64GB RAM | 4TB Storage"
+          }
+        ],
+        "asin": "B0DQCZNFTS",
+        "link": "https://amazon.com/dp/B0DQCZNFTS?th=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB RAM | 4TB Storage RTX 5080",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "32GB RAM | 4TB Storage"
+          },
+          {
+            "name": "style",
+            "value": "RTX 5080"
+          }
+        ],
+        "asin": "B0F7XQ2N4P",
+        "link": "https://amazon.com/dp/B0F7XQ2N4P?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32GB RAM | 2TB Storage RTX 5080",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "32GB RAM | 2TB Storage"
+          },
+          {
+            "name": "style",
+            "value": "RTX 5080"
+          }
+        ],
+        "asin": "B0F7XRSHGV",
+        "link": "https://amazon.com/dp/B0F7XRSHGV?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4070 64GB RAM | 2TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "64GB RAM | 2TB Storage"
+          }
+        ],
+        "asin": "B0D9NGF66Q",
+        "link": "https://amazon.com/dp/B0D9NGF66Q?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4070 64GB RAM | 4TB Storage",
+        "dimensions": [
+          {
+            "name": "capacity",
+            "value": "RTX 4070"
+          },
+          {
+            "name": "style",
+            "value": "64GB RAM | 4TB Storage"
+          }
+        ],
+        "asin": "B0D9NG5XG4",
+        "link": "https://amazon.com/dp/B0D9NG5XG4?th=1"
+      }
+    ],
+    "variant_asins_flat": "B0DQD531TB,B0F7XPKW88,B0F7XPJDQC,B0D9NGFG1L,B0DQD13Y83,B0BSCV5QYW,B0D9NH8K86,B0D9NHFYXM,B0F7XQ214S,B0D9NF4J49,B0DQCZNFTS,B0F7XQ2N4P,B0F7XRSHGV,B0D9NGF66Q,B0D9NG5XG4",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Dominate easily, wielding ultimate power in anything you do with your ROG Strix G18 SUPER laptop! ROG Strix G18 easily handles even the most demanding games or business tasks.\n\nUnlock a next-level gaming experience with the ROG Strix G18. Featuring a 2.5K 240Hz Nebula Display with Pantone-validated color accuracy, it delivers stunning visuals. Powered by an Intel Core processor and NVIDIA GeForce RTX 5080 laptop GPU, enjoy seamless gaming and creative performance. With Up to 64GB DDR5 RAM and 8TB PCIe 4.0 SSD, and advanced ROG Intelligent Cooling, stay at the top of your game. The esports-ready keyboard, Dolby Atmos audio, and customizable RGB Aura Light Bar elevate every moment.\n\n\n\n\n\n\n\n\n\nBrand: ASUS\n\nSeries: ASUS ROG Strix G18 Gaming Laptop\n\nOperating System: Windows 11 Pro\n\nColor: Eclipse Gray\n\n\n\n\n\n\nProcessor Brand: Intel\n\nProcessor: Intel Core Ultra 9 275HX\n\nProcessor Core: 24-Core\n\nProcessor Thread: 24 threads\n\nProcessor Speed: Up to 5.4 GHz\n\nCache: 36 MB Intel Smart Cache\n\nTotal L2 Cache: 40 MB\n\nIntel Deep Learning Boost (Intel DL Boost) on CPU: YES\n\nAI Software Frameworks Supported by CPU: OpenVINO, WindowsML, DirectML, ONNX RT, WebNN\n\nCPU Lithography: TSMC N3B\n\n\n\n\n\n\n\n\n\nGraphics Brand: NVIDIA\n\nGraphics Type: Dedicated\n\nGraphics: NVIDIA GeForce RTX 5080 16 GB GDDR7\n\nROG Boost: 1550MHz* at 175W (1500MHz Boost Clock+50MHz OC, 150W+25W Dynamic Boost)\n\nNVIDIA DLSS: DLSS 4 (Deep Learning Super Sampling), Ray tracing\n\n\n\n\n\n\n\n\n\nScreen Size: 18 inches\n\nScreen Resolution: ROG Nebula 2.5K, 2560 x 1600 (QHD), 16:10\n\nRefresh Rate: 240Hz / 3ms\n\nDisplay: G-SYNC (NVIDIA Adaptive Sync)\n\nDisplay Screen Type: IPS-level, Anti-Glare Display\n\nDCI-P3:100% Pantone Validated\n\nSupport Dolby Vision HDR :Yes\n\n\n\n\n\n\n\n\n\nMemory Type (RAM): DDR5\n\nMemory：Up to 64GB DDR5 RAM\n\nStorage Type: PCIe 4.0 NVMe M.2 SSD\n\nHard Drive: Up to 8 TB SSD\n\n\n\n\n\n\n\n\n\n\n\nKeyboard: Backlit Chiclet Keyboard 4-Zone RGB\n\nCamera: 1080P FHD IR Camera for Windows Hello\n\nAudio Technology: Hi-Res Audio with Dolby Atmos and Two-Way AI Noise Cancellation\n\nWireless Connectivity: Wi-Fi 7(802.11be) (Triple band) 2*2+Bluetooth 5.4 Wireless Card\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPorts & Slots:\n\n1x 3.5mm Combo Audio Jack\n\n1x HDMI 2.1 FRL\n\n3x USB 3.2 Gen 2 Type-A (data speed up to 10Gbps)\n\n1x 2.5G LAN port\n\n2x Thunderbolt™ 5 with support for DisplayPort™ / power delivery / G-SYNC (data speed up to 120Gbps)\n\n\n\nDimensions (W x L x H): 15.71 x 11.73 x 1.26 Inches\n\nWeight: 7.05 pounds\n\n\n\n\n\n\nStatement: Original Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.",
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?lp_asin=B0F7XPKW88&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply 5% coupon",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 70,
+        "count": 2
+      },
+      "four_star": {
+        "percentage": 30,
+        "count": 1
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 4,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61Tou3iWTEL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61Tou3iWTEL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61jBNHYWr9L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61M-gCKScvL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51TM3th9z9L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61japIf7hKL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61qegj6FFyL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61OfuDx+QSL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      }
+    ],
+    "images_count": 7,
+    "images_flat": "https://m.media-amazon.com/images/I/61Tou3iWTEL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61jBNHYWr9L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61M-gCKScvL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51TM3th9z9L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61japIf7hKL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61qegj6FFyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61OfuDx+QSL._AC_SL1500_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Premium Performance: This ROG Strix G18 is powered by the Intel Ultra 9 275HX processor with 24 cores (8 Performance + 16 Efficient) and 24 total threads, boosting up to 5.4 GHz. This next-gen CPU excels in gaming and creative tasks with AI acceleration for faster rendering, offering unbeatable speed and performance, whether you're gaming, streaming, or editing.",
+      "Next-Gen Stunning Graphics: With the NVIDIA GeForce RTX 5080 16GB of GDDR7 Graphics video memory delivers stunning gaming performance. With features like DLSS 4, Ray Tracing, and Frame Generation, it ensures smooth gameplay and high frame rates. Advanced Optimus technology optimizes battery life and performance by dynamically switching between the iGPU and dGPU, keeping you ahead of the competition.",
+      "ROG Nebula Display: Immerse yourself in stunning visuals for gaming, content creation, and entertainment with the ultra-fast 18\" 2.5K 16:10 2560x1600 240Hz Nebula Display. Pantone validation guarantees professional-grade color accuracy with 100% DCI-P3 coverage, further enhanced by a new ACR film that boosts contrast and minimizes glare.",
+      "Expansive Storage: Dominate any game with Up to 64GB of blazing-fast DDR5 5600MHz RAM. Enjoy smooth gameplay, faster loading times, and seamless multitasking. Load games and projects instantly with Up to 8TB PCIe Gen 4 storage, delivering up to 7,000MB/s throughput and efficient cooling. Stay ahead with PCIe Gen 5-ready SSD slots, ensuring easy upgrades and future-proof performance.",
+      "State-Of-The-Art ROG Intelligent Cooling: Maintain peak performance with ROG Intelligent Cooling. Equipped with an end-to-end vapor chamber, Tri-Fan technology, and Conductonaut Extreme liquid metal, this cutting-edge thermal design ensures your system stays cool and quiet, delivering sustained high-frame-rate gameplay."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "State-Of-The-Art ROG Intelligent Cooling: Maintain peak performance with ROG Intelligent Cooling. Equipped with an end-to-end vapor chamber, Tri-Fan technology, and Conductonaut Extreme liquid metal, this cutting-edge thermal design ensures your system stays cool and quiet, delivering sustained high-frame-rate gameplay. Expansive Storage: Dominate any game with Up to 64GB of blazing-fast DDR5 5600MHz RAM. Enjoy smooth gameplay, faster loading times, and seamless multitasking. Load games and projects instantly with Up to 8TB PCIe Gen 4 storage, delivering up to 7,000MB/s throughput and efficient cooling. Stay ahead with PCIe Gen 5-ready SSD slots, ensuring easy upgrades and future-proof performance. ROG Nebula Display: Immerse yourself in stunning visuals for gaming, content creation, and entertainment with the ultra-fast 18\" 2.5K 16:10 2560x1600 240Hz Nebula Display. Pantone validation guarantees professional-grade color accuracy with 100% DCI-P3 coverage, further enhanced by a new ACR film that boosts contrast and minimizes glare. Next-Gen Stunning Graphics: With the NVIDIA GeForce RTX 5080 16GB of GDDR7 Graphics video memory delivers stunning gaming performance. With features like DLSS 4, Ray Tracing, and Frame Generation, it ensures smooth gameplay and high frame rates. Advanced Optimus technology optimizes battery life and performance by dynamically switching between the iGPU and dGPU, keeping you ahead of the competition. Premium Performance: This ROG Strix G18 is powered by the Intel Ultra 9 275HX processor with 24 cores (8 Performance + 16 Efficient) and 24 total threads, boosting up to 5.4 GHz. This next-gen CPU excels in gaming and creative tasks with AI acceleration for faster rendering, offering unbeatable speed and performance, whether you're gaming, streaming, or editing.",
+    "top_reviews": [
+      {
+        "id": "R1E0CUURMVB0RL",
+        "title": "omg omg I love it",
+        "body": "I have had this lap top since may of this year best purchase I have made laptop wise I run path of titans, escape from tarkov, call of duty, starship troopers, elden ring, and mine craft without any problems Read more",
+        "asin": "B0F7XPKW88",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I have had this lap top since may of this year best purchase I have made laptop wise I run path of titans, escape from tarkov, call of duty, starship troopers, elden ring, and mine craft without any problems<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1E0CUURMVB0RL/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F7XPKW88",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on November 3, 2023",
+          "utc": "2023-11-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Frank quilla",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFDZWQ2DQX6QCNXVWUN2N5HME6DA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFDZWQ2DQX6QCNXVWUN2N5HME6DA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/c6b12f53-31e9-4c50-bc2f-776e61570cc7._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "64GB"
+          },
+          {
+            "Style": "64GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R3HE39V30O7FZD",
+        "title": "Black screen of death after 2 days of use",
+        "body": "The laptop itself is beefy and very good but after a few days of using it it just stopped showing a display screen and I had to return it I have no idea what happened but I hope it's all fixed when I get the new laptop  Edit:Laptop arrived and it's been a few moths since and it's been such a good buy that's why I gave four instead of 2 stars I highly recommend as it has great performance for a laptop and it's very smooth. Just for reference it can run ark survival evolved max settings at 100 fps average and peaking at 150fps Read more",
+        "asin": "B0F7XPKW88",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The laptop itself is beefy and very good but after a few days of using it it just stopped showing a display screen and I had to return it I have no idea what happened but I hope it&apos;s all fixed when I get the new laptop<br/><br/>Edit:Laptop arrived and it&apos;s been a few moths since and it&apos;s been such a good buy that&apos;s why I gave four instead of 2 stars I highly recommend as it has great performance for a laptop and it&apos;s very smooth. Just for reference it can run ark survival evolved max settings at 100 fps average and peaking at 150fps<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3HE39V30O7FZD/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F7XPKW88",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on August 9, 2023",
+          "utc": "2023-08-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "DereckJose",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGGIBT4UPQWSI6E6IAVGDBI6AE3A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGGIBT4UPQWSI6E6IAVGDBI6AE3A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Capacity": "64GB"
+          },
+          {
+            "Style": "64GB RAM"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 3,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "239.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "359.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "Only 3 left in stock - order soon.",
+        "dispatch_days": 1,
+        "stock_level": 3
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "FREE"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Amaze electronic (SN record)",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3SKNNVAD9QR6V&asin=B0F7XPKW88&ref_=dp_merchant_link",
+          "id": "A3SKNNVAD9QR6V"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 4699.99,
+        "currency": "USD",
+        "raw": "$4,699.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎18 Inches"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎2560x1600 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎5.4 GHz intel_core_ultra_9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎64 GB DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎5600 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎2 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 5080"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11.be"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎5"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎ASUS Laptop"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎ASUS Laptop"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎13.2 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎15.71 x 11.73 x 1.26 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎15.71 x 11.73 x 1.26 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Eclipse Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎24"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎64 GB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎USB 3.0"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Drive"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F7XPKW88"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         4 ratings          4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#44,441 in Computers & Accessories (See Top 100 in Computers & Accessories) #7,520 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "May 8, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "ASUS Laptop"
+      },
+      {
+        "name": "Screen Size",
+        "value": "18 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Eclipse Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "2 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core Ultra 9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "64 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "HD Audio, Anti Glare Coating"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: HD Audio, Anti Glare Coating. Operating System: Windows 11 Pro. Ram Memory Installed Size: 64 GB. CPU Model: Intel Core Ultra 9. Hard Disk Size: 2 TB. Color: Eclipse Gray. Screen Size: 18 Inches. Model Name: ASUS Laptop. Brand: ASUS. Date First Available: May 8, 2025. Best Sellers Rank: #44,441 in Computers & Accessories (See Top 100 in Computers & Accessories) #7,520 in Traditional Laptop Computers. Customer Reviews: 4.7    4.7 out of 5 stars         4 ratings          4.7 out of 5 stars. ASIN: B0F7XPKW88. Optical Drive Type: ‎No Drive. Hard Drive Interface: ‎USB 3.0. Flash Memory Size: ‎64 GB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎24. Processor Brand: ‎Intel. Color: ‎Eclipse Gray. Item Dimensions  LxWxH: ‎15.71 x 11.73 x 1.26 inches. Product Dimensions: ‎15.71 x 11.73 x 1.26 inches. Item Weight: ‎13.2 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎ASUS Laptop. Series: ‎ASUS Laptop. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎5. Wireless Type: ‎Bluetooth, 802.11.be. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 5080. Hard Drive: ‎2 TB SSD. Memory Speed: ‎5600 MHz. RAM: ‎64 GB DDR5. Processor: ‎5.4 GHz intel_core_ultra_9. Max Screen Resolution: ‎2560x1600 Pixels. Standing screen display size: ‎18 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 44441,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 7520,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Eclipse Gray",
+    "weight": "‎13.2 pounds",
+    "first_available": {
+      "raw": "May 8, 2025",
+      "utc": "2025-05-08T00:00:00.000Z"
+    },
+    "dimensions": "‎15.71 x 11.73 x 1.26 inches",
+    "model_number": "‎ASUS Laptop",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 44441, Category: Traditional Laptop Computers | Rank: 7520",
+    "whats_in_the_box": [
+      "Laptop, Accessories"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 5358.98,
+      "currency": "USD",
+      "raw": "$5,358.98"
+    },
+    "products": [
+      {
+        "asin": "B0F7XPKW88",
+        "title": "ASUS ROG Strix G18 (2025) Gaming Laptop, 18\" 2.5K 240Hz 16:10 Display Laptop, NVIDIA GeForce RTX 5080, Intel Core Ultra 9 275HX, 64GB DDR5 RAM, 2TB M.2 PCIe SSD, WiFi 7, Win11 Pro - Eclipse Gray",
+        "link": "https://www.amazon.com/dp/B0F7XPKW88",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61Tou3iWTEL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 4699.99,
+          "currency": "USD",
+          "raw": "$4,699.99"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,893 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5609,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0D9X2BZQ4",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:49:25.730Z",
+    "processed_at": "2025-05-20T01:49:30.908Z",
+    "total_time_taken": 5.18,
+    "amazon_url": "https://www.amazon.com/dp/B0D9X2BZQ4?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS Vivobook S 14 OLED Slim Laptop, AMD Ryzen AI 9 365(10 Cores), 24GB, 512GB SSD, Customizable RGB Keyboard, Neutral Black, M5406WA-DS76",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,Vivobook,S,14,OLED,Slim,Laptop,AMD,Ryzen,AI,9,365(10,Cores),24GB,512GB,SSD,Customizable,RGB,Keyboard,Neutral,Black,M5406WA-DS76",
+    "keywords_list": [
+      "ASUS",
+      "Vivobook",
+      "OLED",
+      "Slim",
+      "Laptop",
+      "Ryzen",
+      "365(10",
+      "Cores)",
+      "24GB",
+      "512GB",
+      "Customizable",
+      "Keyboard",
+      "Neutral",
+      "Black",
+      "M5406WA-DS76"
+    ],
+    "is_collection": false,
+    "asin": "B0D9X2BZQ4",
+    "parent_asin": "B0F1V246XR",
+    "link": "https://www.amazon.com/ASUS-Vivobook-Laptop-Neutral-M5406WA-DS76/dp/B0D9X2BZQ4",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07P97TNYX",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 189.99,
+          "currency": "USD",
+          "raw": "$189.99"
+        }
+      },
+      {
+        "asin": "B07P61JDGZ",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 120.99,
+          "currency": "USD",
+          "raw": "$120.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "Ryzen AI 9 | 24GB | 1TB",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "Ryzen AI 9 | 24GB | 1TB"
+          }
+        ],
+        "asin": "B0CX1GF3RF",
+        "link": "https://amazon.com/dp/B0CX1GF3RF?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "Ryzen AI 9 | 24GB | 512GB",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "Ryzen AI 9 | 24GB | 512GB"
+          }
+        ],
+        "asin": "B0D9X2BZQ4",
+        "link": "https://amazon.com/dp/B0D9X2BZQ4?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Ryzen 5 | 8G | 512GGB",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "Ryzen 5 | 8G | 512GGB"
+          }
+        ],
+        "asin": "B0C27Z6WFC",
+        "link": "https://amazon.com/dp/B0C27Z6WFC?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0CX1GF3RF,B0D9X2BZQ4,B0C27Z6WFC",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "The ASUS Vivobook S 14 transforms your laptop experience with cutting-edge technology and a sleek minimalist design. Powered by the AMD Ryzen 9 processor, it delivers top-notch performance with up to 45+ TOPS NPU, enhancing your productivity to the next level and unlocking brand new AI experiences. The dedicated Copilot key provides instant one-touch access to AI capabilities. With a slim profile, weighing 2.87 lbs, and up to a 75 Wh battery life, it’s designed for on-the-go convenience. The laptop boasts a stunning up to 3K ASUS Lumina OLED display, an ergonomic keyboard with RGB backlighting, an extra-large touchpad, and an ASUS AiSense camera. It’s your perfect companion for modern life.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/59bcb591-4be3-4328-9097-e80c9db72460.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/02389710-881F-4F25-89E8-F92DEEA14D5A",
+          "id": "02389710-881F-4F25-89E8-F92DEEA14D5A"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/59bcb591-4be3-4328-9097-e80c9db72460.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4295b1ff-0531-4cda-a73e-5098f1655132.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03ecc7bd-2796-4a1e-80b1-a2e9c4de5feb.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f2481e54-d1a2-4ac5-bb3c-af67f02f2d5f.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?is_byline_deeplink=true&deeplink=AE967108-8E4F-4CA4-8229-87D65CAD78E0&redirect_store_id=02389710-881F-4F25-89E8-F92DEEA14D5A&lp_asin=B0D9X2BZQ4&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "rating": 3.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 49,
+        "count": 11
+      },
+      "four_star": {
+        "percentage": 19,
+        "count": 4
+      },
+      "three_star": {
+        "percentage": 10,
+        "count": 2
+      },
+      "two_star": {
+        "percentage": 6,
+        "count": 1
+      },
+      "one_star": {
+        "percentage": 16,
+        "count": 3
+      }
+    },
+    "ratings_total": 23,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/61rZhYj6zhL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/61rZhYj6zhL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71Gat2lYd0L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81GvrzZateL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81mG58xgriL._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/711MOglhRoL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71iy+SirTdL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71aCTeSxyxL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71sGGq3n5LL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81AuLwAZtGL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/61rZhYj6zhL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71Gat2lYd0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81GvrzZateL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81mG58xgriL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/711MOglhRoL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71iy+SirTdL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71aCTeSxyxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71sGGq3n5LL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81AuLwAZtGL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 70,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1+GWfrGraL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/54555d29-3719-4feb-a6bd-c8abbe174a60/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Honest Review, ASUS Vivobook"
+      },
+      {
+        "duration_seconds": 87,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/510SEhuOrDL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7e12332-56bb-4983-84e9-7c49b45a2fac/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Vivobook INTEL CELERON N4500 PROCESSOR Review "
+      }
+    ],
+    "videos_count": 2,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/54555d29-3719-4feb-a6bd-c8abbe174a60/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7e12332-56bb-4983-84e9-7c49b45a2fac/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.01fe6a1512874333a4e8d29ae19d9fb5",
+        "product_asin": "B0D9X2BZQ4",
+        "parent_asin": "B0F1V246XR",
+        "related_products": "B0D9X2BZQ4,B0CXXX8D2K",
+        "title": "Honest Review, ASUS Vivobook",
+        "profile_image_url": "https://m.media-amazon.com/images/I/91a0EuYbbeL._CR0,0,2329,2329_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/alexa_mirza",
+        "public_name": "Review's by Alexa",
+        "creator_type": "Influencer",
+        "vendor_code": "alexa_mirza:shop",
+        "vendor_name": "Review's by Alexa",
+        "vendor_tracking_id": "onamzalexamir-20",
+        "video_image_id": "A1+GWfrGraL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1+GWfrGraL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1+GWfrGraL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74550871-3ede-4b8e-b6cd-b94ea614c7da/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/54555d29-3719-4feb-a6bd-c8abbe174a60/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/54555d29-3719-4feb-a6bd-c8abbe174a60/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/54555d29-3719-4feb-a6bd-c8abbe174a60/f103b046-4ef7-4860-be4c-672c447613aa/01fe6a1512874333a4e8d29ae19d9fb5_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:10",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/388223a6-582b-4324-a94c-f6f2a2aaa6c0.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.08d82677f1514bd79fead87b6b305bb9",
+        "product_asin": "B0D9X2BZQ4",
+        "parent_asin": "B0F1V246XR",
+        "related_products": "B0CRDCW3Q3,B0D9X2BZQ4,B081V6W99V,B0D26K77C9,B0CXXX8D2K",
+        "title": "Vivobook INTEL CELERON N4500 PROCESSOR Review ",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1tkf54eHeL._CR0,0,2256,2256_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/inspiredlifts",
+        "public_name": "Austin McCoo",
+        "creator_type": "Influencer",
+        "vendor_code": "inspiredlifts:shop",
+        "vendor_name": "Austin McCoo",
+        "vendor_tracking_id": "onamzququilla-20",
+        "video_image_id": "510SEhuOrDL",
+        "video_image_url": "https://m.media-amazon.com/images/I/510SEhuOrDL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/510SEhuOrDL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/23e44b89-8226-43f7-967c-eb32c325e9dd/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7e12332-56bb-4983-84e9-7c49b45a2fac/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7e12332-56bb-4983-84e9-7c49b45a2fac/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7e12332-56bb-4983-84e9-7c49b45a2fac/382a753f-c3c7-4731-8545-905e08a33420/08d82677f1514bd79fead87b6b305bb9_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:27",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d423c6da-5c39-486b-845a-284c7ec59af7.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "UNLEASH EFFORTLESS PERFORMANCE — Power through any task with Windows 11 Home, a blazing-fast AMD Ryzen 9 processor with a 45+ TOPS NPU,24GB of LPDDR5X RAM, and a spacious 512GB SSD",
+      "STUNNING, SMOOTH VISUALS — 14” 3K (2880 x 1800) 120Hz ASUS Lumina OLED display delivers extremely smooth and vivid visuals, with a taller 16:10 aspect ratio that allows you to see more. The OLED display offers an ultrafast 0.2ms response time, up to 600nits peak HDR brightness, and 100% DCI-P3 color gamut",
+      "SO SLIM, SO LIGHT — Incredibly portable at just 0.63” thin, and weighs only 2.87 lbs",
+      "CUSTOMIZABLE RGB KEYBOARD — With a single-zone RGB backlit keyboard, you can personalize backlight colors, modes, and brightness levels, while enjoying the ergonomic typing experience",
+      "EXTENSIVE CONNECTIVITY — 2x USB 3.2 Gen 1 Type-A, 1x USB 4.0 Gen 3 Type-C support display / power delivery 1x USB 3.2 Gen 1 Type-C support display / power delivery, Micro SD card reader, 1x HDMI 2.1 TMDS, 1x 3.5mm Combo Audio Jack"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "EXTENSIVE CONNECTIVITY — 2x USB 3.2 Gen 1 Type-A, 1x USB 4.0 Gen 3 Type-C support display / power delivery 1x USB 3.2 Gen 1 Type-C support display / power delivery, Micro SD card reader, 1x HDMI 2.1 TMDS, 1x 3.5mm Combo Audio Jack. CUSTOMIZABLE RGB KEYBOARD — With a single-zone RGB backlit keyboard, you can personalize backlight colors, modes, and brightness levels, while enjoying the ergonomic typing experience. SO SLIM, SO LIGHT — Incredibly portable at just 0.63” thin, and weighs only 2.87 lbs. STUNNING, SMOOTH VISUALS — 14” 3K (2880 x 1800) 120Hz ASUS Lumina OLED display delivers extremely smooth and vivid visuals, with a taller 16:10 aspect ratio that allows you to see more. The OLED display offers an ultrafast 0.2ms response time, up to 600nits peak HDR brightness, and 100% DCI-P3 color gamut. UNLEASH EFFORTLESS PERFORMANCE — Power through any task with Windows 11 Home, a blazing-fast AMD Ryzen 9 processor with a 45+ TOPS NPU,24GB of LPDDR5X RAM, and a spacious 512GB SSD.",
+    "top_reviews": [
+      {
+        "id": "R2BZNOT96JQBNN",
+        "title": "great laptop",
+        "body": "The laptop has a great display, it’s very lightweight for the performance, the intergrated gpu is way better than expected. I have installed linux on it though and every distro crashes randomly approx. once a day. If you want to install linux, I recommend waiting a few months for newer drivers. When trying to install windows, it requires some drivers, but no driver from the ASUS website works. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The laptop has a great display, it&#x2019;s very lightweight for the performance, the intergrated gpu is way better than expected.<br/>I have installed linux on it though and every distro crashes randomly approx. once a day.<br/>If you want to install linux, I recommend waiting a few months for newer drivers.<br/>When trying to install windows, it requires some drivers, but no driver from the ASUS website works.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2BZNOT96JQBNN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on December 16, 2024",
+          "utc": "2024-12-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "xscallcos",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGDHU4I3VDKMJYSQYTPQ4U4DNIHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGDHU4I3VDKMJYSQYTPQ4U4DNIHA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      },
+      {
+        "id": "R14LXP6ZSN7D9M",
+        "title": "Good allrounder",
+        "body": "Laptop perfomrs good , battery last about 10 hours on youtube and and office work , if you do some serius stufff then you will get closer to 6. enormus diference of performance when plugged in , also a 20% performance increase when over a laptop ventilation base. measured in cinebench R23 14.534 and speeds of 2.3mhz vs 16.308, and speed tops at 3.3. advertised speeds are single core and for short durations. screen is really awesome super nice , good colors and more than you need brightness over all it performs as espected. a couple of defects, Track pad not good at all finger get kind of sticky on it , not a good surface to slide fingers , any whay I always use a external mouse. finger print magnet , it gets dirty really quickly . there is a bit of a gap where you open the lid. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Laptop perfomrs good , battery last about 10 hours on youtube and and office work , if you do some serius stufff then you will get closer to 6.<br/>enormus diference of performance when plugged in , also a 20% performance increase when over a laptop ventilation base. measured in cinebench R23 14.534 and speeds of 2.3mhz vs 16.308, and speed tops at 3.3.<br/>advertised speeds are single core and for short durations.<br/>screen is really awesome super nice , good colors and more than you need brightness<br/>over all it performs as espected.<br/>a couple of defects, Track pad not good at all finger get kind of sticky on it , not a good surface to slide fingers , any whay I always use a external mouse.<br/>finger print magnet , it gets dirty really quickly .<br/>there is a bit of a gap where you open the lid.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R14LXP6ZSN7D9M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on February 13, 2025",
+          "utc": "2025-02-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kasem H.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4XCJ5ILAOUW74K4IVFTB4TNK2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4XCJ5ILAOUW74K4IVFTB4TNK2A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      },
+      {
+        "id": "R1J7T7ZPWFCTLA",
+        "title": "Perfect",
+        "body": "Just got the computer today . Took a while to set it up. This beauty is both light and fast . No touch screen, but very compact design and functional. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Just got the computer today . Took a while to set it up. This beauty is both light and fast .<br/>No touch screen, but very compact design and functional.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1J7T7ZPWFCTLA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on October 19, 2024",
+          "utc": "2024-10-19T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Kindle Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFQVHE6ZJB4O7TFOBZK2FZMPR72Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFQVHE6ZJB4O7TFOBZK2FZMPR72Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      },
+      {
+        "id": "R3VWTPZ08PAML9",
+        "title": "Incredible Found",
+        "body": "I've barely had this laptop two months, and it began crashing with a bsod several times a day. Now it doesn't even boot. Unsure if this is ASUS' problem or issues with the new AMD platform, but either way it sucks Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve barely had this laptop two months, and it began crashing with a bsod several times a day. Now it doesn&apos;t even boot. Unsure if this is ASUS&apos; problem or issues with the new AMD platform, but either way it sucks<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3VWTPZ08PAML9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on March 10, 2025",
+          "utc": "2025-03-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jordan Scango",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHBNBG2VOJRV4MWIZVCME7ECJHVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHBNBG2VOJRV4MWIZVCME7ECJHVA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      },
+      {
+        "id": "RET3FORQ2TPQ0",
+        "title": "WELL. . . .",
+        "body": "Do not expect to be able to read the keys in low light as the backlit keyboard works just fine as long as one has a flashlight to shine on it. Other than that, it is working fine, screen colors are good if not better than that, it was packaged well and it seems to be working well. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Do not expect to be able to read the keys in low light as the backlit keyboard works just fine as long as one has a flashlight to shine on it. Other than that, it is working fine, screen colors are good if not better than that, it was packaged well and it seems to be working well.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RET3FORQ2TPQ0/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 3,
+        "date": {
+          "raw": "Reviewed in the United States on March 3, 2025",
+          "utc": "2025-03-03T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "D. Kentner",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHAO3OA52DTPD3YG7ORP4YBY32TQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHAO3OA52DTPD3YG7ORP4YBY32TQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      },
+      {
+        "id": "RFNO99MMQB7LM",
+        "title": "Fantastic laptop i love it",
+        "body": "Quality as great. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Quality as great.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RFNO99MMQB7LM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 18, 2023",
+          "utc": "2023-08-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sanford jeff steiner",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEGB3FPOGX5YK25QOULZULEPPYDA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEGB3FPOGX5YK25QOULZULEPPYDA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen 5"
+          }
+        ]
+      },
+      {
+        "id": "RYDM83VTEG66D",
+        "title": "Nice in concept, but poor QA",
+        "body": "The laptop offers a decently powerful APU for standard office tasks and light gaming, while maintaining good battery life. Chassis feels nice, and on the lighter-weight size.  Unfortunately the QA is poor, leading me to return the laptop. I'm getting intermittent screen flickers after just a few weeks of use. Worse yet, the keyboard will periodically fail to register keystrokes, making typing even basic sentences painful. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The laptop offers a decently powerful APU for standard office tasks and light gaming, while maintaining good battery life. Chassis feels nice, and on the lighter-weight size.<br/><br/>Unfortunately the QA is poor, leading me to return the laptop. I&apos;m getting intermittent screen flickers after just a few weeks of use. Worse yet, the keyboard will periodically fail to register keystrokes, making typing even basic sentences painful.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RYDM83VTEG66D/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 2,
+        "date": {
+          "raw": "Reviewed in the United States on September 29, 2024",
+          "utc": "2024-09-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Michael Crawley",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHBYK4WDAVNJDUA3TIWBGARLV77Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHBYK4WDAVNJDUA3TIWBGARLV77Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      },
+      {
+        "id": "R367EY9YHAQJKW",
+        "title": "Good performance, questionable build quality.",
+        "body": "The hinges and bezels near them creaked slightly when I lifted the lid. The right side of the touchpad was wobbly and would sink a bit if I rested my finger on it without actually pressing. There were also HDR issues, such as flickering. The keyboard felt nice, but the advertised wallpaper and keyboard RGB sync option was missing in the latest Windows 11 Pro version. I encountered problems with the USB A ports when trying to connect my Samsung T7 SSD. On the positive side, the colors on the OLED screen looked amazing, and typing felt smooth. Overall performance was great, though it’s not a gaming machine. It’s ideal for work, media consumption, and similar tasks. Batter was also okay, but nothing mindblowing. Just be mindful of brightness levels and avoid leaving static images on the screen for extended periods in order to avoid OLED burn in.  P.S. I had to pay $205 USD to return it to Amazon and even though they promised to refund the return shipping costs to me in full due to it being a faulty device, they refunded less than promised, and that was after at least 15 conversations with different agents and hours spent explaining the issue over and over again. The last agent said he'd allow a refund of $150 USD as a sign of Amazon's good will, as if they hadn't promised to give me all of my money back. Read more",
+        "asin": "B0D9X2BZQ4",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The hinges and bezels near them creaked slightly when I lifted the lid. The right side of the touchpad was wobbly and would sink a bit if I rested my finger on it without actually pressing. There were also HDR issues, such as flickering. The keyboard felt nice, but the advertised wallpaper and keyboard RGB sync option was missing in the latest Windows 11 Pro version. I encountered problems with the USB A ports when trying to connect my Samsung T7 SSD. On the positive side, the colors on the OLED screen looked amazing, and typing felt smooth. Overall performance was great, though it&#x2019;s not a gaming machine. It&#x2019;s ideal for work, media consumption, and similar tasks. Batter was also okay, but nothing mindblowing. Just be mindful of brightness levels and avoid leaving static images on the screen for extended periods in order to avoid OLED burn in.<br/><br/>P.S. I had to pay $205 USD to return it to Amazon and even though they promised to refund the return shipping costs to me in full due to it being a faulty device, they refunded less than promised, and that was after at least 15 conversations with different agents and hours spent explaining the issue over and over again. The last agent said he&apos;d allow a refund of $150 USD as a sign of Amazon&apos;s good will, as if they hadn&apos;t promised to give me all of my money back.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R367EY9YHAQJKW/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0D9X2BZQ4",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on October 18, 2024",
+          "utc": "2024-10-18T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Stevan",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHUM47WDMLWQHDA2WM4RE7SILNYQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHUM47WDMLWQHDA2WM4RE7SILNYQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 10,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "Ryzen AI 9"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "secondary_buybox": {
+        "offer_id": "hOg7%2FRp7v%2BM%2FBY7AcftRHui59Uji8Z9R044LKkittSjgbYRoA0sdCwJeGV8WFBrcTcBnFLxi4%2FSRgZzRymTT9KOuBXCEm0sAYq2rNndk2f7LsqhrbZngo3aYcUgYfnn9KlNfMhoC5HvOhSpb%2BvJQ5jeOBVXkBO9LLJq9Lt67YdtXENaZDkKZIOtix7Op3K%2F4",
+        "caption": "Save with Used - Like New",
+        "availability": {
+          "raw": "Only 1 left in stock - order soon.",
+          "type": "in_stock"
+        },
+        "condition": {
+          "raw": "Save with Used - Like New",
+          "isNew": false
+        },
+        "price": {
+          "symbol": "$",
+          "value": 885.24,
+          "currency": "USD",
+          "raw": "$885.24"
+        },
+        "maximum_order_quantity": {
+          "value": 0
+        },
+        "ship_details": "Sold by Amazon Resale and Fulfilled by Amazon.",
+        "accept_free_return": true,
+        "fulfillment": {
+          "standard_delivery": {
+            "date": "Tuesday, May 27",
+            "name": "FREE"
+          },
+          "amazon_seller": {
+            "name": "Amazon Resale"
+          },
+          "is_sold_by_amazon": true,
+          "is_sold_by_third_party": false,
+          "fulfilled_by": "Fulfilled by Amazon",
+          "is_fulfilled_by_amazon": true,
+          "is_fulfilled_by_third_party": false,
+          "fulfillment_type": "p1"
+        }
+      },
+      "offer_id": "hOg7/Rp7v+M/BY7AcftRHui59Uji8Z9R044LKkittSjgbYRoA0sdCwJeGV8WFBrcTcBnFLxi4/SRgZzRymTT9KOuBXCEm0sAYq2rNndk2f7LsqhrbZngo3aYcUgYfnn9KlNfMhoC5HvOhSpb+vJQ5jeOBVXkBO9LLJq9Lt67YdtXENaZDkKZIOtix7Op3K/4",
+      "mixed_offers_count": 19,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "protection_plans": [
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "189.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "120.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 10 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 1094.99,
+        "currency": "USD",
+        "raw": "$1,094.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 1199.99,
+        "currency": "USD",
+        "raw": "$1,199.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎14 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎3840 x 2160 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎3840 x 2160 pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎5 GHz ryzen_9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎24 GB LPDDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11bgn"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎2"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎Vivobook S 14"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎M5406WA-DS76"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.5 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎12.22 x 0.55 x 8.74 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎12.22 x 0.55 x 8.74 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Neutral Black"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎10"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 SDRAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎512 GB"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎Battery Powered"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0D9X2BZQ4"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "3.7    3.7 out of 5 stars         23 ratings          3.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#17,677 in Computers & Accessories (See Top 100 in Computers & Accessories) #2,425 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "July 23, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "Vivobook S 14"
+      },
+      {
+        "name": "Screen Size",
+        "value": "14 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Neutral Black"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Ryzen 9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "24 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Integrated. Special Feature: Backlit Keyboard. Operating System: Windows 11 Home. Ram Memory Installed Size: 24 GB. CPU Model: Ryzen 9. Hard Disk Size: 512 GB. Color: Neutral Black. Screen Size: 14 Inches. Model Name: Vivobook S 14. Brand: ASUS. Date First Available: July 23, 2024. Best Sellers Rank: #17,677 in Computers & Accessories (See Top 100 in Computers & Accessories) #2,425 in Traditional Laptop Computers. Customer Reviews: 3.7    3.7 out of 5 stars         23 ratings          3.7 out of 5 stars. ASIN: B0D9X2BZQ4. Batteries: ‎1 Lithium Ion batteries required. (included). Power Source: ‎Battery Powered. Flash Memory Size: ‎512 GB. Computer Memory Type: ‎DDR5 SDRAM. Number of Processors: ‎10. Processor Brand: ‎AMD. Color: ‎Neutral Black. Item Dimensions  LxWxH: ‎12.22 x 0.55 x 8.74 inches. Product Dimensions: ‎12.22 x 0.55 x 8.74 inches. Item Weight: ‎4.5 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎M5406WA-DS76. Series: ‎Vivobook S 14. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎2. Wireless Type: ‎802.11bgn. Card Description: ‎Integrated. Chipset Brand: ‎AMD. Hard Drive: ‎512 GB SSD. RAM: ‎24 GB LPDDR5. Processor: ‎5 GHz ryzen_9. Max Screen Resolution: ‎3840 x 2160 pixels. Screen Resolution: ‎3840 x 2160 pixels. Standing screen display size: ‎14 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 17677,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 2425,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Neutral Black",
+    "weight": "‎4.5 pounds",
+    "first_available": {
+      "raw": "July 23, 2024",
+      "utc": "2024-07-23T00:00:00.000Z"
+    },
+    "dimensions": "‎12.22 x 0.55 x 8.74 inches",
+    "model_number": "‎M5406WA-DS76",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 17677, Category: Traditional Laptop Computers | Rank: 2425",
+    "whats_in_the_box": [
+      "M5406WA-DS76",
+      "Powercord &amp; Adapter",
+      "User Guide"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 2724.04,
+      "currency": "USD",
+      "raw": "$2,724.04"
+    },
+    "products": [
+      {
+        "asin": "B0D9X2BZQ4",
+        "title": "ASUS Vivobook S 14 OLED Slim Laptop, AMD Ryzen AI 9 365(10 Cores), 24GB, 512GB SSD, Customizable RGB Keyboard, Neutral Black, M5406WA-DS76",
+        "link": "https://www.amazon.com/dp/B0D9X2BZQ4",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61rZhYj6zhL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 768.5,
+          "currency": "USD",
+          "raw": "$768.50"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DZDC3WW5",
+    "link": "https://www.amazon.com/dp/B0DZDC3WW5/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=HFSXVVTSWD77WJQFJ1CX&pd_rd_wg=irtxp&pd_rd_i=B0DZDC3WW5&pd_rd_w=kegPr&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=4d06dca8-04a6-41f9-aa07-d8f4b8ed9020&psc=1",
+    "title": "Apple 2025 MacBook Air 13-inch Laptop with M4 chip: Built for Apple Intelligence, 13.6-inch Liquid Retina Display, 16GB Unified Memory, 256GB SSD Storage, 12MP Center Stage Camera, Touch ID; Sky Blue",
+    "rating": 5,
+    "ratings_total": 398,
+    "image": "https://m.media-amazon.com/images/I/712dp0yAydL._SS100_.jpg",
+    "is_prime": true
+  }
+}

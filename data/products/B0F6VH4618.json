@@ -1,0 +1,813 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5607,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F6VH4618",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:49:41.898Z",
+    "processed_at": "2025-05-20T01:49:48.584Z",
+    "total_time_taken": 6.69,
+    "amazon_url": "https://www.amazon.com/dp/B0F6VH4618?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS ROG Strix G18 (2025) Gaming Laptop, NVIDIA RTX 5080 16GB GDDR7, Intel Ultra 9 275HX(Up to 5.4GHz), 18\" 240Hz 2.5K Premium Rog Nebula Display, WiFi 7, 64 GB DDR5 RAM, 4 TB SSD, Windows 11 Pro",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,ROG,Strix,G18,(2025),Gaming,Laptop,NVIDIA,RTX,5080,16GB,GDDR7,Intel,Ultra,9,275HX(Up,to,5.4GHz),18\",240Hz,2.5K,Premium,Rog,Nebula,Display,WiFi,7,64,GB,DDR5,RAM,4,TB,SSD,Windows,11,Pro",
+    "keywords_list": [
+      "ASUS",
+      "Strix",
+      "(2025)",
+      "Gaming",
+      "Laptop",
+      "NVIDIA",
+      "5080",
+      "16GB",
+      "GDDR7",
+      "Intel",
+      "Ultra",
+      "275HX(Up",
+      "5.4GHz)",
+      "240Hz",
+      "2.5K",
+      "Premium",
+      "Nebula",
+      "Display",
+      "WiFi",
+      "DDR5",
+      "Windows"
+    ],
+    "is_collection": false,
+    "asin": "B0F6VH4618",
+    "parent_asin": "B0F8P653V8",
+    "link": "https://www.amazon.com/ASUS-Gaming-Premium-Display-Windows/dp/B0F6VH4618",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07P83ZYTG",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 239.99,
+          "currency": "USD",
+          "raw": "$239.99"
+        }
+      },
+      {
+        "asin": "B07PBD1PMP",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 359.99,
+          "currency": "USD",
+          "raw": "$359.99"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "64 GB DDR5 | 8 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB DDR5 | 8 TB SSD"
+          }
+        ],
+        "asin": "B0F6V6ZP37",
+        "link": "https://amazon.com/dp/B0F6V6ZP37?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64 GB DDR5 | 2 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB DDR5 | 2 TB SSD"
+          }
+        ],
+        "asin": "B0F6VGC7L2",
+        "link": "https://amazon.com/dp/B0F6VGC7L2?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "SSD 128 GB",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "SSD 128 GB"
+          }
+        ],
+        "asin": "B08H4YTTLP",
+        "link": "https://amazon.com/dp/B08H4YTTLP?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32 GB DDR5 | 2 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32 GB DDR5 | 2 TB SSD"
+          }
+        ],
+        "asin": "B0F6TN7SD9",
+        "link": "https://amazon.com/dp/B0F6TN7SD9?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "64 GB DDR5 | 4 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB DDR5 | 4 TB SSD"
+          }
+        ],
+        "asin": "B0F6VH4618",
+        "link": "https://amazon.com/dp/B0F6VH4618?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0F6V6ZP37,B0F6VGC7L2,B08H4YTTLP,B0F6TN7SD9,B0F6VH4618",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Statement: Original Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.\n\nGENERAL INFORMATION\n\nBrand: ASUS\n\nModel Number: G815LW-G18.U95080\n\nSeries: ASUS ROG Strix G18 Gaming Laptop 5080\n\nColor: Eclipse Gray\n\nOperating System: Windows 11 Pro\n\n\nPROCESSOR\n\nCPU: Intel Ultra 9 275HX\n\nNumber of Cores: 24\n\nNumber of Threads: 24\n\nBase Frequency: 2.7 GHz\n\nTurbo Frequency: 5.4 GHz\n\nCache: 36 MB Intel Smart Cache\n\nTotal L2 Cache: 40 MB\n\nIntel Deep Learning Boost (Intel DL Boost) on CPU: YES\n\nAI Software Frameworks Supported by CPU: OpenVINO, WindowsML, DirectML, ONNX RT, WebNN\n\nCPU Lithography: TSMC N3B\n\n\nGRAPHICS\n\nGraphics Type: Dedicated\n\nGPU: NVIDIA Geforce RTX 5080\n\nGraphics RAM: 16 GB GDDR7\n\nRay Tracing: YES\n\nNVIDIA DLSS: DLSS 4 (Deep Learning Super Sampling), Ray tracing\n\n\nDISPLAY\n\nDisplay Size: 18 inch\n\nResolution: ROG Nebula 2.5K, 2560 x 1600\n\nRefresh Rate: 240 Hz / 3ms, 16:10\n\nDisplay: G-SYNC (NVIDIA Adaptive Sync)\n\nDisplay Screen Type: Anti-Glare\n\nBrightness: 500 nits\n\nColor Gamut (Standard RGB): 100 percent\n\n\nMEMORY & STORAGE\n\nCapacity: Up to 64 GB DDR5\n\nStorage: Up to 4 TB SSD\n\n\nWIRELESS\n\nWi-Fi 7, 802.11be\n\nBluetooth 5.3\n\n\nFEATURES\n\nKeyboard: RGB Backlit\n\nCustomizable Case Lighting: YES\n\nAudio Technology: Hi-Res Audio with Dolby Atmos and Two-Way AI Noise Cancellation\n\nCamera: 1080p\n\nBuilt-In Microphone: YES\n\n\nPORTS\n\n1 x Thunderbolt 5 support DisplayPort\n\n1 x USB-C 4\n\n3 x USB-A 3.2\n\n1 x HDMI 2.1\n\n1 x RJ-45 LAN\n\n1 x Combination Audio Jack\n\n1 x Power connector\n\n\nPHYSICAL SPECIFICATIONS\n\nLength: 15.74 inches\n\nWidth: 11.77 inches\n\nHeight: 0.93 inches\n\nWeight: 7.54 lbs",
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?lp_asin=B0F6VH4618&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply $600 coupon",
+    "rating": 4.4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 71,
+        "count": 783
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 176
+      },
+      "three_star": {
+        "percentage": 6,
+        "count": 66
+      },
+      "two_star": {
+        "percentage": 3,
+        "count": 33
+      },
+      "one_star": {
+        "percentage": 4,
+        "count": 44
+      }
+    },
+    "ratings_total": 1103,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71SItZMZ3PL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71SItZMZ3PL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/618jwKpep-L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61MGEI3VbGL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/712OPcX-00L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710+npwOjPL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717PHNmJo0L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61WrmbzNOuL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61XVSaceslL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71kcV1uDxgL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/71SItZMZ3PL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/618jwKpep-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61MGEI3VbGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/712OPcX-00L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710+npwOjPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/717PHNmJo0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61WrmbzNOuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61XVSaceslL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71kcV1uDxgL._AC_SL1500_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Cutting-edge Nvidia Geforce RTX 5080 gaming Laptop GPU: Elevate your gaming experience with the RTX 5080 laptop GPU. Featuring a 16GB DDR7 graphic memory, Advanced Optimus support, and cutting-edge technologies like DLSS and Frame Generation, this powerful GPU delivers stunningly smooth performance and unparalleled frame rates.",
+      "Ultra-Fast Intel Ultra 9 275HX Processor: ASUS ROG Strix G18 gaming laptop is equipped with a 24-core Intel Ultra 9 275HX processor (up to 5.4GHz) to unleash peak performance. With a 65W TDP and a cutting-edge design featuring 8 Performance cores and 16 Efficient cores, this next-gen silicon delivers unmatched frame rates in esports and AAA titles. AI acceleration in select creative applications further boosts performance, enabling faster rendering and smoother workflows.",
+      "Stunning 18-inch 2.5K 240Hz Premium Rog Nebula Display: Immerse yourself in the ASUS ROG G18’s breathtaking 18\" 2.5K Nebula display (240Hz, 500 nits). Pantone validation guarantees professional-grade color accuracy with 100% DCI-P3 coverage, further enhanced by a new ACR film that boosts contrast and minimizes glare.",
+      "ROG Intelligent Cooling & Advanced Optimus: The ASUS ROG gaming laptop stays cool with vapor chamber cooling, Tri-Fan tech, and Conductonaut Extreme. Advanced Optimus and a MUX Switch seamlessly optimize performance and battery life, keeping your ASUS ROG Strix laptop at peak efficiency",
+      "Ample Storage Space: The ASUS ROG Strix G18 comes with 64 GB of DDR5 RAM, which provides fast and efficient multitasking capabilities. Additionally, it is equipped with 4 TB PCIe SSD, offering ample storage for your games, files, and applications."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Ample Storage Space: The ASUS ROG Strix G18 comes with 64 GB of DDR5 RAM, which provides fast and efficient multitasking capabilities. Additionally, it is equipped with 4 TB PCIe SSD, offering ample storage for your games, files, and applications. ROG Intelligent Cooling & Advanced Optimus: The ASUS ROG gaming laptop stays cool with vapor chamber cooling, Tri-Fan tech, and Conductonaut Extreme. Advanced Optimus and a MUX Switch seamlessly optimize performance and battery life, keeping your ASUS ROG Strix laptop at peak efficiency. Stunning 18-inch 2.5K 240Hz Premium Rog Nebula Display: Immerse yourself in the ASUS ROG G18’s breathtaking 18\" 2.5K Nebula display (240Hz, 500 nits). Pantone validation guarantees professional-grade color accuracy with 100% DCI-P3 coverage, further enhanced by a new ACR film that boosts contrast and minimizes glare. Ultra-Fast Intel Ultra 9 275HX Processor: ASUS ROG Strix G18 gaming laptop is equipped with a 24-core Intel Ultra 9 275HX processor (up to 5.4GHz) to unleash peak performance. With a 65W TDP and a cutting-edge design featuring 8 Performance cores and 16 Efficient cores, this next-gen silicon delivers unmatched frame rates in esports and AAA titles. AI acceleration in select creative applications further boosts performance, enabling faster rendering and smoother workflows. Cutting-edge Nvidia Geforce RTX 5080 gaming Laptop GPU: Elevate your gaming experience with the RTX 5080 laptop GPU. Featuring a 16GB DDR7 graphic memory, Advanced Optimus support, and cutting-edge technologies like DLSS and Frame Generation, this powerful GPU delivers stunningly smooth performance and unparalleled frame rates.",
+    "top_reviews": [
+      {
+        "id": "R2W19UZF6B3FFG",
+        "title": "Does totally what we wanted...",
+        "body": "Bought this laptop for my wife's bday. She does email, internet search & ordering of clothes, tennis shoes, etc. and plays solitaire & word games. We have also used it for Zoom Bible study. It does all of this perfectly. I don't see any problem with the display or speakers for these activities. We use a Bluetooth speaker for the Zoom meetings in order to hear the conversation better. I bought it with 4gb memory & 128gb drive but I may add 4gb or 8gb to the memory. A really neat feature is the micro SD card reader. I found out that an SD card can be configured as internal memory. If you have a little technical ability, the instructions can be found on the web & are not that difficult to follow. Micro SD cards are now available up to 1 TB so you can add much more internal memory without opening up the case. I added a 128 gb card & configured it as storage for the pictures, music & document system files. This leaves the 128 gb internal drive for programs which is plenty for us. This PC is plenty fast enough for quick start up, windows updates & internet searches. The keyboard has a nice, solid feel & the backlighting is nice & easily adjusted to 3 brightness settings & off. Keyboard is a bit compact to accommodate the numeric keys but certainly not a problem to get used to. The conversion to Windows 10 home edition was quite easy. The only down side is the internal camera. It's not HD, only VGA which is a headscratcher but not a game changer at all. I bought a USB, HD camera that clips on to the top for $13.50. We are totally pleased with this laptop. Asus was also the top rated brand for 2020 on laptopmag.com. Read more",
+        "asin": "B0F6VH4618",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Bought this laptop for my wife&apos;s bday. She does email, internet search &amp; ordering of clothes, tennis shoes, etc. and plays solitaire &amp; word games. We have also used it for Zoom Bible study. It does all of this perfectly. I don&apos;t see any problem with the display or speakers for these activities. We use a Bluetooth speaker for the Zoom meetings in order to hear the conversation better. I bought it with 4gb memory &amp; 128gb drive but I may add 4gb or 8gb to the memory. A really neat feature is the micro SD card reader. I found out that an SD card can be configured as internal memory. If you have a little technical ability, the instructions can be found on the web &amp; are not that difficult to follow. Micro SD cards are now available up to 1 TB so you can add much more internal memory without opening up the case. I added a 128 gb card &amp; configured it as storage for the pictures, music &amp; document system files. This leaves the 128 gb internal drive for programs which is plenty for us. This PC is plenty fast enough for quick start up, windows updates &amp; internet searches. The keyboard has a nice, solid feel &amp; the backlighting is nice &amp; easily adjusted to 3 brightness settings &amp; off. Keyboard is a bit compact to accommodate the numeric keys but certainly not a problem to get used to. The conversion to Windows 10 home edition was quite easy. The only down side is the internal camera. It&apos;s not HD, only VGA which is a headscratcher but not a game changer at all. I bought a USB, HD camera that clips on to the top for $13.50. We are totally pleased with this laptop. Asus was also the top rated brand for 2020 on laptopmag.com.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2W19UZF6B3FFG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6VH4618",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 22, 2021",
+          "utc": "2021-05-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Dave Maynard",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGLBDBQ53KJFYW634XMYHTCCNLRQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGLBDBQ53KJFYW634XMYHTCCNLRQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 18,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "R19MVJIRQ6PCUE",
+        "title": "Very pleased with this laptop, highly recommend to buy it",
+        "body": "I very rarely right reviews on anything, but felt I should on this one. Purchased this laptop here on amazon for less than $300. Showed up very quickly, and put it to use right away. I love all aspects of it. The backlight keyboard is nice, and love the number pad on the right side. Screen is nice and bright, and goes edge to edge. Laptop is very light to carry around. Starts up very fast, and is quick. I purchased a 16 gb stick of ram for less than $30 on ebay and installed it on this, giving it now 20k RAM which is nice. It was very easy to install, just by taking off the bottom panel. I use this laptop for email, social media, watching movies, etc. I would recommend for purchase Read more",
+        "asin": "B0F6VH4618",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I very rarely right reviews on anything, but felt I should on this one. Purchased this laptop here on amazon for less than $300. Showed up very quickly, and put it to use right away. I love all aspects of it. The backlight keyboard is nice, and love the number pad on the right side. Screen is nice and bright, and goes edge to edge. Laptop is very light to carry around. Starts up very fast, and is quick. I purchased a 16 gb stick of ram for less than $30 on ebay and installed it on this, giving it now 20k RAM which is nice. It was very easy to install, just by taking off the bottom panel. I use this laptop for email, social media, watching movies, etc. I would recommend for purchase<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R19MVJIRQ6PCUE/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6VH4618",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 9, 2023",
+          "utc": "2023-06-09T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sharon Nelson",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEA6VCAUX2GS4ICPYHOGDXUQTRUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEA6VCAUX2GS4ICPYHOGDXUQTRUA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "R3224QKN0OQ5HM",
+        "title": "Great Computer highly recommend adding a 8gb or 16gb memory dim!",
+        "body": "This was purchased as a birthday gift for my step father who is retired.  The computer comes with 4 gig of memory which did work okay. But an upgrade to 8 gig of ddr4, for crucial's website for 35.00 was a no brainer. My stepfather tom, a construction manager said the laptop had to be unscrewed. And then he installed the memory. He said the keyboard was a mini, I suggested he order a bluetooth keyboard and mouse, so he went W.M. and bought a set.( he lives in Jamestown, Tennessee, where the are not alot of retail places. With the keyboard and mouse, he has no problems with it. Highly recommended!  This is the memory that was ordered,,  Crucial RAM 8GB DDR4 2666 MHz CL19 Laptop Memory CT8G4SFRA266 https://www.amazon.com/dp/B08C56KXQJ/ref=cm_sw_r_cp_apan_glt_fabc_6QCF41HFDMK68ASQKR8N?_encoding=UTF8&psc=1 Read more",
+        "asin": "B0F6VH4618",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This was purchased as a birthday gift for my step father who is retired.<br/><br/>The computer comes with 4 gig of memory which did work okay. But an upgrade to 8 gig of ddr4, for crucial&apos;s website for 35.00 was a no brainer. My stepfather tom, a construction manager said the laptop had to be unscrewed. And then he installed the memory. He said the keyboard was a mini, I suggested he order a bluetooth keyboard and mouse, so he went W.M. and bought a set.( he lives in Jamestown, Tennessee, where the are not alot of retail places. With the keyboard and mouse, he has no problems with it. Highly recommended!<br/><br/>This is the memory that was ordered,,<br/><br/>Crucial RAM 8GB DDR4 2666 MHz CL19 Laptop Memory CT8G4SFRA266 https://www.amazon.com/dp/B08C56KXQJ/ref=cm_sw_r_cp_apan_glt_fabc_6QCF41HFDMK68ASQKR8N?_encoding=UTF8&amp;psc=1<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3224QKN0OQ5HM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6VH4618",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on October 29, 2021",
+          "utc": "2021-10-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Army vet",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEMRNAPGAGF3LLQEQAQK4VAGWQOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEMRNAPGAGF3LLQEQAQK4VAGWQOQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/ab0e8410-794d-41b5-8110-b18fe81fbcc8._CR0%2C0%2C499%2C499_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 8,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "R3NZ0U9F3SLASG",
+        "title": "Please ignore every review complaining about Windows S - it turns off in a few clicks",
+        "body": "This is my second VivoBook. My first one was ruined by my cat dumping coffee on it and it wasn't under warranty at the time. I replaced that in a pinch - like writing a graduate paper and ran to Walmart and bought a cheap HP to finish said paper pinch. The HP was terrible. I had to send it for repair twice during it's two year warranty because the top of the laptop would come apart from the bottom, and just after the warranty ended the same thing occurred for the third time. I decided to come back to ASUS as it was my favorite laptop.  The first one I ordered was slightly cheaper than this and had one of those weird numeric keys on the trackpad and it was a disaster, so I sent it back. I searched far back in my order history and realized it was a Vivobook I had originally and ruled it down to this one and one about $80 higher. I'm a serious review reader and literally the only negative thing I saw anyone saying (and a lot of folks were saying it) was don't buy this because it has Windows S and it is useless because of that.  What? Windows S can be disabled by a 7 year old child. That is no reason to hate on this laptop or any laptop. You are not going to find many PC's without S mode as a standard factory setting. If you don't know what this is, it was an update to Windows 10 that includes Microsoft's new enhanced security features. Yes, if left on, you can't add Chrome or anything non Microsoft app, but again it takes a few clicks to disable it. If you disable it, it's disabled forever basically. If you want it back on you have to pay Microsoft to get it back on. You won't want it back though because obviously you want to use Chrome. Just turn it off and forget it was ever there!  Anyway, onto the laptop itself. This is my first light up keypad and it's pretty cool. I never knew I was missing this feature. It's a full size keyboard and also has a number pad, which to me is pretty important, but not a deal breaker. Although I will never ever consider one of those trackpad numeric keypads again because they just come on at random and are actually stubborn to intentionally turn on or off. I did find this trackpad to be too sensitive at first, so I went into the settings and disabled two finger scrolling and that fixed the problem for me. Perhaps you like that feature, for me it just drags the screen size ever which way when I'm not meaning to.  The screen quality could be a little bit better, as could the sound, but they are exactly what I would expect them to be at this price point. Unfortunately a budget laptop was all I could afford right now. I really don't have any complaints about this laptop, and I am very picky to how keyboards feel. It might be worth noting I'm not a gamer or anything like that, nor do I stream much on my laptop because I have smart tv's for that. For a basic work or school laptop this is a great deal. I expect it to serve me well until I can afford to upgrade. Read more",
+        "asin": "B0F6VH4618",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is my second VivoBook. My first one was ruined by my cat dumping coffee on it and it wasn&apos;t under warranty at the time. I replaced that in a pinch - like writing a graduate paper and ran to Walmart and bought a cheap HP to finish said paper pinch. The HP was terrible. I had to send it for repair twice during it&apos;s two year warranty because the top of the laptop would come apart from the bottom, and just after the warranty ended the same thing occurred for the third time. I decided to come back to ASUS as it was my favorite laptop.<br/><br/>The first one I ordered was slightly cheaper than this and had one of those weird numeric keys on the trackpad and it was a disaster, so I sent it back. I searched far back in my order history and realized it was a Vivobook I had originally and ruled it down to this one and one about $80 higher. I&apos;m a serious review reader and literally the only negative thing I saw anyone saying (and a lot of folks were saying it) was don&apos;t buy this because it has Windows S and it is useless because of that.<br/><br/>What? Windows S can be disabled by a 7 year old child. That is no reason to hate on this laptop or any laptop. You are not going to find many PC&apos;s without S mode as a standard factory setting. If you don&apos;t know what this is, it was an update to Windows 10 that includes Microsoft&apos;s new enhanced security features. Yes, if left on, you can&apos;t add Chrome or anything non Microsoft app, but again it takes a few clicks to disable it. If you disable it, it&apos;s disabled forever basically. If you want it back on you have to pay Microsoft to get it back on. You won&apos;t want it back though because obviously you want to use Chrome. Just turn it off and forget it was ever there!<br/><br/>Anyway, onto the laptop itself. This is my first light up keypad and it&apos;s pretty cool. I never knew I was missing this feature. It&apos;s a full size keyboard and also has a number pad, which to me is pretty important, but not a deal breaker. Although I will never ever consider one of those trackpad numeric keypads again because they just come on at random and are actually stubborn to intentionally turn on or off. I did find this trackpad to be too sensitive at first, so I went into the settings and disabled two finger scrolling and that fixed the problem for me. Perhaps you like that feature, for me it just drags the screen size ever which way when I&apos;m not meaning to.<br/><br/>The screen quality could be a little bit better, as could the sound, but they are exactly what I would expect them to be at this price point. Unfortunately a budget laptop was all I could afford right now. I really don&apos;t have any complaints about this laptop, and I am very picky to how keyboards feel. It might be worth noting I&apos;m not a gamer or anything like that, nor do I stream much on my laptop because I have smart tv&apos;s for that. For a basic work or school laptop this is a great deal. I expect it to serve me well until I can afford to upgrade.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3NZ0U9F3SLASG/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6VH4618",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 16, 2021",
+          "utc": "2021-06-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Tara Elliott",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AELLF7PN5FDCQ4TQQ67HV7IGAMHA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AELLF7PN5FDCQ4TQQ67HV7IGAMHA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 149,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "RFELC74PIWZKK",
+        "title": "Not even one scratch!",
+        "body": "This ASUS laptop came in new condition & works fast & efficient. I’ve owned 2 older ASUS laptops and this will be my 3rd. I mainly use for college courses & research and they have never let me down. Happy with this purchase! Read more",
+        "asin": "B0F6VH4618",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This ASUS laptop came in new condition &amp; works fast &amp; efficient. I&#x2019;ve owned 2 older ASUS laptops and this will be my 3rd. I mainly use for college courses &amp; research and they have never let me down. Happy with this purchase!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RFELC74PIWZKK/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6VH4618",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 15, 2024",
+          "utc": "2024-08-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lindsey",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHOROXQFIYS3ALOHGWYLIMAPKYMA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHOROXQFIYS3ALOHGWYLIMAPKYMA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d29256cc-97e4-4b81-a9d7-f3489544ea6c._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "R1QUK78YNP7PPY",
+        "title": "Super",
+        "body": "Perfect Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Perfect<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on December 29, 2024",
+          "utc": "2024-12-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Besim Redjaj Deal Bau"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "RD7NWZ2KJIJOU",
+        "title": "Genial!",
+        "body": "La laptop la compré hace casi 2 meses a buen precio (Menos de 9k MXN) ,el rendimiento, calidad de materiales, la pantalla ips mano edge, el teclado retro iluminado,y todo en general han sido geniales. Yo decidí aumentarle las memoria ram de 4 a 12 agregando un módulo de 8 de 3200 (los 4 ya vienen soldadas) . Otro plus es que su ssd M.2 lo hace súper rápido independientemente por el tamaño que es de 120gb. El rendimiento es un detalle excepcional, con el procesador en conjunto con su tarjeta gráfica integrada sobrepasaron mis expectativas. El sonido también es genial y claro así Colin sus micrófonos que sombra buenos. El único pero que le pondría es que, al momento de querer agregar un HDD como almacenamiento masivo extra, no tiene el flex ni el conector sata para instalar el disco, yo esperaba que viniera en en la caja como refacción. De mientras ese disco lo estoy usando como externo por usb. Y su lectora de huellas es bueno siempre y y cuando el dedo esté muy muy limpio y nada de humedad o sudor. La cámara no es del todo buena pero sirve para lo que es. La recomiendo demasiado Asus F515JA Intel Core i3-10500g1 Gráficos: Intel UHD Graphics (Integrados) 4GB Ram a 3200MHz (yo expandí a 12GB ) Almacenamiento SSD M.2 de 128 GB Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">La laptop la compr&#xE9; hace casi 2 meses a buen precio (Menos de 9k MXN) ,el rendimiento, calidad de materiales, la pantalla ips mano edge, el teclado retro iluminado,y todo en general han sido geniales.<br/>Yo decid&#xED; aumentarle las memoria ram de 4 a 12 agregando un m&#xF3;dulo de 8 de 3200 (los 4 ya vienen soldadas) . Otro plus es que su ssd M.2 lo hace s&#xFA;per r&#xE1;pido independientemente por el tama&#xF1;o que es de 120gb. El rendimiento es un detalle excepcional, con el procesador en conjunto con su tarjeta gr&#xE1;fica integrada sobrepasaron mis expectativas. El sonido tambi&#xE9;n es genial y claro as&#xED; Colin sus micr&#xF3;fonos que sombra buenos.<br/>El &#xFA;nico pero que le pondr&#xED;a es que, al momento de querer agregar un HDD como almacenamiento masivo extra, no tiene el flex ni el conector sata para instalar el disco, yo esperaba que viniera en en la caja como refacci&#xF3;n. De mientras ese disco lo estoy usando como externo por usb. Y su lectora de huellas es bueno siempre y y cuando el dedo est&#xE9; muy muy limpio y nada de humedad o sudor. La c&#xE1;mara no es del todo buena pero sirve para lo que es.<br/>La recomiendo demasiado<br/>Asus F515JA<br/>Intel Core i3-10500g1<br/>Gr&#xE1;ficos: Intel UHD Graphics (Integrados)<br/>4GB Ram a 3200MHz (yo expand&#xED; a 12GB )<br/>Almacenamiento SSD M.2 de 128 GB<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 20, 2021",
+          "utc": "2021-04-20T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Edy C."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "R1WWOM7HLBDEHI",
+        "title": "Muy buena relación calidad-precio",
+        "body": "No obstante tiene poco espacio en disco duro y memoria RAM (solo 128 y 4 GB respectivamente) y el teclado está en inglés, la computadora ha superado mis expectativas; es muy rápida para encender, los trabajos de edición ligera son muy fluidos al igual que la carga de programas; la batería es modesta, pero cuando he trabajado desconectado de la corriente eléctrica, siempre he trabajado con ajuste que me permita mayor autonomía. En lo personal, la recomiendo para trabajo liviano y para estudiantes, la uso en conjunto con una memoria micro SD de 256 GB marca SEKC para tener mis archivos y expandir el espacio y trabajan perfecto en conjunto (hasta ahora); la computadora llegó antes del tiempo estimado de entrega; paradójicamente tardó más tiempo en el recorrido final (subcontratista) que el tiempo en aduanas. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">No obstante tiene poco espacio en disco duro y memoria RAM (solo 128 y 4 GB respectivamente) y el teclado est&#xE1; en ingl&#xE9;s, la computadora ha superado mis expectativas; es muy r&#xE1;pida para encender, los trabajos de edici&#xF3;n ligera son muy fluidos al igual que la carga de programas; la bater&#xED;a es modesta, pero cuando he trabajado desconectado de la corriente el&#xE9;ctrica, siempre he trabajado con ajuste que me permita mayor autonom&#xED;a. En lo personal, la recomiendo para trabajo liviano y para estudiantes, la uso en conjunto con una memoria micro SD de 256 GB marca SEKC para tener mis archivos y expandir el espacio y trabajan perfecto en conjunto (hasta ahora); la computadora lleg&#xF3; antes del tiempo estimado de entrega; parad&#xF3;jicamente tard&#xF3; m&#xE1;s tiempo en el recorrido final (subcontratista) que el tiempo en aduanas.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 5, 2021",
+          "utc": "2021-04-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Chihiro"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "RJ60V26DJYPZW",
+        "title": "Super",
+        "body": "Super Laptop sehr zufrieden Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Super Laptop sehr zufrieden<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Germany on May 7, 2021",
+          "utc": "2021-05-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Damiano Lione"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "de",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      },
+      {
+        "id": "R3952E3O6ZN8J3",
+        "title": "Equipo decente, para ofimática y multimedia.",
+        "body": "La verdad se ve decente un poco más de lo que esperaba. este equipo es para mí hermana para la universidad se usará básicamente para ofimática, conferencias, navegación, y un software de diseño básico. Las caracteristas si fueron correctas, ssd 120gb, 4gb 3200mhz, pantalla FHD 1080p, Windows home mode S, procesador i3 1005g1 (2 núcleos físicos/4 lógicos), teclado completo con bloque numérico.  Pros Cuenta con un slot más para aumentar más ram.  Contras El panel no parece IPS, pero se ve bastante bien, tengo una Asus TUF con panel IPS, si se nota la diferencia. Viene con Windows modo s, algo molesto para los que no tienen muchos conocimientos, pero fácilmente se puede cambiar a modo Home para uso normal. Llegó en 5 días desde Amazon US, pienso hacer una nueva reseña en un mes, ojalá le sirva a alguien. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">La verdad se ve decente un poco m&#xE1;s de lo que esperaba. este equipo es para m&#xED; hermana para la universidad se usar&#xE1; b&#xE1;sicamente para ofim&#xE1;tica, conferencias, navegaci&#xF3;n, y un software de dise&#xF1;o b&#xE1;sico.<br/>Las caracteristas si fueron correctas, ssd 120gb, 4gb 3200mhz, pantalla FHD 1080p, Windows home mode S, procesador i3 1005g1 (2 n&#xFA;cleos f&#xED;sicos/4 l&#xF3;gicos), teclado completo con bloque num&#xE9;rico.<br/><br/>Pros<br/>Cuenta con un slot m&#xE1;s para aumentar m&#xE1;s ram.<br/><br/>Contras<br/>El panel no parece IPS, pero se ve bastante bien, tengo una Asus TUF con panel IPS, si se nota la diferencia.<br/>Viene con Windows modo s, algo molesto para los que no tienen muchos conocimientos, pero f&#xE1;cilmente se puede cambiar a modo Home para uso normal.<br/>Lleg&#xF3; en 5 d&#xED;as desde Amazon US, pienso hacer una nueva rese&#xF1;a en un mes, ojal&#xE1; le sirva a alguien.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Mexico on March 6, 2021",
+          "utc": "2021-03-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "José Pablo."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "Style": "SSD 128 GB"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 25,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "239.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "359.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "May 23 - 28",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "May 22 - 23",
+          "name": "Or fastest delivery May 22 - 23. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Lucky Tech LLC (SN Recorded)",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3JPM3Q1OKJJPX&asin=B0F6VH4618&ref_=dp_merchant_link",
+          "id": "A3JPM3Q1OKJJPX"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 5599.99,
+        "currency": "USD",
+        "raw": "$5,599.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎18 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎2560 x 1600 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎2560x1600 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.7 GHz intel_core_ultra_9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎4 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 5080"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎16 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11.be"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎ASUS ROG Strix G18 Gaming Laptop 5080"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎G815LW-G18.U95080"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎7.54 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎15.74 x 0.93 x 11.77 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎15.74 x 0.93 x 11.77 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎24"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F6VH4618"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.4    4.4 out of 5 stars         1,103 ratings          4.4 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#9,676 in Computers & Accessories (See Top 100 in Computers & Accessories) #1,199 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 29, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "ASUS ROG Strix G18 Gaming Laptop 5080"
+      },
+      {
+        "name": "Screen Size",
+        "value": "18 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "4 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core Ultra 9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "64 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad. Operating System: Windows 11 Pro. Ram Memory Installed Size: 64 GB. CPU Model: Intel Core Ultra 9. Hard Disk Size: 4 TB. Color: Gray. Screen Size: 18 Inches. Model Name: ASUS ROG Strix G18 Gaming Laptop 5080. Brand: ASUS. Date First Available: April 29, 2025. Best Sellers Rank: #9,676 in Computers & Accessories (See Top 100 in Computers & Accessories) #1,199 in Traditional Laptop Computers. Customer Reviews: 4.4    4.4 out of 5 stars         1,103 ratings          4.4 out of 5 stars. ASIN: B0F6VH4618. Hard Drive Interface: ‎Solid State. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎24. Processor Brand: ‎Intel. Color: ‎Gray. Item Dimensions  LxWxH: ‎15.74 x 0.93 x 11.77 inches. Product Dimensions: ‎15.74 x 0.93 x 11.77 inches. Item Weight: ‎7.54 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎G815LW-G18.U95080. Series: ‎ASUS ROG Strix G18 Gaming Laptop 5080. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎Bluetooth, 802.11.be. Graphics Card Ram Size: ‎16 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 5080. Hard Drive: ‎4 TB SSD. RAM: ‎DDR5. Processor: ‎2.7 GHz intel_core_ultra_9. Max Screen Resolution: ‎2560x1600 Pixels. Screen Resolution: ‎2560 x 1600 pixels. Standing screen display size: ‎18 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 9676,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 1199,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Gray",
+    "weight": "‎7.54 pounds",
+    "first_available": {
+      "raw": "April 29, 2025",
+      "utc": "2025-04-29T00:00:00.000Z"
+    },
+    "dimensions": "‎15.74 x 0.93 x 11.77 inches",
+    "model_number": "‎G815LW-G18.U95080",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 9676, Category: Traditional Laptop Computers | Rank: 1199",
+    "whats_in_the_box": [
+      "ASUS ROG Strix 18 Gaming Laptop 5080",
+      "Accessories"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 6258.98,
+      "currency": "USD",
+      "raw": "$6,258.98"
+    },
+    "products": [
+      {
+        "asin": "B0F6VH4618",
+        "title": "ASUS ROG Strix G18 (2025) Gaming Laptop, NVIDIA RTX 5080 16GB GDDR7, Intel Ultra 9 275HX(Up to 5.4GHz), 18\" 240Hz 2.5K Premium Rog Nebula Display, WiFi 7, 64 GB DDR5 RAM, 4 TB SSD, Windows 11 Pro",
+        "link": "https://www.amazon.com/dp/B0F6VH4618",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71SItZMZ3PL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 5599.99,
+          "currency": "USD",
+          "raw": "$5,599.99"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1233 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5619,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CXVSRY56",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:47:28.030Z",
+    "processed_at": "2025-05-20T01:47:33.961Z",
+    "total_time_taken": 5.93,
+    "amazon_url": "https://www.amazon.com/dp/B0CXVSRY56?th=1&psc=1"
+  },
+  "product": {
+    "title": "Alienware M18 Gaming Laptop - 18-inch QHD+ 165Hz 3ms Display, Intel Core i7-14700HX, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 4070 8GB GDDR6, Windows 11 Home, Onsite Service - Dark Metallic Moon",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Alienware,M18,Gaming,Laptop,18-inch,QHD+,165Hz,3ms,Display,Intel,Core,i7-14700HX,16GB,DDR5,RAM,1TB,SSD,NVIDIA,GeForce,RTX,4070,8GB,GDDR6,Windows,11,Home,Onsite,Service,Dark,Metallic,Moon",
+    "keywords_list": [
+      "Alienware",
+      "Gaming",
+      "Laptop",
+      "18-inch",
+      "QHD+",
+      "165Hz",
+      "Display",
+      "Intel",
+      "Core",
+      "i7-14700HX",
+      "16GB",
+      "DDR5",
+      "NVIDIA",
+      "GeForce",
+      "4070",
+      "GDDR6",
+      "Windows",
+      "Home",
+      "Onsite",
+      "Service",
+      "Dark",
+      "Metallic",
+      "Moon"
+    ],
+    "is_collection": false,
+    "asin": "B0CXVSRY56",
+    "parent_asin": "B0D9MX8BZF",
+    "link": "https://www.amazon.com/Alienware-M18-Gaming-Laptop-i7-14700HX/dp/B0CXVSRY56",
+    "brand": "‎Alienware",
+    "protection_plans": [
+      {
+        "asin": "B07PBYRV3P",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 189.99,
+          "currency": "USD",
+          "raw": "$189.99"
+        }
+      },
+      {
+        "asin": "B07PBD89RB",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 279.99,
+          "currency": "USD",
+          "raw": "$279.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "Core i7-13700HX",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Core i7-13700HX"
+          }
+        ],
+        "asin": "B0CGT4F3K8",
+        "link": "https://amazon.com/dp/B0CGT4F3K8?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "Core i7-14700HX",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Core i7-14700HX"
+          }
+        ],
+        "asin": "B0CXVSRY56",
+        "link": "https://amazon.com/dp/B0CXVSRY56?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "Core i9-14900HX",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "Core i9-14900HX"
+          }
+        ],
+        "asin": "B0CWHGBWL6",
+        "link": "https://amazon.com/dp/B0CWHGBWL6?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "16 GB",
+        "dimensions": [
+          {
+            "name": "ramsize",
+            "value": "16 GB"
+          }
+        ],
+        "asin": "B0CXVSRY56",
+        "link": "https://amazon.com/dp/B0CXVSRY56?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32 GB",
+        "dimensions": [
+          {
+            "name": "ramsize",
+            "value": "32 GB"
+          }
+        ],
+        "asin": "B0CWHGBWL6",
+        "link": "https://amazon.com/dp/B0CWHGBWL6?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "RTX 4070",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "RTX 4070"
+          }
+        ],
+        "asin": "B0CXVSRY56",
+        "link": "https://amazon.com/dp/B0CXVSRY56?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "RTX 4080",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "RTX 4080"
+          }
+        ],
+        "asin": "B0CWHGBWL6",
+        "link": "https://amazon.com/dp/B0CWHGBWL6?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0CGT4F3K8,B0CXVSRY56,B0CWHGBWL6,B0CXVSRY56,B0CWHGBWL6,B0CXVSRY56,B0CWHGBWL6",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "STUN RIVALS. STAY IN AWE. Alienware m18 Gaming Laptop Play like a boss with a high-powered, 18-inch gaming laptop that features advanced cooling, 14th Generation Intel Corei7 14700HX processor and NVIDIA GeForce RTX 4070 8GB GDDR6 graphics. A more comfortable palm rest. A redesigned hinge. And updated perimeter feet. Those are but a few of the improvements that help make our Legend 3 design more premium, tactile and futuristic than ever.",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46f80eb8-f2d2-45e3-a315-838da57d9363.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "brand_store": {
+          "link": "/stores/page/C03AA9B5-1830-423F-BF8B-2BECF7FD2FEE",
+          "id": "C03AA9B5-1830-423F-BF8B-2BECF7FD2FEE"
+        },
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46f80eb8-f2d2-45e3-a315-838da57d9363.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c13cb5a3-b6d0-4173-967c-0908304ce345.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/062929a7-ed79-4a8f-853b-0ec388401b3a.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the Alienware Store",
+      "link": "https://www.amazon.com/stores/Alienware/page/C03AA9B5-1830-423F-BF8B-2BECF7FD2FEE?lp_asin=B0CXVSRY56&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 65,
+        "count": 97
+      },
+      "four_star": {
+        "percentage": 12,
+        "count": 18
+      },
+      "three_star": {
+        "percentage": 3,
+        "count": 4
+      },
+      "two_star": {
+        "percentage": 1,
+        "count": 1
+      },
+      "one_star": {
+        "percentage": 19,
+        "count": 28
+      }
+    },
+    "ratings_total": 150,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71NPZfhAi2L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71NPZfhAi2L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71NIzXE6WpL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81eYx1aGI0L._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81zJl+1bV3L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71nW3GsWrfL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/612qT3IAcBL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71dPp5oLteL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71ZIUYDT0EL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71w46n87hxL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71-hZgIyZrL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71uXw+C3-pL._AC_SL1500_.jpg",
+        "variant": "PT10"
+      }
+    ],
+    "images_count": 11,
+    "images_flat": "https://m.media-amazon.com/images/I/71NPZfhAi2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71NIzXE6WpL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81eYx1aGI0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81zJl+1bV3L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71nW3GsWrfL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/612qT3IAcBL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71dPp5oLteL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71ZIUYDT0EL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71w46n87hxL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71-hZgIyZrL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71uXw+C3-pL._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 132,
+        "width": 1029,
+        "height": 758,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1ZvKLLuwXL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fd8b218-dfca-413f-b2d2-031e1593cb72/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Things I wish I knew before buying this Alienware Laptop!"
+      },
+      {
+        "duration_seconds": 60,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51eGBN1Bi7L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5748e147-3e5a-4047-82f6-6e9721c0a504/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "NVIDIA GeForce RTX "
+      },
+      {
+        "duration_seconds": 38,
+        "width": 1080,
+        "height": 1918,
+        "thumbnail": "https://m.media-amazon.com/images/I/61x+0VtHnNL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d243eb31-284c-443a-8ce4-13eddb0d0aa2/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Short Review: Is the Alienware M18 R2 Even WORTH It?"
+      },
+      {
+        "duration_seconds": 33,
+        "width": 640,
+        "height": 1137,
+        "thumbnail": "https://m.media-amazon.com/images/I/61BufE2wk+L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89f7228c-a632-4849-b90d-9c2a9ace1464/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "WATCH BEFORE YOU BUY | Alienware M18 R2"
+      },
+      {
+        "duration_seconds": 15,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/61VNRg8TsqL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27884921-3e9c-4f38-a0ab-6425ac53f90d/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Be More Alien"
+      }
+    ],
+    "videos_count": 5,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fd8b218-dfca-413f-b2d2-031e1593cb72/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5748e147-3e5a-4047-82f6-6e9721c0a504/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d243eb31-284c-443a-8ce4-13eddb0d0aa2/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89f7228c-a632-4849-b90d-9c2a9ace1464/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27884921-3e9c-4f38-a0ab-6425ac53f90d/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0cc63b26173340308e9b368dec67db8a",
+        "product_asin": "B0CXVSRY56",
+        "parent_asin": "B0D9MX8BZF",
+        "related_products": "B0CWHGBWL6",
+        "title": "Things I wish I knew before buying this Alienware Laptop!",
+        "profile_image_url": "https://m.media-amazon.com/images/I/B1sV83m6X7L._CR116,232,1932,1932_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/karenknowles",
+        "public_name": "⭐ Authentic Insights with Karen⭐",
+        "creator_type": "Influencer",
+        "vendor_code": "karenknowles:shop",
+        "vendor_name": "⭐ Authentic Insights with Karen⭐",
+        "vendor_tracking_id": "onamzkarenkno-20",
+        "video_image_id": "A1ZvKLLuwXL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1ZvKLLuwXL._CR0,0,1029,581_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1ZvKLLuwXL.png",
+        "video_image_width": "1029",
+        "video_image_height": "758",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1081c443-f1a0-4242-9bd7-3493dddc7218/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fd8b218-dfca-413f-b2d2-031e1593cb72/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fd8b218-dfca-413f-b2d2-031e1593cb72/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2fd8b218-dfca-413f-b2d2-031e1593cb72/f1645998-5ca3-44fd-99ae-6bb7727a0833/0cc63b26173340308e9b368dec67db8a_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "2:12",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/d2c098af-0712-43e9-ac03-70dcc6421a76.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0e93d921893b438cbfde6c08fe371517",
+        "product_asin": "B0CXVSRY56",
+        "parent_asin": "B0D9MX8BZF",
+        "related_products": "B0CJGBMD42,B0CWHGBWL6,B0CXVSRY56",
+        "title": "NVIDIA GeForce RTX ",
+        "public_name": "Dell Marketing USA, LP",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Dell Marketing USA, LP",
+        "video_image_id": "51eGBN1Bi7L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51eGBN1Bi7L._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51eGBN1Bi7L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/56a8f174-053b-4c64-8f74-453f7fbe294c/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5748e147-3e5a-4047-82f6-6e9721c0a504/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5748e147-3e5a-4047-82f6-6e9721c0a504/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5748e147-3e5a-4047-82f6-6e9721c0a504/719ff744-88a1-4db2-913b-af6eaca57f5f/0e93d921893b438cbfde6c08fe371517_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/2801c6a5-dd74-4b8e-8878-e52b9aef242f.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0d21fa71edd3464b865f2ee893cb0529",
+        "product_asin": "B0CXVSRY56",
+        "parent_asin": "B0D9MX8BZF",
+        "related_products": "B0CWHGBWL6",
+        "title": "Short Review: Is the Alienware M18 R2 Even WORTH It?",
+        "profile_image_url": "https://m.media-amazon.com/images/I/71JeMr98sdL._CR0,0,703,703_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/hipnotyknick",
+        "public_name": "✅ Gadget Guru ✅",
+        "creator_type": "Influencer",
+        "vendor_code": "hipnotyknick:shop",
+        "vendor_name": "✅ Gadget Guru ✅",
+        "vendor_tracking_id": "onamznich0443-20",
+        "video_image_id": "61x+0VtHnNL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61x+0VtHnNL._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61x+0VtHnNL.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1918",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c9ed16f6-3311-475b-bf05-27cc6a460253/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d243eb31-284c-443a-8ce4-13eddb0d0aa2/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d243eb31-284c-443a-8ce4-13eddb0d0aa2/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d243eb31-284c-443a-8ce4-13eddb0d0aa2/2d58c466-4bbb-4977-8022-58f7053b640d/0d21fa71edd3464b865f2ee893cb0529_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:38",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/8b13d2c3-1ec2-4c9a-9fb9-4c1b538ba408.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.06b4ef2ebd684e7688bd68ef907a76f4",
+        "product_asin": "B0CXVSRY56",
+        "parent_asin": "B0D9MX8BZF",
+        "related_products": "B0CWHGBWL6",
+        "title": "WATCH BEFORE YOU BUY | Alienware M18 R2",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41SOZWix2kL._CR0,0,1075,1075_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/fyzotech",
+        "public_name": "Zelo",
+        "creator_type": "Influencer",
+        "vendor_code": "fyzotech:shop",
+        "vendor_name": "Zelo",
+        "vendor_tracking_id": "onamzethant01-20",
+        "video_image_id": "61BufE2wk+L",
+        "video_image_url": "https://m.media-amazon.com/images/I/61BufE2wk+L._CR0,0,640,361_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61BufE2wk+L.jpg",
+        "video_image_width": "640",
+        "video_image_height": "1137",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dd0c8567-5cf8-4986-ad11-fa1d9ad16848/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89f7228c-a632-4849-b90d-9c2a9ace1464/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89f7228c-a632-4849-b90d-9c2a9ace1464/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/89f7228c-a632-4849-b90d-9c2a9ace1464/c201d795-3147-4475-8563-a6704b61f327/06b4ef2ebd684e7688bd68ef907a76f4_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4ed21a51-ceed-4720-9ddb-8809a5252f5d.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.03996ef1a7474673812673761453de13",
+        "product_asin": "B0CXVSRY56",
+        "parent_asin": "B0D9MX8BZF",
+        "related_products": "B0D27BP8VN,B0D4RB564W,B0CXVSRY56,B0CWHGBWL6,B0D1KQTFT4",
+        "title": "Be More Alien",
+        "public_name": "Dell Marketing USA, LP",
+        "creator_type": "Vendor",
+        "vendor_code": "137GO",
+        "vendor_name": "Dell Marketing USA, LP",
+        "video_image_id": "61VNRg8TsqL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61VNRg8TsqL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61VNRg8TsqL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bb1ff3c9-fb32-4297-95bd-f5b87831ec97/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27884921-3e9c-4f38-a0ab-6425ac53f90d/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27884921-3e9c-4f38-a0ab-6425ac53f90d/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/27884921-3e9c-4f38-a0ab-6425ac53f90d/aa49ae6d-ece6-4cb4-b4cd-fc3b49d020a5/03996ef1a7474673812673761453de13_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "COMMANDING POWER & PRESENCE: Outplay your rivals and show them who's boss with overclockable 14th Gen Intel Core i7 14700HX processor and NVIDIA GeForce RTX 4070 8GB GDDR6 graphics.",
+      "UNCOMPROMISED PERFORMANCE: Our cooling technology helps maintain system stability, even during the most demanding sessions.",
+      "FEAST YOUR EYES: Never overlook your competition with our crystal-clear, 18-inch, 16:10 display with Dolby Vision in 165Hz QHD Display.",
+      "SUPERCHARGE YOUR PLAY: Get immersed in the game with breathtaking, awe-inspiring visuals — made possible with NVIDIA GeForce RTX 4070 8GB GDDR6 graphics.",
+      "KEY INTO SUPERIOR GAMING: Amp up your comfort and precision with a recessed keyboard, full NumPadand a 14% larger touchpad.Based on Dell analysis comparing to m17 R5, November 2022",
+      "Dell Servcies: 1 Year Onsite Service provides support when and where you need it. Dell will come to your home, office, or location of choice, if an issue covered by Limited Hardware Warranty cannot be resolved remotely."
+    ],
+    "feature_bullets_count": 6,
+    "feature_bullets_flat": "Dell Servcies: 1 Year Onsite Service provides support when and where you need it. Dell will come to your home, office, or location of choice, if an issue covered by Limited Hardware Warranty cannot be resolved remotely. KEY INTO SUPERIOR GAMING: Amp up your comfort and precision with a recessed keyboard, full NumPadand a 14% larger touchpad.Based on Dell analysis comparing to m17 R5, November 2022. SUPERCHARGE YOUR PLAY: Get immersed in the game with breathtaking, awe-inspiring visuals — made possible with NVIDIA GeForce RTX 4070 8GB GDDR6 graphics. FEAST YOUR EYES: Never overlook your competition with our crystal-clear, 18-inch, 16:10 display with Dolby Vision in 165Hz QHD Display. UNCOMPROMISED PERFORMANCE: Our cooling technology helps maintain system stability, even during the most demanding sessions. COMMANDING POWER & PRESENCE: Outplay your rivals and show them who's boss with overclockable 14th Gen Intel Core i7 14700HX processor and NVIDIA GeForce RTX 4070 8GB GDDR6 graphics.",
+    "top_reviews": [
+      {
+        "id": "R32472X1JBZB5X",
+        "title": "Best looking  and powefull laptop",
+        "body": "In my opinion, the best looking laptop. You can really feel all the power of the 4080, it can run almost any triple A game. The cooling system is amazing also when you are gaming you can feel the coolness in the fan area. The screen quality could be better for the price, i.e. maybe an OLED or at least 240 refresh rate. Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>In my opinion, the best looking laptop. You can really feel all the power of the 4080, it can run almost any triple A game. The cooling system is amazing also when you are gaming you can feel the coolness in the fan area. The screen quality could be better for the price, i.e. maybe an OLED or at least 240 refresh rate.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R32472X1JBZB5X/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 2, 2025",
+          "utc": "2025-05-02T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Anthony",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFSALJADS4FTRAK5CHKLSFRQ2UXQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFSALJADS4FTRAK5CHKLSFRQ2UXQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R27BF8P8RQR6MF",
+        "title": "Highly Under Rated Laptop!",
+        "body": "I've tried just about every name brand laptop in this category (gaming laptops) and this was the only one (Alienware) that I did not try. The reason I didn't try was because of all the not-so-great reviews and how the cons were just simply not 'acceptable' for 2024. After much trial and tribulation, I figured I had nothing left to lose except to not try this brand. Well low and behold! This laptop was PERFECT for me! I wanted a portable AND capable Beast and this fit the bill PERFECTLY! It maybe a little chunky for people who don't eat meat or work out, but for me it was a very acceptable compromise for what I was looking for in a laptop (a consistent gaming experience whether at home or abroad). It plays all my games at max settings without any problems at all. Others I've had always ended up throttling themselves (despite being 'higher spec'd' than this one) and either stuttered or over-heated to the point it would lock up or shut down. This laptop might get a little 'loud' but it never over heats, never shuts down, and to my surprise, never throttled, not even once. I bought a laptop backpack for this laptop here in Amazon (just look up backpacks for 18.4\" laptops). It works PERFECTLY for my needs. Tech Support is practically built right into this machine too. Most questions I had about anything was easily found with the included software packages. I have no regrets with this purchase and can easily recommend this to people who want a great laptop and a Beast without all the marketing and fluff (and failures) of the other 'Top Tier' or 'Higher Spec'd' laptops out there (looking at you ASUS and LENOVO). Oh wait, I do have one regret, and it's that I didn't get this sooner and let my own bias and the bias of other laptop 'Professional Reviewers' sway me away from this brand early on during my searches for the PERFECT laptop for ME. Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I&apos;ve tried just about every name brand laptop in this category (gaming laptops) and this was the only one (Alienware) that I did not try. The reason I didn&apos;t try was because of all the not-so-great reviews and how the cons were just simply not &apos;acceptable&apos; for 2024. After much trial and tribulation, I figured I had nothing left to lose except to not try this brand. Well low and behold! This laptop was PERFECT for me! I wanted a portable AND capable Beast and this fit the bill PERFECTLY! It maybe a little chunky for people who don&apos;t eat meat or work out, but for me it was a very acceptable compromise for what I was looking for in a laptop (a consistent gaming experience whether at home or abroad). It plays all my games at max settings without any problems at all. Others I&apos;ve had always ended up throttling themselves (despite being &apos;higher spec&apos;d&apos; than this one) and either stuttered or over-heated to the point it would lock up or shut down. This laptop might get a little &apos;loud&apos; but it never over heats, never shuts down, and to my surprise, never throttled, not even once. I bought a laptop backpack for this laptop here in Amazon (just look up backpacks for 18.4&quot; laptops). It works PERFECTLY for my needs. Tech Support is practically built right into this machine too. Most questions I had about anything was easily found with the included software packages. I have no regrets with this purchase and can easily recommend this to people who want a great laptop and a Beast without all the marketing and fluff (and failures) of the other &apos;Top Tier&apos; or &apos;Higher Spec&apos;d&apos; laptops out there (looking at you ASUS and LENOVO). Oh wait, I do have one regret, and it&apos;s that I didn&apos;t get this sooner and let my own bias and the bias of other laptop &apos;Professional Reviewers&apos; sway me away from this brand early on during my searches for the PERFECT laptop for ME.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R27BF8P8RQR6MF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on June 12, 2024",
+          "utc": "2024-06-12T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Θεός",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGQQKW5RXX67PJ5TFYI5ACO2CO5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGQQKW5RXX67PJ5TFYI5ACO2CO5A",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/2f62c2aa-1530-49b7-9a47-c513d676669a._CR28%2C0%2C444%2C444_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 43,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R17Y8EJTR053UM",
+        "title": "PLEASE READ THE NEGATIVE REVIEWS BEFORE PURCHASE - I REGRET IT...",
+        "body": "UPDATE- If I could give negative stars I would. After sending the device into customer service - no motherboard issue - instead they're claiming the LCD screen was cracked along with the palm rest and the back of laptop - consistent with a fall....ummm nope never dropped its super heavy and stays on a desk all day. Basically a scam - they want $350 to fix that stuff on a 6 month old laptop. I'm currently talking with customer service to see if someone DROPPED it upon after delivery - I cant possibly be responsible for damage during shipping as THEY PROVIDED SHIPPING LABEL and I'm assuming insurance. I regret purchasing the device and the customer service is HORRIBLE because NOTHING is wrong with the device they are making up issues to make money - AVOID AVOID AVOID AVOID....  READ THE REVIEWS - BELIEVE THE REPORTED ISSUES. I may have a motherboard issue after only a few months of use. I bought this laptop to play TWO games - both are web based and they worked perfectly for a while - then recently It stopped working on one of the games - and crashes IMMEDIATELY upon log in or shortly there after - I cant play the game on it at all. Ive updated game, cleared appdata, updated drivers, and even FACTORY RESET. NOT FIXED. Ive contacted the game - they cant find an issue on their end - I've contacted Microsoft - they cant find a problem - Ive contacted DELL they tried to help - I even paid the $99 for additional software support and after 3 hours they say I need to send it in bc its still w/in warranty. Im extremely disappointed because a friend TOLD ME NOT TO GET AN ALIENWARE LAPTOP but i didnt listen - hopefully sending it in fixes the issue or thats $3000 down the drain. Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>UPDATE- If I could give negative stars I would. After sending the device into customer service - no motherboard issue - instead they&apos;re claiming the LCD screen was cracked along with the palm rest and the back of laptop - consistent with a fall....ummm nope never dropped its super heavy and stays on a desk all day. Basically a scam - they want $350 to fix that stuff on a 6 month old laptop. I&apos;m currently talking with customer service to see if someone DROPPED it upon after delivery - I cant possibly be responsible for damage during shipping as THEY PROVIDED SHIPPING LABEL and I&apos;m assuming insurance. I regret purchasing the device and the customer service is HORRIBLE because NOTHING is wrong with the device they are making up issues to make money - AVOID AVOID AVOID AVOID....<br/><br/>READ THE REVIEWS - BELIEVE THE REPORTED ISSUES. I may have a motherboard issue after only a few months of use. I bought this laptop to play TWO games - both are web based and they worked perfectly for a while - then recently It stopped working on one of the games - and crashes IMMEDIATELY upon log in or shortly there after - I cant play the game on it at all. Ive updated game, cleared appdata, updated drivers, and even FACTORY RESET. NOT FIXED. Ive contacted the game - they cant find an issue on their end - I&apos;ve contacted Microsoft - they cant find a problem - Ive contacted DELL they tried to help - I even paid the $99 for additional software support and after 3 hours they say I need to send it in bc its still w/in warranty. Im extremely disappointed because a friend TOLD ME NOT TO GET AN ALIENWARE LAPTOP but i didnt listen - hopefully sending it in fixes the issue or thats $3000 down the drain.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R17Y8EJTR053UM/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on April 10, 2025",
+          "utc": "2025-04-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amazon Customer",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGV4KJWBSA5TIUPXKWTBOM3IVBOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGV4KJWBSA5TIUPXKWTBOM3IVBOQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 9,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R263K2NCPNFFB9",
+        "title": "Finally have this thing rock n rollin!!!",
+        "body": "I absolutely love this machine now...switched to 32gb of kingston fury impact ddr5 running at 6400 mt/s and it runs amazing. I have hyperthreading on. Everything is turned on and running stable. No more crashing on Diablo 4 fenris error...Even with DLSS and frame generation turned on. My first ever Intel machine and I love it despite the rocky start we got off to. Alienware has a great aesthetic and the build quality of their laptops are second to none. I just wish they could do better in the display department, 165hz is a bit slow for a system with a 4080, and the FHD 480hz resolution leaves a lot to be desired in the 18in model. I have the 360hz FHD display on my M15 R5 that has a 3070 gpu, and its great for the smaller screen, I would really like to have been able to get this one with a UHD 4k option, also sound card is lacking. Speakers are the exact same junk that they used on my smaller laptop, considering there are smaller form factor machines in this size that they have managed to stuff a subwoofer inside of, Alienware is still late to the party when it comes to gaming devices and I believe Dell being largely to blame as their niche has always been in the office segment. They really need to step it up in their display technology as well as audio delivery if they are ever going to be as nice as Razer and MSI laptops in my opinion. Granted, I would have had to spend another 1000 dollars to get a Razer Blade 18 with similar specs. Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I absolutely love this machine now...switched to 32gb of kingston fury impact ddr5 running at 6400 mt/s and it runs amazing. I have hyperthreading on. Everything is turned on and running stable. No more crashing on Diablo 4 fenris error...Even with DLSS and frame generation turned on. My first ever Intel machine and I love it despite the rocky start we got off to. Alienware has a great aesthetic and the build quality of their laptops are second to none. I just wish they could do better in the display department, 165hz is a bit slow for a system with a 4080, and the FHD 480hz resolution leaves a lot to be desired in the 18in model. I have the 360hz FHD display on my M15 R5 that has a 3070 gpu, and its great for the smaller screen, I would really like to have been able to get this one with a UHD 4k option, also sound card is lacking. Speakers are the exact same junk that they used on my smaller laptop, considering there are smaller form factor machines in this size that they have managed to stuff a subwoofer inside of, Alienware is still late to the party when it comes to gaming devices and I believe Dell being largely to blame as their niche has always been in the office segment. They really need to step it up in their display technology as well as audio delivery if they are ever going to be as nice as Razer and MSI laptops in my opinion. Granted, I would have had to spend another 1000 dollars to get a Razer Blade 18 with similar specs.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R263K2NCPNFFB9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on September 23, 2024",
+          "utc": "2024-09-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shaun Alt",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHXA3NHWIFTM6OPD6SKCZEO6V3YQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHXA3NHWIFTM6OPD6SKCZEO6V3YQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 19,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R2EP91D96G1I1B",
+        "title": "Great laptop marred by Alienware’s awful cooling solution.",
+        "body": "Fantastic laptop, but Alienware’s cooling solution CANNOT keep this I9 from hitting temps a little too high. I’ve defaulted to “quiet” mode and lowered my CPU’s power by about 20% now it’s much better temp wise and as far as gaming goes 0 performance lost that I can tell Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Fantastic laptop, but Alienware&#x2019;s cooling solution CANNOT keep this I9 from hitting temps a little too high. I&#x2019;ve defaulted to &#x201C;quiet&#x201D; mode and lowered my CPU&#x2019;s power by about 20% now it&#x2019;s much better temp wise and as far as gaming goes 0 performance lost that I can tell<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2EP91D96G1I1B/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on March 5, 2025",
+          "utc": "2025-03-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pen Name",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEDBB6SSHPMLVPLSTZJKXDDO5GJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEDBB6SSHPMLVPLSTZJKXDDO5GJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R1HGZ54KN4NOM4",
+        "title": "Great design, great quality.",
+        "body": "Works great! Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Works great!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1HGZ54KN4NOM4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 15, 2025",
+          "utc": "2025-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Brian Mcintosh",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEDGJ5WAKWXLODEKPQDK66KKRHPQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEDGJ5WAKWXLODEKPQDK66KKRHPQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/1444a0b2-fc72-4a00-9481-7cd08a00360c._CR62%2C0%2C375%2C375_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "RR1GD7VAO1BM2",
+        "title": "Exceptional performance. Ready for gaming",
+        "body": "Exceptional performance. Ready for gaming. I needed to upgrade the disk (1TB is not enough), and it was very easy. I doubled the memory too. In high performance mode the noise is uncomfortable. Read more",
+        "asin": "B0CXVSRY56",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Exceptional performance. Ready for gaming. I needed to upgrade the disk (1TB is not enough), and it was very easy. I doubled the memory too. In high performance mode the noise is uncomfortable.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RR1GD7VAO1BM2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CXVSRY56",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 15, 2025",
+          "utc": "2025-04-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ednei Rogério França",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE6JHMT4WRVWCGXDSGTPNCKC3YTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE6JHMT4WRVWCGXDSGTPNCKC3YTA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R3V8LQQ4CSEYTL",
+        "title": "It’s just great.",
+        "body": "I bought this laptop for work and coding. It is fast and has a lot of memory enough to do multiple tasks at once. I also installed a couple of games and it had no problem running them. Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this laptop for work and coding. It is fast and has a lot of memory enough to do multiple tasks at once. I also installed a couple of games and it had no problem running them.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Canada on December 15, 2024",
+          "utc": "2024-12-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Sina"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      },
+      {
+        "id": "R2MJOFYBMIK0HB",
+        "title": "High Quality but Disappointing",
+        "body": "Over the past two months, this is the third laptop I’ve purchased, and unfortunately, they either had hardware issues or didn’t match the advertised specs.  My last two purchases were Asus ROG Strix Scar models, and I can confidently say that Alienware offers much better build quality, keyboard, and lighting. Additionally, the fan noise is noticeably smoother and quieter compared to the Asus ROG 18 and Asus ROG 17 X3D.  The only major issue with this laptop is the screen, which has a leak problem, and that was truly disappointing.  Aside from the screen issue and the heavy weight (which is understandable given the premium build quality), this is a well-built and high-quality laptop. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Over the past two months, this is the third laptop I&#x2019;ve purchased, and unfortunately, they either had hardware issues or didn&#x2019;t match the advertised specs.<br/><br/>My last two purchases were Asus ROG Strix Scar models, and I can confidently say that Alienware offers much better build quality, keyboard, and lighting. Additionally, the fan noise is noticeably smoother and quieter compared to the Asus ROG 18 and Asus ROG 17 X3D.<br/><br/>The only major issue with this laptop is the screen, which has a leak problem, and that was truly disappointing.<br/><br/>Aside from the screen issue and the heavy weight (which is understandable given the premium build quality), this is a well-built and high-quality laptop.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in Canada on February 17, 2025",
+          "utc": "2025-02-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Shahram G."
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "ca",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "Core i9-14900HX"
+          },
+          {
+            "RAM Size": "32 GB"
+          },
+          {
+            "Capacity": "18.0 QHD+"
+          },
+          {
+            "Style": "RTX 4080"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "mixed_offers_count": 5,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "189.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "279.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Order within 3 hrs 12 mins. Join Prime"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 2223.26,
+        "currency": "USD",
+        "raw": "$2,223.26"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎18 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎2560 x 1600 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎2560x1600 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎5.5 GHz core_i7_family"
+      },
+      {
+        "name": "RAM",
+        "value": "‎16 GB DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎5600 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA® GeForce RTX™ 4070"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎8 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth"
+      },
+      {
+        "name": "Brand",
+        "value": "‎Alienware"
+      },
+      {
+        "name": "Series",
+        "value": "‎Alienware m18 r2 Laptop"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎AWM18R-7586BLK-PUS"
+      },
+      {
+        "name": "Hardware Platform",
+        "value": "‎PC"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎9.32 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎37.97 x 41.02 x 2.41 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎37.97 x 41.02 x 2.41 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Dark Metallic Moon"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎20"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎1 TB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎No Optical Drive"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎240 Volts (AC)"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CXVSRY56"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.0    4.0 out of 5 stars         150 ratings          4.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#17,948 in Computers & Accessories (See Top 100 in Computers & Accessories) #2,471 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "March 12, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "Alienware"
+      },
+      {
+        "name": "Model Name",
+        "value": "Alienware m18 r2 Laptop"
+      },
+      {
+        "name": "Screen Size",
+        "value": "18 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Dark Metallic Moon"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Core i7 Family"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "NVIDIA® GeForce RTX™ 4070"
+      }
+    ],
+    "specifications_flat": "Graphics Coprocessor: NVIDIA® GeForce RTX™ 4070. Graphics Card Description: Dedicated. Special Feature: Backlit Keyboard. Operating System: Windows 11 Home. Ram Memory Installed Size: 16 GB. CPU Model: Core i7 Family. Color: Dark Metallic Moon. Screen Size: 18 Inches. Model Name: Alienware m18 r2 Laptop. Brand: Alienware. Date First Available: March 12, 2024. Best Sellers Rank: #17,948 in Computers & Accessories (See Top 100 in Computers & Accessories) #2,471 in Traditional Laptop Computers. Customer Reviews: 4.0    4.0 out of 5 stars         150 ratings          4.0 out of 5 stars. ASIN: B0CXVSRY56. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎240 Volts (AC). Optical Drive Type: ‎No Optical Drive. Hard Drive Interface: ‎Solid State. Flash Memory Size: ‎1 TB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎20. Processor Brand: ‎Intel. Color: ‎Dark Metallic Moon. Item Dimensions  LxWxH: ‎37.97 x 41.02 x 2.41 inches. Product Dimensions: ‎37.97 x 41.02 x 2.41 inches. Item Weight: ‎9.32 pounds. Operating System: ‎Windows 11 Home. Hardware Platform: ‎PC. Item model number: ‎AWM18R-7586BLK-PUS. Series: ‎Alienware m18 r2 Laptop. Brand: ‎Alienware. Wireless Type: ‎Bluetooth. Graphics Card Ram Size: ‎8 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA® GeForce RTX™ 4070. Hard Drive: ‎SSD. Memory Speed: ‎5600 MHz. RAM: ‎16 GB DDR5. Processor: ‎5.5 GHz core_i7_family. Max Screen Resolution: ‎2560x1600 Pixels. Screen Resolution: ‎2560 x 1600 pixels. Standing screen display size: ‎18 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 17948,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 2471,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "platform": "‎PC",
+    "color": "‎Dark Metallic Moon",
+    "weight": "‎9.32 pounds",
+    "first_available": {
+      "raw": "March 12, 2024",
+      "utc": "2024-03-12T00:00:00.000Z"
+    },
+    "dimensions": "‎37.97 x 41.02 x 2.41 inches",
+    "model_number": "‎AWM18R-7586BLK-PUS",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 17948, Category: Traditional Laptop Computers | Rank: 2471",
+    "whats_in_the_box": [
+      "Alienware m18 R2 Notebook",
+      "280-Watt Adapter",
+      "Power Cord",
+      "Documentation"
+    ]
+  },
+  "brand_store": {
+    "id": "C03AA9B5-1830-423F-BF8B-2BECF7FD2FEE",
+    "link": "https://www.amazon.com/stores/Alienware/page/C03AA9B5-1830-423F-BF8B-2BECF7FD2FEE"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 2350.2,
+      "currency": "USD",
+      "raw": "$2,350.20"
+    },
+    "products": [
+      {
+        "asin": "B0CXVSRY56",
+        "title": "Alienware M18 Gaming Laptop - 18-inch QHD+ 165Hz 3ms Display, Intel Core i7-14700HX, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce RTX 4070 8GB GDDR6, Windows 11 Home, Onsite Service - Dark Metallic Moon",
+        "link": "https://www.amazon.com/dp/B0CXVSRY56",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71NPZfhAi2L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 2222.97,
+          "currency": "USD",
+          "raw": "$2,222.97"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0DLHDCN6P",
+    "link": "https://www.amazon.com/dp/B0DLHDCN6P/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=3LD0M&pd_rd_i=B0DLHDCN6P&pd_rd_w=kNLVd&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=03899e7c-9183-4c95-85f3-94eb5188eade&psc=1",
+    "title": "Apple 2024 MacBook Pro Laptop with M4 Pro, 14‑core CPU, 20‑core GPU: Built for Apple Intelligence, 16.2-inch Liquid Retina XDR Display, 24GB Unified Memory, 512GB SSD Storage; Space Black",
+    "rating": 4.5,
+    "ratings_total": 258,
+    "image": "https://m.media-amazon.com/images/I/61hw7aZWYSL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "ASUS ROG Strix G16 Gaming Laptop, 165Hz Display, NVIDIA® GeForce RTX™ 4060, Intel Core i7-13650HX, 16GB DDR5, 1TB PCIe Gen4 S",
+      "asin": "B0CRDCXRK2",
+      "link": "https://www.amazon.com/ASUS-Display-NVIDIA%C2%AE-i7-13650HX-G614JV-AS74/dp/B0CRDCXRK2/ref=pd_sbs_d_sccl_2_1/137-4025447-5162249?pd_rd_w=mmvMJ&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=mj1SV&pd_rd_r=82130cd9-b177-4066-a566-b7d2e2964e33&pd_rd_i=B0CRDCXRK2&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81GrCeuCzxL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 1901,
+      "price": {
+        "symbol": "$",
+        "value": 1244.78,
+        "currency": "USD",
+        "raw": "$1,244.78"
+      }
+    },
+    {
+      "title": "Alienware X16 R2 Gaming Laptop - 16-inch QHD+ 240Hz 3ms Display, Intel Core Ultra 9-185H, 32GB LPDDR5X RAM, 1TB SSD, NVIDIA G",
+      "asin": "B0D1KQBXP3",
+      "link": "https://www.amazon.com/Alienware-X16-R2-Gaming-Laptop/dp/B0D1KQBXP3/ref=pd_sbs_d_sccl_2_2/137-4025447-5162249?pd_rd_w=mmvMJ&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=mj1SV&pd_rd_r=82130cd9-b177-4066-a566-b7d2e2964e33&pd_rd_i=B0D1KQBXP3&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71H0tdnsumL._AC_UL165_SR165,165_.jpg",
+      "rating": 4,
+      "ratings_total": 35,
+      "price": {
+        "symbol": "$",
+        "value": 3092.99,
+        "currency": "USD",
+        "raw": "$3,092.99"
+      }
+    },
+    {
+      "title": "Dell Alienware m18 R2 Gaming Laptop, NVIDIA RTX 4090 16GB GDDR6, Intel i9 14900HX, 18\" 2K QHD+ (2560x1600) 165Hz 3ms, 32 GB D",
+      "asin": "B0DRYJZWPH",
+      "link": "https://www.amazon.com/Dell-Alienware-R2-2560x1600-Bluetooth/dp/B0DRYJZWPH/ref=pd_sbs_d_sccl_2_3/137-4025447-5162249?pd_rd_w=mmvMJ&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=mj1SV&pd_rd_r=82130cd9-b177-4066-a566-b7d2e2964e33&pd_rd_i=B0DRYJZWPH&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71MK7a9n7cL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.7,
+      "ratings_total": 22,
+      "price": {
+        "symbol": "$",
+        "value": 3999.99,
+        "currency": "USD",
+        "raw": "$3,999.99"
+      }
+    },
+    {
+      "title": "Alienware x14 R2 Gaming Laptop 14\" QHD+ 165Hz G-Sync, Intel Core i7-13620H, NVIDIA GeForce RTX 4060 8GB, 32GB RAM, 1TB SSD, W",
+      "asin": "B0D9H3D11V",
+      "link": "https://www.amazon.com/Alienware-i7-13620H-GeForce-Windows-Keyboard/dp/B0D9H3D11V/ref=pd_sbs_d_sccl_2_4/137-4025447-5162249?pd_rd_w=mmvMJ&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=mj1SV&pd_rd_r=82130cd9-b177-4066-a566-b7d2e2964e33&pd_rd_i=B0D9H3D11V&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71ZOtcuTxbL._AC_UL165_SR165,165_.jpg",
+      "rating": 3.7,
+      "ratings_total": 45,
+      "price": {
+        "symbol": "$",
+        "value": 1383.5,
+        "currency": "USD",
+        "raw": "$1,383.50"
+      }
+    },
+    {
+      "title": "Dell G16 7630 Gaming Laptop - 16-inch QHD+ 240Hz 3ms Display, Intel Core i9-13900HX, 16GB DDR5 RAM, 1TB SSD, NVIDIA GeForce R",
+      "asin": "B0D1KRP6SF",
+      "link": "https://www.amazon.com/Dell-G16-7630-Gaming-Laptop/dp/B0D1KRP6SF/ref=pd_sbs_d_sccl_2_5/137-4025447-5162249?pd_rd_w=mmvMJ&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=mj1SV&pd_rd_r=82130cd9-b177-4066-a566-b7d2e2964e33&pd_rd_i=B0D1KRP6SF&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71IV0S6EC8L._AC_UL165_SR165,165_.jpg",
+      "rating": 3.9,
+      "ratings_total": 155,
+      "price": {
+        "symbol": "$",
+        "value": 1399.95,
+        "currency": "USD",
+        "raw": "$1,399.95"
+      }
+    },
+    {
+      "title": "ASUS ROG Strix G18 G814 Gaming Laptop 18\" QHD 2560x1600 240Hz (100% DCI-P3) Intel 24-Core i9-13980HX 32GB RAM 1TB SSD GeForce",
+      "asin": "B0DF7HV94H",
+      "link": "https://www.amazon.com/ASUS-2560x1600-i9-13980HX-Thunderbolt-Accessory/dp/B0DF7HV94H/ref=pd_sbs_d_sccl_2_6/137-4025447-5162249?pd_rd_w=mmvMJ&content-id=amzn1.sym.ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_p=ad06c767-be16-47a3-89d3-049eb4254aa7&pf_rd_r=AYSG5423D65D9W2BQE21&pd_rd_wg=mj1SV&pd_rd_r=82130cd9-b177-4066-a566-b7d2e2964e33&pd_rd_i=B0DF7HV94H&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81LJFob-nXL._AC_UL165_SR165,165_.jpg",
+      "rating": 1,
+      "ratings_total": 1,
+      "price": {
+        "symbol": "$",
+        "value": 2329,
+        "currency": "USD",
+        "raw": "$2,329.00"
+      }
+    }
+  ]
+}

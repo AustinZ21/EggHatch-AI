@@ -1,0 +1,800 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5601,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F3CQ57YH",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:50:33.829Z",
+    "processed_at": "2025-05-20T01:50:39.295Z",
+    "total_time_taken": 5.47,
+    "amazon_url": "https://www.amazon.com/dp/B0F3CQ57YH?th=1&psc=1"
+  },
+  "product": {
+    "title": "2025 AMD Laptop, 16.0inch Laptop Computer with AMD Ryzen 7 5000 Series(8C/16T, Up to 4.3GHz), 16GB RAM 512GB NVMe SSD Windows 11 Laptop, Radeon RX Vega 8 Graphics,WiFi 6, Backlit KB,53Wh Battery,Gray",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "2025,AMD,Laptop,16.0inch,Laptop,Computer,with,AMD,Ryzen,7,5000,Series(8C/16T,Up,to,4.3GHz),16GB,RAM,512GB,NVMe,SSD,Windows,11,Laptop,Radeon,RX,Vega,8,Graphics,WiFi,6,Backlit,KB,53Wh,Battery,Gray",
+    "keywords_list": [
+      "2025",
+      "Laptop",
+      "16.0inch",
+      "Laptop",
+      "Computer",
+      "with",
+      "Ryzen",
+      "5000",
+      "Series(8C/16T",
+      "4.3GHz)",
+      "16GB",
+      "512GB",
+      "NVMe",
+      "Windows",
+      "Laptop",
+      "Radeon",
+      "Vega",
+      "Graphics",
+      "WiFi",
+      "Backlit",
+      "53Wh",
+      "Battery",
+      "Gray"
+    ],
+    "is_collection": false,
+    "asin": "B0F3CQ57YH",
+    "link": "https://www.amazon.com/16-0inch-Computer-Windows-Graphics-Backlit/dp/B0F3CQ57YH",
+    "brand": "‎KAIGERR",
+    "protection_plans": [
+      {
+        "asin": "B07P83ZDWM",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 63.99,
+          "currency": "USD",
+          "raw": "$63.99"
+        }
+      },
+      {
+        "asin": "B07PBD57MW",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 109.99,
+          "currency": "USD",
+          "raw": "$109.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": true,
+      "brand_story": {
+        "hero_image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c4d9d57c-6545-4ad5-b690-b19f38309ae0.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+        "images": [
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c4d9d57c-6545-4ad5-b690-b19f38309ae0.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5c21c667-a746-4796-88dc-0c249191d078.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/05ea19e0-3382-4bb9-82ef-0f4c137e24cf.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/374019c8-7e82-4ec8-93f7-363c428b45d7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+          "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4dfab277-5b21-4c89-b19d-354a4e5972c6.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ]
+      },
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the KAIGERR Store",
+      "link": "https://www.amazon.com/stores/Kaigerr/page/6031538A-5CD1-4F36-B9CB-79C4A1CB92A7?lp_asin=B0F3CQ57YH&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.8,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 84,
+        "count": 9
+      },
+      "four_star": {
+        "percentage": 16,
+        "count": 1
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 11,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71oW0a2K8+L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71oW0a2K8+L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71xKOJCCIyL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/715hD-mYhcL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71vnkdUwa2L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/7149o85mBfL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71sf9M41wWL._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71uVgfua36L._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71EPx0flu8L._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71MXZEtnAwL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/71oW0a2K8+L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71xKOJCCIyL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/715hD-mYhcL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71vnkdUwa2L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/7149o85mBfL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71sf9M41wWL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71uVgfua36L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71EPx0flu8L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71MXZEtnAwL._AC_SL1500_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "【Enhanced Your Experience】The KAIGERR 2025 TX16PRO newest laptop is equipped with the powerful AMD Ryzen 7 5000 Series processor (8C/16T, up to 4.3GHz), delivering superior performance and responsiveness. This upgraded hardware ensures smooth browse, fast loading times, and high-quality visuals. It provides an immersive, lag-free creative experience that brings your favorite titles to life.",
+      "【16.1\" High-Definition IPS Screen】With its wide color gamut and high refresh rate, this laptop delivers smoother visuals and sharper detail, offering a more vivid and accurate representation than standard displays. This enhanced clarity brings a stunning and immersive visual experience, making every scene more dynamic.",
+      "【Upgradeable Storage Capacity】This ryzen laptop computer comes with 16GB of DDR4 RAM and a 512GB M.2 NVMe SSD, ensuring faster response times and ample storage for your files. The dual-channel DDR4 memory can be upgraded to 64GB (2x32GB), while the NVMe/NGFF SSD supports expansion up to 2TB. With this level of upgradeability, you'll have more than enough space to store all your favorite videos/files and handle even the most demanding tasks with ease.",
+      "【Extensive & Premium Connectivity】Designed for ultra-fast running, KAIGERR AMD Ryzen 7 Laptop is equipped with webcam × 1, USB 3.2 × 2, HDMI × 1, Type_C (full function) × 1, 3.5mm audio/microphone × 1, TF card holder × 1, Type_C DC jack × 1. Enjoy higher speeds with Wi-Fi 6, compatible with the 802.11ax standard and up to 3x faster than Wi-Fi 5. Paired with the backlit keyboard, it helps you be more immersed in your world.",
+      "【KAIGERR: Quality Laptops, Exceptional Support.】Enjoy peace of mind with unlimited technical support and 12 months of repair for all customers, with our team always ready to help. If you have any questions or concerns, feel free to reach out to us—we’re here to help."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "【KAIGERR: Quality Laptops, Exceptional Support.】Enjoy peace of mind with unlimited technical support and 12 months of repair for all customers, with our team always ready to help. If you have any questions or concerns, feel free to reach out to us—we’re here to help. 【Extensive & Premium Connectivity】Designed for ultra-fast running, KAIGERR AMD Ryzen 7 Laptop is equipped with webcam × 1, USB 3.2 × 2, HDMI × 1, Type_C (full function) × 1, 3.5mm audio/microphone × 1, TF card holder × 1, Type_C DC jack × 1. Enjoy higher speeds with Wi-Fi 6, compatible with the 802.11ax standard and up to 3x faster than Wi-Fi 5. Paired with the backlit keyboard, it helps you be more immersed in your world. 【Upgradeable Storage Capacity】This ryzen laptop computer comes with 16GB of DDR4 RAM and a 512GB M.2 NVMe SSD, ensuring faster response times and ample storage for your files. The dual-channel DDR4 memory can be upgraded to 64GB (2x32GB), while the NVMe/NGFF SSD supports expansion up to 2TB. With this level of upgradeability, you'll have more than enough space to store all your favorite videos/files and handle even the most demanding tasks with ease. 【16.1\" High-Definition IPS Screen】With its wide color gamut and high refresh rate, this laptop delivers smoother visuals and sharper detail, offering a more vivid and accurate representation than standard displays. This enhanced clarity brings a stunning and immersive visual experience, making every scene more dynamic. 【Enhanced Your Experience】The KAIGERR 2025 TX16PRO newest laptop is equipped with the powerful AMD Ryzen 7 5000 Series processor (8C/16T, up to 4.3GHz), delivering superior performance and responsiveness. This upgraded hardware ensures smooth browse, fast loading times, and high-quality visuals. It provides an immersive, lag-free creative experience that brings your favorite titles to life.",
+    "top_reviews": [
+      {
+        "id": "R1QUSKM74OPC1M",
+        "title": "Good computer",
+        "body": "It is good computer for daily use. My son loves it when he plays games and he thinks the speed is much faster than his other laptops. Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>It is good computer for daily use. My son loves it when he plays games and he thinks the speed is much faster than his other laptops.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1QUSKM74OPC1M/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 15, 2025",
+          "utc": "2025-05-15T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jason",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGUVMCZRLPSU2TWDK6CU46REIZNA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGUVMCZRLPSU2TWDK6CU46REIZNA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/96f07ce4-1a1c-48d0-b72b-3a0c3918a95c._CR0%2C6%2C160%2C160_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3IELB4GBJDMKV",
+        "title": "Portable Notebook",
+        "body": "I recently bought this laptop. 16\" screen. Affordable price, very light, great specs, Windows 11 Pro. Great speakers. Excellent performance. Numeric keypad, webcam, metal body, great for work and play. 7.5 hours of battery life. I was worried it wouldn't run smoothly, but it exceeded my expectations. It runs very quietly, has multiple slots for fast wireless connections. Great screen quality, doesn't get too hot for long periods of use. I'll have my family buy one if needed. Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I recently bought this laptop. 16&quot; screen. Affordable price, very light, great specs, Windows 11 Pro. Great speakers. Excellent performance. Numeric keypad, webcam, metal body, great for work and play. 7.5 hours of battery life. I was worried it wouldn&apos;t run smoothly, but it exceeded my expectations. It runs very quietly, has multiple slots for fast wireless connections. Great screen quality, doesn&apos;t get too hot for long periods of use. I&apos;ll have my family buy one if needed.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3IELB4GBJDMKV/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 5, 2025",
+          "utc": "2025-05-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "chad",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGMBBD25A4OBUP74OPWYDT6U5RJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGMBBD25A4OBUP74OPWYDT6U5RJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "helpful_votes": 4,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2HIUJ5LVAL9PC",
+        "title": "Great purchase",
+        "body": "Working great so far. Fast. My old one was sooo slow Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Working great so far. Fast. My old one was sooo slow<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2HIUJ5LVAL9PC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 16, 2025",
+          "utc": "2025-05-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "KENT WARREN",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHH3YAA6QO2JYFRUGYRFUXFTJPBA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHH3YAA6QO2JYFRUGYRFUXFTJPBA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d6fe2504-fd33-4973-9c69-d367ad8d168b._CR0%2C0%2C375%2C375_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1BBDCTGN3XUYF",
+        "title": "Good for my son to take his visual class!",
+        "body": "I bought this computer for my son to have his visual math and reading class at home every night. And the quality is meet all my requirements, large screen, clear sound , flexible speed. Now my son could use it to learn something new maths he doesn’t know, with the help of this computer, my son become more and more like study maths! Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this computer for my son to have his visual math and reading class at home every night. And the quality is meet all my requirements, large screen, clear sound , flexible speed. Now my son could use it to learn something new maths he doesn&#x2019;t know, with the help of this computer, my son become more and more like study maths!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1BBDCTGN3XUYF/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 7, 2025",
+          "utc": "2025-05-07T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Anne Henderson",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFVHAAASRLBWXE3PK6OFZXURQVQQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFVHAAASRLBWXE3PK6OFZXURQVQQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2IE8NCSD1UM9J",
+        "title": "Budget, daily use laptop, not recommended for gaming",
+        "body": "Nice design, very good battery life. Would not recommend trying to play games, the games I tried were very laggy on the low settings. For daily use works great. Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Nice design, very good battery life. Would not recommend trying to play games, the games I tried were very laggy on the low settings. For daily use works great.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2IE8NCSD1UM9J/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 16, 2025",
+          "utc": "2025-05-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "jonathan castro",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEZQ235OJITPKWJFBKUFF3ONZG4A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEZQ235OJITPKWJFBKUFF3ONZG4A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R1AI4OROJCFUHT",
+        "title": "Vibrant and Sharp Display",
+        "body": "The 16.0\" IPS screen offers stunning visuals and smooth gameplay with vivid colors. Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The 16.0&quot; IPS screen offers stunning visuals and smooth gameplay with vivid colors.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1AI4OROJCFUHT/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 17, 2025",
+          "utc": "2025-04-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Nat Walter",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE4BFP57TCYKHZ5IDDX53MIZYP5A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE4BFP57TCYKHZ5IDDX53MIZYP5A"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R30LLVVP9MKRG6",
+        "title": "Excellent Gaming Performance",
+        "body": "The AMD Ryzen 7 processor delivers amazing speed, perfect for gaming without lag. Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The AMD Ryzen 7 processor delivers amazing speed, perfect for gaming without lag.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R30LLVVP9MKRG6/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 17, 2025",
+          "utc": "2025-04-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Marcus Robeson",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEHCMCTR7NBZAJKZURRE3NKP6SNA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEHCMCTR7NBZAJKZURRE3NKP6SNA"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3BKC5T1KILWLA",
+        "title": "Seamless Multitasking",
+        "body": "With 16GB RAM and 512GB SSD, multitasking is a breeze and games load faster. Read more",
+        "asin": "B0F3CQ57YH",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>With 16GB RAM and 512GB SSD, multitasking is a breeze and games load faster.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3BKC5T1KILWLA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F3CQ57YH",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 17, 2025",
+          "utc": "2025-04-17T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Lucien William",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFOZYLOA5SYKZ5S3YYDDCAPWCPUA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFOZYLOA5SYKZ5S3YYDDCAPWCPUA"
+        },
+        "vine_program": false,
+        "verified_purchase": false,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "us",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "new_offers_count": 4,
+      "new_offers_from": {
+        "raw": "New"
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "63.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "109.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Thursday, May 22",
+          "name": "Or Prime members get FREE delivery Thursday, May 22. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "KAIGE Electronics",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1MC88JV5KULP5&asin=B0F3CQ57YH&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A1MC88JV5KULP5"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 474.99,
+        "currency": "USD",
+        "raw": "$474.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 499.99,
+        "currency": "USD",
+        "raw": "$499.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎16 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎4.3 GHz amd_ryzen_7"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR4"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB M.2 2280 SSD"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎16 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎802.11a/b/g/n/ac"
+      },
+      {
+        "name": "Number of USB 2.0 Ports",
+        "value": "‎1"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎2"
+      },
+      {
+        "name": "Brand",
+        "value": "‎KAIGERR"
+      },
+      {
+        "name": "Series",
+        "value": "‎TX16PRO"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎TX16PRO"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎3.85 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.07 x 9 x 0.66 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.07 x 9 x 0.66 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎AMD"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎8"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR4 SDRAM"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Serial ATA-600"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎/"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F3CQ57YH"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.8    4.8 out of 5 stars         11 ratings          4.8 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#1,235 in Computers & Accessories (See Top 100 in Computers & Accessories) #148 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 16, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "KAIGERR"
+      },
+      {
+        "name": "Model Name",
+        "value": "TX16PRO"
+      },
+      {
+        "name": "Screen Size",
+        "value": "16 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "AMD Ryzen 7"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Lightweight, Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Integrated. Special Feature: Lightweight, Backlit Keyboard. Operating System: Windows 11. Ram Memory Installed Size: 16 GB. CPU Model: AMD Ryzen 7. Hard Disk Size: 512 GB. Color: Gray. Screen Size: 16 Inches. Model Name: TX16PRO. Brand: KAIGERR. Date First Available: April 16, 2025. Best Sellers Rank: #1,235 in Computers & Accessories (See Top 100 in Computers & Accessories) #148 in Traditional Laptop Computers. Customer Reviews: 4.8    4.8 out of 5 stars         11 ratings          4.8 out of 5 stars. ASIN: B0F3CQ57YH. Batteries: ‎1 Lithium Ion batteries required. (included). Optical Drive Type: ‎/. Hard Drive Interface: ‎Serial ATA-600. Computer Memory Type: ‎DDR4 SDRAM. Number of Processors: ‎8. Processor Brand: ‎AMD. Color: ‎Gray. Item Dimensions  LxWxH: ‎14.07 x 9 x 0.66 inches. Product Dimensions: ‎14.07 x 9 x 0.66 inches. Item Weight: ‎3.85 pounds. Operating System: ‎Windows 11. Item model number: ‎TX16PRO. Series: ‎TX16PRO. Brand: ‎KAIGERR. Number of USB 3.0 Ports: ‎2. Number of USB 2.0 Ports: ‎1. Wireless Type: ‎802.11a/b/g/n/ac. Graphics Card Ram Size: ‎16 GB. Card Description: ‎Integrated. Chipset Brand: ‎AMD. Hard Drive: ‎512 GB M.2 2280 SSD. RAM: ‎DDR4. Processor: ‎4.3 GHz amd_ryzen_7. Max Screen Resolution: ‎1920x1080 Pixels. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎16 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 1235,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 148,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Gray",
+    "weight": "‎3.85 pounds",
+    "first_available": {
+      "raw": "April 16, 2025",
+      "utc": "2025-04-16T00:00:00.000Z"
+    },
+    "dimensions": "‎14.07 x 9 x 0.66 inches",
+    "model_number": "‎TX16PRO",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 1235, Category: Traditional Laptop Computers | Rank: 148",
+    "whats_in_the_box": [
+      "1 &#xD7; AX16PRO Laptop 16GB+512GB",
+      "1 &#xD7; Power Adapter",
+      "1 &#xD7; User Manuel"
+    ]
+  },
+  "brand_store": {
+    "id": "6031538A-5CD1-4F36-B9CB-79C4A1CB92A7",
+    "link": "https://www.amazon.com/stores/Kaigerr/page/6031538A-5CD1-4F36-B9CB-79C4A1CB92A7"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 542.97,
+      "currency": "USD",
+      "raw": "$542.97"
+    },
+    "products": [
+      {
+        "asin": "B0F3CQ57YH",
+        "title": "2025 AMD Laptop, 16.0inch Laptop Computer with AMD Ryzen 7 5000 Series(8C/16T, Up to 4.3GHz), 16GB RAM 512GB NVMe SSD Windows 11 Laptop, Radeon RX Vega 8 Graphics,WiFi 6, Backlit KB,53Wh Battery,Gray",
+        "link": "https://www.amazon.com/dp/B0F3CQ57YH",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71oW0a2K8+L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 474.99,
+          "currency": "USD",
+          "raw": "$474.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0D1KS5VX9",
+    "link": "https://www.amazon.com/dp/B0D1KS5VX9/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=873Q41WR3H3NQYGNNG7Y&pd_rd_wg=64jjG&pd_rd_i=B0D1KS5VX9&pd_rd_w=eBIpD&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=bbe10898-1529-4daf-afdb-109c8ff3f4c1&psc=1",
+    "title": "Dell Inspiron 3530 Laptop - 15.6-inch FHD 120Hz Display, Intel Core i5-1334U Processor, 16GB DDR4 RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home, Migrate Services - Platinum Silver (Aluminum)",
+    "rating": 4.5,
+    "ratings_total": 91,
+    "image": "https://m.media-amazon.com/images/I/71xXnuKlO8L._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Naclud Windows 11 Laptops, 17.3 Inch Laptop Computer with Core i3 Processor, 4GB DDR3 128GB SSD, 60800mWh Battery, FHD IPS Di",
+      "asin": "B0F29JT9V6",
+      "link": "https://www.amazon.com/Naclud-Windows-Computer-Processor-60800mWh/dp/B0F29JT9V6/ref=pd_sim_d_sccl_2_1/145-8940993-5037859?pd_rd_w=wSSZj&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=873Q41WR3H3NQYGNNG7Y&pd_rd_wg=rbvMV&pd_rd_r=bee4ebc7-7d30-4646-a38a-0232094ca71c&pd_rd_i=B0F29JT9V6&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71nTyCvso5L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 77,
+      "price": {
+        "symbol": "$",
+        "value": 229.99,
+        "currency": "USD",
+        "raw": "$229.99"
+      }
+    },
+    {
+      "title": "Wireless Earbuds, 2025 Bluetooth 5.4 Headphones in Ear Buds 3D Bass Stereo, 40H Ultralight Bluetooth Earbuds with 4 ENC Noise",
+      "asin": "B0F3CXX7MR",
+      "link": "https://www.amazon.com/Bluetooth-Headphones-Ultralight-Cancelling-Waterproof/dp/B0F3CXX7MR/ref=pd_sim_d_sccl_2_2/145-8940993-5037859?pd_rd_w=wSSZj&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=873Q41WR3H3NQYGNNG7Y&pd_rd_wg=rbvMV&pd_rd_r=bee4ebc7-7d30-4646-a38a-0232094ca71c&pd_rd_i=B0F3CXX7MR&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81HUlNtRIZL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 300,
+      "price": {
+        "symbol": "$",
+        "value": 21.99,
+        "currency": "USD",
+        "raw": "$21.99"
+      }
+    },
+    {
+      "title": "ACEMAGIC Vista V1 N97 Mini PC,16GB DDR4 RAM 512GB SSD Mini Computer,12th Gen N97(Beat N150/N100/N95,up to 3.6GHz),Small Deskt",
+      "asin": "B0DKWGXJYP",
+      "link": "https://www.amazon.com/ACEMAGIC-V1-Computer-Preinstalled-Win11Pro/dp/B0DKWGXJYP/ref=pd_sim_d_sccl_2_3/145-8940993-5037859?pd_rd_w=wSSZj&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=873Q41WR3H3NQYGNNG7Y&pd_rd_wg=rbvMV&pd_rd_r=bee4ebc7-7d30-4646-a38a-0232094ca71c&pd_rd_i=B0DKWGXJYP&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/614IwsopiYL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.8,
+      "ratings_total": 158,
+      "price": {
+        "symbol": "$",
+        "value": 159,
+        "currency": "USD",
+        "raw": "$159.00"
+      }
+    },
+    {
+      "title": "ACEMAGIC Mini PC Vista V1,Twin Lake N150(3.6GHz) 8GB DDR4 RAM 256GB M.2 SSD Mini Desktop Computer(Beat N100/N95) Micro PC,Sma",
+      "asin": "B0DRV3G7G1",
+      "link": "https://www.amazon.com/ACEMAGIC-V1-Desktop-Computer-Business/dp/B0DRV3G7G1/ref=pd_sim_d_sccl_2_4/145-8940993-5037859?pd_rd_w=wSSZj&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=873Q41WR3H3NQYGNNG7Y&pd_rd_wg=rbvMV&pd_rd_r=bee4ebc7-7d30-4646-a38a-0232094ca71c&pd_rd_i=B0DRV3G7G1&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61LPUL14z1L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 269,
+      "price": {
+        "symbol": "$",
+        "value": 159,
+        "currency": "USD",
+        "raw": "$159.00"
+      }
+    }
+  ]
+}

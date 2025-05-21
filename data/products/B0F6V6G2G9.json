@@ -1,0 +1,662 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5587,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0F6V6G2G9",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:52:55.556Z",
+    "processed_at": "2025-05-20T01:53:01.401Z",
+    "total_time_taken": 5.84,
+    "amazon_url": "https://www.amazon.com/dp/B0F6V6G2G9?th=1&psc=1"
+  },
+  "product": {
+    "title": "ASUS ROG Strix G18 Gaming Laptop (2025), NVIDIA RTX 5080 16GB GDDR7, Intel Ultra 9 275HX, 2.5K 240Hz Premium Rog Nebula Display, WiFi 7, 64 GB DDR5 RAM, 4 TB SSD, Windows 11 Pro & Office License",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "ASUS,ROG,Strix,G18,Gaming,Laptop,(2025),NVIDIA,RTX,5080,16GB,GDDR7,Intel,Ultra,9,275HX,2.5K,240Hz,Premium,Rog,Nebula,Display,WiFi,7,64,GB,DDR5,RAM,4,TB,SSD,Windows,11,Pro,&,Office,License",
+    "keywords_list": [
+      "ASUS",
+      "Strix",
+      "Gaming",
+      "Laptop",
+      "(2025)",
+      "NVIDIA",
+      "5080",
+      "16GB",
+      "GDDR7",
+      "Intel",
+      "Ultra",
+      "275HX",
+      "2.5K",
+      "240Hz",
+      "Premium",
+      "Nebula",
+      "Display",
+      "WiFi",
+      "DDR5",
+      "Windows",
+      "Office",
+      "License"
+    ],
+    "is_collection": false,
+    "asin": "B0F6V6G2G9",
+    "parent_asin": "B0F6VLZKPG",
+    "link": "https://www.amazon.com/ASUS-Premium-Display-Windows-License/dp/B0F6V6G2G9",
+    "brand": "‎ASUS",
+    "protection_plans": [
+      {
+        "asin": "B07P83ZYTG",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 239.99,
+          "currency": "USD",
+          "raw": "$239.99"
+        }
+      },
+      {
+        "asin": "B07PBD1PMP",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 359.99,
+          "currency": "USD",
+          "raw": "$359.99"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": false,
+        "title": "64 GB DDR5 | 8 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB DDR5 | 8 TB SSD"
+          }
+        ],
+        "asin": "B0F6V9BJ2R",
+        "link": "https://amazon.com/dp/B0F6V9BJ2R?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "32 GB DDR5 | 2 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "32 GB DDR5 | 2 TB SSD"
+          }
+        ],
+        "asin": "B0F6V69Y9T",
+        "link": "https://amazon.com/dp/B0F6V69Y9T?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "64 GB DDR5 | 2 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB DDR5 | 2 TB SSD"
+          }
+        ],
+        "asin": "B0F6V6SHK7",
+        "link": "https://amazon.com/dp/B0F6V6SHK7?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "16GB RAM | 512GB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "16GB RAM | 512GB SSD"
+          }
+        ],
+        "asin": "B0837W1FZB",
+        "link": "https://amazon.com/dp/B0837W1FZB?th=1&psc=1"
+      },
+      {
+        "is_current_product": true,
+        "title": "64 GB DDR5 | 4 TB SSD",
+        "dimensions": [
+          {
+            "name": "style",
+            "value": "64 GB DDR5 | 4 TB SSD"
+          }
+        ],
+        "asin": "B0F6V6G2G9",
+        "link": "https://amazon.com/dp/B0F6V6G2G9?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0F6V9BJ2R,B0F6V69Y9T,B0F6V6SHK7,B0837W1FZB,B0F6V6G2G9",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Statement: Original Seal is opened for upgrade ONLY. If the computer has modifications, then the manufacturer box is opened for it to be tested and inspected and to install the upgrades to achieve the specifications as advertised.\n\nGENERAL INFORMATION\n\nBrand: ASUS\n\nModel Number: G815LW-G18.U95080\n\nSeries: ASUS ROG Strix G18 Gaming Laptop 5080\n\nColor: Eclipse Gray\n\nOperating System: Windows 11 Pro\n\n\nPROCESSOR\n\nCPU: Intel Ultra 9 275HX\n\nNumber of Cores: 24\n\nNumber of Threads: 24\n\nBase Frequency: 2.7 GHz\n\nTurbo Frequency: 5.4 GHz\n\nCache: 36 MB Intel Smart Cache\n\nTotal L2 Cache: 40 MB\n\nIntel Deep Learning Boost (Intel DL Boost) on CPU: YES\n\nAI Software Frameworks Supported by CPU: OpenVINO, WindowsML, DirectML, ONNX RT, WebNN\n\nCPU Lithography: TSMC N3B\n\n\nGRAPHICS\n\nGraphics Type: Dedicated\n\nGPU: NVIDIA Geforce RTX 5080\n\nGraphics RAM: 16 GB GDDR7\n\nRay Tracing: YES\n\nNVIDIA DLSS: DLSS 4 (Deep Learning Super Sampling), Ray tracing\n\n\nDISPLAY\n\nDisplay Size: 18 inch\n\nResolution: ROG Nebula 2.5K, 2560 x 1600\n\nRefresh Rate: 240 Hz / 3ms, 16:10\n\nDisplay: G-SYNC (NVIDIA Adaptive Sync)\n\nDisplay Screen Type: Anti-Glare\n\nBrightness: 500 nits\n\nColor Gamut (Standard RGB): 100 percent\n\n\nMEMORY & STORAGE\n\nCapacity: Up to 64 GB DDR5\n\nStorage: Up to 4 TB SSD\n\n\nWIRELESS\n\nWi-Fi 7, 802.11be\n\nBluetooth 5.3\n\n\nFEATURES\n\nKeyboard: RGB Backlit\n\nCustomizable Case Lighting: YES\n\nAudio Technology: Hi-Res Audio with Dolby Atmos and Two-Way AI Noise Cancellation\n\nCamera: 1080p\n\nBuilt-In Microphone: YES\n\n\nPORTS\n\n1 x Thunderbolt 5 support DisplayPort\n\n1 x USB-C 4\n\n3 x USB-A 3.2\n\n1 x HDMI 2.1\n\n1 x RJ-45 LAN\n\n1 x Combination Audio Jack\n\n1 x Power connector\n\n\nPHYSICAL SPECIFICATIONS\n\nLength: 15.74 inches\n\nWidth: 11.77 inches\n\nHeight: 0.93 inches\n\nWeight: 7.54 lbs",
+    "sub_title": {
+      "text": "Visit the ASUS Store",
+      "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A?lp_asin=B0F6V6G2G9&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply $600 coupon",
+    "rating": 4.7,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 69,
+        "count": 11
+      },
+      "four_star": {
+        "percentage": 31,
+        "count": 5
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 17,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/715S2+MUzcL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/715S2+MUzcL._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/618jwKpep-L._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61MGEI3VbGL._AC_SL1500_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/712OPcX-00L._AC_SL1500_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710+npwOjPL._AC_SL1500_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/717PHNmJo0L._AC_SL1500_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61WrmbzNOuL._AC_SL1500_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61XVSaceslL._AC_SL1500_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71kcV1uDxgL._AC_SL1500_.jpg",
+        "variant": "PT08"
+      }
+    ],
+    "images_count": 9,
+    "images_flat": "https://m.media-amazon.com/images/I/715S2+MUzcL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/618jwKpep-L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61MGEI3VbGL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/712OPcX-00L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/710+npwOjPL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/717PHNmJo0L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61WrmbzNOuL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61XVSaceslL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71kcV1uDxgL._AC_SL1500_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Intel Ultra 9 275HX Processor: Powering the ROG Strix G18 is the Intel Ultra 9 275HX processor, boasting 24 cores (8 Performance + 16 Efficient) and a base clock of 2.7 GHz, boosting up to 5.4 GHz. Designed for the ASUS ROG G18 2025, it delivers unprecedented power for demanding games, content creation, and multitasking, with AI acceleration for faster rendering in creative applications.",
+      "Cutting-edge Nvidia Geforce RTX 5080 gaming Laptop GPU: Elevate your gaming experience with the RTX 5080 laptop GPU. Featuring a 16GB DDR7 graphic memory, Advanced Optimus support, and cutting-edge technologies like DLSS and Frame Generation, this powerful GPU delivers stunningly smooth performance and unparalleled frame rates.",
+      "Premium Rog Nebula Display: Immerse yourself in stunning visuals for gaming, content creation, and entertainment with the ultra-fast 18\" 2.5K 240Hz Nebula Display. Pantone validation guarantees professional-grade color accuracy with 100% DCI-P3 coverage, further enhanced by a new ACR film that boosts contrast and minimizes glare.",
+      "State-of-the-art Rog Intelligent Cooling: Maintain peak performance with ROG Intelligent Cooling. Equipped with an end-to-end vapor chamber, Tri-Fan technology, and Conductonaut Extreme liquid metal, this cutting-edge thermal design ensures your system stays cool and quiet, delivering sustained high-frame-rate gameplay.",
+      "Windows 11 Pro & Microsoft Office Pro Lifetime License— Experience enhanced productivity and security features with Windows 11 Pro. Get your hands on Microsoft Office pro lifetime license for free, forever, enhancing your office life with greater ease and efficiency! If you find that your Office is not activated when you use it, please contact the store account manager to send a new Office key. Thank you"
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Windows 11 Pro & Microsoft Office Pro Lifetime License— Experience enhanced productivity and security features with Windows 11 Pro. Get your hands on Microsoft Office pro lifetime license for free, forever, enhancing your office life with greater ease and efficiency! If you find that your Office is not activated when you use it, please contact the store account manager to send a new Office key. Thank you. State-of-the-art Rog Intelligent Cooling: Maintain peak performance with ROG Intelligent Cooling. Equipped with an end-to-end vapor chamber, Tri-Fan technology, and Conductonaut Extreme liquid metal, this cutting-edge thermal design ensures your system stays cool and quiet, delivering sustained high-frame-rate gameplay. Premium Rog Nebula Display: Immerse yourself in stunning visuals for gaming, content creation, and entertainment with the ultra-fast 18\" 2.5K 240Hz Nebula Display. Pantone validation guarantees professional-grade color accuracy with 100% DCI-P3 coverage, further enhanced by a new ACR film that boosts contrast and minimizes glare. Cutting-edge Nvidia Geforce RTX 5080 gaming Laptop GPU: Elevate your gaming experience with the RTX 5080 laptop GPU. Featuring a 16GB DDR7 graphic memory, Advanced Optimus support, and cutting-edge technologies like DLSS and Frame Generation, this powerful GPU delivers stunningly smooth performance and unparalleled frame rates. Intel Ultra 9 275HX Processor: Powering the ROG Strix G18 is the Intel Ultra 9 275HX processor, boasting 24 cores (8 Performance + 16 Efficient) and a base clock of 2.7 GHz, boosting up to 5.4 GHz. Designed for the ASUS ROG G18 2025, it delivers unprecedented power for demanding games, content creation, and multitasking, with AI acceleration for faster rendering in creative applications.",
+    "top_reviews": [
+      {
+        "id": "R2GTHCRLN7ZEZA",
+        "title": "Great product.. a must have",
+        "body": "The media could not be loaded. This computer is bad ass. I'm sure it'll be able to handle anything I need or want to do with ita... First off.. it arrived 6 days early.. I'm really impressed... Opened up the box and pulled out the beautiful Asus ROG box the computer comes in.. took the computer out and wow is it everything I was hoping for.. I love the RGB glow from the keyboard and underneath the chassis. I installed Doom just to test it out and it performed flawlessly... The 120hz display kicks ass... CPU is untouchable.. 5 star all day... I only have about 3 hours on the computer but it's perfect... Thank you for a great product Read more",
+        "asin": "B0F6V6G2G9",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\"><div id=\"video-block-R2GTHCRLN7ZEZA\" class=\"a-section a-spacing-small a-spacing-top-mini video-block\">                                                  <div id=\"review-video-id-R2GTHCRLN7ZEZA\" class=\"cr-video-desktop cr-video-desktop-placeholder\" data-review-id=\"R2GTHCRLN7ZEZA\" data-video-url=\"https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cf40c845-ee22-4314-bccd-63677148e2d6/embedded.cc.default.vertical.jobtemplate.hls.m3u8\" data-closed-captions=\"en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/fc984469-2a56-47a6-b614-4ccee48cab7e.vtt\" data-thumbnail-url=\"https://m.media-amazon.com/images/I/51oemxPv9BL._SY256.jpg\">       <div class=\"cr-media-status-container\">     <span class=\"a-spinner a-spinner-medium cr-media-spinner\"/>     <span class=\"a-color-inverse cr-media-error-msg\">      The media could not be loaded.     </span>    </div>     </div>                </div><input type=\"hidden\" name=\"\" value=\"https://images-na.ssl-images-amazon.com/images/I/C1qMNNcg4vS.mp4\" class=\"video-url\"/><input type=\"hidden\" name=\"\" value=\"https://m.media-amazon.com/images/I/51oemxPv9BL._SY256.jpg\" class=\"video-slate-img-url\"/>             <span>This computer is bad ass. I&apos;m sure it&apos;ll be able to handle anything I need or want to do with ita... First off.. it arrived 6 days early.. I&apos;m really impressed... Opened up the box and pulled out the beautiful Asus ROG box the computer comes in.. took the computer out and wow is it everything I was hoping for.. I love the RGB glow from the keyboard and underneath the chassis. I installed Doom just to test it out and it performed flawlessly... The 120hz display kicks ass... CPU is untouchable.. 5 star all day... I only have about 3 hours on the computer but it&apos;s perfect...<br/>Thank you for a great product<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2GTHCRLN7ZEZA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6V6G2G9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on July 25, 2020",
+          "utc": "2020-07-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Pbaum2010",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH2PIJGZUQTQDFZX46F6Z53AB64Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH2PIJGZUQTQDFZX46F6Z53AB64Q",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/e73a69c5-55ff-4d85-9c0e-437a7048976a._CR149%2C0%2C201%2C201_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "videos": [
+          {
+            "video": "https://images-na.ssl-images-amazon.com/images/I/C1qMNNcg4vS.mp4",
+            "image": "https://m.media-amazon.com/images/I/51oemxPv9BL._SY256.jpg"
+          }
+        ],
+        "helpful_votes": 3,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RRKCEJES7VVDC",
+        "title": "Overall a great laptop with only one very minor issue I've noticed so far.",
+        "body": "The battery life works great, and while the advanced settings it has taken a little getting used to, as I figure them out they're absolutely wonderful things to have access too. The only tiny thing I've noticed is that the keyboard is a little oversensitive so it double types keys sometimes but it's such a minor issue it doesn't really bother me. Overall a great system, especially for the price paid. Read more",
+        "asin": "B0F6V6G2G9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The battery life works great, and while the advanced settings it has taken a little getting used to, as I figure them out they&apos;re absolutely wonderful things to have access too. The only tiny thing I&apos;ve noticed is that the keyboard is a little oversensitive so it double types keys sometimes but it&apos;s such a minor issue it doesn&apos;t really bother me. Overall a great system, especially for the price paid.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RRKCEJES7VVDC/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6V6G2G9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on August 5, 2020",
+          "utc": "2020-08-05T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Quest",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGIEEZNMQDJBVLH4JVFDK3A5IKVA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGIEEZNMQDJBVLH4JVFDK3A5IKVA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/f104f833-ff58-4b2a-9d03-b01baab6b27c._CR0%2C0%2C1125%2C1125_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "R2ULTDFR4AMQWU",
+        "title": "Great bang for the buck",
+        "body": "A wonderful computer, and a great seller. Seller addressed my concerns in a prompt manner with courtesy and professionalism. 10/10 would purchase from this seller again. Read more",
+        "asin": "B0F6V6G2G9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>A wonderful computer, and a great seller. Seller addressed my concerns in a prompt manner with courtesy and professionalism. 10/10 would purchase from this seller again.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2ULTDFR4AMQWU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6V6G2G9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on July 23, 2020",
+          "utc": "2020-07-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Paul Joseph Guzman",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH4YEXNW7G4Y7WWIBVHMEMXWSGJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH4YEXNW7G4Y7WWIBVHMEMXWSGJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      },
+      {
+        "id": "RYIZD6INEEKW4",
+        "title": "Very satisfied",
+        "body": "this computer is great for all things and the gaming is hype. good stuff asus Read more",
+        "asin": "B0F6V6G2G9",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>this computer is great for all things and the gaming is hype. good stuff asus<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RYIZD6INEEKW4/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0F6V6G2G9",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on February 26, 2020",
+          "utc": "2020-02-26T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Riley kennedy",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFZFQCVEUQDOL2KWMKJXWWMM7N2A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFZFQCVEUQDOL2KWMKJXWWMM7N2A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "16GB RAM"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "239.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "359.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "3p",
+        "standard_delivery": {
+          "date": "May 23 - 28",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "May 22 - 23",
+          "name": "Or fastest delivery May 22 - 23. Details"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": false,
+        "is_fulfilled_by_third_party": true,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "82 days",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1ELWL8B9U1SUC&asin=B0F6V6G2G9&ref_=dp_merchant_link",
+          "id": "A1ELWL8B9U1SUC"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 5599.99,
+        "currency": "USD",
+        "raw": "$5,599.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎18 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎2560 x 1600 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎2560x1600 Pixels"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.7 GHz intel_core_ultra_9"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR5"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎4 TB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 5080"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎16 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11.be"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎3"
+      },
+      {
+        "name": "Brand",
+        "value": "‎ASUS"
+      },
+      {
+        "name": "Series",
+        "value": "‎ASUS ROG Strix G18 Gaming Laptop 5080"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎G815LW-G18.U95080"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎7.54 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎15.74 x 0.93 x 11.77 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎15.74 x 0.93 x 11.77 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Gray"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎24"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎Solid State"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0F6V6G2G9"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.7    4.7 out of 5 stars         17 ratings          4.7 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#12,256 in Computers & Accessories (See Top 100 in Computers & Accessories) #1,575 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "April 29, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "ASUS"
+      },
+      {
+        "name": "Model Name",
+        "value": "ASUS ROG Strix G18 Gaming Laptop 5080"
+      },
+      {
+        "name": "Screen Size",
+        "value": "18 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Gray"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "4 TB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core Ultra 9"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "64 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: HD Audio, Backlit Keyboard, Anti Glare Coating, Numeric Keypad. Operating System: Windows 11 Pro. Ram Memory Installed Size: 64 GB. CPU Model: Intel Core Ultra 9. Hard Disk Size: 4 TB. Color: Gray. Screen Size: 18 Inches. Model Name: ASUS ROG Strix G18 Gaming Laptop 5080. Brand: ASUS. Date First Available: April 29, 2025. Best Sellers Rank: #12,256 in Computers & Accessories (See Top 100 in Computers & Accessories) #1,575 in Traditional Laptop Computers. Customer Reviews: 4.7    4.7 out of 5 stars         17 ratings          4.7 out of 5 stars. ASIN: B0F6V6G2G9. Hard Drive Interface: ‎Solid State. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎24. Processor Brand: ‎Intel. Color: ‎Gray. Item Dimensions  LxWxH: ‎15.74 x 0.93 x 11.77 inches. Product Dimensions: ‎15.74 x 0.93 x 11.77 inches. Item Weight: ‎7.54 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎G815LW-G18.U95080. Series: ‎ASUS ROG Strix G18 Gaming Laptop 5080. Brand: ‎ASUS. Number of USB 3.0 Ports: ‎3. Wireless Type: ‎Bluetooth, 802.11.be. Graphics Card Ram Size: ‎16 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 5080. Hard Drive: ‎4 TB SSD. RAM: ‎DDR5. Processor: ‎2.7 GHz intel_core_ultra_9. Max Screen Resolution: ‎2560x1600 Pixels. Screen Resolution: ‎2560 x 1600 pixels. Standing screen display size: ‎18 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 12256,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 1575,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Gray",
+    "weight": "‎7.54 pounds",
+    "first_available": {
+      "raw": "April 29, 2025",
+      "utc": "2025-04-29T00:00:00.000Z"
+    },
+    "dimensions": "‎15.74 x 0.93 x 11.77 inches",
+    "model_number": "‎G815LW-G18.U95080",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 12256, Category: Traditional Laptop Computers | Rank: 1575",
+    "whats_in_the_box": [
+      "ASUS ROG Strix 18 Gaming Laptop 5080",
+      "Accessories"
+    ]
+  },
+  "brand_store": {
+    "id": "02389710-881F-4F25-89E8-F92DEEA14D5A",
+    "link": "https://www.amazon.com/stores/ASUS/page/02389710-881F-4F25-89E8-F92DEEA14D5A"
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 10598.99,
+      "currency": "USD",
+      "raw": "$10,598.99"
+    },
+    "products": [
+      {
+        "asin": "B0F6V6G2G9",
+        "title": "ASUS ROG Strix G18 Gaming Laptop (2025), NVIDIA RTX 5080 16GB GDDR7, Intel Ultra 9 275HX, 2.5K 240Hz Premium Rog Nebula Display, WiFi 7, 64 GB DDR5 RAM, 4 TB SSD, Windows 11 Pro & Office License",
+        "link": "https://www.amazon.com/dp/B0F6V6G2G9",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/715S2+MUzcL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 5599.99,
+          "currency": "USD",
+          "raw": "$5,599.99"
+        }
+      }
+    ]
+  }
+}

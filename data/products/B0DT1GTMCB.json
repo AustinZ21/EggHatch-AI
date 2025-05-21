@@ -1,0 +1,665 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5593,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0DT1GTMCB",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T01:52:06.167Z",
+    "processed_at": "2025-05-20T01:52:10.969Z",
+    "total_time_taken": 4.8,
+    "amazon_url": "https://www.amazon.com/dp/B0DT1GTMCB?th=1&psc=1"
+  },
+  "product": {
+    "title": "Gaming Laptop 15.6\" FHD, Intel N95, 512GB SSD, 16GB DDR4 RAM, 6000mAh Battery,Backlit Keyboard, Fingerprint Unlock, Windows 11 Laptop Computer for Work & Entertainment",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "Gaming,Laptop,15.6\",FHD,Intel,N95,512GB,SSD,16GB,DDR4,RAM,6000mAh,Battery,Backlit,Keyboard,Fingerprint,Unlock,Windows,11,Laptop,Computer,for,Work,&,Entertainment",
+    "keywords_list": [
+      "Gaming",
+      "Laptop",
+      "15.6\"",
+      "Intel",
+      "512GB",
+      "16GB",
+      "DDR4",
+      "6000mAh",
+      "Battery",
+      "Backlit",
+      "Keyboard",
+      "Fingerprint",
+      "Unlock",
+      "Windows",
+      "Laptop",
+      "Computer",
+      "Work",
+      "Entertainment"
+    ],
+    "is_collection": false,
+    "asin": "B0DT1GTMCB",
+    "parent_asin": "B0F3887F5L",
+    "link": "https://www.amazon.com/NEOBIHIER-N95-Keyboard-Fingerprint-Entertainment/dp/B0DT1GTMCB",
+    "brand": "NEOBIHIER",
+    "protection_plans": [
+      {
+        "asin": "B07PBD7V32",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 47.99,
+          "currency": "USD",
+          "raw": "$47.99"
+        }
+      },
+      {
+        "asin": "B07PC1HYF2",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Brand: NEOBIHIER",
+      "link": "https://www.amazon.com/s/ref=bl_dp_s_web_0?ie=UTF8&search-alias=aps&field-keywords=NEOBIHIER"
+    },
+    "has_coupon": true,
+    "coupon_text": "Apply $30 coupon",
+    "rating": 5,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 100,
+        "count": 11
+      },
+      "four_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "three_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "two_star": {
+        "percentage": 0,
+        "count": 0
+      },
+      "one_star": {
+        "percentage": 0,
+        "count": 0
+      }
+    },
+    "ratings_total": 11,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/719JpsNGVvL.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/719JpsNGVvL._AC_SL1200_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71RfjA4HSBL._AC_SL1200_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71cM-VOxx1L._AC_SL1200_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71WpdtZd-WL._AC_SL1200_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/618FzaQ3WYL._AC_SL1200_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71aZx50nJrL._AC_SL1200_.jpg",
+        "variant": "PT05"
+      }
+    ],
+    "images_count": 6,
+    "images_flat": "https://m.media-amazon.com/images/I/719JpsNGVvL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71RfjA4HSBL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71cM-VOxx1L._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71WpdtZd-WL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/618FzaQ3WYL._AC_SL1200_.jpg,https://m.media-amazon.com/images/I/71aZx50nJrL._AC_SL1200_.jpg",
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Gaming Laptop Performance Powered by Intel N95 Experience desktop-level speed with the Intel N95 processor (1.7–3.4GHz), built for intense gaming laptop sessions and advanced laptop gaming. This windows laptop effortlessly handles AAA games, creative software, and heavy multitasking while staying energy efficient—perfect for any high-performance laptop computer setup.",
+      "Multitasking Laptop Computer Mastery With 16GB DDR4 3200MHz RAM, this laptop computer is a true multitasking beast. Seamlessly run over 20 browser tabs, design tools, and gaming laptops-grade applications with zero lag. Ideal for power users seeking a computer laptop that delivers workstation-level capability and gaming laptop responsiveness.",
+      "Gaming Laptop Storage Solution The 512GB SSD ensures ultra-fast game launches, lightning-quick file transfers, and 15-second boot times. Designed for gaming laptops users, this computer laptop offers 3× faster data access than HDDs, with Windows 11 optimization to accelerate both play and productivity on your laptop computer.",
+      "Ultimate Windows Laptop Endurance A 6000mAh battery powers up to 8 hours of uninterrupted gaming laptop use or 12 hours of office tasks. This windows laptop uses intelligent power distribution to enhance GPU output during laptop gaming while conserving energy during lighter workloads—an efficient and reliable laptop computer solution.",
+      "Secure Computer Laptop Ecosystem Advanced fingerprint login and military-grade encryption protect your data on this secure laptop computer. The 15.6″ FHD anti-glare display provides sharp visuals for all gaming laptop activity, while the RGB backlit keyboard is tailored for low-light computer laptop environments, enhancing nighttime productivity and laptop gaming enjoyment."
+    ],
+    "feature_bullets_count": 5,
+    "feature_bullets_flat": "Secure Computer Laptop Ecosystem Advanced fingerprint login and military-grade encryption protect your data on this secure laptop computer. The 15.6″ FHD anti-glare display provides sharp visuals for all gaming laptop activity, while the RGB backlit keyboard is tailored for low-light computer laptop environments, enhancing nighttime productivity and laptop gaming enjoyment. Ultimate Windows Laptop Endurance A 6000mAh battery powers up to 8 hours of uninterrupted gaming laptop use or 12 hours of office tasks. This windows laptop uses intelligent power distribution to enhance GPU output during laptop gaming while conserving energy during lighter workloads—an efficient and reliable laptop computer solution. Gaming Laptop Storage Solution The 512GB SSD ensures ultra-fast game launches, lightning-quick file transfers, and 15-second boot times. Designed for gaming laptops users, this computer laptop offers 3× faster data access than HDDs, with Windows 11 optimization to accelerate both play and productivity on your laptop computer. Multitasking Laptop Computer Mastery With 16GB DDR4 3200MHz RAM, this laptop computer is a true multitasking beast. Seamlessly run over 20 browser tabs, design tools, and gaming laptops-grade applications with zero lag. Ideal for power users seeking a computer laptop that delivers workstation-level capability and gaming laptop responsiveness. Gaming Laptop Performance Powered by Intel N95 Experience desktop-level speed with the Intel N95 processor (1.7–3.4GHz), built for intense gaming laptop sessions and advanced laptop gaming. This windows laptop effortlessly handles AAA games, creative software, and heavy multitasking while staying energy efficient—perfect for any high-performance laptop computer setup.",
+    "top_reviews": [
+      {
+        "id": "R15Z5P7KWIVHLU",
+        "title": "very good laptop and not expesive.",
+        "body": "This is a very inexpensive laptop and light weight it is powerful enough to do email and web browsing. Streaming videos and doing office work is simple enough for this laptop top to do it. The only thing I wish this laptop had was an USB C slot and Network adaptor but I think the price point limit those extra functions. Overall very nice and simple laptop. Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This is a very inexpensive laptop and light weight it is powerful enough to do email and web browsing. Streaming videos and doing office work is simple enough for this laptop top to do it. The only thing I wish this laptop had was an USB C slot and Network adaptor but I think the price point limit those extra functions. Overall very nice and simple laptop.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R15Z5P7KWIVHLU/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 21, 2025",
+          "utc": "2025-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Miguel Angel Torres-Colón",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE4CAIEDMKSC5J7HTOVHQVSRSI7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE4CAIEDMKSC5J7HTOVHQVSRSI7A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R12ZDUPBG46Z63",
+        "title": "Great product and price",
+        "body": "I received the product promptly. The speed and performance of the Laptop is excellent. I was concerned with the low price, however, after receiving and using the laptop was really impressed. It has a sleek well constructed case, with backlit keyboard. Great product, and price. Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I received the product promptly. The speed and performance of the Laptop is excellent. I was concerned with the low price, however, after receiving and using the laptop was really impressed. It has a sleek well constructed case, with backlit keyboard. Great product, and price.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R12ZDUPBG46Z63/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 21, 2025",
+          "utc": "2025-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Joseph T.",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFP2T2ZED32MHU3VOLK2UPPRVXTA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFP2T2ZED32MHU3VOLK2UPPRVXTA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "RRU51BKINOD0Q",
+        "title": "So nice",
+        "body": "I really like this laptop. It is affordable, easy to use and great quality. It costs much less than what I expected and this laptop fits my needs perfectly. I use this laptop to watch YouTube and office use. It definitely worth every penny Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I really like this laptop. It is affordable, easy to use and great quality. It costs much less than what I expected and this laptop fits my needs perfectly.<br/>I use this laptop to watch YouTube and office use. It definitely worth every penny<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RRU51BKINOD0Q/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 21, 2025",
+          "utc": "2025-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Daniel Byrne",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEULIZY2OHSEYONMA4PWLARAD24Q/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEULIZY2OHSEYONMA4PWLARAD24Q"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R34D6ASE3R6PDN",
+        "title": "Nice laptop!",
+        "body": "Nirce laptop, works very wel. l only use it for interet surfing and docs so not sure how it would fare if you needed a lot of memory and storage but it works just fine for me. Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Nirce laptop, works very wel. l only use it for interet surfing and docs so not sure how it would fare if you needed a lot of memory and storage but it works just<br/>fine for me.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R34D6ASE3R6PDN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 24, 2025",
+          "utc": "2025-04-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Samy Zakzouk",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGHLIP3Q2AFNKUJP6AMLKEHCULOA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGHLIP3Q2AFNKUJP6AMLKEHCULOA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3CKRJ9TMG350",
+        "title": "Great buy!",
+        "body": "I need a new laptop because I'm going to start working from home. This laptop is perfect. Easy to use. But so far, I haven't had any problems. I love it. Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I need a new laptop because I&apos;m going to start working from home. This laptop is perfect. Easy to use. But so far, I haven&apos;t had any problems. I love it.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3CKRJ9TMG350/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 23, 2025",
+          "utc": "2025-04-23T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Amy Ham",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGYLHSMR36IRNKBMVBF577XV6C7A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGYLHSMR36IRNKBMVBF577XV6C7A"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R3KR5R5J25ST9H",
+        "title": "Excellent gaming laptop",
+        "body": "This laptop is perfect for gaming, with its powerful processor and graphics card. The backlit keyboard is a nice touch. Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>This laptop is perfect for gaming, with its powerful processor and graphics card. The backlit keyboard is a nice touch.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3KR5R5J25ST9H/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 14, 2025",
+          "utc": "2025-04-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Hidey Peery",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AEU6IJD5LEN6H5FTYHWOCK2R3XJQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AEU6IJD5LEN6H5FTYHWOCK2R3XJQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      },
+      {
+        "id": "R2NYUA3WCJZRS9",
+        "title": "Great product",
+        "body": "Great product bought two of these for my mom and my uncle absolutely love it Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Great product bought two of these for my mom and my uncle absolutely love it<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R2NYUA3WCJZRS9/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 24, 2025",
+          "utc": "2025-03-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jebediah Smith",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE47IE6XHHJ6BXU3OV4UOKJQNWHQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE47IE6XHHJ6BXU3OV4UOKJQNWHQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "Style": "N95 CPU+RAM 16GB+512GB SSD"
+          }
+        ]
+      },
+      {
+        "id": "R1SB7F1G1U3FTX",
+        "title": "Excellent product and service",
+        "body": "Tire la aventura de comprar esta laptopyrealmente no tengo ninqua quejal!sosi,la laptop solo la uso para cosas muy basicas como navear enintemet tareas, ver videos enyoutube,netflix, y escribir.Nada del otro mundo, asfque no sesicoriendo una app pesada me vaya a explotar en las manos JAjA.Pero si sirve yen ningun me ha dado fallos.Al contrario inclusive la bateria dura DiAS en agotarse. Read more",
+        "asin": "B0DT1GTMCB",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Tire la aventura de comprar esta laptopyrealmente no tengo ninqua quejal!sosi,la laptop solo la uso para cosas muy basicas como navear enintemet tareas, ver videos enyoutube,netflix, y escribir.Nada del otro mundo, asfque no sesicoriendo una app pesada me vaya a explotar en las manos JAjA.Pero si sirve yen ningun me ha dado fallos.Al contrario inclusive la bateria dura DiAS en agotarse.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1SB7F1G1U3FTX/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0DT1GTMCB",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 21, 2025",
+          "utc": "2025-04-21T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Ryan Flores",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGDKCREI2YDTG2BQA4M4FBHDP4XQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGDKCREI2YDTG2BQA4M4FBHDP4XQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 30,
+        "hard_maximum": true
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "47.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "79.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement"
+      },
+      "is_prime": false,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "2p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Wednesday, May 21",
+          "name": "Or Prime members get FREE delivery Wednesday, May 21. Order within 3 hrs 7 mins. Join Prime"
+        },
+        "is_sold_by_amazon": false,
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": true,
+        "third_party_seller": {
+          "name": "Peach Garden-Shop",
+          "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1AZCBI61YXQ9I&asin=B0DT1GTMCB&ref_=dp_merchant_link&isAmazonFulfilled=1",
+          "id": "A1AZCBI61YXQ9I"
+        }
+      },
+      "price": {
+        "symbol": "$",
+        "value": 299.99,
+        "currency": "USD",
+        "raw": "$299.99"
+      },
+      "rrp": {
+        "symbol": "$",
+        "value": 458.99,
+        "currency": "USD",
+        "raw": "$458.99"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080"
+      },
+      {
+        "name": "Processor",
+        "value": "‎1.7 GHz Intel_Mobile_CPU"
+      },
+      {
+        "name": "RAM",
+        "value": "‎DDR4"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Integrated"
+      },
+      {
+        "name": "Number of USB 2.0 Ports",
+        "value": "‎1"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎1"
+      },
+      {
+        "name": "Brand",
+        "value": "‎NEOBIHIER"
+      },
+      {
+        "name": "Series",
+        "value": "‎156N95"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎N95"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Pro"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎5.79 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.17 x 0.78 x 9.8 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.17 x 0.78 x 9.8 inches"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎1"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR4 SDRAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎16 GB"
+      },
+      {
+        "name": "Optical Drive Type",
+        "value": "‎BD-R"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 12V batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0DT1GTMCB"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "5.0    5.0 out of 5 stars         11 ratings          5.0 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#5,987 in Computers & Accessories (See Top 100 in Computers & Accessories) #716 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "January 14, 2025"
+      },
+      {
+        "name": "Brand",
+        "value": "NEOBIHIER"
+      },
+      {
+        "name": "Model Name",
+        "value": "156N95"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Mobile CPU"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "16 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Pro"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Fingerprint Reader"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Integrated"
+      },
+      {
+        "name": "CPU Speed",
+        "value": "1.7 GHz"
+      }
+    ],
+    "specifications_flat": "CPU Speed: 1.7 GHz. Graphics Card Description: Integrated. Special Feature: Fingerprint Reader. Operating System: Windows 11 Pro. Ram Memory Installed Size: 16 GB. CPU Model: Intel Mobile CPU. Hard Disk Size: 512 GB. Screen Size: 15.6 Inches. Model Name: 156N95. Brand: NEOBIHIER. Date First Available: January 14, 2025. Best Sellers Rank: #5,987 in Computers & Accessories (See Top 100 in Computers & Accessories) #716 in Traditional Laptop Computers. Customer Reviews: 5.0    5.0 out of 5 stars         11 ratings          5.0 out of 5 stars. ASIN: B0DT1GTMCB. Batteries: ‎1 12V batteries required. (included). Optical Drive Type: ‎BD-R. Flash Memory Size: ‎16 GB. Computer Memory Type: ‎DDR4 SDRAM. Number of Processors: ‎1. Processor Brand: ‎Intel. Item Dimensions  LxWxH: ‎14.17 x 0.78 x 9.8 inches. Product Dimensions: ‎14.17 x 0.78 x 9.8 inches. Item Weight: ‎5.79 pounds. Operating System: ‎Windows 11 Pro. Item model number: ‎N95. Series: ‎156N95. Brand: ‎NEOBIHIER. Number of USB 3.0 Ports: ‎1. Number of USB 2.0 Ports: ‎1. Card Description: ‎Integrated. Chipset Brand: ‎Intel. Hard Drive: ‎512 GB SSD. RAM: ‎DDR4. Processor: ‎1.7 GHz Intel_Mobile_CPU. Max Screen Resolution: ‎1920x1080. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 5987,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 716,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "weight": "‎5.79 pounds",
+    "first_available": {
+      "raw": "January 14, 2025",
+      "utc": "2025-01-14T00:00:00.000Z"
+    },
+    "dimensions": "‎14.17 x 0.78 x 9.8 inches",
+    "model_number": "‎N95",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 5987, Category: Traditional Laptop Computers | Rank: 716",
+    "whats_in_the_box": [
+      "Laptop"
+    ]
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 342.97,
+      "currency": "USD",
+      "raw": "$342.97"
+    },
+    "products": [
+      {
+        "asin": "B0DT1GTMCB",
+        "title": "NEOBIHIER Gaming Laptop 15.6\" FHD, Intel N95, 512GB SSD, 16GB DDR4 RAM, 6000mAh Battery,Backlit Keyboard, Fingerprint Unlock, Windows 11 Laptop Computer for Work & Entertainment",
+        "link": "https://www.amazon.com/dp/B0DT1GTMCB",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/719JpsNGVvL._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 299.99,
+          "currency": "USD",
+          "raw": "$299.99"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0CV5ZSR17",
+    "link": "https://www.amazon.com/dp/B0CV5ZSR17/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=RDVV9Y6G6W5Y5R8ZEPK7&pd_rd_wg=O6gmO&pd_rd_i=B0CV5ZSR17&pd_rd_w=QsBKH&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=1bfdfcb2-ee93-43d4-bf07-1587956fbea6&psc=1",
+    "title": "Acer Aspire Go 15 Slim Laptop | 15.6\" Full HD IPS 1080P Display | Intel Core i3-N305| Intel UHD Graphics | 8GB LPDDR5 | 128GB HD | Wi-Fi 6 | AI PC | Windows 11 Home in S Mode | AG15-31P-3947",
+    "rating": 4,
+    "ratings_total": 528,
+    "image": "https://m.media-amazon.com/images/I/71wKJVtV-+L._SS100_.jpg",
+    "is_prime": true
+  }
+}

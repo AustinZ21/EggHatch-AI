@@ -1,0 +1,1479 @@
+{
+  "request_info": {
+    "success": true,
+    "topup_credits_remaining": 5566,
+    "credits_used_this_request": 1
+  },
+  "request_parameters": {
+    "type": "product",
+    "asin": "B0CP8D4SM2",
+    "amazon_domain": "amazon.com"
+  },
+  "request_metadata": {
+    "created_at": "2025-05-20T02:41:03.680Z",
+    "processed_at": "2025-05-20T02:41:12.880Z",
+    "total_time_taken": 9.2,
+    "amazon_url": "https://www.amazon.com/dp/B0CP8D4SM2?th=1&psc=1"
+  },
+  "product": {
+    "title": "acer Nitro V Gaming Laptop | Intel Core i5-13420H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6\" FHD IPS 144Hz Display | 8GB DDR5 | 512GB Gen 4 SSD | WiFi 6 | Backlit KB | ANV15-51-51H9",
+    "search_alias": {
+      "title": "Electronics",
+      "value": "electronics"
+    },
+    "keywords": "acer,Nitro,V,Gaming,Laptop,|,Intel,Core,i5-13420H,Processor,|,NVIDIA,GeForce,RTX,4050,Laptop,GPU,|,15.6\",FHD,IPS,144Hz,Display,|,8GB,DDR5,|,512GB,Gen,4,SSD,|,WiFi,6,|,Backlit,KB,|,ANV15-51-51H9",
+    "keywords_list": [
+      "acer",
+      "Nitro",
+      "Gaming",
+      "Laptop",
+      "Intel",
+      "Core",
+      "i5-13420H",
+      "Processor",
+      "NVIDIA",
+      "GeForce",
+      "4050",
+      "Laptop",
+      "15.6\"",
+      "144Hz",
+      "Display",
+      "DDR5",
+      "512GB",
+      "WiFi",
+      "Backlit",
+      "ANV15-51-51H9"
+    ],
+    "is_collection": false,
+    "asin": "B0CP8D4SM2",
+    "parent_asin": "B0F8Q6G4WD",
+    "link": "https://www.amazon.com/i5-13420H-Processor-GeForce-Display-ANV15-51-51H9/dp/B0CP8D4SM2",
+    "brand": "‎acer",
+    "protection_plans": [
+      {
+        "asin": "B07P84136H",
+        "title": "2-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 79.99,
+          "currency": "USD",
+          "raw": "$79.99"
+        }
+      },
+      {
+        "asin": "B07P841621",
+        "title": "4-Year Protection Plan",
+        "price": {
+          "symbol": "$",
+          "value": 129.99,
+          "currency": "USD",
+          "raw": "$129.99"
+        }
+      },
+      {
+        "asin": "B07RZ3LSHM",
+        "title": "Complete Protect: One plan covers all eligible past and future purchases (Renews Monthly Until Cancelled)",
+        "price": {
+          "symbol": "$",
+          "value": 16.99,
+          "currency": "USD",
+          "raw": "$16.99/month"
+        }
+      }
+    ],
+    "sell_on_amazon": false,
+    "variants": [
+      {
+        "is_current_product": true,
+        "title": "i5-13420H / RTX4050 8GB / 512GB",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "i5-13420H / RTX4050"
+          },
+          {
+            "name": "style",
+            "value": "8GB / 512GB"
+          }
+        ],
+        "asin": "B0CP8D4SM2",
+        "link": "https://amazon.com/dp/B0CP8D4SM2?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "i7-14650HZ / RTX4060 16\" / 16GB / 512GB",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "i7-14650HZ / RTX4060"
+          },
+          {
+            "name": "style",
+            "value": "16\" / 16GB / 512GB"
+          }
+        ],
+        "asin": "B0DDZHQNS4",
+        "link": "https://amazon.com/dp/B0DDZHQNS4?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "i7-13620H / RTX4050 16GB / 512GB",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "i7-13620H / RTX4050"
+          },
+          {
+            "name": "style",
+            "value": "16GB / 512GB"
+          }
+        ],
+        "asin": "B0CMRGBXM9",
+        "link": "https://amazon.com/dp/B0CMRGBXM9?th=1&psc=1"
+      },
+      {
+        "is_current_product": false,
+        "title": "i7-13620H / RTX4050 16GB / 1TB",
+        "dimensions": [
+          {
+            "name": "cpu",
+            "value": "i7-13620H / RTX4050"
+          },
+          {
+            "name": "style",
+            "value": "16GB / 1TB"
+          }
+        ],
+        "asin": "B0C4LTKWSG",
+        "link": "https://amazon.com/dp/B0C4LTKWSG?th=1&psc=1"
+      }
+    ],
+    "variant_asins_flat": "B0CP8D4SM2,B0DDZHQNS4,B0CMRGBXM9,B0C4LTKWSG",
+    "proposition_65_warning": false,
+    "has_size_guide": false,
+    "categories": [
+      {
+        "name": "Electronics",
+        "link": "https://www.amazon.com/electronics-store/b/ref=dp_bc_1?ie=UTF8&node=172282",
+        "category_id": "172282"
+      },
+      {
+        "name": "Computers & Accessories",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/ref=dp_bc_2?ie=UTF8&node=541966",
+        "category_id": "541966"
+      },
+      {
+        "name": "Computers & Tablets",
+        "link": "https://www.amazon.com/Computers-Tablets/b/ref=dp_bc_3?ie=UTF8&node=13896617011",
+        "category_id": "13896617011"
+      },
+      {
+        "name": "Laptops",
+        "link": "https://www.amazon.com/Notebooks-Laptop-Computers/b/ref=dp_bc_4?ie=UTF8&node=565108",
+        "category_id": "565108"
+      },
+      {
+        "name": "Traditional Laptops",
+        "link": "https://www.amazon.com/Traditional-Laptop-Computers/b/ref=dp_bc_5?ie=UTF8&node=13896615011",
+        "category_id": "13896615011"
+      }
+    ],
+    "categories_flat": "Electronics > Computers & Accessories > Computers & Tablets > Laptops > Traditional Laptops",
+    "description": "Elevate your gaming adventure with the Acer Nitro V 15, your gateway to an adrenaline-charged journey. This laptop is the perfect blend of power and style, pushing the boundaries of what’s possible on a laptop. Powered by a 13th Gen Intel Core processor and NVIDIA GeForce RTX 40-series graphics and showcasing a crystal-clear 15.6” Full HD display with a 144Hz IPS panel - you can see why the Nitro V 15 is a knockout hit for gamers of every level. (NH.QN8AA.006).",
+    "a_plus_content": {
+      "has_a_plus_content": true,
+      "has_brand_story": false,
+      "third_party": false
+    },
+    "sub_title": {
+      "text": "Visit the acer Store",
+      "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2?lp_asin=B0CP8D4SM2&ref_=ast_bln&store_ref=bl_ast_dp_brandLogo_sto"
+    },
+    "amazons_choice": {
+      "keywords": ""
+    },
+    "marketplace_id": "ATVPDKIKX0DER",
+    "rating": 4.2,
+    "rating_breakdown": {
+      "five_star": {
+        "percentage": 67,
+        "count": 754
+      },
+      "four_star": {
+        "percentage": 13,
+        "count": 146
+      },
+      "three_star": {
+        "percentage": 5,
+        "count": 56
+      },
+      "two_star": {
+        "percentage": 2,
+        "count": 22
+      },
+      "one_star": {
+        "percentage": 13,
+        "count": 146
+      }
+    },
+    "ratings_total": 1126,
+    "main_image": {
+      "link": "https://m.media-amazon.com/images/I/71F-Wcriq4L.jpg"
+    },
+    "images": [
+      {
+        "link": "https://m.media-amazon.com/images/I/71F-Wcriq4L._AC_SL1500_.jpg",
+        "variant": "MAIN"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/81NC7hXhciL._AC_SL1500_.jpg",
+        "variant": "PT01"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61igkEY73KL._AC_SL1000_.jpg",
+        "variant": "PT02"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61Jba5M+XAL._AC_SL1000_.jpg",
+        "variant": "PT03"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/710JGMmTGJL._AC_SL1000_.jpg",
+        "variant": "PT04"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61xBdjk+eTL._AC_SL1000_.jpg",
+        "variant": "PT05"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71LyDD2Z5iL._AC_SL1000_.jpg",
+        "variant": "PT06"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71k4oo18+2L._AC_SL1000_.jpg",
+        "variant": "PT07"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71StMt2-PmL._AC_SL1000_.jpg",
+        "variant": "PT08"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61lnTrJD9lL._AC_SL1500_.jpg",
+        "variant": "PT09"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61-oc1K-WkL._AC_SL1500_.jpg",
+        "variant": "PT10"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51gtyRhWCeL._AC_SL1500_.jpg",
+        "variant": "PT11"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/51Dr9m8WxaL._AC_SL1500_.jpg",
+        "variant": "PT12"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/71YcQTvQ4bL._AC_SL1500_.jpg",
+        "variant": "PT13"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61cWY5nxKhL._AC_SL1500_.jpg",
+        "variant": "PT14"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/61oOqT4fvLL._AC_SL1500_.jpg",
+        "variant": "PT15"
+      },
+      {
+        "link": "https://m.media-amazon.com/images/I/91EVXquh95L._AC_SL1500_.jpg",
+        "variant": "PT16"
+      }
+    ],
+    "images_count": 17,
+    "images_flat": "https://m.media-amazon.com/images/I/71F-Wcriq4L._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/81NC7hXhciL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61igkEY73KL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61Jba5M+XAL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/710JGMmTGJL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61xBdjk+eTL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71LyDD2Z5iL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71k4oo18+2L._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/71StMt2-PmL._AC_SL1000_.jpg,https://m.media-amazon.com/images/I/61lnTrJD9lL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61-oc1K-WkL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51gtyRhWCeL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/51Dr9m8WxaL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/71YcQTvQ4bL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61cWY5nxKhL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/61oOqT4fvLL._AC_SL1500_.jpg,https://m.media-amazon.com/images/I/91EVXquh95L._AC_SL1500_.jpg",
+    "videos": [
+      {
+        "duration_seconds": 6,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/51ybXViAZLL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7368ab5-ec02-4047-a7a8-ad2dd4829333/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "crashes when playing games"
+      },
+      {
+        "duration_seconds": 201,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/9133zK0hy9L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28a1c861-a86c-4cb6-9cf3-3edb9235656a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Video Editing on a Budget - Acer Nitro V 15 Performance Test"
+      },
+      {
+        "duration_seconds": 63,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/51l06g7UAEL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5751284-4aae-4b96-924d-200f11b47a7a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Best Laptop EVER - WATCH Before Buying"
+      },
+      {
+        "duration_seconds": 60,
+        "width": 1080,
+        "height": 2320,
+        "thumbnail": "https://m.media-amazon.com/images/I/51cpxt+4L-L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/344c357c-469f-4e25-a740-a98948b8e120/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Black screen when playing"
+      },
+      {
+        "duration_seconds": 47,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/61d2ztmXsGL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30f0971b-9616-4c5c-a4cf-3cf3c443aaf9/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Device behaving erratically"
+      },
+      {
+        "duration_seconds": 75,
+        "width": 640,
+        "height": 360,
+        "thumbnail": "https://m.media-amazon.com/images/I/511Qphaf+QL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/340491e0-236e-4888-a814-07c0145a9a6a/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Nitro V Gaming Laptop - Quick Demo and Review"
+      },
+      {
+        "duration_seconds": 64,
+        "width": 1280,
+        "height": 720,
+        "thumbnail": "https://m.media-amazon.com/images/I/91vcEOnNqVL.png",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Why You NEED To Try This Acer Nitro 5"
+      },
+      {
+        "duration_seconds": 93,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/A1TnxQdizkL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9440106-2501-49d5-bc04-9eb7aa2f48ab/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Acer Nitro V15 Gaming Laptop 2024 Review"
+      },
+      {
+        "duration_seconds": 9,
+        "width": 1920,
+        "height": 1080,
+        "thumbnail": "https://m.media-amazon.com/images/I/51Mslnr8vIL.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a431f64e-fdfe-4a0a-a035-61f287ad8ccb/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Good machine, highly recommended"
+      },
+      {
+        "duration_seconds": 15,
+        "width": 1080,
+        "height": 1920,
+        "thumbnail": "https://m.media-amazon.com/images/I/61mip3MRT-L.jpg",
+        "group_id": "IB_G1",
+        "group_type": "videos_for_this_product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3bfa6e63-982e-4f0e-a83f-df38a1355f5b/videopreview.jobtemplate.mp4.default.mp4",
+        "title": "Black screen‼️‼️‼️‼️‼️‼️ it is a waste‼️‼️‼️‼️‼️"
+      }
+    ],
+    "videos_count": 10,
+    "videos_flat": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7368ab5-ec02-4047-a7a8-ad2dd4829333/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28a1c861-a86c-4cb6-9cf3-3edb9235656a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5751284-4aae-4b96-924d-200f11b47a7a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/344c357c-469f-4e25-a740-a98948b8e120/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30f0971b-9616-4c5c-a4cf-3cf3c443aaf9/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/340491e0-236e-4888-a814-07c0145a9a6a/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9440106-2501-49d5-bc04-9eb7aa2f48ab/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a431f64e-fdfe-4a0a-a035-61f287ad8ccb/videopreview.jobtemplate.mp4.default.mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3bfa6e63-982e-4f0e-a83f-df38a1355f5b/videopreview.jobtemplate.mp4.default.mp4",
+    "videos_additional": [
+      {
+        "id": "amzn1.vse.video.0242f5979e18423ea126b8706c7382c6",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2",
+        "title": "crashes when playing games",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AFVX3BOPEP77QFHH5WNKBL43SGTQ",
+        "public_name": "Grant Degrugillier",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Grant Degrugillier",
+        "video_image_id": "51ybXViAZLL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51ybXViAZLL._CR2,0,1276,720_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51ybXViAZLL.jpg",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2edd9227-f6b3-4f42-9bb6-5176cb720487/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7368ab5-ec02-4047-a7a8-ad2dd4829333/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7368ab5-ec02-4047-a7a8-ad2dd4829333/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:06",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/e8a80114-b330-4fa2-8f3c-9c0d65e7d869.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09752ae63d324fe3bff8383c07810a50",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CMRGBXM9,B0CP8D4SM2,B0DHYFTL5D,B0DHYF6RYZ",
+        "title": "Video Editing on a Budget - Acer Nitro V 15 Performance Test",
+        "profile_image_url": "https://m.media-amazon.com/images/I/61UCG0MXm7L._CR31,6,250,250_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/toolsdoctor",
+        "public_name": "🌟 Toolsdoctor",
+        "creator_type": "Influencer",
+        "vendor_code": "toolsdoctor:shop",
+        "vendor_name": "🌟 Toolsdoctor",
+        "vendor_tracking_id": "onamzdecisitr-20",
+        "video_image_id": "9133zK0hy9L",
+        "video_image_url": "https://m.media-amazon.com/images/I/9133zK0hy9L._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/9133zK0hy9L.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a65916f9-84ae-4cb1-a108-7e489ef90529/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28a1c861-a86c-4cb6-9cf3-3edb9235656a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28a1c861-a86c-4cb6-9cf3-3edb9235656a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/28a1c861-a86c-4cb6-9cf3-3edb9235656a/13ff42a1-9dfd-4488-be93-c5b48ec36d1e/09752ae63d324fe3bff8383c07810a50_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "3:21",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/cfe58791-3e42-4073-a05f-5e294518efb4.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0c60a73499bf4a03a0011b2406195bfd",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2,B0D38TS5VP",
+        "title": "Best Laptop EVER - WATCH Before Buying",
+        "profile_image_url": "https://m.media-amazon.com/images/I/41zKmnhcH2L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/memeshubet",
+        "public_name": "Product Overview",
+        "creator_type": "Influencer",
+        "vendor_code": "memeshubet:shop",
+        "vendor_name": "Product Overview",
+        "vendor_tracking_id": "onamzconno0d3-20",
+        "video_image_id": "51l06g7UAEL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51l06g7UAEL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51l06g7UAEL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b7351726-39fb-4860-9838-7c519bf700c2/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5751284-4aae-4b96-924d-200f11b47a7a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5751284-4aae-4b96-924d-200f11b47a7a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a5751284-4aae-4b96-924d-200f11b47a7a/55a55d2f-296e-4114-bbe8-ec3d33696310/0c60a73499bf4a03a0011b2406195bfd_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:03",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/9c20158a-8bb0-440f-90a5-2941be26aaa6.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.03c82f778ec448039bfc25fb74feb37e",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2",
+        "title": "Black screen when playing",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHDCM5G44KSUC54QDOWPWZAMHEJQ",
+        "public_name": "Christian Aiuchi",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Christian Aiuchi",
+        "video_image_id": "51cpxt+4L-L",
+        "video_image_url": "https://m.media-amazon.com/images/I/51cpxt+4L-L._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51cpxt+4L-L.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "2320",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d534ae0e-54f8-4906-b226-2b83bb42da27/default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/344c357c-469f-4e25-a740-a98948b8e120/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/344c357c-469f-4e25-a740-a98948b8e120/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:00",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/90f45d29-5c8e-4478-a0a1-fa4046584150.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0050ec1eca914dc6b65da215c832507f",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2",
+        "title": "Device behaving erratically",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/dfe2fdef-530c-44c1-9675-f0242abfdf27._CR0%2C26%2C281%2C281_UX460_._SL34_.jpg",
+        "profile_link": "/gp/profile/amzn1.account.AG533S4TGYOW65T3C7VSETZRRIEA",
+        "public_name": "Ike",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Ike",
+        "video_image_id": "61d2ztmXsGL",
+        "video_image_url": "https://m.media-amazon.com/images/I/61d2ztmXsGL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61d2ztmXsGL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/027748d1-6347-42f7-adb1-442a5840edc3/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30f0971b-9616-4c5c-a4cf-3cf3c443aaf9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/30f0971b-9616-4c5c-a4cf-3cf3c443aaf9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:47",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/5c731742-c3a5-43fa-93e6-f50fdcec1da2.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09dba425f0214bddb61e6a0fb1b1678c",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2,B0DHYF6RYZ",
+        "title": "Acer Nitro V Gaming Laptop - Quick Demo and Review",
+        "profile_image_url": "https://m.media-amazon.com/images/I/718t+q8o7uL._CR0,0,1073,1073_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/agnieszk4n",
+        "public_name": "Agnes",
+        "creator_type": "Influencer",
+        "vendor_code": "agnieszk4n:shop",
+        "vendor_name": "Agnes",
+        "vendor_tracking_id": "onamzagnes09-20",
+        "video_image_id": "511Qphaf+QL",
+        "video_image_url": "https://m.media-amazon.com/images/I/511Qphaf+QL._CR1,0,638,360_SR342,193_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/511Qphaf+QL.jpg",
+        "video_image_width": "640",
+        "video_image_height": "360",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/417e8388-ad45-4591-89e0-4b66afc78841/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/340491e0-236e-4888-a814-07c0145a9a6a/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/340491e0-236e-4888-a814-07c0145a9a6a/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/340491e0-236e-4888-a814-07c0145a9a6a/c34be975-b0c9-43ff-b60e-94b8bc0d9c84/09dba425f0214bddb61e6a0fb1b1678c_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/6ba98b1c-b3f2-4f17-ae58-312d09ba83e5.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.041aabe43eb54c29999927dc978cf182",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2,B0D8JXHZTH,B0DHYF6RYZ,B0DWCFKFC6",
+        "title": "Why You NEED To Try This Acer Nitro 5",
+        "profile_image_url": "https://m.media-amazon.com/images/I/A1Yj35MGW5L._CR0,459,904,903_._FMjpg_._SL34_.jpg",
+        "profile_link": "/shop/pacodesigntipshacks",
+        "public_name": "Paco Puylaert",
+        "creator_type": "Influencer",
+        "vendor_code": "pacodesigntipshacks:shop",
+        "vendor_name": "Paco Puylaert",
+        "vendor_tracking_id": "onamzpacopuyl-20",
+        "video_image_id": "91vcEOnNqVL",
+        "video_image_url": "https://m.media-amazon.com/images/I/91vcEOnNqVL._CR2,0,1276,720_SR684,386_.png",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/91vcEOnNqVL.png",
+        "video_image_width": "1280",
+        "video_image_height": "720",
+        "video_image_extension": "png",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/44d7b6da-8914-4213-8e0d-c0b425175f63/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0a41305f-873e-405f-aca9-dd9c1c3a34d9/6b7b06cc-5c93-4818-83a1-ba88529e6fef/041aabe43eb54c29999927dc978cf182_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:04",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/975e1425-2ebc-45ae-859a-78fc8c502939.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.09b56ef9270d4c50a892a3a8a5c6aa07",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2,B0D38TS5VP",
+        "title": "Acer Nitro V15 Gaming Laptop 2024 Review",
+        "profile_image_url": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/technopanda_1677223281809_original._FMjpg_._SL34_.jpeg",
+        "profile_link": "/shop/technopanda",
+        "public_name": "Techno Panda Picks",
+        "creator_type": "Influencer",
+        "vendor_code": "technopanda:shop",
+        "vendor_name": "Techno Panda Picks",
+        "vendor_tracking_id": "onamztechnopa-20",
+        "video_image_id": "A1TnxQdizkL",
+        "video_image_url": "https://m.media-amazon.com/images/I/A1TnxQdizkL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/A1TnxQdizkL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e885ba9d-d4e9-46ea-bc2b-5bce026c0165/default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9440106-2501-49d5-bc04-9eb7aa2f48ab/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9440106-2501-49d5-bc04-9eb7aa2f48ab/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9440106-2501-49d5-bc04-9eb7aa2f48ab/977868e5-f0b2-409e-aea0-a32bca3dafbd/09b56ef9270d4c50a892a3a8a5c6aa07_0-100-0-100_gandalf_preview.m3u8,gandalf,application/x-mpegURL",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "1:33",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/3188c5ae-7eae-442c-b5ca-09e51004828c.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.02dd2fa6bc6e41bfa1d970a4b8a12703",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2",
+        "title": "Good machine, highly recommended",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AHYJHNH7DVQH7BVHFPXH4OBID6XQ",
+        "public_name": "Sico",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Sico",
+        "video_image_id": "51Mslnr8vIL",
+        "video_image_url": "https://m.media-amazon.com/images/I/51Mslnr8vIL._CR3,0,1914,1080_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/51Mslnr8vIL.jpg",
+        "video_image_width": "1920",
+        "video_image_height": "1080",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0901b2bb-e6da-4646-bf35-f7723f433bab/embedded.cc.default.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a431f64e-fdfe-4a0a-a035-61f287ad8ccb/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a431f64e-fdfe-4a0a-a035-61f287ad8ccb/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:09",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/4d9ce0f6-730c-4eb4-91c8-b24f40a77b05.vtt",
+        "type": "videos_for_related_products"
+      },
+      {
+        "id": "amzn1.vse.video.0ff4290ad8454e43b85d4d9caf5c38f4",
+        "product_asin": "B0CP8D4SM2",
+        "parent_asin": "B0F8Q6G4WD",
+        "related_products": "B0CP8D4SM2",
+        "title": "Black screen‼️‼️‼️‼️‼️‼️ it is a waste‼️‼️‼️‼️‼️",
+        "profile_image_url": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "profile_link": "/gp/profile/amzn1.account.AEKIFTL6BEQU4YTDW7CIHULKYWDA",
+        "public_name": "Bayasgalan",
+        "creator_type": "Customer",
+        "vendor_code": "AOD60",
+        "vendor_name": "Bayasgalan",
+        "video_image_id": "61mip3MRT-L",
+        "video_image_url": "https://m.media-amazon.com/images/I/61mip3MRT-L._CR0,0,1080,609_SR684,386_.jpg",
+        "video_image_url_unchanged": "https://m.media-amazon.com/images/I/61mip3MRT-L.jpg",
+        "video_image_width": "1080",
+        "video_image_height": "1920",
+        "video_image_extension": "jpg",
+        "video_url": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cfb764b1-8c63-497f-a091-fe3e60675695/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "video_previews": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3bfa6e63-982e-4f0e-a83f-df38a1355f5b/videopreview.jobtemplate.mp4.default.mp4,342X192P_20HZ_350KBPS_VER_1_0,video/mp4,https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3bfa6e63-982e-4f0e-a83f-df38a1355f5b/videopreview.jobtemplate.mp4.default.mp4,default,video/mp4",
+        "video_mime_type": "application/x-mpegURL",
+        "duration": "0:15",
+        "closed_captions": "en,https://m.media-amazon.com/images/S/vse-vms-closed-captions-artifact-us-east-1-prod/closedCaptions/a4adf665-3594-4838-a596-1ab37f43a7f7.vtt",
+        "type": "videos_for_related_products"
+      }
+    ],
+    "has_360_view": false,
+    "is_bundle": false,
+    "feature_bullets": [
+      "Beyond Performance: Empower your gaming and creativity with the Nitro V 15, combining a 13th Gen Intel Core i5-13420H processor with the NVIDIA GeForce RTX 4050 Laptop GPU",
+      "More Games. More Fun. Windows is the GOAT of gaming. We have more game titles than any other OS. Windows has more triple-A game titles than any other OS, play popular releases solo or with friends – because you know victory is sweeter when its shared.*",
+      "Power That Plays Harder. Windows offers more games titles you can't get on a Mac*. Designed for speed, impressive app performance - we have the power, graphics, and memory to keep your head in the game.**",
+      "Can Your Mac Do This? Level up your game with Game Bar, and more. Immerse yourself in vivid worlds and experience impressive realism and framerates with DirectX 12 Ultimate running natively - so every detail moves with you.***",
+      "AI-Driven Graphics: Experience gaming at its zenith with the NVIDIA GeForce RTX 4050 laptop graphics (194 AI TOPS for advanced AI). Dive deep into lifelike visuals and unparalleled performance, all amplified by DLSS 3 technology. Harness AI-driven advancements for smoother, more immersive gameplay that keeps you at the edge of your seat.",
+      "Picture-Perfect. Furiously Fast: See your digital conquests unfold in vibrant Full HD on a 15.6\" screen, perfectly timed at a quick 144Hz refresh rate and a wide 16:9 aspect ratio providing 82.64% screen-to-body ratio. Now you can land those reflexive shots with pinpoint accuracy and minimal ghosting. It's like having a portal to the gaming universe right on your lap.",
+      "Thunderbolt 4: With the powerful Thunderbolt 4 port, you have the trifecta of power charging and data transfer with bidirectional movement and video display in one interface. | Stay Connected: Your gaming sanctuary is wherever you are. On the couch? Settle in with fast and stable Wi-Fi 6. Gaming Cafe? Get an edge online with Gigabit Ethernet. No matter your location, Nitro V 15 ensures you're always in the driver's seat.",
+      "Chilled to Perfection: Keep your cool amidst the fiercest gaming galaxies, thanks to Nitro V 15's innovative dual fans and effective exhaust system.",
+      "Customize Performance with NitroSense: Monitor internal temperatures, adjust fan speeds, and fine-tune performance settings to ensure your laptop stays cool and efficient during gameplay or while multitasking.",
+      "Disclaimers: *Games sold separately; availability varies over time and by region. Internet, additional fees, minimum hardware and/or other requirements apply for some games and features. **Specs and performance vary by device. ***Games sold separately; availability varies over time and by region. Internet, additional fees, minimum hardware and/or other requirements apply for some games and features. Performance may vary significantly by device. See: (Gaming on Windows 11: Windows Gaming PC & Laptops | Microsoft Windows)"
+    ],
+    "feature_bullets_count": 10,
+    "feature_bullets_flat": "Disclaimers: *Games sold separately; availability varies over time and by region. Internet, additional fees, minimum hardware and/or other requirements apply for some games and features. **Specs and performance vary by device. ***Games sold separately; availability varies over time and by region. Internet, additional fees, minimum hardware and/or other requirements apply for some games and features. Performance may vary significantly by device. See: (Gaming on Windows 11: Windows Gaming PC & Laptops | Microsoft Windows). Customize Performance with NitroSense: Monitor internal temperatures, adjust fan speeds, and fine-tune performance settings to ensure your laptop stays cool and efficient during gameplay or while multitasking. Chilled to Perfection: Keep your cool amidst the fiercest gaming galaxies, thanks to Nitro V 15's innovative dual fans and effective exhaust system. Thunderbolt 4: With the powerful Thunderbolt 4 port, you have the trifecta of power charging and data transfer with bidirectional movement and video display in one interface. | Stay Connected: Your gaming sanctuary is wherever you are. On the couch? Settle in with fast and stable Wi-Fi 6. Gaming Cafe? Get an edge online with Gigabit Ethernet. No matter your location, Nitro V 15 ensures you're always in the driver's seat. Picture-Perfect. Furiously Fast: See your digital conquests unfold in vibrant Full HD on a 15.6\" screen, perfectly timed at a quick 144Hz refresh rate and a wide 16:9 aspect ratio providing 82.64% screen-to-body ratio. Now you can land those reflexive shots with pinpoint accuracy and minimal ghosting. It's like having a portal to the gaming universe right on your lap. AI-Driven Graphics: Experience gaming at its zenith with the NVIDIA GeForce RTX 4050 laptop graphics (194 AI TOPS for advanced AI). Dive deep into lifelike visuals and unparalleled performance, all amplified by DLSS 3 technology. Harness AI-driven advancements for smoother, more immersive gameplay that keeps you at the edge of your seat. Can Your Mac Do This? Level up your game with Game Bar, and more. Immerse yourself in vivid worlds and experience impressive realism and framerates with DirectX 12 Ultimate running natively - so every detail moves with you.***. Power That Plays Harder. Windows offers more games titles you can't get on a Mac*. Designed for speed, impressive app performance - we have the power, graphics, and memory to keep your head in the game.**. More Games. More Fun. Windows is the GOAT of gaming. We have more game titles than any other OS. Windows has more triple-A game titles than any other OS, play popular releases solo or with friends – because you know victory is sweeter when its shared.*. Beyond Performance: Empower your gaming and creativity with the Nitro V 15, combining a 13th Gen Intel Core i5-13420H processor with the NVIDIA GeForce RTX 4050 Laptop GPU.",
+    "top_reviews": [
+      {
+        "id": "RLWRYZGYVNJGA",
+        "title": "Great computer",
+        "body": "I bought this computer for my work at home job that requires a lot from a computer and so far this one is working great. So much better and faster than my old one. It was a little expensive but it has been worth every penny. All of the technical problems that I was having before that I thought was my internet was actually my computer. If you are looking for a computer to work from home I would highly recommend this one. The only thing I would change would be a bigger screen. Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>I bought this computer for my work at home job that requires a lot from a computer and so far this one is working great. So much better and faster than my old one. It was a little expensive but it has been worth every penny. All of the technical problems that I was having before that I thought was my internet was actually my computer. If you are looking for a computer to work from home I would highly recommend this one. The only thing I would change would be a bigger screen.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RLWRYZGYVNJGA/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 13, 2025",
+          "utc": "2025-05-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "ACB",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFYANXZJCWLLXRMVBCI4DZD25IYA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFYANXZJCWLLXRMVBCI4DZD25IYA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i7-13620H / RTX4050"
+          },
+          {
+            "Style": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R3VVM36K1Q2ZZ3",
+        "title": "Outstanding Performance and Incredible Value for Gamers!",
+        "body": "The Acer Nitro V Gaming Laptop is an absolute beast for its price! The Intel Core i7-13620H processor and NVIDIA GeForce RTX 4050 GPU deliver exceptional performance, handling even the most demanding games and applications with ease. I’ve been running AAA titles at high settings, and the 144Hz FHD IPS display ensures buttery-smooth visuals with stunning clarity and vibrant colors.  The 16GB DDR5 RAM and 512GB Gen 4 SSD provide a perfect balance of speed and storage. Multitasking is seamless, and load times are incredibly fast, whether I’m gaming, editing videos, or streaming content. The WiFi 6 ensures a rock-solid internet connection, even in crowded networks, making it ideal for online gaming.  The laptop’s design is sleek and modern, with a durable build that feels premium. The backlit keyboard is not only functional for low-light environments but also adds a touch of style. The cooling system works effectively, keeping the laptop cool even during long gaming sessions.  This machine checks all the boxes for a gaming laptop: powerful, efficient, and reasonably priced. Whether you’re a casual gamer or a serious enthusiast, the Acer Nitro V is a fantastic choice. I couldn’t be happier with my purchase and highly recommend it to anyone looking for top-tier performance without breaking the bank! Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Acer Nitro V Gaming Laptop is an absolute beast for its price! The Intel Core i7-13620H processor and NVIDIA GeForce RTX 4050 GPU deliver exceptional performance, handling even the most demanding games and applications with ease. I&#x2019;ve been running AAA titles at high settings, and the 144Hz FHD IPS display ensures buttery-smooth visuals with stunning clarity and vibrant colors.<br/><br/>The 16GB DDR5 RAM and 512GB Gen 4 SSD provide a perfect balance of speed and storage. Multitasking is seamless, and load times are incredibly fast, whether I&#x2019;m gaming, editing videos, or streaming content. The WiFi 6 ensures a rock-solid internet connection, even in crowded networks, making it ideal for online gaming.<br/><br/>The laptop&#x2019;s design is sleek and modern, with a durable build that feels premium. The backlit keyboard is not only functional for low-light environments but also adds a touch of style. The cooling system works effectively, keeping the laptop cool even during long gaming sessions.<br/><br/>This machine checks all the boxes for a gaming laptop: powerful, efficient, and reasonably priced. Whether you&#x2019;re a casual gamer or a serious enthusiast, the Acer Nitro V is a fantastic choice. I couldn&#x2019;t be happier with my purchase and highly recommend it to anyone looking for top-tier performance without breaking the bank!<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R3VVM36K1Q2ZZ3/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on January 6, 2025",
+          "utc": "2025-01-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Jh",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AE6DYJJANIG2WBSDQ3IRZLCQ6X4A/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AE6DYJJANIG2WBSDQ3IRZLCQ6X4A",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/9066890d-d4f3-4e7b-af08-7fe617e9704a._CR504%2C0%2C3024%2C3024_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 32,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i7-13620H / RTX4050"
+          },
+          {
+            "Style": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R28FAJEXSCQILZ",
+        "title": "Nice",
+        "body": "Works really well for me in performance. The GPU is great and CPU is alright. The battery isn't long lasting and the fan is loud AF when set to performance mode. Other than that it's a good choice. Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Works really well for me in performance. The GPU is great and CPU is alright. The battery isn&apos;t long lasting and the fan is loud AF when set to performance mode. Other than that it&apos;s a good choice.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R28FAJEXSCQILZ/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on May 16, 2025",
+          "utc": "2025-05-16T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Joselitto sanchez",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGYJYITCVKMDBZVLNAC425N5CLVQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGYJYITCVKMDBZVLNAC425N5CLVQ",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/898aba78-aa32-488c-9c66-70cfd15780aa._CR0%2C41%2C250%2C250_UX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R9F9WA4SHYMBN",
+        "title": "Excellent budget gaming laptop",
+        "body": "What can I say? For the price, you're getting a machine that can play modern AAA games at medium/low settings with ~60fps (tested Horizon Zero Dawn so far, steady 60 at low settings). Can easily run older games at high settings/high frames. Absolute beast for emulation on the go, only outclassed by the likes of the steam deck and rog ally in terms of portability.  The specs are decent for an entry level budget laptop. The 4050 is an entry level gpu (especially for a laptop gpu), and so is the i5, but don't let that dissuade you, this laptop is plenty powerful for the price. The perk of having a 40 series gpu of course is dlss 3.0 and frame gen. The main issue of course is the storage and ram. Both easy upgrades. The motherboard supports two nvme drives (one being gen 4 and the other gen 3) and two ram slots. The first thing I did was upgrade my storage and ram (1tb gen 3 ssd and 32 gbs of ram, an extra ~150) which is necessary if you plan on playing modern games.  Overall, a great little entry level machine that you will not be disappointed with. Definitely try to get on sale.  EDIT: GPU crapped out on me not even a couple months later after purchase. Was experiencing blue screens constantly until one day the laptop started to refuse to recognize the gpu. Upon further research, this is a very common issue with this series of laptops from Acer. The RMA process is a pain, and they offer no local dropoff outside of their repair center in Texas. Hit or miss if you'll get a working product or a detective one, buyers beware.  EDIT 2: They would not repair my laptop because of \"water damage\" (common term by first party entities, those who do not support right to repair - easy to dismiss in their TOA and other agreements you supply as a consumer). If you google this laptop, you'll see most failures are the GPU, and the customer cannot get it RMA'd because of \"water damage\" or other failures. The fact is these are mainly mainboard issues as the quality and production on these PCBs are terrible. I was sent a picture of the copper heatsink with oxidization as my reason for no repair. The failure rate of vital parts in this product is not worth the price tag. If you want an actual gaming laptop, please spend the money for vetted higher brand product.  Last edit: Get an HP victus on sale. Dropped this thing three times and am finishing up Kingdom Come deliverance 2 with close to 144 frames with a 4070 laptop GPU and an AMD ryzen 7 for ~ 900 on sale from bestbuy. Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>What can I say? For the price, you&apos;re getting a machine that can play modern AAA games at medium/low settings with ~60fps (tested Horizon Zero Dawn so far, steady 60 at low settings). Can easily run older games at high settings/high frames. Absolute beast for emulation on the go, only outclassed by the likes of the steam deck and rog ally in terms of portability.<br/><br/>The specs are decent for an entry level budget laptop. The 4050 is an entry level gpu (especially for a laptop gpu), and so is the i5, but don&apos;t let that dissuade you, this laptop is plenty powerful for the price. The perk of having a 40 series gpu of course is dlss 3.0 and frame gen. The main issue of course is the storage and ram. Both easy upgrades. The motherboard supports two nvme drives (one being gen 4 and the other gen 3) and two ram slots. The first thing I did was upgrade my storage and ram (1tb gen 3 ssd and 32 gbs of ram, an extra ~150) which is necessary if you plan on playing modern games.<br/><br/>Overall, a great little entry level machine that you will not be disappointed with. Definitely try to get on sale.<br/><br/>EDIT: GPU crapped out on me not even a couple months later after purchase. Was experiencing blue screens constantly until one day the laptop started to refuse to recognize the gpu. Upon further research, this is a very common issue with this series of laptops from Acer. The RMA process is a pain, and they offer no local dropoff outside of their repair center in Texas. Hit or miss if you&apos;ll get a working product or a detective one, buyers beware.<br/><br/>EDIT 2: They would not repair my laptop because of &quot;water damage&quot; (common term by first party entities, those who do not support right to repair - easy to dismiss in their TOA and other agreements you supply as a consumer). If you google this laptop, you&apos;ll see most failures are the GPU, and the customer cannot get it RMA&apos;d because of &quot;water damage&quot; or other failures. The fact is these are mainly mainboard issues as the quality and production on these PCBs are terrible. I was sent a picture of the copper heatsink with oxidization as my reason for no repair. The failure rate of vital parts in this product is not worth the price tag. If you want an actual gaming laptop, please spend the money for vetted higher brand product.<br/><br/>Last edit: Get an HP victus on sale. Dropped this thing three times and am finishing up Kingdom Come deliverance 2 with close to 144 frames with a 4070 laptop GPU and an AMD ryzen 7 for ~ 900 on sale from bestbuy.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R9F9WA4SHYMBN/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 1,
+        "date": {
+          "raw": "Reviewed in the United States on September 13, 2024",
+          "utc": "2024-09-13T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Mark Collins",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AHC3KHE3TUUMGMWQCZFUQR4FSJFQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AHC3KHE3TUUMGMWQCZFUQR4FSJFQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 67,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R13JMWIO9L0ZR2",
+        "title": "Great for the Price",
+        "body": "The Good: Great Graphics card, very nice screen. Got average of 100fps on Cyberpunk on high settings verified by benchmark. Easily upgraded with 32gb of ram & a 2tb ssd, so my review is for a unit that includes said upgrades. Quick download sStall. I always stay plugged in, so no comments on battery life.  The not so good: The cooling system is very loud and unpredictable. Sounds like a ocean wave sound machine. Because of the monitor hinge design, the heat exhaust blows on the bottom of the monitor. The zero on the keyboard number pad is in a weird place. Setup took the longest its ever taken for a new laptop. Updates had to be downloaded manually, and if I tired more than one at a time, they would stall. Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>The Good: Great Graphics card, very nice screen. Got average of 100fps on Cyberpunk on high settings verified by benchmark. Easily upgraded with 32gb of ram &amp; a 2tb ssd, so my review is for a unit that includes said upgrades. Quick download sStall. I always stay plugged in, so no comments on battery life.<br/><br/>The not so good: The cooling system is very loud and unpredictable. Sounds like a ocean wave sound machine. Because of the monitor hinge design, the heat exhaust blows on the bottom of the monitor. The zero on the keyboard number pad is in a weird place. Setup took the longest its ever taken for a new laptop. Updates had to be downloaded manually, and if I tired more than one at a time, they would stall.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R13JMWIO9L0ZR2/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 4,
+        "date": {
+          "raw": "Reviewed in the United States on April 14, 2025",
+          "utc": "2025-04-14T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "S. Eddy",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AGNDRYMGLDWUFJ3OZUQUWFSZC6WA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AGNDRYMGLDWUFJ3OZUQUWFSZC6WA",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/7f7a1172-9360-4454-b26d-fdb78c8a6e5b._CR83%2C0%2C333%2C333_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "RBAE6ULESKVIO",
+        "title": "Excellent so far",
+        "body": "So far, for price and time I have had it, runs well. Plays games like halo infinite smoothly even with our spotty internet. Streams well. I use it to game with my husband and my certifications. Has great speed and the casing is so nice and sleek. Slight weight. The battery is actually pretty good for a laptop. My Toshiba was about the same, depends on what you're doing to how long the battery lasts. My certification, it lasts for about 4 hrs or so, for gaming, about an hr. I have had laptops with better batteries and ones with worse. It does everything I need and more. Going to invest in portable storage. Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>So far, for price and time I have had it, runs well. Plays games like halo infinite smoothly even with our spotty internet. Streams well. I use it to game with my husband and my certifications. Has great speed and the casing is so nice and sleek. Slight weight. The battery is actually pretty good for a laptop. My Toshiba was about the same, depends on what you&apos;re doing to how long the battery lasts. My certification, it lasts for about 4 hrs or so, for gaming, about an hr. I have had laptops with better batteries and ones with worse. It does everything I need and more. Going to invest in portable storage.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/RBAE6ULESKVIO/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on March 29, 2025",
+          "utc": "2025-03-29T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Leilani Domingue",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AFG77HJTT25AMD63TNOROVRGSGNA/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AFG77HJTT25AMD63TNOROVRGSGNA"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i7-13620H / RTX4050"
+          },
+          {
+            "Style": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R1RP94EFNDDD59",
+        "title": "Gaming W",
+        "body": "Amazing runs pretty much every game smoothly. My girlfriend loves it and it’s very portable. The screen display is gorgeous and game graphics look GREAT. The battery life does drain a bit fast but that’s pretty much every laptop that gets used for gaming. She generally plays the sims but she has hundreds of mods and it runs great! I would recommend to anyone needing a top notch laptop. Read more",
+        "asin": "B0CP8D4SM2",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>Amazing runs pretty much every game smoothly. My girlfriend loves it and it&#x2019;s very portable. The screen display is gorgeous and game graphics look GREAT. The battery life does drain a bit fast but that&#x2019;s pretty much every laptop that gets used for gaming. She generally plays the sims but she has hundreds of mods and it runs great! I would recommend to anyone needing a top notch laptop.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "link": "https://www.amazon.com/gp/customer-reviews/R1RP94EFNDDD59/ref=cm_cr_dp_d_rvw_ttl?ie=UTF8&ASIN=B0CP8D4SM2",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in the United States on April 10, 2025",
+          "utc": "2025-04-10T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Aiden",
+          "link": "https://www.amazon.com/gp/profile/amzn1.account.AH6WMUQNP3SLZFGVAXFAXK4NUOOQ/ref=cm_cr_dp_d_gw_tr?ie=UTF8",
+          "id": "AH6WMUQNP3SLZFGVAXFAXK4NUOOQ"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "helpful_votes": 5,
+        "review_country": "us",
+        "is_global_review": false,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R1N3RULD9PNDKW",
+        "title": "Extreme good value",
+        "body": "For the specs and features, for a thousand dollars it is worth it.  No other laptops will offer you a thunderbolt port at this price along with a rtx 4050 with a good cpu. Though the ram and ssd needs to be upgraded afterwards  No annoying warranty sticker blocking any screw holes so that is a plus. Read more",
+        "body_html": "<script>   (function() {    P.when(&apos;cr-A&apos;, &apos;ready&apos;).execute(function(A) {     if(typeof A.toggleExpanderAriaLabel === &apos;function&apos;) {      A.toggleExpanderAriaLabel(&apos;review_text_read_more&apos;, &apos;Read more of this review&apos;, &apos;Read less of this review&apos;);     }    });   })();  </script>  <style>   .review-text-read-more-expander:focus-visible {    outline: 2px solid #2162a1;    outline-offset: 2px;    border-radius: 5px;   }  </style> <div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">             <span>For the specs and features, for a thousand dollars it is worth it.<br/><br/>No other laptops will offer you a thunderbolt port at this price along with a rtx 4050 with a good cpu. Though the ram and ssd needs to be upgraded afterwards<br/><br/>No annoying warranty sticker blocking any screw holes so that is a plus.<br/></span>   </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Singapore on September 24, 2024",
+          "utc": "2024-09-24T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "D"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "us",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R22K832FJLOTI1",
+        "title": "Alto rendimiento por bajo precio. INCREIBLE pero...",
+        "body": "Estoy enamoradisimo de esta Laptop, es mi primera laptop gaming y es increíble, no me arrepiento para nada.  Me salio a muy buen precio en el Prime Day, No la he podido utilizar aun para estudios universitarios, pero si para modelado 3D, Diseño gráfico, Gaming y más, y jamás me ha ido mal.  Ventajas: Potabilidad: La laptop es muy ligera, te la puedes llevar en mano sin problema y no consume mucho espacio.  Ventiladores: Los ventiladores son altamente customizables en la app que viene por defecto, puedes hacerlos o muy silenciosos o muy ruidosos, también puedes hacerlos automáticos o crear tu propia configuración. También puedes hacer que se active ciertas funciones cada que entras a ciertas apps. Pero lo que más me impresiona que puedo jugar cosas exigentes y la laptop apenas y se va a calentar poquito. (Igual en todo caso, recomiendo comprar una base para levantar la laptop y que entre aire, o una base enfriadora, pero esto ya es decisión personal).  Tarjeta gráfica nvidia y Drivers: esta laptop no decepciona, puedes hacer grabaciones, transmitir, tomar capturas, etc. Los drivers también se mantienen muy actualizados y cada cierto tiempo hay actualizaciones de sistema, lo que va bastante bien.  Gaming: Esta laptop corre de todo, Puedo jugar Fortnite en Direct 12 en altos gráficos sin ningún problema y aun así manteniendo la laptop fría. Resident Evil 4 y Cyberpunk sin problema pero... recomiendo mantener el ventilador en una configuración rápida, porque estos juegos si calientan la laptop, pero igual tu puedes correrlos sin ningún problema y con gráficos alusinantes. Claro, que recomiendo variar las configuraciones para una mejor experiencia.  Desventajas: Bateria: no te va a durar más de 2 horas sin estar enchufada; a no ser que lo tengas en un plan de bajo consumo, con ventiladores bajos y usando apps poco demandantes. Pero igual no te va a durar mucho la batería, la vas a tener que tener conectada para casi todo.  Teclado e idioma de sistema: el sistema esta en ingles; es fácil de cambiar; el teclado es Estado Unidense; no contiene Ñ y solo brilla de color blanco, me hubiera gustado de más colores pero no tengo problema. Y sobre la Ñ, hay que cambiar el teclado en el sistema, no es difícil y de hecho, te acostumbras muy fácil, olvidando que no la contiene.  Materiales: no tengo problema con esto, pero los materiales de construcción se sienten ligeros.  Pantalla: tiene muy poco brillo, colores muy opacos O levemente distorsionado, (te podría causar problemas si te dedicas al diseño o el dibujo, pero para el gaming no se nota)  Almacenamiento: su almacenamiento es MUY limitado, con pocos juegos se te llenará y es casi obligatorio comprar una SSD de expansión o tener buen control de tus apps.  Conclusion: Me encanta y no me cansaré nunca de ella, apesar de sus defectos, estoy muy feliz por el precio económico y los beneficios que me ha brindado en casi un año de uso continuo. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Estoy enamoradisimo de esta Laptop, es mi primera laptop gaming y es incre&#xED;ble, no me arrepiento para nada.<br/><br/>Me salio a muy buen precio en el Prime Day, No la he podido utilizar aun para estudios universitarios, pero si para modelado 3D, Dise&#xF1;o gr&#xE1;fico, Gaming y m&#xE1;s, y jam&#xE1;s me ha ido mal.<br/><br/>Ventajas:<br/>Potabilidad: La laptop es muy ligera, te la puedes llevar en mano sin problema y no consume mucho espacio.<br/><br/>Ventiladores: Los ventiladores son altamente customizables en la app que viene por defecto, puedes hacerlos o muy silenciosos o muy ruidosos, tambi&#xE9;n puedes hacerlos autom&#xE1;ticos o crear tu propia configuraci&#xF3;n. Tambi&#xE9;n puedes hacer que se active ciertas funciones cada que entras a ciertas apps. Pero lo que m&#xE1;s me impresiona que puedo jugar cosas exigentes y la laptop apenas y se va a calentar poquito. (Igual en todo caso, recomiendo comprar una base para levantar la laptop y que entre aire, o una base enfriadora, pero esto ya es decisi&#xF3;n personal).<br/><br/>Tarjeta gr&#xE1;fica nvidia y Drivers: esta laptop no decepciona, puedes hacer grabaciones, transmitir, tomar capturas, etc. Los drivers tambi&#xE9;n se mantienen muy actualizados y cada cierto tiempo hay actualizaciones de sistema, lo que va bastante bien.<br/><br/>Gaming: Esta laptop corre de todo, Puedo jugar Fortnite en Direct 12 en altos gr&#xE1;ficos sin ning&#xFA;n problema y aun as&#xED; manteniendo la laptop fr&#xED;a. Resident Evil 4 y Cyberpunk sin problema pero... recomiendo mantener el ventilador en una configuraci&#xF3;n r&#xE1;pida, porque estos juegos si calientan la laptop, pero igual tu puedes correrlos sin ning&#xFA;n problema y con gr&#xE1;ficos alusinantes. Claro, que recomiendo variar las configuraciones para una mejor experiencia.<br/><br/>Desventajas:<br/>Bateria: no te va a durar m&#xE1;s de 2 horas sin estar enchufada; a no ser que lo tengas en un plan de bajo consumo, con ventiladores bajos y usando apps poco demandantes. Pero igual no te va a durar mucho la bater&#xED;a, la vas a tener que tener conectada para casi todo.<br/><br/>Teclado e idioma de sistema: el sistema esta en ingles; es f&#xE1;cil de cambiar; el teclado es Estado Unidense; no contiene &#xD1; y solo brilla de color blanco, me hubiera gustado de m&#xE1;s colores pero no tengo problema. Y sobre la &#xD1;, hay que cambiar el teclado en el sistema, no es dif&#xED;cil y de hecho, te acostumbras muy f&#xE1;cil, olvidando que no la contiene.<br/><br/>Materiales: no tengo problema con esto, pero los materiales de construcci&#xF3;n se sienten ligeros.<br/><br/>Pantalla: tiene muy poco brillo, colores muy opacos O levemente distorsionado, (te podr&#xED;a causar problemas si te dedicas al dise&#xF1;o o el dibujo, pero para el gaming no se nota)<br/><br/>Almacenamiento: su almacenamiento es MUY limitado, con pocos juegos se te llenar&#xE1; y es casi obligatorio comprar una SSD de expansi&#xF3;n o tener buen control de tus apps.<br/><br/>Conclusion:<br/>Me encanta y no me cansar&#xE9; nunca de ella, apesar de sus defectos, estoy muy feliz por el precio econ&#xF3;mico y los beneficios que me ha brindado en casi un a&#xF1;o de uso continuo.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on February 25, 2025",
+          "utc": "2025-02-25T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "DavidRubio654"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "i7-13620H / RTX4050"
+          },
+          {
+            "Style": "16GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R43AJO0B7A9T4",
+        "title": "Maravilla",
+        "body": "Definitivamente vale la pena el precio en promo q la compre, estuve un buen rato buscando con mi presupuesto y solo encontraba 2050 nueva o 3050 de uso en marketplace pero por los 14k que me costó esta joyita definitivamente lo vale, claro es que necesita up de ram y ssd pero por el momento me hace perfectamente lo que necesito, aún no la pruebo full con videojuegos, pero ya estoy en espera 32de ram a 5200mhz que es la frecuencia que está manejando de fábrica e igual un SSD de 1tb de 7800/6800 respectivamente así que con eso es la mejor opción por el costo inicial que tuve dejando margen para darle un up y queda de rechupete, tampoco tuve ningún problema con drivers, actualizaciones al primer encendido no tardó más de 10 segundos en lanzar la configuración del w11. Si puedo más adelante subo actualizaciones de rendimiento un saludo y espero que les sirva de referencia mi experiencia. (Venía con funda) es un plus pq pensé en comprar una así que ya no es necesario.  ACTUALIZACIÓN, SI O SI invierte en mínimo 16 de ram, pero yo teniendo los 32 en fortnite o warzone q es lo que he probado se consume los 18 así que ve por los 32, yo compre crucial 5200mhz que es la frecuencia que traía de fábrica, y por el ssd claro es que necesitas meterle un 1tb, ya que actualmente ya algún juego pesa de 60 a 80gb  ACTUALIZACIÓN 2024 finales la tuve q devolver porque la pantalla empezó a verse blanca al encender y en fondos oscuros en las orillas y dejó de cargar tenía q estar directa a la energía, lastima me gustó Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Definitivamente vale la pena el precio en promo q la compre, estuve un buen rato buscando con mi presupuesto y solo encontraba 2050 nueva o 3050 de uso en marketplace pero por los 14k que me cost&#xF3; esta joyita definitivamente lo vale, claro es que necesita up de ram y ssd pero por el momento me hace perfectamente lo que necesito, a&#xFA;n no la pruebo full con videojuegos, pero ya estoy en espera 32de ram a 5200mhz que es la frecuencia que est&#xE1; manejando de f&#xE1;brica e igual un SSD de 1tb de 7800/6800 respectivamente as&#xED; que con eso es la mejor opci&#xF3;n por el costo inicial que tuve dejando margen para darle un up y queda de rechupete, tampoco tuve ning&#xFA;n problema con drivers, actualizaciones al primer encendido no tard&#xF3; m&#xE1;s de 10 segundos en lanzar la configuraci&#xF3;n del w11.<br/>Si puedo m&#xE1;s adelante subo actualizaciones de rendimiento un saludo y espero que les sirva de referencia mi experiencia. (Ven&#xED;a con funda) es un plus pq pens&#xE9; en comprar una as&#xED; que ya no es necesario.<br/><br/>ACTUALIZACI&#xD3;N, SI O SI invierte en m&#xED;nimo 16 de ram, pero yo teniendo los 32 en fortnite o warzone q es lo que he probado se consume los 18 as&#xED; que ve por los 32, yo compre crucial 5200mhz que es la frecuencia que tra&#xED;a de f&#xE1;brica, y por el ssd claro es que necesitas meterle un 1tb, ya que actualmente ya alg&#xFA;n juego pesa de 60 a 80gb<br/><br/>ACTUALIZACI&#xD3;N 2024 finales la tuve q devolver porque la pantalla empez&#xF3; a verse blanca al encender y en fondos oscuros en las orillas y dej&#xF3; de cargar ten&#xED;a q estar directa a la energ&#xED;a, lastima me gust&#xF3;<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 27, 2024",
+          "utc": "2024-05-27T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Iván De Jesús A. Moreno",
+          "image": "https://m.media-amazon.com/images/S/amazon-avatars-global/79ca1070-a96f-48d4-b4e6-d184354917d7._CR0%2C0%2C500%2C500_SX460_.jpg"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "images": [
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          },
+          {
+            "link": "https://images-na.ssl-images-amazon.com/images/G/01/x-locale/common/grey-pixel.gif"
+          }
+        ],
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "RPDFLIXQNJ9JW",
+        "title": "Excelente en cuanto a calidad-precio",
+        "body": "Es una computadora eficiente en todos los aspectos, realmente no veo una limitante en cuanto a componentes debido a que hay slots para aumentar RAM y SSD. Los materiales se sienten de calidad, brillo máximo en pantalla un poco corto pero suficiente y de forma cotidiana el rendimiento de la batería en tareas básicas da un aproximado de 6 horas, mientras que con actividades en las que exiges a la gráfica (4050 realmente una joya por el costo de la PC misma) da un poco menos de tres horas. De manera general puedo recomendar ampliamente está PC, más sin embargo, para los más exigentes con un presupuesto limitado tendrán que considerar que 8 Gb de RAM se quedan cortos, por lo que si quieren un mejor rendimiento deberán desembolsar un poco más para comprar una por separado. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Es una computadora eficiente en todos los aspectos, realmente no veo una limitante en cuanto a componentes debido a que hay slots para aumentar RAM y SSD. Los materiales se sienten de calidad, brillo m&#xE1;ximo en pantalla un poco corto pero suficiente y de forma cotidiana el rendimiento de la bater&#xED;a en tareas b&#xE1;sicas da un aproximado de 6 horas, mientras que con actividades en las que exiges a la gr&#xE1;fica (4050 realmente una joya por el costo de la PC misma) da un poco menos de tres horas.<br/>De manera general puedo recomendar ampliamente est&#xE1; PC, m&#xE1;s sin embargo, para los m&#xE1;s exigentes con un presupuesto limitado tendr&#xE1;n que considerar que 8 Gb de RAM se quedan cortos, por lo que si quieren un mejor rendimiento deber&#xE1;n desembolsar un poco m&#xE1;s para comprar una por separado.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on April 22, 2024",
+          "utc": "2024-04-22T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "Adolfo Martinez"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "i5-13420H / RTX4050"
+          },
+          {
+            "Style": "8GB / 512GB"
+          }
+        ]
+      },
+      {
+        "id": "R2M1OYLLC8PTGY",
+        "title": "Excelente laptop",
+        "body": "Cuando la compré, aproveche que estaba con buen descuento y con promoción bancaria. Llevo casi un año usándola y se ha desempeñado bastante bien para tosas mis tareas. Tiene muy buena ventilación y la uso junto con una pantalla ultrawide sin ningun problema. Read more",
+        "body_html": "<div data-a-expander-name=\"review_text_read_more\" data-a-expander-collapsed-height=\"300\" class=\"a-expander-collapsed-height a-row a-expander-container a-expander-partial-collapse-container review-text-read-more-expander\" style=\"max-height:300px\"><div data-hook=\"review-collapsed\" data-expanded=\"false\" class=\"a-expander-content reviewText review-text-content a-expander-partial-collapse-content\">           <span class=\"cr-original-review-content\">Cuando la compr&#xE9;, aproveche que estaba con buen descuento y con promoci&#xF3;n bancaria. Llevo casi un a&#xF1;o us&#xE1;ndola y se ha desempe&#xF1;ado bastante bien para tosas mis tareas. Tiene muy buena ventilaci&#xF3;n y la uso junto con una pantalla ultrawide sin ningun problema.<br/></span><span class=\"cr-translated-review-content aok-hidden\"/>     </div><div class=\"a-expander-header a-expander-partial-collapse-header\"><div class=\"a-expander-content-fade\"/><a href=\"javascript:void(0)\" data-hook=\"expand-collapse-read-more-less\" aria-label=\"Read more of this review\" aria-expanded=\"false\" role=\"button\" data-action=\"a-expander-toggle\" class=\"a-declarative\" data-a-expander-toggle=\"{&quot;allowLinkDefault&quot;:true, &quot;expand_prompt&quot;:&quot;Read more&quot;, &quot;collapse_prompt&quot;:&quot;Read less&quot;}\"><i class=\"a-icon a-icon-extender-expand\"/><span class=\"a-expander-prompt\">Read more</span></a></div></div>",
+        "rating": 5,
+        "date": {
+          "raw": "Reviewed in Mexico on May 6, 2025",
+          "utc": "2025-05-06T00:00:00.000Z"
+        },
+        "profile": {
+          "name": "César F. Castro"
+        },
+        "vine_program": false,
+        "verified_purchase": true,
+        "review_country": "mx",
+        "is_global_review": true,
+        "review_attributes": [
+          {
+            "CPU": "i7-13620H / RTX4050"
+          },
+          {
+            "Style": "16GB / 512GB"
+          }
+        ]
+      }
+    ],
+    "buybox_winner": {
+      "maximum_order_quantity": {
+        "value": 27,
+        "hard_maximum": true
+      },
+      "mixed_offers_count": 13,
+      "mixed_offers_from": {
+        "raw": "& FREE Shipping."
+      },
+      "protection_plans": [
+        {
+          "name": "2-Year Protection Plan",
+          "duration_months": 24,
+          "price": {
+            "billing_type": "one_time",
+            "value": "79.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "4-Year Protection Plan",
+          "duration_months": 48,
+          "price": {
+            "billing_type": "one_time",
+            "value": "129.99",
+            "currency": "USD"
+          }
+        },
+        {
+          "name": "Complete Protect",
+          "description": "One plan covers all eligible past and future purchases",
+          "renewal_policy": "Renews Monthly Until Cancelled",
+          "price": {
+            "billing_type": "monthly",
+            "value": "16.99",
+            "currency": "USD"
+          }
+        }
+      ],
+      "return_policy": {
+        "duration_days": 30,
+        "type": "refund/replacement",
+        "seller": "Amazon"
+      },
+      "is_prime": true,
+      "is_prime_exclusive_deal": false,
+      "is_amazon_fresh": false,
+      "condition": {
+        "is_new": true
+      },
+      "availability": {
+        "type": "in_stock",
+        "raw": "In Stock",
+        "dispatch_days": 1
+      },
+      "fulfillment": {
+        "type": "1p",
+        "standard_delivery": {
+          "date": "Saturday, May 24",
+          "name": "FREE"
+        },
+        "fastest_delivery": {
+          "date": "Friday, May 23",
+          "name": "Or fastest delivery Friday, May 23. Order within 2 hrs 18 mins"
+        },
+        "is_sold_by_amazon": true,
+        "amazon_seller": {
+          "name": "Amazon"
+        },
+        "is_fulfilled_by_amazon": true,
+        "is_fulfilled_by_third_party": false,
+        "is_sold_by_third_party": false
+      },
+      "price": {
+        "symbol": "$",
+        "value": 703.9,
+        "currency": "USD",
+        "raw": "$703.90"
+      },
+      "shipping": {
+        "raw": "FREE"
+      }
+    },
+    "specifications": [
+      {
+        "name": "Standing screen display size",
+        "value": "‎15.6 Inches"
+      },
+      {
+        "name": "Screen Resolution",
+        "value": "‎1920 x 1080 pixels"
+      },
+      {
+        "name": "Max Screen Resolution",
+        "value": "‎1920x1080"
+      },
+      {
+        "name": "Processor",
+        "value": "‎2.1 GHz apple_ci5"
+      },
+      {
+        "name": "RAM",
+        "value": "‎8 DDR5"
+      },
+      {
+        "name": "Memory Speed",
+        "value": "‎4800 MHz"
+      },
+      {
+        "name": "Hard Drive",
+        "value": "‎512 GB SSD"
+      },
+      {
+        "name": "Graphics Coprocessor",
+        "value": "‎NVIDIA GeForce RTX 4050"
+      },
+      {
+        "name": "Chipset Brand",
+        "value": "‎NVIDIA"
+      },
+      {
+        "name": "Card Description",
+        "value": "‎Dedicated"
+      },
+      {
+        "name": "Graphics Card Ram Size",
+        "value": "‎6 GB"
+      },
+      {
+        "name": "Wireless Type",
+        "value": "‎Bluetooth, 802.11ax"
+      },
+      {
+        "name": "Number of USB 3.0 Ports",
+        "value": "‎4"
+      },
+      {
+        "name": "Average Battery Life (in hours)",
+        "value": "‎3 Hours"
+      },
+      {
+        "name": "Brand",
+        "value": "‎acer"
+      },
+      {
+        "name": "Series",
+        "value": "‎Nitro V"
+      },
+      {
+        "name": "Item model number",
+        "value": "‎ANV15-51-51H9"
+      },
+      {
+        "name": "Operating System",
+        "value": "‎Windows 11 Home"
+      },
+      {
+        "name": "Item Weight",
+        "value": "‎4.66 pounds"
+      },
+      {
+        "name": "Product Dimensions",
+        "value": "‎14.26 x 0.93 x 9.44 inches"
+      },
+      {
+        "name": "Item Dimensions  LxWxH",
+        "value": "‎14.26 x 0.93 x 9.44 inches"
+      },
+      {
+        "name": "Color",
+        "value": "‎Black"
+      },
+      {
+        "name": "Processor Brand",
+        "value": "‎Intel"
+      },
+      {
+        "name": "Number of Processors",
+        "value": "‎8"
+      },
+      {
+        "name": "Computer Memory Type",
+        "value": "‎DDR5 RAM"
+      },
+      {
+        "name": "Flash Memory Size",
+        "value": "‎512 GB"
+      },
+      {
+        "name": "Hard Drive Interface",
+        "value": "‎PCIE x 4"
+      },
+      {
+        "name": "Power Source",
+        "value": "‎Battery Powered"
+      },
+      {
+        "name": "Voltage",
+        "value": "‎230 Volts"
+      },
+      {
+        "name": "Batteries",
+        "value": "‎1 Lithium Ion batteries required. (included)"
+      },
+      {
+        "name": "ASIN",
+        "value": "B0CP8D4SM2"
+      },
+      {
+        "name": "Customer Reviews",
+        "value": "4.2    4.2 out of 5 stars         1,126 ratings          4.2 out of 5 stars"
+      },
+      {
+        "name": "Best Sellers Rank",
+        "value": "#408 in Computers & Accessories (See Top 100 in Computers & Accessories) #46 in Traditional Laptop Computers"
+      },
+      {
+        "name": "Date First Available",
+        "value": "January 26, 2024"
+      },
+      {
+        "name": "Brand",
+        "value": "acer"
+      },
+      {
+        "name": "Model Name",
+        "value": "Nitro V"
+      },
+      {
+        "name": "Screen Size",
+        "value": "15.6 Inches"
+      },
+      {
+        "name": "Color",
+        "value": "Black"
+      },
+      {
+        "name": "Hard Disk Size",
+        "value": "512 GB"
+      },
+      {
+        "name": "CPU Model",
+        "value": "Intel Core i5"
+      },
+      {
+        "name": "Ram Memory Installed Size",
+        "value": "8 GB"
+      },
+      {
+        "name": "Operating System",
+        "value": "Windows 11 Home"
+      },
+      {
+        "name": "Special Feature",
+        "value": "Backlit Keyboard"
+      },
+      {
+        "name": "Graphics Card Description",
+        "value": "Dedicated"
+      }
+    ],
+    "specifications_flat": "Graphics Card Description: Dedicated. Special Feature: Backlit Keyboard. Operating System: Windows 11 Home. Ram Memory Installed Size: 8 GB. CPU Model: Intel Core i5. Hard Disk Size: 512 GB. Color: Black. Screen Size: 15.6 Inches. Model Name: Nitro V. Brand: acer. Date First Available: January 26, 2024. Best Sellers Rank: #408 in Computers & Accessories (See Top 100 in Computers & Accessories) #46 in Traditional Laptop Computers. Customer Reviews: 4.2    4.2 out of 5 stars         1,126 ratings          4.2 out of 5 stars. ASIN: B0CP8D4SM2. Batteries: ‎1 Lithium Ion batteries required. (included). Voltage: ‎230 Volts. Power Source: ‎Battery Powered. Hard Drive Interface: ‎PCIE x 4. Flash Memory Size: ‎512 GB. Computer Memory Type: ‎DDR5 RAM. Number of Processors: ‎8. Processor Brand: ‎Intel. Color: ‎Black. Item Dimensions  LxWxH: ‎14.26 x 0.93 x 9.44 inches. Product Dimensions: ‎14.26 x 0.93 x 9.44 inches. Item Weight: ‎4.66 pounds. Operating System: ‎Windows 11 Home. Item model number: ‎ANV15-51-51H9. Series: ‎Nitro V. Brand: ‎acer. Average Battery Life (in hours): ‎3 Hours. Number of USB 3.0 Ports: ‎4. Wireless Type: ‎Bluetooth, 802.11ax. Graphics Card Ram Size: ‎6 GB. Card Description: ‎Dedicated. Chipset Brand: ‎NVIDIA. Graphics Coprocessor: ‎NVIDIA GeForce RTX 4050. Hard Drive: ‎512 GB SSD. Memory Speed: ‎4800 MHz. RAM: ‎8 DDR5. Processor: ‎2.1 GHz apple_ci5. Max Screen Resolution: ‎1920x1080. Screen Resolution: ‎1920 x 1080 pixels. Standing screen display size: ‎15.6 Inches.",
+    "bestsellers_rank": [
+      {
+        "category": "Computers & Accessories",
+        "rank": 408,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/ref=pd_zg_ts_pc"
+      },
+      {
+        "category": "Traditional Laptop Computers",
+        "rank": 46,
+        "link": "https://www.amazon.com/gp/bestsellers/pc/13896615011/ref=pd_zg_hrsr_pc"
+      }
+    ],
+    "color": "‎Black",
+    "weight": "‎4.66 pounds",
+    "first_available": {
+      "raw": "January 26, 2024",
+      "utc": "2024-01-26T00:00:00.000Z"
+    },
+    "dimensions": "‎14.26 x 0.93 x 9.44 inches",
+    "model_number": "‎ANV15-51-51H9",
+    "bestsellers_rank_flat": "Category: Computers & Accessories | Rank: 408, Category: Traditional Laptop Computers | Rank: 46",
+    "whats_in_the_box": [
+      "Laptop",
+      "AC Adapter",
+      "Power Cord"
+    ]
+  },
+  "brand_store": {
+    "id": "0074ABD9-06D1-469D-B509-C3134D6FFFF2",
+    "link": "https://www.amazon.com/stores/Acer/page/0074ABD9-06D1-469D-B509-C3134D6FFFF2"
+  },
+  "newer_model": {
+    "title": "acer Nitro V15 Gaming Laptop with Microsoft Office Lifetime License, Intel i9-13900H, 64 GB DDR5 RAM, 4 TB SSD, 15.6\" FHD IPS 144Hz, GeForce RTX 4060, Backlit Keyboard, Windows 11 Pro, Cefesfy Mouse",
+    "asin": "B0DFGH4WSV",
+    "link": "https://www.amazon.com/acer-Microsoft-Lifetime-i9-13900H-Keyboard-dp-B0DFGH4WSV/dp/B0DFGH4WSV/ref=dp_ob_image_ce",
+    "image": "https://m.media-amazon.com/images/I/71FS8hKf8hL._SR75,75_.jpg",
+    "rating": 2,
+    "ratings_total": 2,
+    "price": {
+      "symbol": "$",
+      "value": 1861.99,
+      "currency": "USD",
+      "raw": "$1,861.99"
+    }
+  },
+  "frequently_bought_together": {
+    "total_price": {
+      "symbol": "$",
+      "value": 1976.89,
+      "currency": "USD",
+      "raw": "$1,976.89"
+    },
+    "products": [
+      {
+        "asin": "B0CP8D4SM2",
+        "title": "acer Nitro V Gaming Laptop | Intel Core i5-13420H Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6\" FHD IPS 144Hz Display | 8GB DDR5 | 512GB Gen 4 SSD | WiFi 6 | Backlit KB | ANV15-51-51H9",
+        "link": "https://www.amazon.com/dp/B0CP8D4SM2",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71F-Wcriq4L._AC_UL116_SR116,116_.jpg",
+        "price": {
+          "symbol": "$",
+          "value": 703.9,
+          "currency": "USD",
+          "raw": "$703.90"
+        }
+      }
+    ]
+  },
+  "similar_to_consider": {
+    "asin": "B0CZ59B6MH",
+    "link": "https://www.amazon.com/dp/B0CZ59B6MH/ref=vp_d_cpf-substitute-widget_pd?_encoding=UTF8&pf_rd_p=36830697-9a0f-4e73-abfa-25ba9c698528&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=hRdDW&pd_rd_i=B0CZ59B6MH&pd_rd_w=vWowR&content-id=amzn1.sym.36830697-9a0f-4e73-abfa-25ba9c698528&pd_rd_r=f360b08b-8ef0-4a7a-a0b1-2f49fd6a0841&psc=1",
+    "title": "Dell Inspiron 5645 Laptop - 16.0 16:10 FHD+ (1920 x 1200) Display, AMD Ryzen 7-8840U, 16GB DDR5 RAM, 1TB SSD, AMD Radeon Graphics, Windows 11 Home, Onsite & Migrate Services - Midnight Blue",
+    "rating": 4,
+    "ratings_total": 124,
+    "image": "https://m.media-amazon.com/images/I/818WO3r8jhL._SS100_.jpg",
+    "is_prime": true
+  },
+  "also_bought": [
+    {
+      "title": "Acer Nitro V Gaming Laptop | AMD Ryzen 5 7535HS Hexa-Core Processor | NVIDIA GeForce RTX 4050 Laptop GPU | 15.6\" FHD IPS 144H",
+      "asin": "B0CX2PS48B",
+      "link": "https://www.amazon.com/acer-Hexa-Core-Processor-GeForce-ANV15-41-R5N6/dp/B0CX2PS48B/ref=pd_sim_d_sccl_2_1/139-4081218-6871001?pd_rd_w=REhlw&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=JgFCM&pd_rd_r=af5b3052-4d8f-4376-a5fa-fe8a22bdd6c7&pd_rd_i=B0CX2PS48B&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71+zBYtAZ6L._AC_UL165_SR165,165_.jpg",
+      "rating": 4.1,
+      "ratings_total": 85,
+      "price": {
+        "symbol": "$",
+        "value": 693,
+        "currency": "USD",
+        "raw": "$693.00"
+      }
+    },
+    {
+      "title": "ASUS TUF Gaming A16 (2024) Gaming Laptop, 16” QHD+ 165Hz 16:10 Display, AMD Ryzen™ 9 7940HX, NVIDIA® GeForce RTX™ 4070, 16GB ",
+      "asin": "B0CRCWY9VT",
+      "link": "https://www.amazon.com/ASUS-TUF-Gaming-Laptop-165Hz/dp/B0CRCWY9VT/ref=pd_sim_d_sccl_2_2/139-4081218-6871001?pd_rd_w=REhlw&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=JgFCM&pd_rd_r=af5b3052-4d8f-4376-a5fa-fe8a22bdd6c7&pd_rd_i=B0CRCWY9VT&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/419KcaZSPrL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.3,
+      "ratings_total": 116,
+      "price": {
+        "symbol": "$",
+        "value": 1595,
+        "currency": "USD",
+        "raw": "$1,595.00"
+      }
+    },
+    {
+      "title": "HP Victus 15.6 inch Laptop, FHD 144Hz Display, Intel Core i5-12450H, 8 GB RAM, 512 GB SSD, NVIDIA GeForce RTX 2050 GPU (4 GB ",
+      "asin": "B0CVNJ7LLN",
+      "link": "https://www.amazon.com/HP-Display-i5-12450H-Dedicated-15-fa1029nr/dp/B0CVNJ7LLN/ref=pd_sim_d_sccl_2_3/139-4081218-6871001?pd_rd_w=REhlw&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=JgFCM&pd_rd_r=af5b3052-4d8f-4376-a5fa-fe8a22bdd6c7&pd_rd_i=B0CVNJ7LLN&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81T5GijquOL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.4,
+      "ratings_total": 113,
+      "price": {
+        "symbol": "$",
+        "value": 579.99,
+        "currency": "USD",
+        "raw": "$579.99"
+      }
+    },
+    {
+      "title": "Crucial 8GB DDR5 RAM, 5600MHz (or 5200MHz or 4800MHz) Laptop Memory, SODIMM 262-Pin, Compatible with 13th Gen Intel Core and ",
+      "asin": "B0C79F1T23",
+      "link": "https://www.amazon.com/Crucial-5600MT-5200MT-4800MT-CT8G56C46S5/dp/B0C79F1T23/ref=pd_sim_d_sccl_2_4/139-4081218-6871001?pd_rd_w=REhlw&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=JgFCM&pd_rd_r=af5b3052-4d8f-4376-a5fa-fe8a22bdd6c7&pd_rd_i=B0C79F1T23&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/819OdHGCicL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.8,
+      "ratings_total": 9107,
+      "price": {
+        "symbol": "$",
+        "value": 21.99,
+        "currency": "USD",
+        "raw": "$21.99"
+      }
+    },
+    {
+      "title": "Acer Nitro V Gaming Laptop | Intel Core i9-13900H Processor | NVIDIA GeForce RTX 4060 Laptop GPU | 15.6\" FHD IPS 144Hz Displa",
+      "asin": "B0D8JXHZTH",
+      "link": "https://www.amazon.com/i9-13900H-Processor-GeForce-Display-ANV15-51-99DR/dp/B0D8JXHZTH/ref=pd_sim_d_sccl_2_5/139-4081218-6871001?pd_rd_w=REhlw&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=JgFCM&pd_rd_r=af5b3052-4d8f-4376-a5fa-fe8a22bdd6c7&pd_rd_i=B0D8JXHZTH&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71F-Wcriq4L._AC_UL165_SR165,165_.jpg",
+      "rating": 4,
+      "ratings_total": 141,
+      "price": {
+        "symbol": "$",
+        "value": 1139.99,
+        "currency": "USD",
+        "raw": "$1,139.99"
+      }
+    },
+    {
+      "title": "Xbox Series X 1TB SSD Console - Includes Xbox Wireless Controller - Up to 120 frames per second - 16 GB RAM - 1 TB SSD Storag",
+      "asin": "B08H75RTZ8",
+      "link": "https://www.amazon.com/Microsoft-Xbox-Gaming-Console-video-game/dp/B08H75RTZ8/ref=pd_sim_d_sccl_2_6/139-4081218-6871001?pd_rd_w=REhlw&content-id=amzn1.sym.fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_p=fc475966-e837-48fc-9ed0-f4ca6ae9337b&pf_rd_r=3Q141QD1Y8JEXK2FMWYM&pd_rd_wg=JgFCM&pd_rd_r=af5b3052-4d8f-4376-a5fa-fe8a22bdd6c7&pd_rd_i=B08H75RTZ8&psc=1",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/616klipzdtL._AC_UL165_SR165,165_.jpg",
+      "rating": 4.8,
+      "ratings_total": 29622,
+      "price": {
+        "symbol": "$",
+        "value": 598.93,
+        "currency": "USD",
+        "raw": "$598.93"
+      }
+    }
+  ]
+}
