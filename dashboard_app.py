@@ -89,9 +89,6 @@ if "messages" not in st.session_state:
 # Initialize conversation thread ID for maintaining context across turns
 if "thread_id" not in st.session_state:
     st.session_state.thread_id = None
-    
-# Note: We're no longer storing recommendations separately in session state
-# as they're now maintained in the LangGraph thread state
 
 # Display chat history
 for message in st.session_state.messages:
@@ -132,7 +129,6 @@ with st.form(key="chat_form", clear_on_submit=True):
                 if 'thread_id' in response_data:
                     st.session_state.thread_id = response_data['thread_id']
                     print(f"Using conversation thread: {st.session_state.thread_id}")
-                
                 # Log laptop recommendations if available (but don't store redundantly)
                 if 'trend_insights' in response_data and 'top_laptops' in response_data['trend_insights']:
                     print(f"Found {len(response_data['trend_insights']['top_laptops'])} laptop recommendations in thread state")

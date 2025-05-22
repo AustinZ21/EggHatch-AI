@@ -275,6 +275,22 @@ EggHatch-AI/
    cp .env.example .env
    # Edit .env with your preferred text editor
    ```
+3. **Hardware Requirements**:
+   - **GPU**: NVIDIA GeForce RTX 4090 or equivalent (minimum 24GB VRAM recommended)
+   - **RAM**: 32GB minimum, 64GB recommended
+   - **Storage**: 50GB free space for models and data
+
+4. **Ollama Setup**:
+   - Install Ollama from [ollama.com](https://ollama.com)
+   - Pull the Gemma 3 12B model:
+     ```bash
+     ollama pull gemma3:12b
+     ```
+   - Verify Ollama is running:
+     ```bash
+     ollama list
+     ```
+   - Ensure the Ollama server is running in the background before starting the application
 
 ### Option 1: Docker Installation (Recommended for Consistency)
 1. Build the Docker image:
@@ -316,7 +332,7 @@ The current Proof of Concept (POC) has several limitations that would need to be
 
 - **Dataset Size**: The POC uses a small dataset for demonstration purposes. A production system would require significantly larger datasets, necessitating more sophisticated data engineering solutions.
 - **Data Freshness**: The current implementation uses static data. A production system would need regular data updates and pipelines to maintain relevance.
-- **Feature Engineering Complexity**: Scaling to larger datasets would require more complex feature engineering and potentially distributed computing resources.
+- **Feature Engineering Complexity**: Feature engineering is one of the most important and time-consuming tasks in deep learning and LLM model development. Due to time constraints, the POC implements only basic feature engineering. A production system would require more sophisticated techniques, domain-specific feature extraction, and potentially distributed computing resources to handle larger datasets.
 - **Training and Tuning**: The POC uses pre-trained models with minimal fine-tuning. Production deployment would benefit from domain-specific model training and continuous tuning based on user interactions.
 
 ### Business Integration Limitations

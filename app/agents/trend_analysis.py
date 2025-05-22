@@ -457,7 +457,6 @@ class TrendAnalysisAgent:
     
     def _generate_topic_name(self, topic_words):
         """Generate a descriptive name for a topic based on its keywords using NLP."""
-        # If we have the embedding model, use semantic similarity
         if self.embedding_model is not None:
             try:
                 # Convert topic words to a single string
