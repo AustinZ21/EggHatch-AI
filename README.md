@@ -29,6 +29,14 @@ A user interacts with the "EggHatch AI Agent" using natural language (e.g., "I w
 ### Unified AI Avatar Identity for better user connection and streaming response for better user experience 
 ### Applied State-of-the-Art AI Models for diverse analysis and Recommendations with agentic framework to handel different tasks improving the quality of recommendations and user experience
 
+# EggHatch-AI Tutorial
+
+You can learn this project's comprehensive tutorial at [GitHub Pages site](https://austinz21.github.io/EggHatch-AI-Tutorial/) 
+
+## About This Tutorial
+
+This tutorial was automatically generated using the [AI Codebase Knowledge Builder](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) tool, which analyzes codebases and creates structured tutorials.
+
 ## High-Level Agent Architecture & Workflow
 
 ```mermaid
