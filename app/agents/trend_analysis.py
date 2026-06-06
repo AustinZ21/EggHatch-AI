@@ -22,6 +22,7 @@ from sentence_transformers import SentenceTransformer
 from transformers import pipeline
 
 # Import from other modules
+from app.agents.comparison import build_laptop_comparison, looks_like_comparison_query
 from app.agents.data_pipeline import get_data_pipeline
 from app.agents.sentiment_analysis import get_sentiment_analyzer
 
@@ -229,7 +230,8 @@ class TrendAnalysisAgent:
                 'popular_features': [],
                 'sentiment_overview': {},
                 'recommendations': [],
-                'top_laptops': []
+                'top_laptops': [],
+                'comparison': None,
             }
             
             # Add topic information
@@ -272,18 +274,24 @@ class TrendAnalysisAgent:
             
             # Add specific laptop recommendations with prices
             # Filter laptops based on query if provided
-            filtered_laptops = laptop_data
-            if query and 'budget' in query.lower() or 'under' in query.lower():
+            filtered_laptops = self.data_pipeline.preprocess_data()
+            if filtered_laptops is None or filtered_laptops.empty:
+                filtered_laptops = laptop_data
+
+            if query and ('budget' in query.lower() or 'under' in query.lower()):
                 # Try to extract a price limit from the query
                 price_limit = None
                 price_matches = re.findall(r'\$?(\d{3,4})', query)
                 if price_matches:
                     price_limit = float(price_matches[0])
-                    filtered_laptops = laptop_data[laptop_data['price'] <= price_limit]
+                    filtered_laptops = filtered_laptops[filtered_laptops['price'] <= price_limit]
             
-            # Sort by rating and get top 5
-            if 'rating' in filtered_laptops.columns:
-                top_laptops = filtered_laptops.sort_values(by=['rating'], ascending=False).head(5)
+            # Sort by quality signals and get top 5
+            if 'rating_value' in filtered_laptops.columns:
+                top_laptops = filtered_laptops.sort_values(
+                    by=['rating_value', 'num_to_rate'],
+                    ascending=[False, False]
+                ).head(5)
             else:
                 top_laptops = filtered_laptops.head(5)
             
@@ -296,6 +304,13 @@ class TrendAnalysisAgent:
                     'processor': laptop.get('processor', 'Unknown'),
                     'gpu': laptop.get('gpu', 'Unknown'),
                     'rating': laptop.get('rating', 'Unknown'),
+                    'rating_value': float(laptop.get('rating_value', 0) or 0),
+                    'review_count': int(laptop.get('num_to_rate', 0) or 0),
+                    'display_size': float(laptop.get('display_size', 0) or 0),
+                    'processor_tier': int(laptop.get('processor_tier', 0) or 0),
+                    'gpu_tier': int(laptop.get('gpu_tier', 0) or 0),
+                    'total_storage': float(laptop.get('total_storage', 0) or 0),
+                    'touch': int(laptop.get('touch', 0) or 0),
                     'key_features': []
                 }
                 
@@ -308,6 +323,12 @@ class TrendAnalysisAgent:
                         })
                 
                 results['top_laptops'].append(laptop_info)
+
+            if looks_like_comparison_query(query):
+                results['comparison'] = build_laptop_comparison(
+                    results['top_laptops'],
+                    query=query,
+                )
             
             return results
             

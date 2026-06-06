@@ -66,8 +66,9 @@ Your response MUST:
 1. Be brief and to the point (max 150 words)
 2. Provide 2-3 SPECIFIC laptop recommendations from our dataset with ACTUAL prices
 3. Reference REAL features and sentiment scores from the data provided
-4. NOT include ANY meta-commentary about the analysis process
-5. NOT mention hypothetical data or placeholder information
+4. If comparison data is present, clearly explain which laptop wins and why, then mention the main tradeoff
+5. NOT include ANY meta-commentary about the analysis process
+6. NOT mention hypothetical data or placeholder information
 
 The user wants factual recommendations based on our actual laptop database, not generic advice.
 """

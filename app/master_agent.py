@@ -468,21 +468,32 @@ def synthesize_response(state) -> dict:
         final_response = f"I've analyzed your request about {query_type or 'tech gear'}. "
         
         if trend_insights:
-            final_response += "Based on trend and sentiment analysis, here are my insights: "
-            if isinstance(trend_insights, dict):
-                # Add trend insights
-                if "topics" in trend_insights:
-                    final_response += f"\n\n**Popular Topics:**\n"
-                    for topic in trend_insights["topics"]:
-                        final_response += f"- {topic}\n"
-                
-                # Add sentiment summary if available
-                if "sentiment_summary" in trend_insights:
-                    final_response += f"\n**Sentiment Analysis:**\n{trend_insights['sentiment_summary']}\n"
-                
-                # Add recommendations if available
-                if "recommendations" in trend_insights:
-                    final_response += f"\n**Recommendations:**\n{trend_insights['recommendations']}\n"
+            comparison = trend_insights.get("comparison")
+            if comparison:
+                recommended = comparison["recommended"]
+                final_response = (
+                    f"Recommended: {recommended['name']} at ${recommended['price']:.0f}. "
+                    f"{recommended['summary']} "
+                    f"Key reasons: {'; '.join(recommended['reasons'])}."
+                )
+                if recommended.get("tradeoffs"):
+                    final_response += f" Main tradeoff: {recommended['tradeoffs'][0]}."
+            else:
+                final_response += "Based on trend and sentiment analysis, here are my insights: "
+                if isinstance(trend_insights, dict):
+                    # Add trend insights
+                    if "topics" in trend_insights:
+                        final_response += f"\n\n**Popular Topics:**\n"
+                        for topic in trend_insights["topics"]:
+                            final_response += f"- {topic}\n"
+                    
+                    # Add sentiment summary if available
+                    if "sentiment_summary" in trend_insights:
+                        final_response += f"\n**Sentiment Analysis:**\n{trend_insights['sentiment_summary']}\n"
+                    
+                    # Add recommendations if available
+                    if "recommendations" in trend_insights:
+                        final_response += f"\n**Recommendations:**\n{trend_insights['recommendations']}\n"
         else:
             final_response += "I don't have enough information to provide specific insights at this time. Could you provide more details about what you're looking for?"
     

@@ -6,6 +6,7 @@ This module implements a user-friendly interface for interacting with the EggHat
 
 import streamlit as st
 import time
+import pandas as pd
 from app.master_agent import process_query
 
 # Set page configuration
@@ -72,6 +73,7 @@ with st.sidebar:
     st.markdown(
         "- **Try:** I want to buy a gaming laptop for $2000\n"
         "- **Follow-up question:** what are the reviews for these laptops\n"
+        "- **Compare:** compare the best gaming laptops under $2000\n"
 
         "- **Or ask:**\n"
         "- What's the best gaming laptop under $1200?\n"
@@ -90,6 +92,56 @@ if "messages" not in st.session_state:
 if "thread_id" not in st.session_state:
     st.session_state.thread_id = None
 
+
+def render_comparison_block(trend_insights):
+    """Render a structured laptop comparison when available."""
+    comparison = trend_insights.get("comparison") if isinstance(trend_insights, dict) else None
+    if not comparison:
+        return
+
+    recommended = comparison["recommended"]
+    st.markdown("**Comparison Breakdown**")
+    st.markdown(
+        f"**Recommended:** {recommended['name']} (${recommended['price']:.0f})  \n"
+        f"{recommended['summary']}"
+    )
+
+    if recommended.get("reasons"):
+        st.markdown("**Why it wins:**")
+        for reason in recommended["reasons"]:
+            st.markdown(f"- {reason}")
+
+    if recommended.get("tradeoffs"):
+        st.markdown("**Main tradeoffs:**")
+        for tradeoff in recommended["tradeoffs"]:
+            st.markdown(f"- {tradeoff}")
+
+    comparison_rows = []
+    for candidate in comparison["candidates"]:
+        comparison_rows.append(
+            {
+                "Candidate": candidate["name"],
+                "Price": f"${candidate['price']:.0f}",
+                "GPU": candidate["gpu"],
+                "CPU": candidate["processor"],
+                "Rating": round(candidate.get("rating_value", 0.0), 1),
+                "Reviews": candidate.get("review_count", 0),
+                "Best For": "; ".join(candidate.get("strengths", [])[:2]),
+            }
+        )
+
+    st.dataframe(pd.DataFrame(comparison_rows), use_container_width=True, hide_index=True)
+
+    dimension_rows = [
+        {
+            "Dimension": dimension["name"],
+            "Winner": dimension["winner"],
+            "Why": dimension["reason"],
+        }
+        for dimension in comparison["dimensions"]
+    ]
+    st.dataframe(pd.DataFrame(dimension_rows), use_container_width=True, hide_index=True)
+
 # Display chat history
 for message in st.session_state.messages:
     role = message["role"]
@@ -99,6 +151,7 @@ for message in st.session_state.messages:
         st.markdown(f"<div class='chat-message user-message'><b>You:</b> {content}</div>", unsafe_allow_html=True)
     else:
         st.markdown(f"<div class='chat-message assistant-message'><b>EggHatch AI:</b> {content}</div>", unsafe_allow_html=True)
+        render_comparison_block(message.get("trend_insights"))
 
 # Chat input
 with st.form(key="chat_form", clear_on_submit=True):
@@ -120,6 +173,7 @@ with st.form(key="chat_form", clear_on_submit=True):
         with st.spinner("EggHatch AI is thinking..."):
             # Get the response and any additional data, using thread_id for context
             response_data = process_query(user_input, thread_id=st.session_state.thread_id)
+            trend_insights = response_data.get("trend_insights", {}) if isinstance(response_data, dict) else {}
             
             # Extract the response text
             if isinstance(response_data, dict) and 'response' in response_data:
@@ -148,6 +202,7 @@ with st.form(key="chat_form", clear_on_submit=True):
         
         # Update the last message in the chat history with the full response
         st.session_state.messages[-1]["content"] = full_response
+        st.session_state.messages[-1]["trend_insights"] = trend_insights
         
         # Rerun to update the UI
         st.rerun()

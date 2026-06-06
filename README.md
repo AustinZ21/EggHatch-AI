@@ -33,6 +33,7 @@ Many shopping assistants answer product questions as one-off chat turns. EggHatc
 - Runs review cleaning, feature extraction, and basic product filtering
 - Uses LDA topic modeling to surface review themes
 - Uses DistilBERT sentiment analysis when available, with a rule-based fallback path
+- Generates structured laptop comparison rationale for explicit comparison queries
 - Synthesizes a conversational response through a local Ollama model
 - Provides a Streamlit dashboard for trying multi-turn shopping queries
 
@@ -125,6 +126,7 @@ I want to buy a gaming laptop under $2000.
 What are the reviews saying about these laptops?
 Which options are better for competitive FPS games?
 What matters more here: cooling, display, or GPU?
+Compare the best gaming laptops under $2000 and explain the tradeoffs.
 ```
 
 ## Project Structure
