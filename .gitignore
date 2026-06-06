@@ -45,3 +45,11 @@ Thumbs.db
 # Logs
 logs/
 *.log
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local model artifacts
+models/
