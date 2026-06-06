@@ -1,0 +1,3047 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "dashboard_app.py",
+      "file_type": "code",
+      "source_file": "dashboard_app.py",
+      "source_location": "L1",
+      "id": "dashboard_app_py",
+      "community": 7,
+      "norm_label": "dashboard_app.py"
+    },
+    {
+      "label": "Streamlit dashboard for EggHatch AI.  This module implements a user-friendly i",
+      "file_type": "rationale",
+      "source_file": "dashboard_app.py",
+      "source_location": "L1",
+      "id": "egghatch_ai_dashboard_app_rationale_1",
+      "community": 7,
+      "norm_label": "streamlit dashboard for egghatch ai.  this module implements a user-friendly i"
+    },
+    {
+      "label": "llm_integrations.py",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L1",
+      "id": "app_llm_integrations_py",
+      "community": 3,
+      "norm_label": "llm_integrations.py"
+    },
+    {
+      "label": "OllamaResponse",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L21",
+      "id": "app_llm_integrations_ollamaresponse",
+      "community": 3,
+      "norm_label": "ollamaresponse"
+    },
+    {
+      "label": "BaseModel",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "id": "basemodel",
+      "community": 3,
+      "norm_label": "basemodel"
+    },
+    {
+      "label": "OllamaClient",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L29",
+      "id": "app_llm_integrations_ollamaclient",
+      "community": 3,
+      "norm_label": "ollamaclient"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L32",
+      "id": "app_llm_integrations_ollamaclient_init",
+      "community": 3,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": "._make_request()",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L64",
+      "id": "app_llm_integrations_ollamaclient_make_request",
+      "community": 3,
+      "norm_label": "._make_request()"
+    },
+    {
+      "label": ".generate()",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L86",
+      "id": "app_llm_integrations_ollamaclient_generate",
+      "community": 3,
+      "norm_label": ".generate()"
+    },
+    {
+      "label": ".chat_completion()",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L120",
+      "id": "app_llm_integrations_ollamaclient_chat_completion",
+      "community": 3,
+      "norm_label": ".chat_completion()"
+    },
+    {
+      "label": "._stream_response()",
+      "file_type": "code",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L151",
+      "id": "app_llm_integrations_ollamaclient_stream_response",
+      "community": 3,
+      "norm_label": "._stream_response()"
+    },
+    {
+      "label": "LLM Integration module for EggHatch AI.  This module provides client wrappers",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L1",
+      "id": "app_llm_integrations_rationale_1",
+      "community": 3,
+      "norm_label": "llm integration module for egghatch ai.  this module provides client wrappers"
+    },
+    {
+      "label": "Schema for Ollama API response.",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L22",
+      "id": "app_llm_integrations_rationale_22",
+      "community": 3,
+      "norm_label": "schema for ollama api response."
+    },
+    {
+      "label": "Client for interacting with Ollama API.",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L30",
+      "id": "app_llm_integrations_rationale_30",
+      "community": 3,
+      "norm_label": "client for interacting with ollama api."
+    },
+    {
+      "label": "Initialize the Ollama client.                  Args:             base_url: Ba",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L37",
+      "id": "app_llm_integrations_rationale_37",
+      "community": 3,
+      "norm_label": "initialize the ollama client.                  args:             base_url: ba"
+    },
+    {
+      "label": "Make a request to the Ollama API with retry logic.                  Args:",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L65",
+      "id": "app_llm_integrations_rationale_65",
+      "community": 3,
+      "norm_label": "make a request to the ollama api with retry logic.                  args:"
+    },
+    {
+      "label": "Generate text using the Ollama API.                  Args:             prompt",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L92",
+      "id": "app_llm_integrations_rationale_92",
+      "community": 3,
+      "norm_label": "generate text using the ollama api.                  args:             prompt"
+    },
+    {
+      "label": "Generate a chat completion using the Ollama API.                  Args:",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L125",
+      "id": "app_llm_integrations_rationale_125",
+      "community": 3,
+      "norm_label": "generate a chat completion using the ollama api.                  args:"
+    },
+    {
+      "label": "Stream responses from the Ollama API.                  Args:             endp",
+      "file_type": "rationale",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L152",
+      "id": "app_llm_integrations_rationale_152",
+      "community": 3,
+      "norm_label": "stream responses from the ollama api.                  args:             endp"
+    },
+    {
+      "label": "master_agent.py",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L1",
+      "id": "app_master_agent_py",
+      "community": 2,
+      "norm_label": "master_agent.py"
+    },
+    {
+      "label": "AgentState",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L52",
+      "id": "app_master_agent_agentstate",
+      "community": 3,
+      "norm_label": "agentstate"
+    },
+    {
+      "label": "initialize_state()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L82",
+      "id": "app_master_agent_initialize_state",
+      "community": 2,
+      "norm_label": "initialize_state()"
+    },
+    {
+      "label": "collect_streaming_response()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L96",
+      "id": "app_master_agent_collect_streaming_response",
+      "community": 2,
+      "norm_label": "collect_streaming_response()"
+    },
+    {
+      "label": "understand_query()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L114",
+      "id": "app_master_agent_understand_query",
+      "community": 2,
+      "norm_label": "understand_query()"
+    },
+    {
+      "label": "extract_task_queue()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L241",
+      "id": "app_master_agent_extract_task_queue",
+      "community": 2,
+      "norm_label": "extract_task_queue()"
+    },
+    {
+      "label": "decompose_tasks()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L259",
+      "id": "app_master_agent_decompose_tasks",
+      "community": 2,
+      "norm_label": "decompose_tasks()"
+    },
+    {
+      "label": "execute_current_task()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L283",
+      "id": "app_master_agent_execute_current_task",
+      "community": 4,
+      "norm_label": "execute_current_task()"
+    },
+    {
+      "label": "synthesize_response()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L399",
+      "id": "app_master_agent_synthesize_response",
+      "community": 2,
+      "norm_label": "synthesize_response()"
+    },
+    {
+      "label": "ask_for_budget()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L518",
+      "id": "app_master_agent_ask_for_budget",
+      "community": 2,
+      "norm_label": "ask_for_budget()"
+    },
+    {
+      "label": "ask_for_use_case()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L533",
+      "id": "app_master_agent_ask_for_use_case",
+      "community": 2,
+      "norm_label": "ask_for_use_case()"
+    },
+    {
+      "label": "check_information_completeness()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L548",
+      "id": "app_master_agent_check_information_completeness",
+      "community": 2,
+      "norm_label": "check_information_completeness()"
+    },
+    {
+      "label": "out_of_scope_response()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L589",
+      "id": "app_master_agent_out_of_scope_response",
+      "community": 2,
+      "norm_label": "out_of_scope_response()"
+    },
+    {
+      "label": "should_continue_tasks()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L603",
+      "id": "app_master_agent_should_continue_tasks",
+      "community": 2,
+      "norm_label": "should_continue_tasks()"
+    },
+    {
+      "label": "create_agent_graph()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L620",
+      "id": "app_master_agent_create_agent_graph",
+      "community": 2,
+      "norm_label": "create_agent_graph()"
+    },
+    {
+      "label": "process_query()",
+      "file_type": "code",
+      "source_file": "app/master_agent.py",
+      "source_location": "L684",
+      "id": "app_master_agent_process_query",
+      "community": 2,
+      "norm_label": "process_query()"
+    },
+    {
+      "label": "Master Agent / Orchestrator for EggHatch AI.  This module implements the main",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L1",
+      "id": "app_master_agent_rationale_1",
+      "community": 2,
+      "norm_label": "master agent / orchestrator for egghatch ai.  this module implements the main"
+    },
+    {
+      "label": "State for the EggHatch AI agent.",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L53",
+      "id": "app_master_agent_rationale_53",
+      "community": 3,
+      "norm_label": "state for the egghatch ai agent."
+    },
+    {
+      "label": "Initialize the agent state with the user query.     This is required as the ent",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L83",
+      "id": "app_master_agent_rationale_83",
+      "community": 2,
+      "norm_label": "initialize the agent state with the user query.     this is required as the ent"
+    },
+    {
+      "label": "Collect a complete response from a streaming generator.          Args:",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L97",
+      "id": "app_master_agent_rationale_97",
+      "community": 2,
+      "norm_label": "collect a complete response from a streaming generator.          args:"
+    },
+    {
+      "label": "Understand the user query and extract relevant information.          Args:",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L115",
+      "id": "app_master_agent_rationale_115",
+      "community": 2,
+      "norm_label": "understand the user query and extract relevant information.          args:"
+    },
+    {
+      "label": "Extract the task queue from the LLM response.          Args:         response",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L242",
+      "id": "app_master_agent_rationale_242",
+      "community": 2,
+      "norm_label": "extract the task queue from the llm response.          args:         response"
+    },
+    {
+      "label": "Set up the task queue based on the query type.          Args:         state:",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L260",
+      "id": "app_master_agent_rationale_260",
+      "community": 2,
+      "norm_label": "set up the task queue based on the query type.          args:         state:"
+    },
+    {
+      "label": "Execute the current task in the task queue - simplified for POC.          Args",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L284",
+      "id": "app_master_agent_rationale_284",
+      "community": 4,
+      "norm_label": "execute the current task in the task queue - simplified for poc.          args"
+    },
+    {
+      "label": "Synthesize a final response based on all collected information.          Args:",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L400",
+      "id": "app_master_agent_rationale_400",
+      "community": 2,
+      "norm_label": "synthesize a final response based on all collected information.          args:"
+    },
+    {
+      "label": "Ask the user for their budget.          Args:         state: Current agent st",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L519",
+      "id": "app_master_agent_rationale_519",
+      "community": 2,
+      "norm_label": "ask the user for their budget.          args:         state: current agent st"
+    },
+    {
+      "label": "Ask the user for their intended use case.          Args:         state: Curre",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L534",
+      "id": "app_master_agent_rationale_534",
+      "community": 2,
+      "norm_label": "ask the user for their intended use case.          args:         state: curre"
+    },
+    {
+      "label": "Check if we have all the information needed to proceed with the task.",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L549",
+      "id": "app_master_agent_rationale_549",
+      "community": 2,
+      "norm_label": "check if we have all the information needed to proceed with the task."
+    },
+    {
+      "label": "Handle out-of-scope queries.          Args:         state: Current agent stat",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L590",
+      "id": "app_master_agent_rationale_590",
+      "community": 2,
+      "norm_label": "handle out-of-scope queries.          args:         state: current agent stat"
+    },
+    {
+      "label": "Determine whether to continue executing tasks or synthesize a response.",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L604",
+      "id": "app_master_agent_rationale_604",
+      "community": 2,
+      "norm_label": "determine whether to continue executing tasks or synthesize a response."
+    },
+    {
+      "label": "Create the agent graph for orchestrating the EggHatch AI workflow.          Re",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L621",
+      "id": "app_master_agent_rationale_621",
+      "community": 2,
+      "norm_label": "create the agent graph for orchestrating the egghatch ai workflow.          re"
+    },
+    {
+      "label": "Process a user query through the EggHatch AI agent.          Args:         qu",
+      "file_type": "rationale",
+      "source_file": "app/master_agent.py",
+      "source_location": "L685",
+      "id": "app_master_agent_rationale_685",
+      "community": 2,
+      "norm_label": "process a user query through the egghatch ai agent.          args:         qu"
+    },
+    {
+      "label": "prompts.py",
+      "file_type": "code",
+      "source_file": "app/prompts.py",
+      "source_location": "L1",
+      "id": "app_prompts_py",
+      "community": 8,
+      "norm_label": "prompts.py"
+    },
+    {
+      "label": "Prompt templates for EggHatch AI - POC Level.  This module contains simplified",
+      "file_type": "rationale",
+      "source_file": "app/prompts.py",
+      "source_location": "L1",
+      "id": "app_prompts_rationale_1",
+      "community": 8,
+      "norm_label": "prompt templates for egghatch ai - poc level.  this module contains simplified"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "app/__init__.py",
+      "source_location": "L1",
+      "id": "app_init_py",
+      "community": 13,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "build_recommendation.py",
+      "file_type": "code",
+      "source_file": "app/agents/build_recommendation.py",
+      "source_location": "L1",
+      "id": "app_agents_build_recommendation_py",
+      "community": 9,
+      "norm_label": "build_recommendation.py"
+    },
+    {
+      "label": "Build Recommendation Agent for EggHatch AI.  NOTE: This agent is planned for f",
+      "file_type": "rationale",
+      "source_file": "app/agents/build_recommendation.py",
+      "source_location": "L1",
+      "id": "agents_build_recommendation_rationale_1",
+      "community": 9,
+      "norm_label": "build recommendation agent for egghatch ai.  note: this agent is planned for f"
+    },
+    {
+      "label": "data_pipeline.py",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L1",
+      "id": "app_agents_data_pipeline_py",
+      "community": 5,
+      "norm_label": "data_pipeline.py"
+    },
+    {
+      "label": "DataPipeline",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L32",
+      "id": "agents_data_pipeline_datapipeline",
+      "community": 1,
+      "norm_label": "datapipeline"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L35",
+      "id": "agents_data_pipeline_datapipeline_init",
+      "community": 1,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": "._load_data()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L52",
+      "id": "agents_data_pipeline_datapipeline_load_data",
+      "community": 1,
+      "norm_label": "._load_data()"
+    },
+    {
+      "label": "._process_reviews()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L77",
+      "id": "agents_data_pipeline_datapipeline_process_reviews",
+      "community": 1,
+      "norm_label": "._process_reviews()"
+    },
+    {
+      "label": "._clean_text()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L105",
+      "id": "agents_data_pipeline_datapipeline_clean_text",
+      "community": 1,
+      "norm_label": "._clean_text()"
+    },
+    {
+      "label": ".get_review_texts()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L125",
+      "id": "agents_data_pipeline_datapipeline_get_review_texts",
+      "community": 1,
+      "norm_label": ".get_review_texts()"
+    },
+    {
+      "label": ".get_processed_reviews()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L129",
+      "id": "agents_data_pipeline_datapipeline_get_processed_reviews",
+      "community": 1,
+      "norm_label": ".get_processed_reviews()"
+    },
+    {
+      "label": ".get_laptop_data()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L133",
+      "id": "agents_data_pipeline_datapipeline_get_laptop_data",
+      "community": 1,
+      "norm_label": ".get_laptop_data()"
+    },
+    {
+      "label": ".filter_reviews_by_query()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L137",
+      "id": "agents_data_pipeline_datapipeline_filter_reviews_by_query",
+      "community": 1,
+      "norm_label": ".filter_reviews_by_query()"
+    },
+    {
+      "label": ".preprocess_data()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L148",
+      "id": "agents_data_pipeline_datapipeline_preprocess_data",
+      "community": 1,
+      "norm_label": ".preprocess_data()"
+    },
+    {
+      "label": ".get_feature_vectors()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L199",
+      "id": "agents_data_pipeline_datapipeline_get_feature_vectors",
+      "community": 1,
+      "norm_label": ".get_feature_vectors()"
+    },
+    {
+      "label": ".get_laptop_by_name()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L234",
+      "id": "agents_data_pipeline_datapipeline_get_laptop_by_name",
+      "community": 1,
+      "norm_label": ".get_laptop_by_name()"
+    },
+    {
+      "label": ".get_laptops_by_filter()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L248",
+      "id": "agents_data_pipeline_datapipeline_get_laptops_by_filter",
+      "community": 1,
+      "norm_label": ".get_laptops_by_filter()"
+    },
+    {
+      "label": "get_data_pipeline()",
+      "file_type": "code",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L282",
+      "id": "agents_data_pipeline_get_data_pipeline",
+      "community": 5,
+      "norm_label": "get_data_pipeline()"
+    },
+    {
+      "label": "Data Pipeline Module for EggHatch AI.  This module handles data loading, prepr",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L1",
+      "id": "agents_data_pipeline_rationale_1",
+      "community": 5,
+      "norm_label": "data pipeline module for egghatch ai.  this module handles data loading, prepr"
+    },
+    {
+      "label": "Handles data loading and preprocessing for analysis.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L33",
+      "id": "agents_data_pipeline_rationale_33",
+      "community": 1,
+      "norm_label": "handles data loading and preprocessing for analysis."
+    },
+    {
+      "label": "Load laptop and review data.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L53",
+      "id": "agents_data_pipeline_rationale_53",
+      "community": 1,
+      "norm_label": "load laptop and review data."
+    },
+    {
+      "label": "Process and clean review data.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L78",
+      "id": "agents_data_pipeline_rationale_78",
+      "community": 1,
+      "norm_label": "process and clean review data."
+    },
+    {
+      "label": "Clean and normalize text.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L106",
+      "id": "agents_data_pipeline_rationale_106",
+      "community": 1,
+      "norm_label": "clean and normalize text."
+    },
+    {
+      "label": "Get cleaned review texts for topic modeling.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L126",
+      "id": "agents_data_pipeline_rationale_126",
+      "community": 1,
+      "norm_label": "get cleaned review texts for topic modeling."
+    },
+    {
+      "label": "Get processed reviews with metadata.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L130",
+      "id": "agents_data_pipeline_rationale_130",
+      "community": 1,
+      "norm_label": "get processed reviews with metadata."
+    },
+    {
+      "label": "Get laptop data as DataFrame.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L134",
+      "id": "agents_data_pipeline_rationale_134",
+      "community": 1,
+      "norm_label": "get laptop data as dataframe."
+    },
+    {
+      "label": "Filter reviews by a search query.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L138",
+      "id": "agents_data_pipeline_rationale_138",
+      "community": 1,
+      "norm_label": "filter reviews by a search query."
+    },
+    {
+      "label": "Preprocess laptop data for modeling.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L149",
+      "id": "agents_data_pipeline_rationale_149",
+      "community": 1,
+      "norm_label": "preprocess laptop data for modeling."
+    },
+    {
+      "label": "Get feature vectors ready for modeling.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L200",
+      "id": "agents_data_pipeline_rationale_200",
+      "community": 1,
+      "norm_label": "get feature vectors ready for modeling."
+    },
+    {
+      "label": "Find a laptop by a fragment of its name.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L235",
+      "id": "agents_data_pipeline_rationale_235",
+      "community": 1,
+      "norm_label": "find a laptop by a fragment of its name."
+    },
+    {
+      "label": "Filter laptops by various criteria.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L254",
+      "id": "agents_data_pipeline_rationale_254",
+      "community": 1,
+      "norm_label": "filter laptops by various criteria."
+    },
+    {
+      "label": "Get a data pipeline instance.",
+      "file_type": "rationale",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L283",
+      "id": "agents_data_pipeline_rationale_283",
+      "community": 5,
+      "norm_label": "get a data pipeline instance."
+    },
+    {
+      "label": "pricing_availability.py",
+      "file_type": "code",
+      "source_file": "app/agents/pricing_availability.py",
+      "source_location": "L1",
+      "id": "app_agents_pricing_availability_py",
+      "community": 10,
+      "norm_label": "pricing_availability.py"
+    },
+    {
+      "label": "Pricing & Availability Agent for EggHatch AI.  NOTE: This agent is planned for",
+      "file_type": "rationale",
+      "source_file": "app/agents/pricing_availability.py",
+      "source_location": "L1",
+      "id": "agents_pricing_availability_rationale_1",
+      "community": 10,
+      "norm_label": "pricing & availability agent for egghatch ai.  note: this agent is planned for"
+    },
+    {
+      "label": "product_knowledge.py",
+      "file_type": "code",
+      "source_file": "app/agents/product_knowledge.py",
+      "source_location": "L1",
+      "id": "app_agents_product_knowledge_py",
+      "community": 11,
+      "norm_label": "product_knowledge.py"
+    },
+    {
+      "label": "Product Knowledge Agent for EggHatch AI.  NOTE: This agent is planned for futu",
+      "file_type": "rationale",
+      "source_file": "app/agents/product_knowledge.py",
+      "source_location": "L1",
+      "id": "agents_product_knowledge_rationale_1",
+      "community": 11,
+      "norm_label": "product knowledge agent for egghatch ai.  note: this agent is planned for futu"
+    },
+    {
+      "label": "sentiment_analysis.py",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L1",
+      "id": "app_agents_sentiment_analysis_py",
+      "community": 4,
+      "norm_label": "sentiment_analysis.py"
+    },
+    {
+      "label": "SentimentAnalyzer",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L30",
+      "id": "agents_sentiment_analysis_sentimentanalyzer",
+      "community": 4,
+      "norm_label": "sentimentanalyzer"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L33",
+      "id": "agents_sentiment_analysis_sentimentanalyzer_init",
+      "community": 4,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": "._initialize_sentiment_analyzer()",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L47",
+      "id": "agents_sentiment_analysis_sentimentanalyzer_initialize_sentiment_analyzer",
+      "community": 4,
+      "norm_label": "._initialize_sentiment_analyzer()"
+    },
+    {
+      "label": "._simple_sentiment_analyzer()",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L61",
+      "id": "agents_sentiment_analysis_sentimentanalyzer_simple_sentiment_analyzer",
+      "community": 4,
+      "norm_label": "._simple_sentiment_analyzer()"
+    },
+    {
+      "label": ".analyze_sentiment()",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L116",
+      "id": "agents_sentiment_analysis_sentimentanalyzer_analyze_sentiment",
+      "community": 4,
+      "norm_label": ".analyze_sentiment()"
+    },
+    {
+      "label": ".get_sentiment_overview()",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L167",
+      "id": "agents_sentiment_analysis_sentimentanalyzer_get_sentiment_overview",
+      "community": 4,
+      "norm_label": ".get_sentiment_overview()"
+    },
+    {
+      "label": "get_sentiment_analyzer()",
+      "file_type": "code",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L244",
+      "id": "agents_sentiment_analysis_get_sentiment_analyzer",
+      "community": 4,
+      "norm_label": "get_sentiment_analyzer()"
+    },
+    {
+      "label": "Sentiment Analysis Module for EggHatch AI.  This module specializes in sentime",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L1",
+      "id": "agents_sentiment_analysis_rationale_1",
+      "community": 4,
+      "norm_label": "sentiment analysis module for egghatch ai.  this module specializes in sentime"
+    },
+    {
+      "label": "Analyzes sentiment in tech product reviews.",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L31",
+      "id": "agents_sentiment_analysis_rationale_31",
+      "community": 4,
+      "norm_label": "analyzes sentiment in tech product reviews."
+    },
+    {
+      "label": "Initialize the sentiment analysis model.",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L48",
+      "id": "agents_sentiment_analysis_rationale_48",
+      "community": 4,
+      "norm_label": "initialize the sentiment analysis model."
+    },
+    {
+      "label": "Simple rule-based sentiment analyzer as fallback.                  Args:",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L62",
+      "id": "agents_sentiment_analysis_rationale_62",
+      "community": 4,
+      "norm_label": "simple rule-based sentiment analyzer as fallback.                  args:"
+    },
+    {
+      "label": "Analyze sentiment for a list of texts.                  Args:             tex",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L117",
+      "id": "agents_sentiment_analysis_rationale_117",
+      "community": 4,
+      "norm_label": "analyze sentiment for a list of texts.                  args:             tex"
+    },
+    {
+      "label": "Get overall sentiment overview for all reviews.                  Args:",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L168",
+      "id": "agents_sentiment_analysis_rationale_168",
+      "community": 4,
+      "norm_label": "get overall sentiment overview for all reviews.                  args:"
+    },
+    {
+      "label": "Get a sentiment analyzer instance.",
+      "file_type": "rationale",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L245",
+      "id": "agents_sentiment_analysis_rationale_245",
+      "community": 4,
+      "norm_label": "get a sentiment analyzer instance."
+    },
+    {
+      "label": "trend_analysis.py",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L1",
+      "id": "app_agents_trend_analysis_py",
+      "community": 0,
+      "norm_label": "trend_analysis.py"
+    },
+    {
+      "label": "TrendAnalysisAgent",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L41",
+      "id": "agents_trend_analysis_trendanalysisagent",
+      "community": 0,
+      "norm_label": "trendanalysisagent"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L44",
+      "id": "agents_trend_analysis_trendanalysisagent_init",
+      "community": 0,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": "._initialize()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L63",
+      "id": "agents_trend_analysis_trendanalysisagent_initialize",
+      "community": 0,
+      "norm_label": "._initialize()"
+    },
+    {
+      "label": "._initialize_nlp_models()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L81",
+      "id": "agents_trend_analysis_trendanalysisagent_initialize_nlp_models",
+      "community": 0,
+      "norm_label": "._initialize_nlp_models()"
+    },
+    {
+      "label": "._simple_sentiment_analyzer()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L103",
+      "id": "agents_trend_analysis_trendanalysisagent_simple_sentiment_analyzer",
+      "community": 0,
+      "norm_label": "._simple_sentiment_analyzer()"
+    },
+    {
+      "label": "._initialize_topic_model()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L106",
+      "id": "agents_trend_analysis_trendanalysisagent_initialize_topic_model",
+      "community": 0,
+      "norm_label": "._initialize_topic_model()"
+    },
+    {
+      "label": "._analyze_topic_sentiments()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L151",
+      "id": "agents_trend_analysis_trendanalysisagent_analyze_topic_sentiments",
+      "community": 0,
+      "norm_label": "._analyze_topic_sentiments()"
+    },
+    {
+      "label": ".analyze_trends()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L206",
+      "id": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "community": 0,
+      "norm_label": ".analyze_trends()"
+    },
+    {
+      "label": "._identify_popular_features()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L318",
+      "id": "agents_trend_analysis_trendanalysisagent_identify_popular_features",
+      "community": 0,
+      "norm_label": "._identify_popular_features()"
+    },
+    {
+      "label": "._identify_features_with_keywords()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L398",
+      "id": "agents_trend_analysis_trendanalysisagent_identify_features_with_keywords",
+      "community": 0,
+      "norm_label": "._identify_features_with_keywords()"
+    },
+    {
+      "label": "._generate_topic_name()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L458",
+      "id": "agents_trend_analysis_trendanalysisagent_generate_topic_name",
+      "community": 0,
+      "norm_label": "._generate_topic_name()"
+    },
+    {
+      "label": "._generate_recommendations()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L518",
+      "id": "agents_trend_analysis_trendanalysisagent_generate_recommendations",
+      "community": 0,
+      "norm_label": "._generate_recommendations()"
+    },
+    {
+      "label": "trend_analysis_agent()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L566",
+      "id": "agents_trend_analysis_trend_analysis_agent",
+      "community": 0,
+      "norm_label": "trend_analysis_agent()"
+    },
+    {
+      "label": "State",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L598",
+      "id": "agents_trend_analysis_state",
+      "community": 0,
+      "norm_label": "state"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L599",
+      "id": "agents_trend_analysis_state_init",
+      "community": 0,
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": "Trend Analysis Module for EggHatch AI.  This module focuses on topic modeling",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L1",
+      "id": "agents_trend_analysis_rationale_1",
+      "community": 0,
+      "norm_label": "trend analysis module for egghatch ai.  this module focuses on topic modeling"
+    },
+    {
+      "label": "Agent for analyzing trends and feature popularity in tech product reviews.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L42",
+      "id": "agents_trend_analysis_rationale_42",
+      "community": 0,
+      "norm_label": "agent for analyzing trends and feature popularity in tech product reviews."
+    },
+    {
+      "label": "Initialize models and load data.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L64",
+      "id": "agents_trend_analysis_rationale_64",
+      "community": 0,
+      "norm_label": "initialize models and load data."
+    },
+    {
+      "label": "Initialize NLP models for embeddings and zero-shot classification.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L82",
+      "id": "agents_trend_analysis_rationale_82",
+      "community": 0,
+      "norm_label": "initialize nlp models for embeddings and zero-shot classification."
+    },
+    {
+      "label": "Simple rule-based sentiment analyzer as fallback.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L104",
+      "id": "agents_trend_analysis_rationale_104",
+      "community": 0,
+      "norm_label": "simple rule-based sentiment analyzer as fallback."
+    },
+    {
+      "label": "Initialize and train the LDA topic model.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L107",
+      "id": "agents_trend_analysis_rationale_107",
+      "community": 0,
+      "norm_label": "initialize and train the lda topic model."
+    },
+    {
+      "label": "Analyze sentiment for each topic.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L152",
+      "id": "agents_trend_analysis_rationale_152",
+      "community": 0,
+      "norm_label": "analyze sentiment for each topic."
+    },
+    {
+      "label": "Analyze trends and sentiment in gaming laptop reviews.                  Args:",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L207",
+      "id": "agents_trend_analysis_rationale_207",
+      "community": 0,
+      "norm_label": "analyze trends and sentiment in gaming laptop reviews.                  args:"
+    },
+    {
+      "label": "Identify popular features mentioned in reviews using NLP techniques.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L319",
+      "id": "agents_trend_analysis_rationale_319",
+      "community": 0,
+      "norm_label": "identify popular features mentioned in reviews using nlp techniques."
+    },
+    {
+      "label": "Fallback method to identify features using keyword matching.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L399",
+      "id": "agents_trend_analysis_rationale_399",
+      "community": 0,
+      "norm_label": "fallback method to identify features using keyword matching."
+    },
+    {
+      "label": "Generate a descriptive name for a topic based on its keywords using NLP.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L459",
+      "id": "agents_trend_analysis_rationale_459",
+      "community": 0,
+      "norm_label": "generate a descriptive name for a topic based on its keywords using nlp."
+    },
+    {
+      "label": "Generate recommendations based on trend analysis.",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L519",
+      "id": "agents_trend_analysis_rationale_519",
+      "community": 0,
+      "norm_label": "generate recommendations based on trend analysis."
+    },
+    {
+      "label": "Run the trend analysis agent and update the state.          Args:         sta",
+      "file_type": "rationale",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L567",
+      "id": "agents_trend_analysis_rationale_567",
+      "community": 0,
+      "norm_label": "run the trend analysis agent and update the state.          args:         sta"
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "app/agents/__init__.py",
+      "source_location": "L1",
+      "id": "app_agents_init_py",
+      "community": 12,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "Specialized agent modules for EggHatch-AI.  Modules in this package may load dat",
+      "file_type": "rationale",
+      "source_file": "app/agents/__init__.py",
+      "source_location": "L1",
+      "id": "agents_init_rationale_1",
+      "community": 12,
+      "norm_label": "specialized agent modules for egghatch-ai.  modules in this package may load dat"
+    },
+    {
+      "label": "test_data_pipeline.py",
+      "file_type": "code",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L1",
+      "id": "tests_test_data_pipeline_py",
+      "community": 1,
+      "norm_label": "test_data_pipeline.py"
+    },
+    {
+      "label": "test_data_pipeline_loads_fixture_data()",
+      "file_type": "code",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L4",
+      "id": "tests_test_data_pipeline_test_data_pipeline_loads_fixture_data",
+      "community": 1,
+      "norm_label": "test_data_pipeline_loads_fixture_data()"
+    },
+    {
+      "label": "test_data_pipeline_filters_reviews_by_query()",
+      "file_type": "code",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L16",
+      "id": "tests_test_data_pipeline_test_data_pipeline_filters_reviews_by_query",
+      "community": 1,
+      "norm_label": "test_data_pipeline_filters_reviews_by_query()"
+    },
+    {
+      "label": "test_preprocess_data_adds_recommendation_features()",
+      "file_type": "code",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L25",
+      "id": "tests_test_data_pipeline_test_preprocess_data_adds_recommendation_features",
+      "community": 1,
+      "norm_label": "test_preprocess_data_adds_recommendation_features()"
+    },
+    {
+      "label": "test_repo_hygiene.py",
+      "file_type": "code",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L1",
+      "id": "tests_test_repo_hygiene_py",
+      "community": 6,
+      "norm_label": "test_repo_hygiene.py"
+    },
+    {
+      "label": "test_no_exploratory_notebooks_in_main_repo_surface()",
+      "file_type": "code",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L7",
+      "id": "tests_test_repo_hygiene_test_no_exploratory_notebooks_in_main_repo_surface",
+      "community": 6,
+      "norm_label": "test_no_exploratory_notebooks_in_main_repo_surface()"
+    },
+    {
+      "label": "test_readme_exposes_open_source_project_signals()",
+      "file_type": "code",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L16",
+      "id": "tests_test_repo_hygiene_test_readme_exposes_open_source_project_signals",
+      "community": 6,
+      "norm_label": "test_readme_exposes_open_source_project_signals()"
+    },
+    {
+      "label": "test_github_pages_entry_exists()",
+      "file_type": "code",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L32",
+      "id": "tests_test_repo_hygiene_test_github_pages_entry_exists",
+      "community": 6,
+      "norm_label": "test_github_pages_entry_exists()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "dashboard_app.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "egghatch_ai_dashboard_app_rationale_1",
+      "target": "dashboard_app_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "app_llm_integrations_py",
+      "target": "app_llm_integrations_ollamaresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "app_llm_integrations_py",
+      "target": "app_llm_integrations_ollamaclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_1",
+      "target": "app_llm_integrations_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaresponse",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L118",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_generate",
+      "target": "app_llm_integrations_ollamaresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_chat_completion",
+      "target": "app_llm_integrations_ollamaresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L169",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_stream_response",
+      "target": "app_llm_integrations_ollamaresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_22",
+      "target": "app_llm_integrations_ollamaresponse",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "inherits",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "app_master_agent_agentstate",
+      "target": "basemodel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient",
+      "target": "app_llm_integrations_ollamaclient_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient",
+      "target": "app_llm_integrations_ollamaclient_make_request",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L86",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient",
+      "target": "app_llm_integrations_ollamaclient_generate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L120",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient",
+      "target": "app_llm_integrations_ollamaclient_chat_completion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient",
+      "target": "app_llm_integrations_ollamaclient_stream_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_30",
+      "target": "app_llm_integrations_ollamaclient",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L17",
+      "weight": 0.8,
+      "source": "app_master_agent_agentstate",
+      "target": "app_llm_integrations_ollamaclient",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_37",
+      "target": "app_llm_integrations_ollamaclient_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_generate",
+      "target": "app_llm_integrations_ollamaclient_make_request",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_chat_completion",
+      "target": "app_llm_integrations_ollamaclient_make_request",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L65",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_65",
+      "target": "app_llm_integrations_ollamaclient_make_request",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_generate",
+      "target": "app_llm_integrations_ollamaclient_stream_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L92",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_92",
+      "target": "app_llm_integrations_ollamaclient_generate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "app_llm_integrations_ollamaclient_chat_completion",
+      "target": "app_llm_integrations_ollamaclient_stream_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_125",
+      "target": "app_llm_integrations_ollamaclient_chat_completion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/llm_integrations.py",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "app_llm_integrations_rationale_152",
+      "target": "app_llm_integrations_ollamaclient_stream_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_agentstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_initialize_state",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L96",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_collect_streaming_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_understand_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_extract_task_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L259",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_decompose_tasks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L283",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_execute_current_task",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L399",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_synthesize_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L518",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_ask_for_budget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L533",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_ask_for_use_case",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L548",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_check_information_completeness",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L589",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_out_of_scope_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L603",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_should_continue_tasks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L620",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_create_agent_graph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L684",
+      "weight": 1.0,
+      "source": "app_master_agent_py",
+      "target": "app_master_agent_process_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_1",
+      "target": "app_master_agent_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_53",
+      "target": "app_master_agent_agentstate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L19",
+      "weight": 0.8,
+      "source": "app_master_agent_agentstate",
+      "target": "agents_trend_analysis_trendanalysisagent",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L83",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_83",
+      "target": "app_master_agent_initialize_state",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "app_master_agent_understand_query",
+      "target": "app_master_agent_collect_streaming_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L455",
+      "weight": 1.0,
+      "source": "app_master_agent_synthesize_response",
+      "target": "app_master_agent_collect_streaming_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L97",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_97",
+      "target": "app_master_agent_collect_streaming_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L115",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_115",
+      "target": "app_master_agent_understand_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L242",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_242",
+      "target": "app_master_agent_extract_task_queue",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L260",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_260",
+      "target": "app_master_agent_decompose_tasks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L284",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_284",
+      "target": "app_master_agent_execute_current_task",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/master_agent.py",
+      "source_location": "L335",
+      "weight": 1.0,
+      "source": "app_master_agent_execute_current_task",
+      "target": "agents_sentiment_analysis_get_sentiment_analyzer"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/master_agent.py",
+      "source_location": "L341",
+      "weight": 1.0,
+      "source": "app_master_agent_execute_current_task",
+      "target": "agents_trend_analysis_trendanalysisagent"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L400",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_400",
+      "target": "app_master_agent_synthesize_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L519",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_519",
+      "target": "app_master_agent_ask_for_budget",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L534",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_534",
+      "target": "app_master_agent_ask_for_use_case",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L549",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_549",
+      "target": "app_master_agent_check_information_completeness",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L590",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_590",
+      "target": "app_master_agent_out_of_scope_response",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L604",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_604",
+      "target": "app_master_agent_should_continue_tasks",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L621",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_621",
+      "target": "app_master_agent_create_agent_graph",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/master_agent.py",
+      "source_location": "L685",
+      "weight": 1.0,
+      "source": "app_master_agent_rationale_685",
+      "target": "app_master_agent_process_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/prompts.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "app_prompts_rationale_1",
+      "target": "app_prompts_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/build_recommendation.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_build_recommendation_rationale_1",
+      "target": "app_agents_build_recommendation_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "app_agents_data_pipeline_py",
+      "target": "agents_data_pipeline_datapipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L282",
+      "weight": 1.0,
+      "source": "app_agents_data_pipeline_py",
+      "target": "agents_data_pipeline_get_data_pipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_1",
+      "target": "app_agents_data_pipeline_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_load_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_process_reviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_clean_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L125",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_get_review_texts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L129",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_get_processed_reviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L133",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_get_laptop_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L137",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_filter_reviews_by_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L148",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_preprocess_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_get_feature_vectors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L234",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_get_laptop_by_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline",
+      "target": "agents_data_pipeline_datapipeline_get_laptops_by_filter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L284",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_get_data_pipeline",
+      "target": "agents_data_pipeline_datapipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_33",
+      "target": "agents_data_pipeline_datapipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "tests_test_data_pipeline_test_data_pipeline_loads_fixture_data",
+      "target": "agents_data_pipeline_datapipeline"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "tests_test_data_pipeline_test_data_pipeline_filters_reviews_by_query",
+      "target": "agents_data_pipeline_datapipeline"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "tests_test_data_pipeline_test_preprocess_data_adds_recommendation_features",
+      "target": "agents_data_pipeline_datapipeline"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline_init",
+      "target": "agents_data_pipeline_datapipeline_load_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L72",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline_load_data",
+      "target": "agents_data_pipeline_datapipeline_process_reviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L53",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_53",
+      "target": "agents_data_pipeline_datapipeline_load_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L85",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline_process_reviews",
+      "target": "agents_data_pipeline_datapipeline_clean_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L78",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_78",
+      "target": "agents_data_pipeline_datapipeline_process_reviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_106",
+      "target": "agents_data_pipeline_datapipeline_clean_text",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L126",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_126",
+      "target": "agents_data_pipeline_datapipeline_get_review_texts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L130",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_130",
+      "target": "agents_data_pipeline_datapipeline_get_processed_reviews",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_134",
+      "target": "agents_data_pipeline_datapipeline_get_laptop_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L138",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_138",
+      "target": "agents_data_pipeline_datapipeline_filter_reviews_by_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L202",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline_get_feature_vectors",
+      "target": "agents_data_pipeline_datapipeline_preprocess_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L256",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_datapipeline_get_laptops_by_filter",
+      "target": "agents_data_pipeline_datapipeline_preprocess_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_149",
+      "target": "agents_data_pipeline_datapipeline_preprocess_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L200",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_200",
+      "target": "agents_data_pipeline_datapipeline_get_feature_vectors",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L235",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_235",
+      "target": "agents_data_pipeline_datapipeline_get_laptop_by_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L254",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_254",
+      "target": "agents_data_pipeline_datapipeline_get_laptops_by_filter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/data_pipeline.py",
+      "source_location": "L283",
+      "weight": 1.0,
+      "source": "agents_data_pipeline_rationale_283",
+      "target": "agents_data_pipeline_get_data_pipeline",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer_init",
+      "target": "agents_data_pipeline_get_data_pipeline"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L68",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_initialize",
+      "target": "agents_data_pipeline_get_data_pipeline"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/pricing_availability.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_pricing_availability_rationale_1",
+      "target": "app_agents_pricing_availability_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/product_knowledge.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_product_knowledge_rationale_1",
+      "target": "app_agents_product_knowledge_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "app_agents_sentiment_analysis_py",
+      "target": "agents_sentiment_analysis_sentimentanalyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L244",
+      "weight": 1.0,
+      "source": "app_agents_sentiment_analysis_py",
+      "target": "agents_sentiment_analysis_get_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_1",
+      "target": "app_agents_sentiment_analysis_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L47",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_initialize_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_simple_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L116",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_analyze_sentiment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L167",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_get_sentiment_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L246",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_get_sentiment_analyzer",
+      "target": "agents_sentiment_analysis_sentimentanalyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_31",
+      "target": "agents_sentiment_analysis_sentimentanalyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer_init",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_initialize_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_48",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_initialize_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L139",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer_analyze_sentiment",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_simple_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L62",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_62",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_simple_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L194",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_sentimentanalyzer_get_sentiment_overview",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_analyze_sentiment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L117",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_117",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_analyze_sentiment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L168",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_168",
+      "target": "agents_sentiment_analysis_sentimentanalyzer_get_sentiment_overview",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/sentiment_analysis.py",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "agents_sentiment_analysis_rationale_245",
+      "target": "agents_sentiment_analysis_get_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_initialize",
+      "target": "agents_sentiment_analysis_get_sentiment_analyzer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "app_agents_trend_analysis_py",
+      "target": "agents_trend_analysis_trendanalysisagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L566",
+      "weight": 1.0,
+      "source": "app_agents_trend_analysis_py",
+      "target": "agents_trend_analysis_trend_analysis_agent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L598",
+      "weight": 1.0,
+      "source": "app_agents_trend_analysis_py",
+      "target": "agents_trend_analysis_state",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_1",
+      "target": "app_agents_trend_analysis_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize_nlp_models",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L103",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_simple_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L106",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize_topic_model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_analyze_topic_sentiments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L206",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L318",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_popular_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L398",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_features_with_keywords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L458",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_topic_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L518",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_recommendations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L579",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trend_analysis_agent",
+      "target": "agents_trend_analysis_trendanalysisagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_42",
+      "target": "agents_trend_analysis_trendanalysisagent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_init",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L74",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_initialize",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize_nlp_models",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L77",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_initialize",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize_topic_model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L64",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_64",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_82",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize_nlp_models",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L104",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_104",
+      "target": "agents_trend_analysis_trendanalysisagent_simple_sentiment_analyzer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L146",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_initialize_topic_model",
+      "target": "agents_trend_analysis_trendanalysisagent_analyze_topic_sentiments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L107",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_107",
+      "target": "agents_trend_analysis_trendanalysisagent_initialize_topic_model",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L152",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_152",
+      "target": "agents_trend_analysis_trendanalysisagent_analyze_topic_sentiments",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L237",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_topic_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L248",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_popular_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L271",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_recommendations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L587",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trend_analysis_agent",
+      "target": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L207",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_207",
+      "target": "agents_trend_analysis_trendanalysisagent_analyze_trends",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L392",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_identify_popular_features",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_features_with_keywords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L523",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_generate_recommendations",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_popular_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L319",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_319",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_popular_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L399",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_399",
+      "target": "agents_trend_analysis_trendanalysisagent_identify_features_with_keywords",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L549",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_trendanalysisagent_generate_recommendations",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_topic_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L459",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_459",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_topic_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L519",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_519",
+      "target": "agents_trend_analysis_trendanalysisagent_generate_recommendations",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L567",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_rationale_567",
+      "target": "agents_trend_analysis_trend_analysis_agent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/trend_analysis.py",
+      "source_location": "L599",
+      "weight": 1.0,
+      "source": "agents_trend_analysis_state",
+      "target": "agents_trend_analysis_state_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "app/agents/__init__.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "agents_init_rationale_1",
+      "target": "app_agents_init_py",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "tests_test_data_pipeline_py",
+      "target": "tests_test_data_pipeline_test_data_pipeline_loads_fixture_data",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "tests_test_data_pipeline_py",
+      "target": "tests_test_data_pipeline_test_data_pipeline_filters_reviews_by_query",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_data_pipeline.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "tests_test_data_pipeline_py",
+      "target": "tests_test_data_pipeline_test_preprocess_data_adds_recommendation_features",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "tests_test_repo_hygiene_py",
+      "target": "tests_test_repo_hygiene_test_no_exploratory_notebooks_in_main_repo_surface",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "tests_test_repo_hygiene_py",
+      "target": "tests_test_repo_hygiene_test_readme_exposes_open_source_project_signals",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_repo_hygiene.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "tests_test_repo_hygiene_py",
+      "target": "tests_test_repo_hygiene_test_github_pages_entry_exists",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "2415576ab0e561a3336329c2e706b28441241f5e"
+}
