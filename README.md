@@ -247,7 +247,6 @@ EggHatch-AI/
 │   ├── csv/                  # Aggregated CSV data
 │   ├── products/             # Individual product data
 │   └── reviews/              # Product reviews
-├── notebooks/                # Jupyter notebooks for data exploration
 ├── app/                      # Core application logic
 │   ├── __init__.py
 │   ├── master_agent.py       # Main LangGraph orchestration
