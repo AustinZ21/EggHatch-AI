@@ -173,7 +173,15 @@ EggHatch-AI is intentionally scoped as a local prototype:
 
 [![GitHub stars](https://img.shields.io/github/stars/AustinZ21/EggHatch-AI?style=social)](https://github.com/AustinZ21/EggHatch-AI/stargazers)
 
-View the interactive chart on [Star History](https://www.star-history.com/#AustinZ21/EggHatch-AI&Date).
+<a href="https://www.star-history.com/?type=date&repos=AustinZ21%2FEggHatch-AI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=AustinZ21/EggHatch-AI&type=date&theme=dark&legend=top-left" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=AustinZ21/EggHatch-AI&type=date&legend=top-left" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=AustinZ21/EggHatch-AI&type=date&legend=top-left" />
+  </picture>
+</a>
+
+If the chart preview looks stale or partially broken in GitHub's README renderer, the interactive view is here: [Star History](https://www.star-history.com/#AustinZ21/EggHatch-AI&Date).
 
 ## Contributing
 
