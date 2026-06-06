@@ -43,19 +43,23 @@ Many shopping assistants answer product questions as one-off chat turns. EggHatc
 flowchart LR
     User["User query"] --> UI["Streamlit dashboard"]
     UI --> Master["Master agent / orchestrator"]
+    Master --> State["Agent state"]
     Master --> Data["Data pipeline"]
     Master --> Trend["Trend analysis"]
     Master --> Sentiment["Sentiment analysis"]
+    Trend --> Compare["Comparison helper"]
     Trend --> Reviews["Review data"]
     Sentiment --> Reviews
     Data --> Products["Product fixtures"]
     Master --> LLM["Ollama / Gemma response synthesis"]
     LLM --> UI
+    Compare --> UI
+    Spec["Spec-driven workflow"] -. shapes planned changes .-> Master
 ```
 
 Current POC scope:
 
-- Implemented: dashboard, master agent flow, data pipeline, sentiment analysis, trend/topic analysis, local LLM integration.
+- Implemented: dashboard, master agent flow, agent state, data pipeline, sentiment analysis, trend/topic analysis, explainable comparison helper, local LLM integration.
 - Planned/stubbed: live product knowledge, live pricing/availability, benchmark ingestion, richer build compatibility logic.
 
 ## Quick Start
@@ -138,6 +142,7 @@ EggHatch-AI/
       data_pipeline.py          # Data loading, cleaning, and filters
       trend_analysis.py         # Topic modeling and feature signals
       sentiment_analysis.py     # Sentiment classifier with fallback
+      comparison.py             # Deterministic comparison rationale
       product_knowledge.py      # Planned product/benchmark agent
       pricing_availability.py   # Planned pricing agent
       build_recommendation.py   # Planned build recommendation agent
@@ -146,7 +151,11 @@ EggHatch-AI/
     prompts.py                  # Prompt templates
   data/                         # Local product and review fixtures
   docs/                         # GitHub Pages project site
+  graphify-out/                 # Generated project graph/report artifacts
   images/                       # Demo screenshots
+  specs/                        # Spec-driven feature plans
+  .agents/                      # Codex skill metadata for spec workflow
+  .specify/                     # Spec Kit templates and scripts
   tests/                        # Lightweight smoke tests
   dashboard_app.py              # Streamlit UI
   Dockerfile
